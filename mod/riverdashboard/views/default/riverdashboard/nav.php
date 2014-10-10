@@ -29,6 +29,7 @@
 	<div id="elgg_horizontal_tabbed_nav">
 		<ul>
 			<li <?php echo $allselect; ?> ><a onclick="javascript:$('#river_container').load('<?php echo $vars['url']; ?>mod/riverdashboard/?type=<?php echo $vars['type']; ?>&content=<?php echo $vars['subtype']; ?>&callback=true'); return false;" href="?type=<?php echo $vars['type']; ?>&content=<?php echo $vars['subtype']; ?>"><?php echo elgg_echo('all'); ?></a></li>
+			<li <?php echo $friendsselect; ?> ><a onclick="javascript:$('#river_container').load('<?php echo $vars['url']; ?>mod/riverdashboard/?type=<?php echo $vars['type']; ?>&display=friends&content=<?php echo $vars['subtype']; ?>&callback=true'); return false;" href="?type=<?php echo $vars['type']; ?>&display=friends&content=<?php echo $vars['subtype']; ?>"><?php echo elgg_echo('friends'); ?></a></li>
 			<li <?php echo $mineselect; ?> ><a onclick="javascript:$('#river_container').load('<?php echo $vars['url']; ?>mod/riverdashboard/?type=<?php echo $vars['type']; ?>&display=mine&content=<?php echo $vars['subtype']; ?>&callback=true'); return false;" href="?type=<?php echo $vars['type']; ?>&display=mine&content=<?php echo $vars['subtype']; ?>"><?php echo elgg_echo('mine'); ?></a></li>
 		</ul>
 	</div>

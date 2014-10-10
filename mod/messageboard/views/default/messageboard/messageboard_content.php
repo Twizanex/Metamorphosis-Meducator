@@ -33,7 +33,7 @@
 	<?php
                
         // if the user looking at the comment can edit, show the delete link
-	    if (issuperadminloggedin()||($vars['user']->guid==$vars['annotation']->owner_guid)) {
+	    if ($vars['annotation']->canEdit()) {
     			    
   
 			       echo "<div class='delete_message'>" . elgg_view("output/confirmlink",array(

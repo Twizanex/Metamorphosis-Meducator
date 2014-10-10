@@ -2063,9 +2063,7 @@
 	 */
 	function can_edit_entity($entity_guid, $user_guid = 0) {
 		global $CONFIG;
-//ADDED FROM GIACOMO FAZIO//////////////////////////////////////////////////////////////////////////////////////////////////////////////////		
-		if($CONFIG->cli) return true;
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////				
+		
 		$user_guid = (int)$user_guid;
 		$user = get_entity($user_guid);
 		if (!$user) $user = get_loggedin_user();
@@ -2616,6 +2614,7 @@
 			foreach ($name as $k => $n)
 			{
 				$k = sanitise_string($k);
+				$n = sanitise_string($n);
 				$s_join .= " JOIN {$CONFIG->dbprefix}private_settings s$i ON e.guid=s$i.entity_guid";
 				$where[] = "s$i.name = '$k'";
 				$where[] = "s$i.value = '$n'";

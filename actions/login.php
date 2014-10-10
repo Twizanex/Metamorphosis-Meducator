@@ -53,7 +53,7 @@
             	} else if (get_input('returntoreferer')) {
             		forward($_SERVER['HTTP_REFERER']);
             	} else
-            		forward("/");
+            		forward("pg/dashboard/");
             }
         } else {
         	$error_msg = elgg_echo('loginerror');

@@ -1,21 +1,46 @@
+2010-11-26  brettp
+
+	* .: Tagged 1.6.4
+	* Version bump on 1.6 branch.
+	* Merged widget get_input() fix in r7447 to 1.6.
+	* Merged bookmarks XSS fixes in r7406 to 1.6 branch.
+
+2010-09-02  brettp
+
+	* Version bump to 1.6.3.
+
+2010-08-28  cash
+
+	* merged [6872] from trunk into 1.6 branch
+
+2010-04-20  brettp
+
+	* Bumped version to 1.6.2
+	* Fixed the previous fixes for Insanoday 2010.
+	* Merge previous to 1.6 branch.
+
+2010-03-06  brettp
+
+	* Added 1.5 and 1.7 branches for doc auto-generation.
+
+2010-03-03  root
+
+	* Tag extensions for 1.6.1
+
+2010-03-02  root
+
+	* Refactoring the core SVN repo.
+
 2009-09-07  brettp
 
-	* admin/user.php, views/default/search/entity_list.php: Merged
-	  patches from 3472.
+	* Merged patches from 3472.
 
 2009-09-06  brettp
 
-	* README.txt, version.php: Bumped version number in tag.
-	* engine/lib/search.php, views/default/annotation/annotate.php:
-	  Missed commits 3445 and 3446
-	* ., actions/register.php, engine/lib/entities.php,
-	  engine/lib/relationships.php,
-	  views/default/messages/messages/list.php,
-	  views/default/page_elements/header.php,
-	  views/default/search/entity_list.php,
-	  views/default/site/default.php: Merging in 3442, 3450, 3451,
-	  3454, 3455, 3462, and 3464 to 1.6.1.
-	* .: Tagging 1.6.1
+	* Bumped version number in tag.
+	* Missed commits 3445 and 3446
+	* Merging in 3442, 3450, 3451, 3454, 3455, 3462, and 3464 to 1.6.1.
+	* Tagging 1.6.1
 
 2009-08-21  brettp
 

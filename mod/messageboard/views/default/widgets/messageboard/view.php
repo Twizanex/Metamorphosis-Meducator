@@ -23,7 +23,6 @@
      //if no num set, set to one
      if(!$num_display)
         $num_display = 5;
-		
 	 
 ?>
 <script type="text/JavaScript">
@@ -72,7 +71,7 @@ $(document).ready(function(){
 </div><!-- end of mb_input_wrapper div -->
 
 <?php
-
+    
         //this for the first time the page loads, grab the latest 5 messages.
 		$contents = $entity->getAnnotations('messageboard', $num_display, 0, 'desc');
 		

@@ -15,21 +15,19 @@
 
 	// Get the username
 		$username = get_input('username');
-		//$username = "aaaaaaaaaa";
 		
 		$body = "";
 		
 	// Try and get the user from the username and set the page body accordingly
 		if ($user = get_user_by_username($username)) {
 			
-		//	if ($user->isBanned() && !isadminloggedin()) {
-		//		forward(); exit;
-		//	}
-			
+			if ($user->isBanned() && !isadminloggedin()) {
+				forward(); exit;
+			}
 			$body = elgg_view_entity($user,true);
 			$title = $user->name;
 
-			$body = elgg_view_layout('one_column',$body);
+			$body = elgg_view_layout('widgets',$body);
 			
 		} else {
 			
@@ -37,13 +35,6 @@
 			$title = elgg_echo("profile");
 			
 		}
-		
-		
-		/*$user = get_user_by_username($username);
-		echo $user.name;
-		$body = elgg_view_entity($user,true);
-		$title = $user->name;
-		*/
 
 		page_draw($title, $body);
 		

@@ -22,7 +22,7 @@
 		if ($post = get_annotation($post_id)) {
 			
 			//check that the user can edit as well as admin
-			if (issuperadminloggedin() || ($post->owner_guid == $_SESSION['user']->guid)) {
+			if ($post->canEdit() || ($post->owner_guid == $_SESSION['user']->guid)) {
     			
     			//delete
 				$post->delete();

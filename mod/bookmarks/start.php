@@ -37,7 +37,7 @@
 				register_entity_url_handler('bookmark_url','object','bookmarks');
 				
 			// Shares widget
-			    add_widget_type('bookmarks',"Companions",elgg_echo("bookmarks:widget:description"));
+			    add_widget_type('bookmarks',elgg_echo("bookmarks:recent"),elgg_echo("bookmarks:widget:description"));
 				
 			// Register entity type
 				register_entity_type('object','bookmarks');
@@ -65,8 +65,8 @@
 							add_submenu_item(elgg_echo('bookmarks:friends'),$CONFIG->wwwroot."pg/bookmarks/" . $_SESSION['user']->username . "/friends");
 						
 					}
-					//if(!$page_owner instanceof ElggGroup)
-					//	add_submenu_item(elgg_echo('bookmarks:everyone'),$CONFIG->wwwroot."mod/bookmarks/everyone.php");
+					if(!$page_owner instanceof ElggGroup)
+						add_submenu_item(elgg_echo('bookmarks:everyone'),$CONFIG->wwwroot."mod/bookmarks/everyone.php");
 					
 					// Bookmarklet
 					if ((isloggedin()) && (page_owner()) && (can_write_to_container(0, page_owner()))) {

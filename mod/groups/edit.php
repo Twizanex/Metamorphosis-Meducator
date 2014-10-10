@@ -19,7 +19,7 @@
 	$title = elgg_echo("groups:edit");
 	$body = elgg_view_title($title);
 	
-	if (($group) && ($group->owner_guid==$_SESSION['guid'])||issuperadminloggedin())
+	if (($group) && ($group->canEdit()))
 	{
 		$body .= elgg_view("forms/groups/edit", array('entity' => $group));
 			 

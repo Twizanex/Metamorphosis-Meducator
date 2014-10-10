@@ -18,7 +18,7 @@
 		
 	// Make sure we actually have permission to edit
 		$blog = get_entity($guid);
-		if ($blog->getSubtype() == "blog" && issuperadminloggedin() || $_SESSION['guid']==$blog->owner_guid) {
+		if ($blog->getSubtype() == "blog" && $blog->canEdit()) {
 	
 		// Get owning user
 				$owner = get_entity($blog->getOwner());

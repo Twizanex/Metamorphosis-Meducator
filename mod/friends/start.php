@@ -15,9 +15,9 @@
     		
     		// Load system configuration
 				global $CONFIG;
-
+    		
     		//add a widget
-			    add_widget_type('friends',"Connections",elgg_echo('friends:widget:description'));
+			    add_widget_type('friends',elgg_echo("friends"),elgg_echo('friends:widget:description'));
 			
 		}
 		

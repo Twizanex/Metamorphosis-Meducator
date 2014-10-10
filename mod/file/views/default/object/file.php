@@ -38,7 +38,7 @@
 
 				
 				//if the user can edit, display edit and delete links
-				if (issuperadminloggedin()||($vars['user']->guid==$file->owner_guid)) {
+				if ($file->canEdit()) {
 					echo "<div class=\"filerepo_controls\"><p>";
 					echo "<a href=\"{$vars['url']}mod/file/edit.php?file_guid={$file->getGUID()}\">" . elgg_echo('edit') . "</a>&nbsp;";
 					echo elgg_view('output/confirmlink',array(
@@ -158,7 +158,7 @@
 		
 <?php
 
-	if (issuperadminloggedin()||($vars['user']->guid==$file->owner_guid)) {
+	if ($file->canEdit()) {
 ?>
 
 	<div class="filerepo_controls">

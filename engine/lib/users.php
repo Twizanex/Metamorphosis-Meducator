@@ -1309,8 +1309,8 @@
 	function collections_submenu_items() {
 		global $CONFIG;
 		$user = get_loggedin_user();
-	//	add_submenu_item(elgg_echo('friends:collections'), $CONFIG->wwwroot . "pg/collections/" . $user->username);
-	//	add_submenu_item(elgg_echo('friends:collections:add'),$CONFIG->wwwroot."pg/collections/add");
+		add_submenu_item(elgg_echo('friends:collections'), $CONFIG->wwwroot . "pg/collections/" . $user->username);
+		add_submenu_item(elgg_echo('friends:collections:add'),$CONFIG->wwwroot."pg/collections/add");
 	}
 	
 	/**
@@ -1444,29 +1444,13 @@
 		
 		// Load config
 			global $CONFIG;
-			if ($user1 = page_owner()) {
-			$selected_item = $user1;
-		}
-		
-		
-		$query = "SELECT * FROM {$CONFIG->dbprefix}_content_item_discrimination WHERE guid = \"".$selected_item."\" and is_content_item = \"1\"";
-		 
-		$result = get_data($query);
+			
 		//add submenu options
 			if (get_context() == "friends" || 
 				get_context() == "friendsof" || 
 				get_context() == "collections") {
-				
-				if($result != null)
-				{
 				add_submenu_item(elgg_echo('friends'),$CONFIG->wwwroot."pg/friends/" . page_owner_entity()->username);
 				add_submenu_item(elgg_echo('friends:of'),$CONFIG->wwwroot."pg/friendsof/" . page_owner_entity()->username);
-				}
-				else
-				{
-				add_submenu_item("Friends",$CONFIG->wwwroot."pg/friends/" . page_owner_entity()->username);
-				add_submenu_item("Friend of",$CONFIG->wwwroot."pg/friendsof/" . page_owner_entity()->username);
-				}
 			}
 		
 	}
@@ -1483,7 +1467,7 @@
 		// Set up menu for logged in users
 			if (isloggedin()) {
 				$user = get_loggedin_user();
-				add_menu("Friends", $CONFIG->wwwroot . "pg/friends/" . $user->username);
+				add_menu(elgg_echo('friends'), $CONFIG->wwwroot . "pg/friends/" . $user->username);
 			}
 		
 		register_page_handler('friends','friends_page_handler');
@@ -1492,7 +1476,6 @@
 		register_page_handler('dashboard','dashboard_page_handler');
 		register_action("register",true);
    		register_action("useradd",true);
-		register_action("useradd_content_item",true);
 		register_action("friends/add");
    		register_action("friends/remove");
 		register_action('friends/addcollection');

@@ -205,7 +205,9 @@
 			'dashboard:nowidgets' => "Your dashboard is your gateway into the site. Click 'Edit page' to add widgets to keep track of content and your life within the system.",
 
 			'widgets:add' => 'Add widgets to your page',
-			'widgets:add:description' => "mEducator",
+			'widgets:add:description' => "Choose the features you want to add to your page by dragging them from the <b>Widget gallery</b> on the right, to any of the three widget areas below, and position them where you would like them to appear.
+
+To remove a widget drag it back to the <b>Widget gallery</b>.",
 			'widgets:position:fixed' => '(Fixed position on page)',
 	
 			'widgets' => "Widgets",
@@ -253,7 +255,7 @@
 			'profile:user' => "%s's profile",
 	
 			'profile:edit' => "Edit profile",
-			'profile:profilepictureinstructions' => "The profile picture is the image that's displayed on your profile page. <br /> You can change it as often as you'd like. (File formats accepted: GIF, JPG or PNG).If the picture is too large try resizing it on your computer first",
+			'profile:profilepictureinstructions' => "The profile picture is the image that's displayed on your profile page. <br /> You can change it as often as you'd like. (File formats accepted: GIF, JPG or PNG)",
 			'profile:icon' => "Profile picture",
 			'profile:createicon' => "Create your avatar",
 			'profile:currentavatar' => "Current avatar",
@@ -278,7 +280,7 @@
 			'profile:banned' => 'This user account has been suspended.',
 			'profile:deleteduser' => 'Deleted user',
 
-			'profile:river:update' => "%s updated a profile",
+			'profile:river:update' => "%s updated their profile",
 			'profile:river:iconupdate' => "%s updated their profile icon",
 	
 			'profile:label' => "Profile label",
@@ -318,38 +320,38 @@
 		 * Friends
 		 */
 	
-			'friends' => "Repurposed From",
-			'friends:yours' => "Your Repurposed From Objects",
-			'friends:owned' => "%s's Repurposed From",
-			'friend:add' => "Add as a friend",
-			'friend:remove' => "Remove from friends",
+			'friends' => "Friends",
+			'friends:yours' => "Your friends",
+			'friends:owned' => "%s's friends",
+			'friend:add' => "Add friend",
+			'friend:remove' => "Remove friend",
 	
-			'friends:add:successful' => "You have successfully added %s as your friend.",
-			'friends:add:failure' => "We couldn't add %s as your friend. Please try again.",
+			'friends:add:successful' => "You have successfully added %s as a friend.",
+			'friends:add:failure' => "We couldn't add %s as a friend. Please try again.",
 	
 			'friends:remove:successful' => "You have successfully removed %s from your friends.",
 			'friends:remove:failure' => "We couldn't remove %s from your friends. Please try again.",
 	
-			'friends:none' => "This user hasn't added anyone as a source object yet.",
-			'friends:none:you' => "You haven't added anyone as a source object Search for your interests to begin finding people to follow.",
+			'friends:none' => "This user hasn't added anyone as a friend yet.",
+			'friends:none:you' => "You haven't added anyone as a friend! Search for your interests to begin finding people to follow.",
 	
-			'friends:none:found' => "No source objects were found.",
+			'friends:none:found' => "No friends were found.",
 	
-			'friends:of:none' => "Nobody has added this object as a source object yet.",
-			'friends:of:none:you' => "Nobody has added you as a source object yet. Start adding content and fill in your profile to let people find you!",
+			'friends:of:none' => "Nobody has added this user as a friend yet.",
+			'friends:of:none:you' => "Nobody has added you as a friend yet. Start adding content and fill in your profile to let people find you!",
 	
-			'friends:of:owned' => "People who have defined %s as a source object",
+			'friends:of:owned' => "People who have made %s a friend",
 
-			 'friends:num_display' => "Number of source objects to display",
+			 'friends:num_display' => "Number of friends to display",
 			 'friends:icon_size' => "Icon size",
 			 'friends:tiny' => "tiny",
 			 'friends:small' => "small",
-			 'friends:of' => "Repurposed To",
-			 'friends:collections' => "Collections of objects",
-			 'friends:collections:add' => "New object collection",
-			 'friends:addfriends' => "Define as source object",
+			 'friends:of' => "Friends of",
+			 'friends:collections' => "Collections of friends",
+			 'friends:collections:add' => "New friends collection",
+			 'friends:addfriends' => "Add friends",
 			 'friends:collectionname' => "Collection name",
-			 'friends:collectionfriends' => "Objects in collection",
+			 'friends:collectionfriends' => "Friends in collection",
 			 'friends:collectionedit' => "Edit this collection",
 			 'friends:nocollections' => "You do not yet have any collections.",
 			 'friends:collectiondeleted' => "Your collection has been deleted.",
@@ -362,7 +364,7 @@
 	        'friends:river:created' => "%s added the friends widget.",
 	        'friends:river:updated' => "%s updated their friends widget.",
 	        'friends:river:delete' => "%s removed their friends widget.",
-	        'friends:river:add' => "%s is now a friend of",
+	        'friends:river:add' => "%s is now a friend with",
 	
 			'friendspicker:chararray' => 'ABCDEFGHIJKLMNOPQRSTUVWXYZ',
 	
@@ -383,7 +385,7 @@
 		 * River
 		 */
 			'river' => "River",			
-			'river:relationship:friend' => 'is now repurposed from',
+			'river:relationship:friend' => 'is now friends with',
 			'river:noaccess' => 'You do not have permission to view this item.',
 			'river:posted:generic' => '%s posted',
 
@@ -923,34 +925,7 @@ You cannot reply to this email.",
 		 * Word blacklists
 		 */
 			'word:blacklist' => 'and, the, then, but, she, his, her, him, one, not, also, about, now, hence, however, still, likewise, otherwise, therefore, conversely, rather, consequently, furthermore, nevertheless, instead, meanwhile, accordingly, this, seems, what, whom, whose, whoever, whomever',
-			
-		/* 	----------------------------------
-					More for mEducator purpose
-				----------------------------------	*/
-			'admin:contentItem:description' => "This admin panel allows you to add a new Educational Resource Select the option below to get started.",					
-			'admin:contentItem:addContentItem:label' => "Click here to add a new Educational Resource...",
-			'addContentItem' => "Add Educational Resource",
-			'createContentItem' => "Create Educational Resource",
-			'newContentItem:label' => "New Educational Resource",
-			//'admin:user' => "User Administration",
-			'admin:user' => "User Administration",
-			
-			
-			'profile:showgraph' => "Show Graph",
-			'profile:showcontentitemlabel' => "Educational Resource Relationships",
-			
-			
-			'admin:user:label:searchitem' => "Find item:",
-			'admin:user:label:searchitem' => "Find item:",
-			
-			
-			'content_item_ok' => "You have successfully created a new Educational Resource.",
-			'content_item_bad' => "The new Educational Resource could not be created.",
-			'content_item_search' => "Search for parent Educational Resource",
-			'content_item_edit_icon_no_access' => "You don't have permission to edit this icon",
-			'content_item_show_repurposed_history' => "Show repurposed history",
-			
-			//---------------------------------------------------------------
+	
 		/**
 		 * Languages according to ISO 639-1
 		 */

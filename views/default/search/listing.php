@@ -25,11 +25,9 @@
 			<?php
 
 				echo $vars['icon'];
-				
 			
 			?>
 		</div>
-		
 		<div class="search_listing_info">
 			<?php
 

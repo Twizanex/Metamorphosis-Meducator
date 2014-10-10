@@ -2,11 +2,11 @@
 	/**
 	 * Elgg captcha plugin
 	 * 
-	 * @package reCaptcha
+	 * @package ElggCaptcha
 	 * @license http://www.gnu.org/licenses/old-licenses/gpl-2.0.html GNU Public License version 2
-	 * @author Trinity Rolling
-	 * @copyright Trinity Rolling 2010
-	 * @link https://sourceforge.net/projects/elggrecaptcha/
+	 * @author Curverider Ltd
+	 * @copyright Curverider Ltd 2008-2009
+	 * @link http://elgg.com/
 	 */
 
 	function captcha_init()

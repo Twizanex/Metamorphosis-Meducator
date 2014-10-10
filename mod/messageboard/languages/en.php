@@ -6,8 +6,8 @@
 		 * Menu items and titles
 		 */
 	
-			'messageboard:board' => "Comments",
-			'messageboard:messageboard' => "Comments",
+			'messageboard:board' => "Message board",
+			'messageboard:messageboard' => "message board",
 			'messageboard:viewall' => "View all",
 			'messageboard:postit' => "Post it",
 			'messageboard:history' => "history",

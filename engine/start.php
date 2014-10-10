@@ -71,11 +71,7 @@
 			echo "Error in installation: could not load the cache library.";
 			exit;
 		}
-
-                if (!include_once(dirname(__FILE__) . "/lib/mmplus.php")) {		// Installation library
-			echo "Error in installation: could not load the mmplus library.";
-			exit;
-		}
+		
 		
 		
 		// Use fallback view until sanitised

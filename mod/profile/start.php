@@ -194,9 +194,9 @@
 			//add submenu options
 			if (get_context() == "profile") {
 				$page_owner = page_owner_entity();
+				
 				add_submenu_item(elgg_echo('profile:editdetails'), $CONFIG->wwwroot . "pg/profile/{$page_owner->username}/edit/");
-//				add_submenu_item(elgg_echo('profile:editicon'), $CONFIG->wwwroot . "pg/profile/{$page_owner->username}/editicon/");
-				add_submenu_item("Edit Display Name",$CONFIG->wwwroot ."pg/settings/user/{$page_owner->username}/");
+				add_submenu_item(elgg_echo('profile:editicon'), $CONFIG->wwwroot . "pg/profile/{$page_owner->username}/editicon/");
 			}
 		}
 		

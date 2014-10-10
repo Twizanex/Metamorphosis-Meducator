@@ -42,20 +42,9 @@
 												'override' => true,
 											  )
 					);
-	
-	
-	?>
-	
-	
-	
-	
-	
-	
-	
-	<?php
+
 
     echo "</div>";
-
     echo "<div class=\"clearfloat\"></div>";
      // display relevant links			
     echo elgg_view("profile/profilelinks", array("entity" => $vars['entity']));
@@ -65,23 +54,13 @@
 
 ?>
 </td>
-	
 <td>
 	
 	<div id="profile_info_column_middle" >
 			<?php
-			if ($user1 = page_owner()) 
-		{
-			$selected_item = $user1;
-		}
-		$query2 = "SELECT creator_guid FROM {$CONFIG->dbprefix}_content_item_discrimination WHERE guid = \"".$selected_item."\" and is_content_item = \"1\"";
-		$result2 = mysql_query($query2);
-		while($row = mysql_fetch_array($result2, MYSQL_ASSOC))
-		$nikolas=$row['creator_guid'];
-		
-		if (page_owner() == $vars['user']->guid||issuperadminloggedin()||$nikolas==$vars['user']->guid) {
-			if (issuperadminloggedin())
-			echo "For superadmin use:"."page_owner=".page_owner().","."vars['user']->guid=".$vars['user']->guid;
+	
+		if ($vars['entity']->canEdit()) {
+
 	?>
 		<p class="profile_info_edit_buttons">
 			<a href="<?php echo $vars['url']; ?>pg/profile/<?php echo $vars['entity']->username; ?>/edit/"><?php echo elgg_echo("profile:edit"); ?></a>
@@ -122,7 +101,7 @@
 					if (!empty($value)) {
 					
 				//This function controls the alternating class
-                 $even_odd = ( 'odd' != $even_odd ) ? 'odd' : 'even';					
+                $even_odd = ( 'odd' != $even_odd ) ? 'odd' : 'even';					
 	
 
 	?>
@@ -156,7 +135,7 @@
 <tr>
 <td colspan="2">
 	<div id="profile_info_column_right">	
-	<p class="profile_aboutme_title"><b><?php /*echo elgg_echo("profile:aboutme");*/ ?></b></p>
+	<p class="profile_aboutme_title"><b><?php echo elgg_echo("profile:aboutme"); ?></b></p>
 	
 	<?php if ($vars['entity']->isBanned()) { ?>
 		<div id="profile_banned">	

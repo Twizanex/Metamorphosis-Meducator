@@ -1,43 +1,26 @@
-<html>
-  <body>
-    <form action="" method="post">
-<script>
-var RecaptchaOptions = {
-   theme : 'white'
-};
-</script>
-
 <?php
+	/**
+	 * Elgg captcha plugin captcha hook view override.
+	 * 
+	 * @package ElggCaptcha
+	 * @license http://www.gnu.org/licenses/old-licenses/gpl-2.0.html GNU Public License version 2
+	 * @author Curverider Ltd
+	 * @copyright Curverider Ltd 2008-2009
+	 * @link http://elgg.com/
+	 */
 
-require_once('../../mod/captcha/recaptchalib.php');
-
-// Get a key from http://recaptcha.net/api/getkey
-$publickey = get_plugin_setting('api_publickey', 'captcha');
-$privatekey = get_plugin_setting('api_privatekey', 'captcha');
-
-# the response from reCAPTCHA
-$resp = null;
-# the error code from reCAPTCHA, if any
-$error = null;
-
-# was there a reCAPTCHA response?
-if ($_POST["recaptcha_response_field"]) {
-        $resp = recaptcha_check_answer ($privatekey,
-                                        $_SERVER["REMOTE_ADDR"],
-                                        $_POST["recaptcha_challenge_field"],
-                                        $_POST["recaptcha_response_field"]);
-
-        if ($resp->is_valid) {
-                echo "You got it!";
-        } else {
-                # set the error code so that we can display it
-                $error = $resp->error;
-        }
-}
-echo recaptcha_get_html($publickey, $error);
+	// Generate a token which is then passed into the captcha algorithm for verification
+	$token = captcha_generate_token();
 ?>
-    <br/>
-    <input type="submit" value="submit" />
-    </form>
-  </body>
-</html>
+<div class="captcha">
+	<input type="hidden" name="captcha_token" value="<?php echo $token; ?>" />
+	<label>
+		<?php echo elgg_echo('captcha:entercaptcha'); ?><br /><br />
+		<div class="captcha-right">
+			<img class="captcha-input-image" src="<?php echo $vars['url'] . "pg/captcha/$token"; ?>" /><br />
+		</div><br />
+		<div class="captcha-left">
+			<?php echo elgg_view('input/text', array('internalname' => 'captcha_input', 'class' => 'captcha-input-text')); ?>
+		</div>
+	</label>
+</div>

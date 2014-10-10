@@ -22,7 +22,7 @@
 		extend_view('css','logbrowser/css');
 		
 		// Extend context menu with admin logbrowsre link
-			if (issuperadminloggedin())
+			if (isadminloggedin())
 			{
 	   			 extend_view('profile/menu/adminlinks','logbrowser/adminlinks',10000);
 			}

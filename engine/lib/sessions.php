@@ -497,7 +497,7 @@
 		function admin_gatekeeper()
 		{
 			gatekeeper();
-			if (!issuperadminloggedin()) {
+			if (!isadminloggedin()) {
 				$_SESSION['last_forward_from'] = current_page_url();
 				forward();
 			}

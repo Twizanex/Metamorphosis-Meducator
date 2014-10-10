@@ -32,8 +32,7 @@
 				$user->salt = generate_random_cleartext_password(); // Reset the salt
 				$user->password = generate_user_password($user, $password);
 				if ($user->save())
-				//	system_message(elgg_echo('user:password:success'));
-					$nikolas=1;	
+					system_message(elgg_echo('user:password:success'));
 				else
 					register_error(elgg_echo('user:password:fail'));
 			}

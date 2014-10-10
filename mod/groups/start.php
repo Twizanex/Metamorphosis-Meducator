@@ -200,7 +200,7 @@
 		// Submenu items for all group pages
 			if ($page_owner instanceof ElggGroup && get_context() == 'groups') {
 				if (isloggedin()) {
-					if ($page_owner->guid==$_SESSION['guid']||issuperadminloggedin()) {
+					if ($page_owner->canEdit()) {
 						add_submenu_item(elgg_echo('groups:edit'),$CONFIG->wwwroot . "mod/groups/edit.php?group_guid=" . $page_owner->getGUID(), '1groupsactions');
 						add_submenu_item(elgg_echo('groups:invite'),$CONFIG->wwwroot . "mod/groups/invite.php?group_guid={$page_owner->getGUID()}", '1groupsactions');
 						if (!$page_owner->isPublicMembership())
@@ -517,7 +517,7 @@
 		//logged in user
 		$user = $_SESSION['user']->guid;
 		
-		if (($entity->owner_guid == $user) || $group_owner == $user || issuperadminloggedin()) {
+		if (($entity->owner_guid == $user) || $group_owner == $user || isadminloggedin()) {
         	return true;
     	}else{
 			return false;

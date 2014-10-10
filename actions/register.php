@@ -43,35 +43,23 @@
 				) {
 					
 					$new_user = get_entity($guid);
-				//	if (($guid) && ($admin))
-				//	{
-				//		admin_gatekeeper(); // Only admins can make someone an admin
-						$new_user->issimpleuser = "yes";
-
+					if (($guid) && ($admin))
+					{
+						admin_gatekeeper(); // Only admins can make someone an admin
 						$new_user->admin = 'yes';
-				//	}
-					
-//added by Giacomo Fazio: delete when the Elgg database is not used for users anymore//////
-	
-					//it saves the new user as "user"
-					remove_metadata($guid, "custom_profile_type");
-					create_metadata($guid, "custom_profile_type", 355, 'text', $guid, ACCESS_PUBLIC);
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+					}
 					
 					// Send user validation request on register only
 					global $registering_admin;
 					if (!$registering_admin)
 						request_user_validation($guid);
 					
-					//if (!$new_user->admin)
-						//$new_user->disable('new_user', false);	// Now disable if not an admin
+					if (!$new_user->admin)
+						$new_user->disable('new_user', false);	// Now disable if not an admin
 						// Don't do a recursive disable.  Any entities owned by the user at this point
 						// are products of plugins that
 					
-
-					
-					system_message(sprintf(elgg_echo("registerok").".Please log in.",$CONFIG->sitename));
+					system_message(sprintf(elgg_echo("registerok"),$CONFIG->sitename));
 					
 					forward(); // Forward on success, assume everything else is an error...
 				} else {

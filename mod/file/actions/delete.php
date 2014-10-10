@@ -12,7 +12,7 @@
 		$guid = (int) get_input('file');
 		if ($file = get_entity($guid)) {
 
-			if (issuperadminloggedin()||($_SESSION['guid']==$file->owner_guid)) {
+			if ($file->canEdit()) {
 
 				$container = get_entity($file->container_guid);
 				

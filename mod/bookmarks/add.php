@@ -32,9 +32,6 @@
 			$entity = get_entity($this_guid);
 			if ($entity->canEdit()) {
 				$area2 .= elgg_view('bookmarks/form',array('entity' => $entity, 'container_guid' => $container));
-//ADDED BY GIACOMO FAZIO/////////////////////////////////////////////////////////////////////////////////////////////////
-				$_SESSION["original_tags"]=$entity->tags;
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 			}
 		} else {
 			$area2 .= elgg_view('bookmarks/form', array('container_guid' => $container));

@@ -12,24 +12,12 @@
 	 */
 
 	/**
-	 * Start the Elgg engine 
+	 * Start the Elgg engine
 	 */
 		define('externalpage',true);
 		require_once(dirname(__FILE__) . "/engine/start.php");
-                /*
-                //check if the user has made his choice (link from index.html)
-                if(isset($_GET["opt"]) && ($_GET["opt"] == "start"))
-                  //if yes, set the flag
-                  $_SESSION["notFirstTime"] = true;
-                
-                //check if there is any indication of the users choice
-                if(!isset($_SESSION["notFirstTime"]) || ($_SESSION["notFirstTime"] !== true ))
-                {
-                  //if not, display index.html
-                  header("location: index.html");
-                  exit();
-                }
-                */
+		
+		
 		if (!trigger_plugin_hook('index','system',null,false)) {
 	
 			/**

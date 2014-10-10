@@ -14,45 +14,23 @@
 
 ?>
 
-
+	<p class="user_menu_profile">
+		<a href="<?php echo $vars['entity']->getURL(); ?>"><?php echo elgg_echo("profile"); ?></a>
+	</p>
 	<?php
-		if (isloggedin())
+		if ($vars['entity']->canEdit())
 		{
 	?>
 		<p class="user_menu_profile">
-	<?php 
-//	echo ("<a href=\"".$CONFIG->wwwroot."mod/profile/edit.php"."\">"."Edit profile icon"."</a>");  
-?>
+			<a href="<?php echo $vars['url']?>pg/profile/<?php echo $vars['entity']->username; ?>/editicon/"><?php echo elgg_echo("profile:editicon"); ?></a>
 		</p>
 	<?php
 		}
 	
 	?>
-	<?php 
-			if ($user1 = page_owner()) {
-			$selected_item = $user1;
-		}
-		
-		//echo "Selected"+$selected_item;
-		
-		$query = "SELECT * FROM {$CONFIG->dbprefix}_content_item_discrimination WHERE guid = \"".$selected_item."\" and is_content_item = \"1\"";
-		 
-		$result = get_data($query);
-		
-		if($result != null)
-		{
-		if (isloggedin())
-		echo "<p class=\"user_menu_friends\"><a href=\"".$vars['url']."pg/friends/".$vars['entity']->username."/\">".elgg_echo("friends")."</a></p>";
-		echo "<p class=\"user_menu_friends_of\"><a href=\"".$vars['url']."pg/friendsof/".$vars['entity']->username."/\">".elgg_echo("friends:of")."</a></p>";
-			if (isloggedin())
-		echo "<p class=\"bookm\"><a href=\"javascript:location.href='http://metamorphosis.med.duth.gr/mod/bookmarks/add.php?address='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title)\">Bookmark this Resource</a></p>";
-		if (isloggedin())
-		echo "<p class=\"xml\"><a href=\"".$vars['url']."mod/content_item/create_xml.php?id=".$vars['entity']->guid."\">"."Create the xml for this resource"."</a></p>";
-		}
-		else
-		{
-			echo "<p class=\"user_menu_friends\"><a href=\"".$vars['url']."pg/friends/".$vars['entity']->username."/\">"."Friends"."</a></p>";
-			echo "<p class=\"user_menu_friends_of\"><a href=\"".$vars['url']."pg/friendsof/".$vars['entity']->username."/\">"."Friend of"."</a></p>";
-
-			}
-	?>
+	<p class="user_menu_friends">
+		<a href="<?php echo $vars['url']; ?>pg/friends/<?php echo $vars['entity']->username; ?>/"><?php echo elgg_echo("friends"); ?></a>	
+	</p>
+	<p class="user_menu_friends_of">
+		<a href="<?php echo $vars['url']; ?>pg/friendsof/<?php echo $vars['entity']->username; ?>/"><?php echo elgg_echo("friends:of"); ?></a>	
+	</p>

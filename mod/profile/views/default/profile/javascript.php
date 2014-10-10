@@ -25,7 +25,8 @@ function setup_avatar_menu() {
 	// avatar image menu link
 	$("div.usericon img").mouseover(function() {
 		// find nested avatar_menu_button and show
-
+		$(this.parentNode.parentNode).children(".avatar_menu_button").show();
+		$(this.parentNode.parentNode).children("div.avatar_menu_button").addClass("avatar_menu_arrow");
 		//$(this.parentNode.parentNode).css("z-index", submenuLayer);
 	})
 	.mouseout(function() { 

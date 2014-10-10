@@ -110,8 +110,8 @@
 			<!-- display edit options if it is the blog post owner -->
 			<p class="options">
 			<?php
-		//		echo $vars[user]->guid."-".
-				if (issuperadminloggedin()||($vars[user]->guid==$vars['entity']->owner_guid)) {
+	
+				if ($canedit) {
 					
 				?>
 					<a href="<?php echo $vars['url']; ?>mod/blog/edit.php?blogpost=<?php echo $vars['entity']->getGUID(); ?>"><?php echo elgg_echo("edit"); ?></a>  &nbsp; 

@@ -90,7 +90,7 @@ p.filerepo_owner {
 	padding:6px 5px 0 0;
 	line-height: 1.2em;
 	color:#666666;
-	
+	font-weight: bold;
 }
 
 .collapsable_box #filerepo_widget_layout {
