@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<nlmSearchResult>
+  <term>"proteinuria"</term>
+  <file>viv_2HakLR</file>
+  <server>pvlbsrch05</server>
+  <count>3</count>
+  <retstart>0</retstart>
+  <retmax>10</retmax>
+  <list num="3" start="0" per="10">
+    <document rank="0" url="http://www.nlm.nih.gov/medlineplus/urineandurination.html">
+      <content name="title">&lt;span class="qt2"&gt;Urine and Urination&lt;/span&gt;</content>
+      <content name="organizationName">National Library of Medicine</content>
+      <content name="altTitle">Urine Tests</content>
+      <content name="altTitle">&lt;span class="qt0"&gt;Proteinuria&lt;/span&gt;</content>
+      <content name="altTitle">Dysuria</content>
+      <content name="altTitle">Hematuria</content>
+      <content name="altTitle">Pee</content>
+      <content name="altTitle">Micturition</content>
+      <content name="altTitle">Urination</content>
+      <content name="FullSummary">&lt;p&gt;Your kidneys form urine by filtering wastes and extra water from the bloodstream. The waste is called urea. It is carried in the bloodstream to the kidneys. From the kidneys, urine travels down two thin tubes called ureters to the bladder. The bladder stores urine until you are ready to go to the bathroom. It swells into a round shape when it is full and gets smaller when empty. If your urinary system is healthy, your bladder can hold up to 16 ounces (2 cups) of urine comfortably for 2 to 5 hours.&lt;/p&gt;&lt;p&gt;You may have problems with urination if you have&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Kidney failure&lt;/li&gt;&lt;li&gt;Urinary tract infections&lt;/li&gt;&lt;li&gt;Prostate enlargement&lt;/li&gt;&lt;li&gt;	Bladder control problems like  incontinence or interstitial cystitis&lt;/li&gt;&lt;li&gt;	A blockage that prevents you from emptying your bladder &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Some conditions may also cause you to have blood or protein to be in your urine. If you have a urinary problem, see your healthcare provider. Treatment depends on the cause.&lt;/p&gt;&lt;p&gt;NIH: National Institute of Diabetes and Digestive and Kidney Diseases&lt;/p&gt;</content>
+      <content name="mesh">Urination</content>
+      <content name="mesh">Lower Urinary Tract Symptoms</content>
+      <content name="mesh">Urine</content>
+      <content name="mesh">Urination Disorders</content>
+      <content name="groupName">Kidneys and Urinary System</content>
+      <content name="snippet"> Your kidneys form urine by filtering wastes and extra water from the bloodstream. The waste is called urea. It is carried in the bloodstream to the kidneys.  ... </content>
+    </document>
+    <document rank="1" url="http://www.nlm.nih.gov/medlineplus/kidneydiseases.html">
+      <content name="title">Kidney Diseases</content>
+      <content name="organizationName">National Library of Medicine</content>
+      <content name="altTitle">Nephritis</content>
+      <content name="altTitle">Polycystic Kidney Disease</content>
+      <content name="altTitle">Renal Disease</content>
+      <content name="FullSummary">&lt;p&gt;Your kidneys are two bean-shaped organs, each about the size of your fists. They are located near the middle of your back, just below the rib cage. Inside each kidney about a million tiny structures called nephrons filter blood. They remove waste products and extra water, which become urine. The urine flows through tubes called ureters to your bladder, which stores the urine until you go to the bathroom. &lt;/p&gt;&lt;p&gt;Most kidney diseases attack the nephrons.  This damage may leave kidneys unable to remove wastes. Causes can include genetic problems, injuries, or medicines.  You are at greater risk for kidney disease if you have diabetes, high blood pressure, or a close family member with kidney disease. Chronic kidney disease damages the nephrons slowly over several years. Other kidney problems include:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Cancer&lt;/li&gt;&lt;li&gt;Cysts&lt;/li&gt;&lt;li&gt;Stones&lt;/li&gt;&lt;li&gt;Infections&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Your doctor can run tests to find out if you have kidney disease.  If your kidneys fail completely, a kidney transplant or dialysis can replace the work your kidneys normally do.&lt;/p&gt;&lt;p&gt;NIH: National Institute of Diabetes and Digestive and Kidney Diseases&lt;/p&gt;</content>
+      <content name="mesh">Kidney Diseases</content>
+      <content name="groupName">Kidneys and Urinary System</content>
+      <content name="snippet"> Your kidneys are two bean-shaped organs, each about the size of your fists. They are located near the middle of your back, just below the rib cage. Inside  ... </content>
+    </document>
+    <document rank="2" url="http://www.nlm.nih.gov/medlineplus/chronickidneydisease.html">
+      <content name="title">Chronic Kidney Disease</content>
+      <content name="organizationName">National Library of Medicine</content>
+      <content name="altTitle">CKD</content>
+      <content name="FullSummary">&lt;p&gt;You have two kidneys, each about the size of your fist.  Their main job is to filter wastes and excess water out of your blood to make urine. They also keep the body's chemical balance, help control blood pressure, and make hormones.&lt;/p&gt;&lt;p&gt;Chronic kidney disease (CKD) means that your kidneys are damaged and can't filter blood as they should. This damage can cause wastes to build up in your body. It can also cause other problems that can harm your health. Diabetes and high blood pressure are the most common causes of CKD.&lt;/p&gt;&lt;p&gt;Treatment may include medicines to lower blood pressure, control blood glucose, and lower blood cholesterol. CKD can get worse over time. CKD may lead to kidney failure. The only treatment options for kidney failure are dialysis or a kidney transplantation.&lt;/p&gt;&lt;p&gt;You can take steps to keep your kidneys healthier longer:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Choose foods with less salt (sodium)&lt;/li&gt;&lt;li&gt;Keep your blood pressure below 130/80&lt;/li&gt;&lt;li&gt;Keep your blood glucose in the target range, if you have diabetes&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;NIH: National Institute of Diabetes and Digestive and Kidney Diseases&lt;/p&gt;</content>
+      <content name="mesh">Renal Insufficiency, Chronic</content>
+      <content name="groupName">Kidneys and Urinary System</content>
+      <content name="snippet"> You have two kidneys, each about the size of your fist.  Their main job is to filter wastes and excess water out of your blood to make urine. They also keep  ... </content>
+    </document>
+  </list>
+</nlmSearchResult>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<graph id="ELGG" edgedefault="directed">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="username" for="node" attr.name="username" attr.type="string"/>
+<node id="42616">
+<data key="name">This is a new educational resource from Hotel continental</data>
+<data key="username">eb43f157b2a1a1decef31884b61f44a3</data>
+</node>
+</graph>
+</graphml>

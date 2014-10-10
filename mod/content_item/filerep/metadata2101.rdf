@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2101">
+
+	 <mdc:identifier><![CDATA[http://www.medal.org/visitor/www%5CFiles%5CSheets%5Cch8%5CPE%20massive%20therapy%20Gossage%5CPE%20massive%20therapy%20Gossage.aspx]]></mdc:identifier> 
+<mdc:title><![CDATA[PE massive therapy Gossage ]]></mdc:title>
+<mdc:rights><![CDATA[ written permission to mEducator from the Institute of Algorithmic Medicine]]></mdc:rights>
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Institute of Algorithmic Medicine]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Charalampos Bratsas]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/Bratsas?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-05-05</mdc:created>
+<mdc:metadataCreated>2010-05-05</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject15912492"><rdfs:label><![CDATA[pulmonary embolism ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1923377288"><rdfs:label><![CDATA[ medical algorithm ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1541179650"><rdfs:label><![CDATA[ treatment ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[]]></mdc:description>
+<mdc:technicalDescription><![CDATA[in order to access the URL of the algorithm you need to register (free) in the following URL http://www.medal.org]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#diagnosticAlgorithm"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline2145470042"><rdfs:label><![CDATA[medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>post graduate</mdc:educationalLevel>
+<mdc:teachingLearningInstructions><![CDATA[This algorithm can be implemented in various patient cases to demonstrate the therapeutical options matching each case]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[to learn how to manage massive pulmonary embolism.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[management of massive pulmonary embolism based on the indications, benefits and risks of the different therapeutic options.]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[not applicable]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[respiratory medicine]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

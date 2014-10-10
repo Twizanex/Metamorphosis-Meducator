@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2464">
+
+	 <mdc:identifier><![CDATA[http://web-trace.ing.unict.it/engine.php?Section=StdHm]]></mdc:identifier> 
+<mdc:title><![CDATA[collection of 100 LL skull x-rays annotated with cephalometric tracings ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[The orthodontics specialist team at Policlinico - University of Catania]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Daniela Giordano]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/dani?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2006-05-01</mdc:created>
+<mdc:metadataCreated>2010-05-08</mdc:metadataCreated>
+<mdc:citation><![CDATA[The Web-Trace collection of cephalometric tracings (http://web-trace.ing.unict.it/engine.php?Section=StdHm)]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject920374939"><rdfs:label><![CDATA[cephalometric tracings ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject746170262"><rdfs:label><![CDATA[ orthodontics ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This collection includes 100 X-rays of the skull in latero-lateral projection, and the associated cephalometric tracings (both basic and advanced). 
+Within the LCMS Web-Trace each Xray can be visualized and the students can draw the cephalometric tracing; their drawing can be compared witht the expert provided tracing.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[To use the practice facilty of the LCMS Webtrace for drawing on the X ray,  a computer with Sun Java Virtual Machine correctly installed with its browser plugin (version 1.6)is needed.
+Better performance with drawing can be obtained with a Tablet PC.]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource=""/>
+</mdc:Resource></rdf:RDF>

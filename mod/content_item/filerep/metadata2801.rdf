@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2801">
+
+	 <mdc:identifier><![CDATA[http://dataserver.mediogrid.utcluj.ro/adnotare/release/resource/lectii/177/index.htm]]></mdc:identifier> 
+<mdc:title><![CDATA[Eye - introductory lesson ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Victor Bacu]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Victor Bacu]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/victor.bacu?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-01-08</mdc:created>
+<mdc:metadataCreated>2010-05-11</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject656253874"><rdfs:label><![CDATA[eye anatomy ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1953760919"><rdfs:label><![CDATA[ eye types ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[The resource presents general information about eye anatomy and eye types.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Although it can be accessed through common browsers, the resource can be visualized correctly only through eTrace eLearning Application.]]></mdc:technicalDescription>
+<mdc:resourceType> multimedia medical teaching material</mdc:resourceType>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline71883702"><rdfs:label><![CDATA[medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1591736241"><rdfs:label><![CDATA[anatomy ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>undergraduate</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This resource can be used as a support for a first course or as teaching material for individual study.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Using graphical based annotation in eTrace eLearning Application, the teacher can use this item as a support and enrich its content in order to be suited for complex presentations.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[This item aims to present general information about the eye and about the eye types.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[The learners will have basic knowledge about the eye anatomy.]]></mdc:educationalOutcomes>
+</mdc:Resource></rdf:RDF>

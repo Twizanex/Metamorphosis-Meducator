@@ -1,0 +1,10 @@
+<?xml version="2.0" encoding="UTF-8"?>
+<plugin_manifest>
+        <field key="author" value="Matthias Sutter" />
+        <field key="version" value="1.0" />
+        <field key="description" value="Shows without a side reload a message in header content if user have new mail(s)" />
+        <field key="website" value="http://cubeyoo.de/" />
+        <field key="copyright" value="(C) CubeYoo.de" />
+        <field key="licence" value="GNU Public License version 2" />
+        <field key="elgg_version" value="2009022701" />
+</plugin_manifest>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<root>
+			<corporateuser>false</corporateuser>
+			<logo type="small">http://www.medgle.com/logo/medglelogoBB.png</logo>
+			<logo type="big">http://www.medgle.com/logo/medglelogoE.jpg</logo>
+			<linkback_url>http://www.medgle.com/rw/diagnoses/obesity</linkback_url>
+			<linkback_text>Click here for more information</linkback_text>
+			<resulttype>diagnosis</resulttype>
+			<diagnosis>
+				<diagnosis_name>obesity</diagnosis_name>
+				<diagnosis_url>http://www.medgle.com/rw/diagnoses/obesity</diagnosis_url>
+				<diagnosis_layman>consequences of obesity</diagnosis_layman>
+				<diagnosis_category>NUTRITION</diagnosis_category>
+				<diagnosis_prevalence>common</diagnosis_prevalence>
+				<diagnosis_travel></diagnosis_travel>
+				<diagnosis_definition>Obesity is a condition in which the natural energy reserve, stored in the fatty tissue of humans and other mammals, is increased to a point where it is associated with certain health conditions or increased mortality.</diagnosis_definition>
+				<ICD9>278</ICD9>
+					<ICD10>E66.0</ICD10>
+					<diagnosis_symptoms type="common">depression, drowsiness, high blood pressure, pain in foot (feet), abnormal blood fats, daytime sleepiness, excessive caloric intake, fatty hump high on back, high cholesterol, increased body hair, increased pigmentation in groin, increased pigmentation on leg(s) and feet, increased skin pigmentation, lethargy, obese, poor self image, rash in groin, rash in groin in females, rash in groin in males, rash on foot (feet), rash on leg(s), red streaks on skin, stopping breathing at night, weight gain</diagnosis_symptoms>
+				<diagnosis_ads>
+							</diagnosis_ads>
+
+				<diagnosis_emergency>No</diagnosis_emergency>
+				<related_diagnoses>
+						<related_diagnosis star="0"  >alcoholism</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >depression</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >drugs and toxins</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >obstructive sleep apnea</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >post acute alcohol withdrawal syndrome</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >chronic renal disease</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >multiple endocrine neoplasia type 2b</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >opioid abuse</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >post acute withdrawal syndrome</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >vascular dementia</related_diagnosis>
+
+
+							</related_diagnoses>
+				<procedures type="diagnostic">				
+						<procedure url="http://www.medgle.com/rw/procedures/Thyroid+function+tests/" star="10" >Thyroid function tests</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Waist-to-Hip+Ratio/" star="10" >Waist-to-Hip Ratio</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/body+mass+index/" star="10" >body mass index</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/serum+glucose/" star="10" >serum glucose</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/High+Density+Lipoprotein+%28HDL%29+cholesterol%29/" star="9" >High Density Lipoprotein (HDL) cholesterol)</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Liver+Function+Tests/" star="9" >Liver Function Tests</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Serum+Cholesterol/" star="9" >Serum Cholesterol</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/fasting+lipid+profile/" star="9" >fasting lipid profile</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Skinfold+Thickness+measurement/" star="8" >Skinfold Thickness measurement</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/24-hour+urinary+free+cortisol/" star="6" >24-hour urinary free cortisol</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Body+Composition+Measure/" star="6" >Body Composition Measure</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Body+Fat+Analysis/" star="6" >Body Fat Analysis</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/serum+insulin/" star="6" >serum insulin</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/neuropeptide+Y+antagonists/" star="5" >neuropeptide Y antagonists</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Dietary+questionnaire/" star="0" >Dietary questionnaire</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Laparoscopy/" star="0" >Laparoscopy</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Lipoprotein+Electrophoresis/" star="0" >Lipoprotein Electrophoresis</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Lipoprotein+Phenotyping/" star="0" >Lipoprotein Phenotyping</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Serum+Triglyceride/" star="0" >Serum Triglyceride</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/dual-source+64-slice+CT+scan/" star="0" >dual-source 64-slice CT scan</procedure>
+							</procedures>
+
+				<procedures type="therapeutic">				
+						<procedure url="http://www.medgle.com/rw/procedures/Exercise+programs/" star="10" >Exercise programs</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/low+fat+diet/" star="7" >low fat diet</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Bariatric+surgery/" star="1" >Bariatric surgery</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/serum+insulin/" star="1" >serum insulin</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Behavior+modification/" star="1" >Behavior modification</procedure>
+							</procedures>
+
+				<medications>
+						<medication url="http://www.medgle.com/rw/drugs/Caffeine/" star="10" >Caffeine</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Phentermine/" star="7" >Phentermine</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Bupropion/" star="2" >Bupropion</medication>
+							<medication url="http://www.medgle.com/rw/drugs/rimonabant/" star="2" >rimonabant</medication>
+							<medication url="http://www.medgle.com/rw/drugs/fluoxetine/" star="2" >fluoxetine</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Orlistat/" star="2" >Orlistat</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Sibutramine/" star="2" >Sibutramine</medication>
+							<medication url="http://www.medgle.com/rw/drugs/fenfluramine+and+phentermine/" star="2" >fenfluramine and phentermine</medication>
+							<medication url="http://www.medgle.com/rw/drugs/paroxetine/" star="1" >paroxetine</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Diethylpropion/" star="1" >Diethylpropion</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Ephedrine/" star="1" >Ephedrine</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Phendimetrazine/" star="0" >Phendimetrazine</medication>
+							<medication url="http://www.medgle.com/rw/drugs/venlafaxine/" star="0" >venlafaxine</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Benzphetamine/" star="0" >Benzphetamine</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Mazindol/" star="0" >Mazindol</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Amylin/" star="0" >Amylin</medication>
+							<medication url="http://www.medgle.com/rw/drugs/exenatide/" star="0" >exenatide</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Olestra/" star="0" >Olestra</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Peptide+YY/" star="0" >Peptide YY</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Octreotide/" star="0" >Octreotide</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Zonisamide/" star="0" >Zonisamide</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Dronabinol/" star="0" >Dronabinol</medication>
+							<medication url="http://www.medgle.com/rw/drugs/beta3-adrenergic+agonists/" star="0" >beta3-adrenergic agonists</medication>
+							<medication url="http://www.medgle.com/rw/drugs/enterostatin/" star="0" >enterostatin</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Sitostanol/" star="0" >Sitostanol</medication>
+							</medications>
+					
+				<advice_options>
+
+				<otc_drugs>
+				<otc_drug url="http://www.medgle.com/rw/drugs/vitamin+B+supplements/" star="1" values="" sources="obesity" labels="" >vitamin B supplements</otc_drug>
+						</otc_drugs>
+
+
+				<homecare_options>
+				<homecare  star="1" values="" sources="obesity"  >Avoid alcohol, or drink alcohol in moderation:</homecare>
+						<homecare  star="1" values="" sources="obesity"  >Avoid exposure to secondary smoke.</homecare>
+						<homecare  star="1" values="" sources="obesity"  >Drink six 8-ounce glasses of water a day.</homecare>
+						<homecare  star="1" values="" sources="obesity"  >Follow an exercise plan developed with your doctor.</homecare>
+						<homecare  star="1" values="" sources="obesity"  >For men: no more than 2 alcoholic beverages per day</homecare>
+						<homecare  star="1" values="" sources="obesity"  >For women: no more than 1 alcoholic beverage per day</homecare>
+						<homecare  star="1" values="" sources="obesity"  >Join a weight loss program.</homecare>
+						<homecare  star="1" values="" sources="obesity"  >Join a weight-loss support group.</homecare>
+						<homecare  star="1" values="" sources="obesity"  >Stop smoking.</homecare>
+						</homecare_options>
+
+				<chronic_homecare_options>
+				</chronic_homecare_options>
+
+			</advice_options>
+
+			</diagnosis>
+			</root>
+
+			

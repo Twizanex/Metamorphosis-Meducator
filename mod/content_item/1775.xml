@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<graph id="ELGG" edgedefault="directed">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="username" for="node" attr.name="username" attr.type="string"/>
+<node id="1775">
+<data key="name">The liver: introductory lesson
+Repurposing Context: different technology,different content type,different educational levels,different pedagogy</data>
+<data key="username">The_liver:_introductory_lesson</data>
+</node>
+<node id="1761">
+<data key="name">Liver anatomy: anterior view</data>
+<data key="username">Liver_anatomy:_anterior_view</data>
+</node>
+<node id="1768">
+<data key="name">Liver anatomy: visceral surface</data>
+<data key="username">Liver_anatomy:_visceral_surface</data>
+</node>
+<edge id="e6 " source="1761" target="1775"/>
+<edge id="e7 " source="1768" target="1775"/>
+</graph>
+</graphml>

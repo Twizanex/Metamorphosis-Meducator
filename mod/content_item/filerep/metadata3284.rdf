@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#3284">
+
+	 <mdc:identifier><![CDATA[http://www.med.helsinki.fi/tuke/meducator/gastrointestinal_diseases_and_nephrology_questions_no_answers.xls]]></mdc:identifier> 
+<mdc:title><![CDATA[Set of clinical questions in gastroenterology and nephrology 001 ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Timo Kuusi]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Timo Kuusi]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/tikuusi?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-06-15</mdc:created>
+<mdc:metadataCreated>2010-06-22</mdc:metadataCreated>
+<mdc:citation><![CDATA[Gastroenterology and nephrology questions from Helsinki]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject786762209"><rdfs:label><![CDATA[Clinical ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1970923106"><rdfs:label><![CDATA[ questions ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1819751993"><rdfs:label><![CDATA[ medical ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1928447718"><rdfs:label><![CDATA[ gastroenterology ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1701983949"><rdfs:label><![CDATA[ nephrology ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This set of 62 questions is used in some clinical tests (every now and then) for 3rd of 4th year students in the clinical phase]]></mdc:description>
+<mdc:technicalDescription><![CDATA[This file is in the form of an excel file.]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#examinationQuestions"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1266457857"><rdfs:label><![CDATA[Internal medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality241901195"><rdfs:label><![CDATA[Gastroenterology and nephrology ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>clinical</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Teaching and testing of gastroenterology and nephrology in the clinics]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Teachers can use these questins to monitor the knowledge of gastroenterology and nephrology after clinical studies.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[The student can deal with problems in gastroenterology and nephrology]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[The student can deal with problems in gastroenterology and nephrology]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[This is as assessment method as such: right answer = +, wrong answer = - and no answer (empty)=0.]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[Preclinical  and some clinical medical studies.]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<graph id="ELGG" edgedefault="directed">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="username" for="node" attr.name="username" attr.type="string"/>
+<node id="45460">
+<data key="name">DIABETES MELLITUS - Lecture in Endocrinology for medical students</data>
+<data key="username">5891059e098ec34154c3b5a72c67371d</data>
+</node>
+</graph>
+</graphml>

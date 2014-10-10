@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2632">
+
+	 <mdc:identifier><![CDATA[http://nosmoke.med.auth.gr/elearning/mod/resource/view.php?id=63]]></mdc:identifier> 
+<mdc:title><![CDATA[The use of Open Source and Web2.0 in developing an Integrated EHR and e-learning System for the Greek Smoking Cessation Network ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Stathis Th. Konstantinidis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Evdokimos Konstantinidis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Maria M. Nikolaidou]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Afroditi K. Boutou]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Nikos Havouzis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Paraskevi Argyropoulou]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Panagiotis D. Bamidis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/stathis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-08-17</mdc:created>
+<mdc:metadataCreated>2010-05-09</mdc:metadataCreated>
+<mdc:citation><![CDATA[Stathis Th. Konstantinidis, Evdokimos Konstantinidis, Maria M. Nikolaidou, Afroditi K. Boutou, Nikos Havouzis,Paraskevi Argyropoulou, Panagiotis D. Bamidis. The use of Open Source and Web2.0 in developing an Integrated EHR and e-learning System for the Greek Smoking Cessation Network. [presentation in MIE2009]. http://nosmoke.med.auth.gr/elearning/mod/resource/view.php?id=63. Retrived at...]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1393720171"><rdfs:label><![CDATA[Electronic Health Records ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject291483778"><rdfs:label><![CDATA[ Open source ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1657476145"><rdfs:label><![CDATA[ SCORM ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject535444479"><rdfs:label><![CDATA[ Healthcare LOM ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject925185823"><rdfs:label><![CDATA[ Collaborative learning ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1220460968"><rdfs:label><![CDATA[ social networking ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1612203417"><rdfs:label><![CDATA[ continuing medical education ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject434663451"><rdfs:label><![CDATA[ public awareness ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Technologies of information and communication are incrementally integrated with all facets of healthcare practice and education. Although Electronic Health Records (EHRs) have long been used in healthcare the introduction of open source tools has empowered their further expansion of use. Simultaneously the use of Web 2.0 tools has opened up new ways of enhancing both healthcare practice and education. In this paper, we describe our approach towards the development of an integrated system supporting the smoking cessation network initiatives in the Greek public hospitals. The system combines the availability of an open source, web based EHR subsystem, with a Web 2.0 facilitated e-learning component for supporting continuing medical education and promoting public awareness.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[MS powerpoint]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline903453871"><rdfs:label><![CDATA[Medical Informatics ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>Continues Proffesional Development, postgraduate students</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Presentation in a seminar of an integrated system regarding smoking Cessation.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Presentation. Directed Learning]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[To familiarize the learners with innovative combination of technologies on EHR, elearning, and forum.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[To able to describe the system. To know iots existance. To use the system.]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[Multiple choice questions]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[Basic Knowlegde of Databases and Computer Science.]]></mdc:educationalPrerequisites>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Use of Greek Smoking Cessation Network EHR platform</mdc:title>
+<mdc:identifier>http://nosmoke.med.auth.gr/elearning/mod/resource/view.php?inpopup=true&amp;id=54</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>The content of 2 video lectures repurposed to one powerpoint presentation. The language changed. End user changed from phycisian to medical informatician. A self-learning video lecture repurpose to a directed-learning presentation</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Technology</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Content-Types</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Disciplines</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Languages</mdc:fromRepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Use of elearning environment for Greek Smoking Cessation Network</mdc:title>
+<mdc:identifier>http://nosmoke.med.auth.gr/elearning/mod/resource/view.php?inpopup=true&amp;id=50</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>The content of 2 video lectures repurposed to one powerpoint presentation. The language changed. End user changed from phycisian to medical informatician. A self-learning video lecture repurpose to a directed-learning presentation</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Technology</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Content-Types</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Disciplines</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Languages</mdc:fromRepurposingContext>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

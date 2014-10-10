@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2485">
+
+	 <mdc:identifier><![CDATA[http://www.ncbi.nlm.nih.gov/pubmed/10938196]]></mdc:identifier> 
+<mdc:title><![CDATA[The Italian guidelines for stroke prevention and management ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution" />
+<mdc:rights><![CDATA[ written permission to mEducator from the SPREAD]]></mdc:rights>
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Manuela Pennisi]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/mpennisi?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created></mdc:created>
+<mdc:metadataCreated>2010-05-08</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject965764300"><rdfs:label><![CDATA[ ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[]]></mdc:description>
+<mdc:resourceType rdf:resource=""/>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Linee Guida Italiane di Prevenzione e Trattamento Ictus Cerebrale</mdc:title>
+<mdc:identifier>http://www.spread.it/files/SPREAD_6_2010_sintesi.pdf</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>This is the english version of the official italian guidelines for stroke prevention and management</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>http://purl.org/meducator/repurposing#Different-Languages</mdc:fromRepurposingContext>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

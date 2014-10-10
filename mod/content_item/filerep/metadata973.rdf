@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#973">
+
+	 <mdc:identifier><![CDATA[http://web-trace.ing.unict.it]]></mdc:identifier> 
+<mdc:title><![CDATA[The Web-Trace Platform ]]></mdc:title>
+<mdc:rights><![CDATA[ The Platform is a LCMS free for use for mEducator users]]></mdc:rights>
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Daniela Giordano]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Rosalia Leonardi]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Daniela Giordano]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/dani?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-01-01</mdc:created>
+<mdc:metadataCreated>2010-03-13</mdc:metadataCreated>
+<mdc:citation><![CDATA[The Web-Trace LCMS (http://web-trace.ing.unict.it)]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject841621364"><rdfs:label><![CDATA[pen-based e-learning ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2098572169"><rdfs:label><![CDATA[ graphical annotation ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject346898449"><rdfs:label><![CDATA[ visual discrimination ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject961403740"><rdfs:label><![CDATA[ digital tracing ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1473984803"><rdfs:label><![CDATA[ image collections ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Web-Trace is a special type of content management system (LCMS) that has been designed to support the creation of self-directed learning experiences based on the use of â€œdigital tracingsâ€ of images.
+
+A digital tracing can be drawn on an image for any educational purposes. Typically, a tracing is drawn by an â€œexpertâ€ or a â€œteacherâ€ to highlight a region of interest in an image, and is treated as a layer that can remain hidden or can be visualized upon the learnerâ€™s request.
+
+When the student chooses to practice on an image the task requested by the teacher, he or she will visualize the image, without any prompt or clue (as it typically happens with â€œhot spotsâ€) and will be able to trace or mark the image. Once the exercise is saved, the student can visualize the expert tracing and obtain immediate visual feedback.
+
+This approach is especially useful in the medical domain because it provides the opportunity to practice the skill of perceiving the important details in an image (be it an X-ray, or any other product of an imaging diagnostic system). For example, exercises can be designed to learn the identification of anatomical structures in a teleradiographic projection, or the presence of abnormalities in an image from microscope.
+
+An extension of the â€œtracingâ€ that must closely following some elements in the image, is the drawing of a graphical annotation that is highlight loosely an area, for example, the evidence of a clinically relevant pattern in a biosignal. We can think of this situation as producing a tracing where constraints on the drawing precision have been relaxed.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[The LCMS is available at its URL  for creating content that can be shared within mEducator.
+Registration as teacher is required for creating new contents
+When drawing precision is required, the usage of a Tablet Ps at the client side is recommended.]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#image"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline80383655"><rdfs:label><![CDATA[Any disciplines that requires image or diagram reading and interpretation ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:teachingLearningInstructions><![CDATA[The Web-Trace LCMS can be used to create collections of "cases" such as diagnostic images, (bio)signal recordings, etc., annotated by the teacher in the critical regions. 
+Several pedagogical approaches are supported:
+- teachers can explicitly assign the "cases" to work out, and enable automatic visual feedback once the student has completed the exercise.
+- teachers can use the collection of cases as an additional learning resource that the students are free to explore and allow visualization of the answer whenever the learner asks for it.
+- the LCMS can be used in a blended learning setting or in a on-line setting by making use of its teacher-student communication multimodal communication features.]]></mdc:teachingLearningInstructions>
+</mdc:Resource></rdf:RDF>

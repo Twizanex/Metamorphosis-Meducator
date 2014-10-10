@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2294">
+
+	 <mdc:identifier><![CDATA[http://www.elu.sgul.ac.uk/revip/john/index.html?lang=en&amp;caseid=477537]]></mdc:identifier> 
+<mdc:title><![CDATA[John M Linear Virtual Patient ]]></mdc:title>
+<mdc:identifier><![CDATA[evip:vp:1000530 ]]></mdc:identifier> 
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Sophie Vaughan]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Jonathan Round]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Evangelia Mitsopoulou]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-01-02</mdc:created>
+<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1957359574"><rdfs:label><![CDATA[Idiopathic thrombocytopenic purpura ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject92855351"><rdfs:label><![CDATA[ Paediatric ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject439062071"><rdfs:label><![CDATA[ Bruises ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1951357307"><rdfs:label><![CDATA[ Immunoglobulin ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This is the story about a Virtual Patient called John M. He is a little boy who is nearly 3 years old and is brought into Paediatric A&amp;E with bruises. As the case progresses you have to decide on the important aspects of the history and then proceed to investigations in order to make a diagnosis. Depending on your management you have to deal with some associated medical complications.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information.]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#virtualPatient"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline2099171734"><rdfs:label><![CDATA[Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1867971939"><rdfs:label><![CDATA[paediatrics ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>Pre-clinical Medical Student</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Self-Directed Learning]]></mdc:educationalContext>
+</mdc:Resource></rdf:RDF>

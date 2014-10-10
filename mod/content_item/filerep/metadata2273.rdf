@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2273">
+
+	 <mdc:identifier><![CDATA[http://www.elu.sgul.ac.uk/revip/oega/index.html?lang=en&amp;caseid=477845]]></mdc:identifier> 
+<mdc:title><![CDATA[Oga Linear Virtual Patient ]]></mdc:title>
+<mdc:identifier><![CDATA[evip:vp:1000531 ]]></mdc:identifier> 
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Sophie Vaughan]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Jonathan Round]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Evangelia Mitsopoulou]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-01-02</mdc:created>
+<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject947925407"><rdfs:label><![CDATA[Paediatric ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject703377034"><rdfs:label><![CDATA[ Chronic cough ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1820180618"><rdfs:label><![CDATA[ Tuberculosis ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1683783365"><rdfs:label><![CDATA[ Respiratory ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This is the story of a Virtual Patient called Oga. She is a 3 year girl originally from Turkey who presents with a history of chronic cough to your respiratory clinic. As you proceed through the case you are able to evaluate the important aspects of the history and clinical examination. By interpreting specialist investigations you are able to make a diagnosis and formulate a management plan as well as managing some complications.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information.]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#virtualPatient"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline47588148"><rdfs:label><![CDATA[Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1737222203"><rdfs:label><![CDATA[paediatrics ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>Preclinical Medical Student</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Self-directed Learning]]></mdc:educationalContext>
+</mdc:Resource></rdf:RDF>

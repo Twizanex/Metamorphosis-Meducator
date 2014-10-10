@@ -1,0 +1,373 @@
+GUID|COUNT|VALUE1|VALUE2|VALUE3|VALUE4|VALUE5|VALUE6|VALUE7|VALUE8|VALUE9|VALUE10 
+838|1|http://purl.org/meducator/instances/|||||||||
+973|||||||||||
+1104|1|online tutorial|||||||||
+1146|1|pedagogical guideline, best practice|||||||||
+1160|1|best practice, pedagogical guideline|||||||||
+1220|2|Virtual patient|Assessment Item With Answers/Feedback||||||||
+1227|2|Lecture Notes|Virtual patient||||||||
+1234|1|Virtual patient|||||||||
+1255|1|Virtual patient|||||||||
+1328|1|http://purl.org/meducator/instances/|||||||||
+1384|1|Lecture Notes|||||||||
+1403|1|Game, serious game|||||||||
+1410|1|quiz|||||||||
+1419|1|quiz|||||||||
+1464|1|Atlas|||||||||
+1471|||||||||||
+1489|1|Handbook|||||||||
+1527|1|Diagnostic exam|||||||||
+1535|1|Diagnostic exam|||||||||
+1570|1|Diagnostic exam|||||||||
+1593|1|Diagnostic exam|||||||||
+1608|||||||||||
+1615|1|e-book with annotated and interactive figures|||||||||
+1638|||||||||||
+1659|||||||||||
+1666|||||||||||
+1680|1|Simulation|||||||||
+1687|2|Simulation|Clinical case||||||||
+1694|3|problemsExercises|Scientific Journal article|Evidence based medicine form|||||||
+1708|||||||||||
+1715|1|problemsExercises|||||||||
+1722|1|Lecture Notes|||||||||
+1761|||||||||||
+1768|||||||||||
+1775|3|http://purl.org/meducator/instances/|Lecture Notes|Teaching File|||||||
+1782|1|3D model|||||||||
+1796|2|http://purl.org/meducator/instances/|Atlas||||||||
+1803|1|Handbook|||||||||
+1810|1|problemsExercises|||||||||
+1817|1|3D model with annotations|||||||||
+1824|||||||||||
+1831|1|multimedia medical lesson|||||||||
+1838|||||||||||
+1845|1|Clinical case|||||||||
+1852|1|Clinical case|||||||||
+1859|||||||||||
+1866|||||||||||
+1873|1|http://purl.org/meducator/instances/|||||||||
+1880|1|http://purl.org/meducator/instances/|||||||||
+1887|||||||||||
+1894|||||||||||
+1901|1|Clinical case|||||||||
+1908|1|Practical|||||||||
+1944|1|Game, serious game|||||||||
+1951|1|Practical|||||||||
+1958|||||||||||
+1969|1|http://purl.org/meducator/instances/|||||||||
+1976|1|clinical case with description and images|||||||||
+1983|1|clinical case with description and images|||||||||
+1990|1|clinical case with description and images|||||||||
+1997|1|clinical case with description and images|||||||||
+2004|1|clinical case with description and images|||||||||
+2011|1|clinical case with description and images|||||||||
+2018|1|http://purl.org/meducator/instances/|||||||||
+2025|1|clinical case with description and images|||||||||
+2032|1|clinical case with description and images|||||||||
+2045|1|clinical case with description and images|||||||||
+2052|1|clinical case with description and images|||||||||
+2059|1|clinical case with description and images|||||||||
+2066|1|clinical case with description and images|||||||||
+2073|1|clinical case with description and images|||||||||
+2101|1|Diagnostic algorithm|||||||||
+2108|1|Diagnostic algorithm|||||||||
+2115|1|Diagnostic algorithm|||||||||
+2122|1|Diagnostic algorithm|||||||||
+2130|1|Lecture Notes|||||||||
+2144|1|Scientific Journal article|||||||||
+2151|1|Scientific Journal article|||||||||
+2165|1|Diagnostic algorithm|||||||||
+2172|1|Diagnostic algorithm|||||||||
+2179|5|problemsExercises|Lecture Notes|Figure/Diagram/Picture|Indexes|Diagnostic algorithm|||||
+2186|1|Diagnostic algorithm|||||||||
+2200|1|Diagnostic algorithm|||||||||
+2208|3|Lecture Notes|Figure/Diagram/Picture|Clinical case|||||||
+2217|2|Lecture Notes|Figure/Diagram/Picture||||||||
+2224|3|Lecture Notes|Figure/Diagram/Picture|Diagnostic algorithm|||||||
+2231|1|Scientific Journal article|||||||||
+2238|1|Game, serious game|||||||||
+2245|||||||||||
+2252|1|Virtual patient|||||||||
+2259|1|Virtual patient|||||||||
+2266|1|Virtual patient|||||||||
+2273|1|Virtual patient|||||||||
+2280|1|Virtual patient|||||||||
+2287|1|Virtual patient|||||||||
+2294|1|Virtual patient|||||||||
+2302|1|Scientific Journal article|||||||||
+2309|||||||||||
+2316|1|Virtual patient|||||||||
+2323|1|Virtual patient|||||||||
+2330|1|Virtual patient|||||||||
+2337|2|Figure/Diagram/Picture|Teaching File||||||||
+2344|1|Teaching File|||||||||
+2351|2|Lecture Notes|Teaching File||||||||
+2358|||||||||||
+2365|||||||||||
+2372|||||||||||
+2379|||||||||||
+2386|||||||||||
+2393|||||||||||
+2401|1|Scientific Journal article|||||||||
+2415|||||||||||
+2422|1|multimedia medical lesson|||||||||
+2429|||||||||||
+2436|1|Lecture Notes|||||||||
+2448|||||||||||
+2464|1|http://purl.org/meducator/instances/|||||||||
+2471|||||||||||
+2478|||||||||||
+2485|1|http://purl.org/meducator/instances/|||||||||
+2492|1|http://purl.org/meducator/instances/|||||||||
+2499|1|Diagnostic algorithm|||||||||
+2506|||||||||||
+2513|||||||||||
+2520|1|Diagnostic algorithm|||||||||
+2527|1|Diagnostic algorithm|||||||||
+2534|||||||||||
+2541|1|Scientific Journal article|||||||||
+2548|1|Scientific Journal article|||||||||
+2555|1|Scientific Journal article|||||||||
+2562|1|Virtual patient|||||||||
+2569|1|Diagnostic algorithm|||||||||
+2576|1|Diagnostic algorithm|||||||||
+2583|||||||||||
+2590|1|http://purl.org/meducator/instances/|||||||||
+2597|1|text|||||||||
+2604|||||||||||
+2611|||||||||||
+2618|||||||||||
+2625|||||||||||
+2632|||||||||||
+2639|||||||||||
+2647|1|Scientific Journal article|||||||||
+2656|1|Game, serious game|||||||||
+2665|1|Scientific Journal article|||||||||
+2672|1|Scientific Journal article|||||||||
+2681|1|Diagnostic algorithm|||||||||
+2688|1|Diagnostic algorithm|||||||||
+2717|1|Game, serious game|||||||||
+2724|1|Game, serious game|||||||||
+2731|1|Game, serious game|||||||||
+2738|1|Lecture Notes|||||||||
+2745|||||||||||
+2752|||||||||||
+2759|||||||||||
+2766|1|http://purl.org/meducator/instances/|||||||||
+2773|||||||||||
+2780|||||||||||
+2787|||||||||||
+2794|1|multimedia medical teaching material|||||||||
+2801|1|multimedia medical teaching material|||||||||
+2815|1|materiale didactice medicale multimedia|||||||||
+2822|1|multimedia medical teaching material|||||||||
+2829|1|multimedia medical teaching material|||||||||
+2836|1|multimedia medical teaching material|||||||||
+2979|1|http://purl.org/meducator/instances/|||||||||
+3032|3|http://purl.org/meducator/instances/|Indexes|Table|||||||
+3146|1|Teaching File|||||||||
+3153|1|Teaching File|||||||||
+3160|1|Teaching File|||||||||
+3167|1|Teaching File|||||||||
+3176|1|Teaching File|||||||||
+3183|1|Teaching File|||||||||
+3190|1|Teaching File|||||||||
+3204|||||||||||
+3215|||||||||||
+3227|||||||||||
+3234|||||||||||
+3241|||||||||||
+3248|1|It is a paper-based ECG that was scanned and thus it was transformed into a digital image|||||||||
+3255|1|It is a paper-based ECG that was scanned and thus it was transformed into a digital image|||||||||
+3262|||||||||||
+3284|1|problemsExercises|||||||||
+3349|3|Atlas|Guideline|Clinical case|||||||
+3370|1|Text with illustrations|||||||||
+3377|1|Text with illustrations|||||||||
+3384|1|Text with illustrations|||||||||
+3391|1|Text with illustrations|||||||||
+3402|1|http://purl.org/meducator/instances/|||||||||
+3410|1|Simulation|||||||||
+3424|1|Handbook|||||||||
+3431|||||||||||
+3438|1|http://purl.org/meducator/instances/|||||||||
+3445|1|chapter of book|||||||||
+3452|||||||||||
+3473|1|It is a paper-based ECG that was scanned and thus it was transformed into a digital image|||||||||
+3480|1|It is a paper-based ECG that was scanned and thus it was transformed into a digital image|||||||||
+3487|||||||||||
+3494|1|http://purl.org/meducator/instances/|||||||||
+3501|1|Text with illustrations|||||||||
+3508|1|Text with illustrations|||||||||
+3515|1|Text with illustrations|||||||||
+3522|1|Text with illustrations|||||||||
+3533|1|Text with illustrations|||||||||
+3540|1|Text with illustrations|||||||||
+3547|1|Text with illustrations|||||||||
+3554|1|Text with illustrations|||||||||
+3565|1|Text with illustrations|||||||||
+3572|1|Text with illustrations|||||||||
+3579|1|Text with illustrations|||||||||
+3586|1|Text with illustrations|||||||||
+3608|1|Text with illustrations|||||||||
+3615|1|Text with illustrations|||||||||
+3622|1|Text with illustrations|||||||||
+3629|1|Text with illustrations|||||||||
+3647|1|Text with illustrations|||||||||
+3654|1|Text with illustrations|||||||||
+3661|1|Text with illustrations|||||||||
+3668|1|Text with illustrations|||||||||
+3695|||||||||||
+3702|||||||||||
+3709|||||||||||
+3716|1|Text with illustrations|||||||||
+3723|1|Text with illustrations|||||||||
+3730|1|Text with illustrations|||||||||
+3737|1|Text with illustrations|||||||||
+3748|1|Text with illustrations|||||||||
+3755|1|Text with illustrations|||||||||
+3762|1|Text with illustrations|||||||||
+3769|1|Text with illustrations|||||||||
+3804|1|Text with illustrations|||||||||
+3811|1|Text with illustrations|||||||||
+3818|1|Text with illustrations|||||||||
+3825|1|Text with illustrations|||||||||
+3836|1|Text with illustrations|||||||||
+3843|1|Text with illustrations|||||||||
+3850|1|Text with illustrations|||||||||
+3857|1|Text with illustrations|||||||||
+3868|1|Text with illustrations|||||||||
+3875|1|Text with illustrations|||||||||
+3882|1|Text with illustrations|||||||||
+3889|1|Text with illustrations|||||||||
+3934|1|Text with illustrations|||||||||
+3941|1|Text with illustrations|||||||||
+3948|1|Text with illustrations|||||||||
+3955|1|Text with illustrations|||||||||
+3966|1|Text with illustrations|||||||||
+3973|1|Text with illustrations|||||||||
+3980|1|Text with illustrations|||||||||
+3990|1|Text with illustrations|||||||||
+3997|1|Text with illustrations|||||||||
+4004|1|Text with illustrations|||||||||
+4011|1|Text with illustrations|||||||||
+4022|1|Text with illustrations|||||||||
+4029|1|Text with illustrations|||||||||
+4036|1|Text with illustrations|||||||||
+4043|1|Text with illustrations|||||||||
+4150|1|Lecture Notes|||||||||
+4157|||||||||||
+4164|||||||||||
+4171|||||||||||
+4178|||||||||||
+4185|1|Lecture Notes|||||||||
+4192|1|Figure/Diagram/Picture|||||||||
+4199|1|Lecture Notes|||||||||
+4206|1|Figure/Diagram/Picture|||||||||
+4213|||||||||||
+4220|1|Handbook|||||||||
+4227|1|http://purl.org/meducator/instances/|||||||||
+4234|1|http://purl.org/meducator/instances/|||||||||
+4241|1|http://purl.org/meducator/instances/|||||||||
+4248|1|http://purl.org/meducator/instances/|||||||||
+4255|1|http://purl.org/meducator/instances/|||||||||
+4262|1|http://purl.org/meducator/instances/|||||||||
+4269|1|http://purl.org/meducator/instances/|||||||||
+4276|1|Handbook|||||||||
+4283|1|Handbook|||||||||
+4290|1|Handbook|||||||||
+4297|1|Handbook|||||||||
+4304|1|Handbook|||||||||
+4311|2|http://purl.org/meducator/instances/|Handbook||||||||
+4318|2|http://purl.org/meducator/instances/|Handbook||||||||
+4325|2|http://purl.org/meducator/instances/|Handbook||||||||
+4332|1|chaper of book|||||||||
+4339|1|chaper of book|||||||||
+4346|1|chaper of book|||||||||
+4353|1|chaper of book|||||||||
+4360|1|chaper of book|||||||||
+4367|1|chaper of book|||||||||
+4374|1|chaper of book|||||||||
+4381|1|chaper of book|||||||||
+4388|1|chapter of book|||||||||
+4395|1|chapter of book|||||||||
+4402|1|chapter of book|||||||||
+4409|1|chapter of book|||||||||
+4416|1|chapter of book|||||||||
+4423|1|chapter of book|||||||||
+4430|1|chapter of book|||||||||
+4437|1|chapter of book|||||||||
+4444|1|chapter of book|||||||||
+4451|1|chapter of book|||||||||
+4458|1|chapter of book|||||||||
+4465|1|chapter of book|||||||||
+4472|1|chapter of book|||||||||
+4479|1|chapter of book|||||||||
+4486|1|chapter of book|||||||||
+4493|1|chapter of book|||||||||
+4500|1|chapter of book|||||||||
+4507|1|chapter of book|||||||||
+4568|1|http://purl.org/meducator/instances/|||||||||
+4575|1|http://purl.org/meducator/instances/|||||||||
+4582|1|http://purl.org/meducator/instances/|||||||||
+4589|1|http://purl.org/meducator/instances/|||||||||
+4596|1|http://purl.org/meducator/instances/|||||||||
+4603|1|http://purl.org/meducator/instances/|||||||||
+4610|1|http://purl.org/meducator/instances/|||||||||
+4633|1|Game, serious game|||||||||
+4640|1|Game, serious game|||||||||
+4799|1|Lecture Notes|||||||||
+4813|1|Lecture Notes|||||||||
+4820|1|Lecture Notes|||||||||
+4827|1|Lecture Notes|||||||||
+4865|1|Lecture Notes|||||||||
+4873|1|Lecture Notes|||||||||
+5476|1|problemsExercises|||||||||
+5483|1|problemsExercises|||||||||
+5490|1|problemsExercises|||||||||
+5497|1|problemsExercises|||||||||
+5504|1|problemsExercises|||||||||
+5511|1|problemsExercises|||||||||
+5518|1|problemsExercises|||||||||
+5539|1|Case study|||||||||
+5554|1|Case study|||||||||
+5561|1|Case study|||||||||
+5568|1|Case study|||||||||
+5575|1|Case study|||||||||
+5582|1|Case study|||||||||
+5589|1|Case study|||||||||
+5596|1|Case study|||||||||
+5603|1|Case study|||||||||
+5610|1|Case study|||||||||
+5617|1|http://purl.org/meducator/instances/|||||||||
+5624|1|Case study|||||||||
+5631|1|Case study|||||||||
+5638|1|Case study|||||||||
+5645|1|Case study|||||||||
+5652|1|Case study|||||||||
+8163|1|problemsExercises|||||||||
+11464|1|http://purl.org/meducator/instances/|||||||||
+12246|1|http://purl.org/meducator/instances/|||||||||
+12253|1|http://purl.org/meducator/instances/|||||||||
+12715|1|http://purl.org/meducator/instances/|||||||||
+12736|1|http://purl.org/meducator/instances/|||||||||
+15209|1|http://purl.org/meducator/instances/|||||||||
+15608|||||||||||
+15615|||||||||||
+15622|||||||||||
+15629|||||||||||
+15636|||||||||||
+15643|||||||||||
+15650|||||||||||
+15657|||||||||||
+15664|||||||||||
+15671|||||||||||
+15678|||||||||||
+15685|||||||||||
+15692|||||||||||
+15699|||||||||||
+15706|||||||||||
+15713|||||||||||
+15720|||||||||||
+21804|||||||||||

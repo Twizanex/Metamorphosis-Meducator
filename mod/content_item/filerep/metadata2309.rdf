@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2309">
+
+	 <mdc:identifier><![CDATA[http://iris.med.duth.gr/elearning/mod/resource/view.php?id=205]]></mdc:identifier> 
+<mdc:title><![CDATA[Introduction to Hemodialysis and Peritoneal Dialysis ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>Greek</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Passadakis Ploumis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Ploumis Passadakis]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/ploumis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2007-04-19</mdc:created>
+<mdc:metadataCreated>2010-05-07</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject198524751"><rdfs:label><![CDATA[hemodialysis ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1297763459"><rdfs:label><![CDATA[peritoneal ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject358359021"><rdfs:label><![CDATA[renal ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject262260157"><rdfs:label><![CDATA[dialysis ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject378429274"><rdfs:label><![CDATA[replacement ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1945898051"><rdfs:label><![CDATA[treatment ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Presentation for students of medical school.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[SCORM package]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#video"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#text"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline114350897"><rdfs:label><![CDATA[Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality2080251968"><rdfs:label><![CDATA[nephrology ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>undergraduates</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Learning about the essentials in renal replacement treatment.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[For teachers present it during the course and also enable students to view it online.
+For learners watch it, taking advantage of the playback features to stop and restart the presentation.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Understanding the basic principles of renal replacement treatment]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Understanding better the consequences of renal failure.]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[Questionnaire]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[Renal Physiology]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

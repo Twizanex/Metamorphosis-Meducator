@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<root>
+			<corporateuser>false</corporateuser>
+			<logo type="small">http://www.medgle.com/logo/medglelogoBB.png</logo>
+			<logo type="big">http://www.medgle.com/logo/medglelogoE.jpg</logo>
+			<linkback_url>http://www.medgle.com/rw/diagnoses/proteinuria</linkback_url>
+			<linkback_text>Click here for more information</linkback_text>
+			<resulttype>diagnosis</resulttype>
+			<diagnosis>
+				<diagnosis_name>proteinuria</diagnosis_name>
+				<diagnosis_url>http://www.medgle.com/rw/diagnoses/proteinuria</diagnosis_url>
+				<diagnosis_layman>abnormal level of protein in the urine</diagnosis_layman>
+				<diagnosis_category>IMMUNE SYSTEM, MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS, NEPHROLOGY</diagnosis_category>
+				<diagnosis_prevalence>uncommon</diagnosis_prevalence>
+				<diagnosis_travel></diagnosis_travel>
+				<diagnosis_definition></diagnosis_definition>
+				<ICD9>791.0</ICD9>
+					<ICD10>R80.</ICD10>
+					<diagnosis_ads>
+							</diagnosis_ads>
+
+				<diagnosis_emergency>No</diagnosis_emergency>
+				<related_diagnoses>
+						<related_diagnosis star="2147483647"  >IgA nephropathy</related_diagnosis>
+
+
+							<related_diagnosis star="2147483647"  >chronic glomerulonephritis</related_diagnosis>
+
+
+							<related_diagnosis star="2147483647"  >chronic renal disease</related_diagnosis>
+
+
+							<related_diagnosis star="2147483647"  >diabetic nephropathy</related_diagnosis>
+
+
+							<related_diagnosis star="2147483647"  >focal segmental glomerulosclerosis</related_diagnosis>
+
+
+							<related_diagnosis star="2147483647"  >lupus nephritis</related_diagnosis>
+
+
+							<related_diagnosis star="2147483647"  >membranous glomerulonephritis</related_diagnosis>
+
+
+							<related_diagnosis star="2147483647"  >nephrotic syndrome</related_diagnosis>
+
+
+							<related_diagnosis star="2147483647"  >systemic lupus erythematosis</related_diagnosis>
+
+
+							<related_diagnosis star="2147483647"  >urinary tract obstruction</related_diagnosis>
+
+
+							</related_diagnoses>
+				<procedures type="diagnostic">				
+						<procedure url="http://www.medgle.com/rw/procedures/Needle+Biopsy/" star="0" >Needle Biopsy</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Percutaneous+needle+biopsy/" star="0" >Percutaneous needle biopsy</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Percutaneous+renal+biopsy/" star="0" >Percutaneous renal biopsy</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/urinalysis+of+a+first-void+urine/" star="0" >urinalysis of a first-void urine</procedure>
+							</procedures>
+
+				<advice_options>
+
+				<otc_drugs>
+				</otc_drugs>
+
+
+				<homecare_options>
+				</homecare_options>
+
+				<chronic_homecare_options>
+				</chronic_homecare_options>
+
+			</advice_options>
+
+			</diagnosis>
+			</root>
+
+			

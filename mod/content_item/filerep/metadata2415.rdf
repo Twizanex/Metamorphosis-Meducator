@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2415">
+
+	 <mdc:identifier><![CDATA[]]></mdc:identifier> 
+<mdc:title><![CDATA[Pleuriti e versamenti pleurici ]]></mdc:title>
+<mdc:language>Italian</mdc:language>
+<mdc:metadataLanguage>Italian</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Paola Campione]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[paola campione]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/paola?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created></mdc:created>
+<mdc:metadataCreated>2010-05-07</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1474729546"><rdfs:label><![CDATA[dispnea ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1093340803"><rdfs:label><![CDATA[ dolore toracico ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1653149297"><rdfs:label><![CDATA[ pleura ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2103050248"><rdfs:label><![CDATA[ liquido pleurico ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1326763390"><rdfs:label><![CDATA[ versamento pleurico ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[descrizione anatomica della pleura e fisiologia di formazione e rimozione del liquido pleurico. eziologia delle pleuriti, meccanismi patogenetici responsabili della comparsa dei versamenti pleurici. Sintomatologia, iter diagnostico e terapia.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Presentazione in Power Point]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline57848240"><rdfs:label><![CDATA[Medicina ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1306006776"><rdfs:label><![CDATA[pneumologia ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>studenti di medicina, specializzandi in malattie respiratorie</mdc:educationalLevel>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Classes of Light for Parapneumonic Effusions and Empyema</mdc:title>
+<mdc:identifier>http://www.medal.org/visitor/www/active/ch8/ch8.35/ch8.35.01.aspx</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>Sono stati utilizzati variazioni dei parametri chimici del liquido pleurico in versamenti parapneumonici e nell'empiema.</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Languages</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Content-Types</mdc:fromRepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Catherine Miller</mdc:title>
+<mdc:identifier>http://labyrinth.sgul.ac.uk/mnode.asp?id=qgxlrdbu3lpfvf4jesngxlrdbtpr9kq</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>Sono stati utilizzati variazioni dei parametri chimici del liquido pleurico in versamenti parapneumonici e nell'empiema.</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Languages</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Content-Types</mdc:fromRepurposingContext>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

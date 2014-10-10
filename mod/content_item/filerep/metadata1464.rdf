@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#1464">
+
+	 <mdc:identifier><![CDATA[http://medting.com/case/view.php?id=4346]]></mdc:identifier> 
+<mdc:title><![CDATA[Fetal medicine case ]]></mdc:title>
+<mdc:identifier><![CDATA[MEDTING case id: 4346 ]]></mdc:identifier> 
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution" />
+<mdc:language>Spanish</mdc:language>
+<mdc:metadataLanguage></mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Ãlvaro SalvÃ¡]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Álvaro Salvá]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/asalva?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-04-23</mdc:created>
+<mdc:metadataCreated>2010-04-23</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject943424680"><rdfs:label><![CDATA[fetal ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject149719433"><rdfs:label><![CDATA[ medicine ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2140240381"><rdfs:label><![CDATA[ clinic case ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1885467123"><rdfs:label><![CDATA[ image ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Two ecographies]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Flash player required.
+Accessible via web.]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#atlas"/>
+<mdc:educationalContext><![CDATA[gynecology]]></mdc:educationalContext>
+</mdc:Resource></rdf:RDF>

@@ -1,0 +1,18 @@
+identifiers 1...n GUID|DESCRIPTION_1|VALUE_1|
+rights  1...2 GUID|VALUE_1|VALUE_2
+quality 1...5 - only yes/no
+authors 1...10 - GUID|NAME|AFFILIATION
+media_type  1...30 - GUID|VALUE1|VALUE2
+resource_type 1...30 - GUID|VALUE1|VALUE2
+educational_levels  1..4 - GUID|VALUE1|VALUE2
+educational_outcomes  1...30 - GUID|VALUE1|VALUE2
+subjects  1...30
+ontologies_su  1...30
+disciplines 1...30
+ontologies_di 1...30
+specialities 1...30
+ontologies_sp 1...30
+companion 1...10 - GUID|VALUE1|VALUE2
+repurposing_parents 1...20 - GUID|PARENT1|PARENT2|PARENT3
+repurposing_context 1..8 - GUID|GUIDP|REPC1|REPC2|RPC3|REPD
+*enrichment  1...30

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#63397">
+<mdc:title><![CDATA[Der Erfolg der Nike Air Max legte den Erfolg von Nike ]]></mdc:title>
+<mdc:identifier><mdc:Identifier><rdfs:description>URL</rdfs:description><rdfs:label><![CDATA[http://www.nikeschuhe-onlineshop.de/ ]]></rdfs:label></mdc:Identifier></mdc:identifier> 
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Share-Alike" />
+<mdc:rights> yhtu </mdc:rights>
+<mdc:language>gl</mdc:language> 
+<mdc:metadataLanguage>fr</mdc:metadataLanguage>
+<mdc:creator><foaf:Person> 
+<foaf:name><![CDATA[fe45ry ]]></foaf:name> 
+<sioc:memberOf><![CDATA[6eu768 ]]></sioc:memberOf>
+<mdc:profileURI><![CDATA[http://www.nikeschuhe-onlineshop.de/ ]]></mdc:profileURI>
+</foaf:Person></mdc:creator>	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[hcf carllirsdiu ]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/carllirsdiu?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2013-11-06</mdc:created>
+<mdc:metadataCreated>2013-11-29</mdc:metadataCreated>
+<mdc:subject><mdc:Subject rdf:about="http://purl.org/meducator/external/purl.obolibrary.org/obo/CHMO_0001974"><rdfs:isDefinedBy>http://purl.obolibrary.org/obo/CHMO_0001974</rdfs:isDefinedBy><rdfs:label>89Y nuclear magnetic resonance spectroscopy</rdfs:label><mdc:externalSource>Chemical Methods Ontology</mdc:externalSource></mdc:Subject></mdc:subject><mdc:description><![CDATA[http://www.nikeschuhe-onlineshop.de/ ]]></mdc:description>
+<mdc:discipline><mdc:Discipline rdf:about="http://purl.org/meducator/external/purl.obolibrary.org/obo/CHEBI_28733"><rdfs:isDefinedBy>http://purl.obolibrary.org/obo/CHEBI_28733</rdfs:isDefinedBy><rdfs:label>1-linoleoyl-sn-glycero-3-phosphocholine</rdfs:label><mdc:externalSource>Chemical Entities of Biological Interest Ontology</mdc:externalSource></mdc:Discipline></mdc:discipline><mdc:isAccompaniedBy><mdc:Resource rdf:about="http://www.nikeschuhe-onlineshop.de/"/></mdc:isAccompaniedBy> 
+</mdc:Resource></rdf:RDF>

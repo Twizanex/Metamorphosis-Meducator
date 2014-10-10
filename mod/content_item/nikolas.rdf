@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:mdc="http://www.meducator.net/#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:prefix1="http://meducator.open.ac.uk/ontologies/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+	
+	<mdc:Resource rdf:about="http://meducator.open.ac.uk/ontologies/meducator#NIKOLASTEST">
+		<dc:identifier> http://labyrinth.sgul.ac.uk/mnode.asp?id=40942</dc:identifier>
+		<dc:title>Mr Angermeier Linear Virtual Patient</dc:title>
+		<dc:language>en</dc:language>
+		<mdc:metadataLanguage>en</mdc:metadataLanguage>
+		<dc:creator>
+		<foaf:Person rdf:ID="Leda_Yazbeck">
+		<foaf:name> Leda Yazbeckk</foaf:name>
+		<foaf:firstName>Leda</foaf:firstName>
+		<foaf:surname>Yazbeckk</foaf:surname>
+	</foaf:Person>
+	</dc:creator>
+	<dc:creator>
+				<foaf:Person rdf:ID="Alex_Higton">
+		<foaf:name> Alex Higton</foaf:name>
+		<foaf:firstName>Leda</foaf:firstName>
+		<foaf:surname>Higton</foaf:surname>
+	</foaf:Person>
+			
+		</dc:creator>
+		<mdc:metadataCreator>
+			<foaf:Person rdf:ID="Evangelia_Mitsopoulou">
+				<foaf:name> Litsa Mitsopoulou</foaf:name>
+				<foaf:firstName>Litsa</foaf:firstName>
+				<foaf:surname>Mitsopoulou</foaf:surname>
+				<foaf:depiction rdf:resource="http://www.w3.org/People/rs.jpg"/>
+			</foaf:Person>
+		</mdc:metadataCreator>
+		<dcterms:created> 2010-01-29</dcterms:created>
+		<mdc:metadataCreated> 2010-07-26</mdc:metadataCreated>
+		<mdc:citation xml:lang="en">Under the terms of this Creative Commons license, we would like to acknowledge St George’s, University of London for providing access to this VP case: http://labyrinth.sgul.ac.uk/mnode.asp?id=40942 (accessed on 30th  	March) </mdc:citation>
+		<dc:subject> 
+		Chest pain, angina pectoris, acute myocardial infarction, thrombolysis, shock
+		</dc:subject>
+		<dc:description xml:lang="en"> This is the story about a Virtual Patient called Mr Angermeier. The case describes a 48 year old man presenting to A+E with chest pain. As the case progresses, you go through differential diagnosis as well as different management options for acute myocardial infarction. You have to decide on some initial investigations and interpret the results appropriately. The case goes through interpretation of investigations as well as indications and contraindications for each treatment modality. Prior to discharge, the patient develops shock, you will have to differentiate its type and formulate a management plan.</dc:description>
+		<mdc:technical_description xml:lang="en">This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information</mdc:technical_description>
+		<mdc:ofMediaType rdf:resource="http://meducator.open.ac.uk/ontologies/meducator#VirtualPatient-Scenarios"/>
+		<mdc:discipline xml:lang="en">Medicine</mdc:discipline>
+		<mdc:disciplineSpeciality xml:lang="en">Cardiology</mdc:disciplineSpeciality>
+		<mdc:educationalLevel rdf:resource="http://meducator.open.ac.uk/ontologies/meducator#Preclinical-Medical-Student"/>
+		<mdc:educationalContext xml:lang="en">This author of this VP intended its use to be for Self-Directed learning as a formative branched assessment VP</mdc:educationalContext>
+		<mdc:teachingInstructions xml:lang="en">This formative branched assessment focused VP is best used by students as a revision tool to recap particular learning objectives from a taught session. Or it could be used to supplement a Problem-Based Learning (PBL) session to cover objectives that might not have been covered during the PBL session.</mdc:teachingInstructions>
+		<mdc:assessmentMethods xml:lang="en">This is a branched formative assessment Virtual Patient which is intended to be used as a self-directed learning tool or as a supplement to PBL. This type of VP should take the student approximately 15 minutes to complete</mdc:assessmentMethods>
+		<mdc:educationalPrerequisites xml:lang="en">In order to play this VP successfully, the student must have a basic understanding in the area of cardiology - particularly the structure and function of the heart and an understanding of Electrocardiograms (ECG's).</mdc:educationalPrerequisites>
+		<mdc:educationalObjectives>
+			<rdf:Bag>
+				<rdf:_1>To obtain a chest pain history</rdf:_1>
+				<rdf:_2>To formulate a differential diagnosis and investigate appropriately </rdf:_2>
+				<rdf:_3>Interpretation of blood tests and ECG</rdf:_3>
+				<rdf:_4>To choose and interpret specialist investigations in order to confirm the diagnosis </rdf:_4>
+				<rdf:_5>To formulate an initial management plan </rdf:_5>
+				<rdf:_6>To stabilise the patient prior to discharge</rdf:_6>
+			</rdf:Bag>
+		</mdc:educationalObjectives>
+		<mdc:isRepurposedFrom>
+			<mdc:Resource rdf:ID="Angermeier_Branch">
+				<dc:title>Mr Angermeier Branch Virtual Patient </dc:title>
+				<dc:identifier> http://labyrinth.sgul.ac.uk/mnode.asp?id=36980</dc:identifier>
+			</mdc:Resource>
+		</mdc:isRepurposedFrom>
+		<mdc:repurposingContext rdf:resource="http://meducator.open.ac.uk/ontologies/meducator#Different-Pedagogy"/>
+		<mdc:repurposingDescription xml:lang="en"> Conducted as part of the eViP project in order to share this VP with the wider medical and healthcare education community. This particular VP was repurposed from a branched exploratory style to a more linear narrative approach. This repurposing was conducted to create an assessment VP to supplement the PBL curriculum at St George's in the area of cardiology. See www.virtualpatients.eu for more information.
+		</mdc:repurposingDescription>
+	</mdc:Resource>
+</rdf:RDF>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2217">
+
+	 <mdc:identifier><![CDATA[http://kedip.med.auth.gr/lomiedu/course/view.php?id=38]]></mdc:identifier> 
+<mdc:title><![CDATA[Η ΔΙΑΣΦΑΛΙΣΗ ΤΗΣ ΠΟΙΟΤΗΤΑΣ ΤΗΣ ΙΑΤΡΙΚΗΣ ΠΛΗΡΟΦΟΡΙΑΣ ΣΤΟ ΔΙΑΔΙΚΤΥΟ ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Share-Alike" />
+<mdc:language>Greek</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Panos Bamidis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/stathis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-10-08</mdc:created>
+<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject901625587"><rdfs:label><![CDATA[Web information quality assessment/evaluation ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[]]></mdc:description>
+<mdc:technicalDescription><![CDATA[SCORM object. Required installed flash player within the browser.
+Username and Password required: 
+Username testaccount
+Password meducator2009]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#discussionForum"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#figureDiagramPicture"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#image"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#lectureNotes"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline658157229"><rdfs:label><![CDATA[Medical Informatics ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>Postgraduate Medical Students</mdc:educationalLevel>
+<mdc:teachingLearningInstructions><![CDATA[Self learning through a SCORM module.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[This module aims to:
+- introduce students to the notion of information abundance in the era of internet
+- familiarize students with relevant terminologies, and strategies of searching, retrieving and evaluating information on the web (access valid medical information on the web and on specialised medical databases)
+- make students aware of the importance of information quality and familiarise them with evaluation protocols
+ - provide students with an indicative list of available technological options to achieve the above]]></mdc:educationalObjectives>
+<mdc:assessmentMethods><![CDATA[through multiple choice quiz]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[Familiar with the use of Internet, search engines and scientific content]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#12232">
+<mdc:title><![CDATA[Nikolas resource test 500 ]]></mdc:title>
+<mdc:identifier><mdc:Identifier><rdfs:description>URI</rdfs:description><rdfs:label><![CDATA[Identifier 1 ]]></rdfs:label></mdc:Identifier></mdc:identifier> 
+<mdc:language>eu</mdc:language> 
+<mdc:metadataLanguage>fi</mdc:metadataLanguage>
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Nikolas Dovrolis ]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/lordanton?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:metadataCreated>2011-07-15</mdc:metadataCreated>
+<mdc:hasRepurposingContext><mdc:RepurposingContext><mdc:repurposedFrom rdf:resource="http://purl.org/meducator/resources/c25ec982-69d9-48a9-8229-52d97b2f9a75" /><mdc:repurposingDescription><![CDATA[REP DESC FOR STOMACh]]></mdc:repurposingDescription>
+<mdc:fromRepurposingContext rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy" />
+<mdc:fromRepurposingContext rdf:resource="http://purl.org/meducator/repurposing#Different-Technology" />
+</mdc:RepurposingContext></mdc:hasRepurposingContext>
+<mdc:hasRepurposingContext><mdc:RepurposingContext><mdc:repurposedFrom rdf:resource="http://purl.org/meducator/resources/8ba29f5c-8f32-420e-ab1a-96e94a3261f5" /><mdc:repurposingDescription><![CDATA[REP DESC FOR OBRUS]]></mdc:repurposingDescription>
+<mdc:fromRepurposingContext rdf:resource="http://purl.org/meducator/repurposing#Different-Technology" />
+</mdc:RepurposingContext></mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

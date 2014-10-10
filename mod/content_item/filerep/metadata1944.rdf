@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#1944">
+
+	 <mdc:identifier><![CDATA[http://www.nanomission.org/]]></mdc:identifier> 
+<mdc:title><![CDATA[NanoMission ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-No-Derivatives" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage></mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Playgen]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[David Panzoli]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/Dpanzo?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2007-01-01</mdc:created>
+<mdc:metadataCreated>2010-04-29</mdc:metadataCreated>
+<mdc:citation><![CDATA[NanoMission. 2007. Playgen, UK]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1571103279"><rdfs:label><![CDATA[Nanotechnology ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2145783149"><rdfs:label><![CDATA[ ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[The game will be played through Nine challenges covering the following scientific concepts:
+Nano Medicine: How nanotechnology can be used to help fight disease.
+- Nano Scale : What the nano scale is like from a first person point of view &amp; how it differs from normal scale.
+- Nano Imaging: Imaging at nano scale. Use of atomic force microscope, electron microscopes and scanning tunneling microscope.
+- Nano Manipulations: Modifying and manipulating atoms inside nano structures.
+- Nano Electronics: How nanotechnology is used in electronics.
+- Nano Machines: Devices created from atoms. Nano robots, nano sensors, nano motors, nano drug delivery systems, nano manipulators.
+- Self-Assembly: Understanding self-assembly in the nanoworld.
+- Quantum Theory and Quantum Computing : How objects behave at quantum level, wave particle duality, uncertainty principles, applications in quantum computing.
+- Nano Materials: How tho create them and what are their properties.]]></mdc:description>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#gameSeriousGame"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1765825319"><rdfs:label><![CDATA[Nanotechnology ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalObjectives><![CDATA[Whilst most young people are familiar with nanotechnology as a fantastic futuristic technology involving miniature robots, very few have a realistic understanding of nanotechnology, realise its impact on the world around them, or are genuinely stimulated about its possibilities. Coupled with declining numbers of physics, chemistry and engineering students, this is a major cause for concern.
+
+Our aim is to inspire youngsters about the world of nanotechnology, potentially opening their eyes to choosing it as a career. Aimed at the gaming generations, NanoMissionâ„¢ is an engaging learning experience which educates players about basic concepts in nanoscience through real world practical applications from microelectronics to drug delivery.
+Through sponsorship, we aim to make the PC version of the game, including a â€˜teachersâ€™ version which contains lesson plans and online support, available free to schools and colleges throughout the world.]]></mdc:educationalObjectives>
+</mdc:Resource></rdf:RDF>

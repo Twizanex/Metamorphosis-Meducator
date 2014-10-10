@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<graph id="ELGG" edgedefault="directed">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="username" for="node" attr.name="username" attr.type="string"/>
+<node id="1831">
+<data key="name">Gastric Cancer</data>
+<data key="username">Gastric_Cancer</data>
+</node>
+<node id="1817">
+<data key="name">3D stomach model with description of the main sections
+Repurposing Context: different technology,different content type</data>
+<data key="username">3D_annotated_stomach_model</data>
+</node>
+<edge id="e9 " source="1817" target="1831"/>
+</graph>
+</graphml>

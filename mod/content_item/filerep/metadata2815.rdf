@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2815">
+
+	 <mdc:identifier><![CDATA[http://dataserver.mediogrid.utcluj.ro/adnotare/release/resource/lectii/178/index.htm]]></mdc:identifier> 
+<mdc:title><![CDATA[Bolile pancreasului ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>Romanian</mdc:language>
+<mdc:metadataLanguage>Romanian</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Denisa Rodila]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Danut Mihon]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Denisa Rodila]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/denisa.rodila?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-04-12</mdc:created>
+<mdc:metadataCreated>2010-05-11</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1653357383"><rdfs:label><![CDATA[anatomia pancreasului ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1567250116"><rdfs:label><![CDATA[ bolile pancreasului ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Acest item descrie principalele boli ale pancreasului si remediile pentru acestea.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Desi poate fi accesata prin intermediul browserelor obisnuite, este recomandat ca vizualizarea si utilizarea lectiei sa fie facuta numai in aplicatia eTrace.]]></mdc:technicalDescription>
+<mdc:resourceType> materiale didactice medicale multimedia</mdc:resourceType>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline2118358005"><rdfs:label><![CDATA[medicina ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1987718072"><rdfs:label><![CDATA[anatomie ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>student, public larg</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Este recomandat ca aceasta resursa sa fie utilizata in cadrul cursurilor de anatomie, pentru a prezenta o viziune generala asupra bolilor pancreasului.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Resursa poate constitui o baza de lectie, care poate fi apoi imbunatatita in timp real, prin intermediul adnotarii grafice asigurate de aplicatia eTrace.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Obiectivele acestei resurse este de a prezenta o scurta descriere a pancreasului si a bolilor care ataca acest organ.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Dupa studierea materialului, studentii vor avea abilitatea de a recunoaste cele mai comune boli ale pancreasului.]]></mdc:educationalOutcomes>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>The pancreas - overview</mdc:title>
+<mdc:identifier>http://dataserver.mediogrid.utcluj.ro/adnotare/release/resource/lectii/176/index.htm</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>This resource was created from the "The pancreas: overview" item through language and cultural repurposing towards Romania's specific characteristics. Furthermore, the information presented in the parent resource has been simplified in order to be suited for a different pedagogical approach, that is best suited for general public education.</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Languages</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Cultures</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy</mdc:fromRepurposingContext>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

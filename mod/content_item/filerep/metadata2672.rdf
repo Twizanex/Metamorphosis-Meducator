@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2672">
+
+	 <mdc:identifier><![CDATA[http://www.hippokratia.gr/index.php/hippo/article/view/650/338]]></mdc:identifier> 
+<mdc:title><![CDATA[A research facility for habitation questions to be built at the German Aerospace Center in Cologne: future challenges of Space medicine ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-No-Derivatives" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[B Koch]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ R. Gerzer]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/stathis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2008-09-24</mdc:created>
+<mdc:metadataCreated>2010-05-09</mdc:metadataCreated>
+<mdc:citation><![CDATA[B Koch, R. Gerzer. A research facility for habitation questions to be built at the German Aerospace Center in Cologne: future challenges of Space medicine. Hippokratia 2008; 12 (Suppl 1): 91-93]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1008200874"><rdfs:label><![CDATA[space habitation ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1766890540"><rdfs:label><![CDATA[ telepresence ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1653246913"><rdfs:label><![CDATA[ telemedicine ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject215669533"><rdfs:label><![CDATA[ international space station ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[For long term habitation in space and for living on Moon and Mars, many questions still need to be resolved. Such habitation questions include prevention of and rehabilitation from negative effects of weightlessness that are, in many instances, comparable to problems of aging people on Earth as well as of patients during and recovery from long term stays in bed. T
+herefore the DLR Institute of Aerospace Medicine has designed a concept for a research facility that will make it possible to join space research directly with terrestrial applications. From a strategic point of view, one major emphasis of :envihab is to form a closely interrelated network of scientists and the industry and the public. The project has been in the planning phase for several years. After an international architectural contest, the winning concept was selected in 2007 by a Jury with ESA participation.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[PDF]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#scientificJournalArticle"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1467267836"><rdfs:label><![CDATA[Aerospace Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1805292694"><rdfs:label><![CDATA[all specialties ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>CME</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[In an aerospace medicine seminar information regarding a research facility for habitation questions to be built at the German aerospace center in Cologne ande future challenges of space medicine can be given through this educational resource]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Self-learning]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[To be familiar with current trends in Space Medicine and identify a European Institute.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[To know where a scientific laboratory to carry out interdisciplinary research in global partnership on the interactions of humans and the environment and the other way round exist]]></mdc:educationalOutcomes>
+</mdc:Resource></rdf:RDF>

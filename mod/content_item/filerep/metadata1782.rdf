@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#1782">
+
+	 <mdc:identifier><![CDATA[http://dataserver.mediogrid.utcluj.ro/adnotare/release/resource/lectii/171/obj/stomach.obj]]></mdc:identifier> 
+<mdc:title><![CDATA[Basic 3D model of the human stomach ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage></mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Teodor Stefanut]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Teodor Stefanut]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/teodor.stefanut?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-02-17</mdc:created>
+<mdc:metadataCreated>2010-04-26</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject260374624"><rdfs:label><![CDATA[stomach 3D model ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Presents a basic 3D model of the stomach that allow students to better visualize and analyze this organ. Annotations can be performed if used in e-Trace application.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[The 3D model is saved in Wavefront .obj. In order to be visualized, specialized software is required.]]></mdc:technicalDescription>
+<mdc:resourceType> 3D model</mdc:resourceType>
+</mdc:Resource></rdf:RDF>

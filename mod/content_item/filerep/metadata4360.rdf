@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#4360">
+
+	 <mdc:identifier><![CDATA[http://moodle-pld.co.cc/file.php/3/124-133.ppt]]></mdc:identifier> 
+<mdc:title><![CDATA[CARE FOR VENTILATED PAIENT ]]></mdc:title>
+<mdc:rights><![CDATA[ ISBN 954-9806-38-3]]></mdc:rights>
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Assoc. Prof. L. Despotova-Toleva]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ MD]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ PhD]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Medical University Plovdiv]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Dora Edreva]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/doraed?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-08-23</mdc:created>
+<mdc:metadataCreated>2010-08-28</mdc:metadataCreated>
+<mdc:citation><![CDATA[Л. Деспотова-Толева Вентилаторна/оксигенационна терапия в детската възраст]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2006035443"><rdfs:label><![CDATA[Ventilation/oxygenation therapy; neonatal ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1962417623"><rdfs:label><![CDATA[ paediatric ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject806792084"><rdfs:label><![CDATA[ intensive care; medical ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject53322216"><rdfs:label><![CDATA[ monitoring and life-support equipment; non-invasive ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1882333691"><rdfs:label><![CDATA[ invasive methods ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1976797763"><rdfs:label><![CDATA[ delivery room care ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject775087802"><rdfs:label><![CDATA[ ICU care ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1255129409"><rdfs:label><![CDATA[ home care ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1079673403"><rdfs:label><![CDATA[ special care ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1947154202"><rdfs:label><![CDATA[ intubation ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1998011810"><rdfs:label><![CDATA[ extubation ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject446297444"><rdfs:label><![CDATA[ general care ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1490243255"><rdfs:label><![CDATA[ ventilator dependency ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Main points: 1.Delivery room care; 2. ICU care; 3. Home care; 4. Special care; 5. Intubation; 6. General care; 7. Weaning from ventilation; 8. Criteria for weaning and extubation; 9. Difficulties in weaning; 10. Complications; 11.Ventilatory settigs and therapy; 
+12 Extubation]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Power Point Presentation]]></mdc:technicalDescription>
+<mdc:resourceType> chaper of book</mdc:resourceType>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline487327452"><rdfs:label><![CDATA[Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1048643125"><rdfs:label><![CDATA[Neonatology, Paediatrics, Intensive  Care ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>PhD – students, MD, anaesthesiologists, paediatricians, intensivists</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Educational material for PhD- students, MD, anaesthesiologists,paediatricians, intensivists.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[For self-preparation, lectures, practical training, seminars for postgraduates, PhD, postdoc students]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Educational process in medical study – advanced knowledge acquirement]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Expected results – acquiring theoretical knowledge and practical skills for managing ventilation/oxygenation therapy in neonates and children, decision making in NICU  and  PICU]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[Examination, tests, clinical cases]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[Anatomy, Physiology, Pathophysiology of gas exchange, Phisics of gases and fluids,Pathoanatomy, Pathophysiology of lung disturbances and diseases, morphofunctional features of neonates and children]]></mdc:educationalPrerequisites>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 13 14</mdc:title>
+<mdc:identifier>http://moodle-pld.co.cc/file.php/3/Ventilation_Chapter13_14.pdf</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>Power Point Presentation</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Languages</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Technology</mdc:fromRepurposingContext>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

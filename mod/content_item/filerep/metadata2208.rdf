@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2208">
+
+	 <mdc:identifier><![CDATA[http://moodle.cs.ucy.ac.cy/course/view.php?id=28]]></mdc:identifier> 
+<mdc:title><![CDATA[M-Health, e-Emergency Systems and Services ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Marios Neofytou]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Athos Antoniades]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/athos?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2008-05-15</mdc:created>
+<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject270480510"><rdfs:label><![CDATA[mobile health ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject137629943"><rdfs:label><![CDATA[ m-health ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1253907021"><rdfs:label><![CDATA[ e-emergency ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject332204285"><rdfs:label><![CDATA[ emergency healthcare systems ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Provides information about the progress made and the current status of mobile health systems  in emergency healthcare systems and services 
+ Review of recent e-emergency systems
+ Presentation of case studies
+ Presentation of emerging wireless video systems for reliable communications]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Power Point Presentations
+Images and Schematics embedded into the powerpoints]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#lectureNotes"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#image"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#figureDiagramPicture"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#figureDiagramPicture"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#sketchGraphicalAnnotation"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#clinicalCase"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#blog"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#discussionForum"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline412478763"><rdfs:label><![CDATA[Healthcare Professionals, medical doctors, Computer Scientists ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>any</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Independent, or traditional teacher centered learning of m-Health and e-Emergency systems and Services]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Follow sequence of presentations in the Learning object, utilize Web2.0 tools to ask peers and authors of content questions relating to the material.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Provide students with information about the progress made and the current status of mobile health systems  in emergency healthcare systems and services 
+Review of recent e-emergency systems
+Examples of the application of the presented technologies through case studies utilizing emerging wireless video systems for reliable communications.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Demystifying mobile health, and e-Emergency systems and services. Providing some experience to the learner with these technologies through the case studies presented.]]></mdc:educationalOutcomes>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:identifier>http://www.ivpcl.org/2007_m-Health.pdf</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

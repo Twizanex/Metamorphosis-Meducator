@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+        <field key="author" value="Nikolas Dovrolis" />
+        <field key="version" value="1.0" />
+        <field key="description" value="Create collections of Resources" />
+        <field key="website" value="http://metamorphosis.med.duth.gr/" />
+        <field key="copyright" value="(C) DUTH 2010" />
+        <field key="licence" value="GNU Public License version 2" />
+</plugin_manifest>

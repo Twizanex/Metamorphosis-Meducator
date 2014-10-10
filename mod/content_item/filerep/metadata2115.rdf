@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2115">
+
+	 <mdc:identifier><![CDATA[http://www.medal.org/visitor/www%5CFiles%5CSheets%5Cch25%5Ctetanus%20prophylaxis%5Ctetanus%20prophylaxis.aspx]]></mdc:identifier> 
+<mdc:title><![CDATA[tetanus prophylaxis as part of wound management ]]></mdc:title>
+<mdc:rights><![CDATA[ written permission to mEducator from the Institute of Algorithmic Medicine]]></mdc:rights>
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Institute of Algorithmic Medicine]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Charalampos Bratsas]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/Bratsas?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-05-06</mdc:created>
+<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1935714145"><rdfs:label><![CDATA[ ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[]]></mdc:description>
+<mdc:technicalDescription><![CDATA[in order to access the URL of the algorithm you need to register (free) in the following URL http://www.medal.org]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#diagnosticAlgorithm"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1431872406"><rdfs:label><![CDATA[medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:teachingLearningInstructions><![CDATA[This algorithm must be applied in wounded patient in order to reveal whether they are in need of a tetanus vaccination or serum administration.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[To consider proper tetanus prophylaxis as part of a wound management]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Students should be able to tell what type of tetanus prophylaxis is required in each trauma case according to the patientâ€™s past history of tetanus immunizations.]]></mdc:educationalOutcomes>
+</mdc:Resource></rdf:RDF>

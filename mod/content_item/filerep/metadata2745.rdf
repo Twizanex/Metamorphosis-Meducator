@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2745">
+
+	 <mdc:identifier><![CDATA[http://iris.med.duth.gr/elearning/mod/resource/view.php?id=827]]></mdc:identifier> 
+<mdc:title><![CDATA[Molecular Imaging Techniques (presentation) ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Eleni Kaldoudi]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Eleni Kaldoudi]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/kaldoudi?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2005-04-18</mdc:created>
+<mdc:metadataCreated>2010-05-10</mdc:metadataCreated>
+<mdc:citation><![CDATA[E. Kaldoudi, Â«Molecular Imaging TechniquesÂ», Presented in the Postgraduate Seminar on Modern Methods of Light Microscopy and Applications in Biomedical Research and Diagnosis, Institut Pasteur Hellenique, Athens, April 2005]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject985967119"><rdfs:label><![CDATA[molecular imaging techniques ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject170419403"><rdfs:label><![CDATA[ presentation ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1244471820"><rdfs:label><![CDATA[ introduction ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[A 60 slide presentation introducing molecular imaging techniques. The presentation covers the basic physics of the following techniques: PET/SPECT, CT, MRI, Optical Imaging. It also gives an intro to general concepts of molecular imaging. Most slides contain explanatory notes.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[A winrar zipped Powerpoint(R) file. The file requires Microsoft PowerPoint version 97-2003 player. The zipped file is ~0.6 MB, while the original PowerPoint file is ~1.4 MB.]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline745018084"><rdfs:label><![CDATA[biology, medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>undergraduate, continuing education</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[These slides correspond to a 1.5 hour lecture introducing molecular imaging techniques. They can be used for such a lecture for continous education or undergraduate introduction to the topic.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Use this to give a presentation. Most slides contain explanatory notes (notes pages). It can also be used as reading material for students.]]></mdc:teachingLearningInstructions>
+</mdc:Resource></rdf:RDF>

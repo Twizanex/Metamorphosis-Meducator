@@ -1,0 +1,41 @@
+README
+
+1) Google Maps Key
+--------------------
+This plugin uses Timothy Wall's google-map plugin (http://community.elgg.org/pg/plugins/openid_2268/read/384615/google-maps) to set google maps api key and site headers. If you choose to not use the google-map plugin, 
+	- uncomment the google map api headers and enter your key by hand into views/default/content_map/metatags.php.  
+	- delete the line extend_view('metatags','google-map/metatags'); in start.php
+
+
+2) JSON 
+-------------------
+The markers for google maps are generated from JSON outputs. As long as you are able
+to format data in the required JSON objects, you can include any site contents (e.g. 
+users, groups, blogs, basically anything) into the maps. Format your JSON as such:
+            
+        - {"content":[{"name":"","lat":,"lng":,"info":"","icon":""},{},{},...,{}]}
+	- 'name' = title of object
+	- 'lat','lng' = latitude and longitude of object
+	- 'info' = html of the bubble window when the object is selected from the map (optional)
+	- 'icon' = map marker image (optional) 
+
+
+3) Using Content Map
+---------------------- 
+Use elgg_view('content_map/maps', $options) wherever you want to display the map.
+	- $options = array('json_url'=>[your json url], 'default_zoom'=>[your desired zoom level],'centre'=>array(lat,lng),'timer'=>[how fast you want to pan to the next object in milliseconds,'pan'=>true, 'mapcontrol'=>false]
+	- default for 'default_zoom'=2,'timer'=4000,
+		'centre'=array(0,0), 'pan'=true, 'mapcontrol'=false
+	- NOTE: YOU HAVE TO SPECIFY A VALID URL WHERE JSON CAN BE REQUESTED.
+
+
+4) Examples
+------------------
+Look into example.php and json_example.php for samples. You should be able to load the url http://your.site.url/mod/content_mod/example.php to see the example. An example to plot users using geolocation input from vazco_gmap plugin (http://community.elgg.org/mod/plugins/read.php?guid=384618) is shown in vazco_gmap_json_example.php
+
+
+5) Help and Comments
+---------------------
+If you require help on setting up or has comments about the plugin, email me at txtan@cpsc.ucalgary.ca
+
+

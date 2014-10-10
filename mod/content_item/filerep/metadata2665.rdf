@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2665">
+
+	 <mdc:identifier><![CDATA[http://www.hippokratia.gr/index.php/hippo/article/view/647/335]]></mdc:identifier> 
+<mdc:title><![CDATA[Future aeromedical assessment in general aviation: a contribution to the actual discussion ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-No-Derivatives" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Siedenburg J]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/stathis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2008-09-24</mdc:created>
+<mdc:metadataCreated>2010-05-09</mdc:metadataCreated>
+<mdc:citation><![CDATA[Siedenburg J.Future aeromedical assessment in general aviation: a contribution to the actual discussion. Hippokratia 2008; 12 (Suppl 1): 74-77]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1656511673"><rdfs:label><![CDATA[Aviation ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1481655903"><rdfs:label><![CDATA[ European Aviation Safety ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject916696618"><rdfs:label><![CDATA[ aeromedical assessment ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[The past years saw a transition of competencies from the Joint Aviation Authorities (JAA) to the European Aviation Safety Agency (EASA), which was founded in 2003, based on EU Regulation 1592/02. EASA started its work in the fields of Airworthiness and will soon its competencies inter alia to Flight Operations and Flight Crew Licensing, the latter including the requirements for aeromedical assessment. The appropriate new EU Regulation will most probably be published in April. It includes the Essential Requirements for Licensing and aeromedical certification. A proposal for a new Commission Regulation promulgates the Implementing Rules for Personnel Licensing, detailing â€“ inter alia â€“ the Medical Requirements (Annex II to the Regulation). The specific rules, numeric standards are published as Acceptable Means of Compliance (AMC) and Guidance Material (GM). The provisions are based on JAR-FCL 3 and have been transposed to the format choosen by EASA by a small working group of aeromedical experts (FCL.001). 
+Comments received by the European Aviation Safety Agency (EASA) prompted the agencyÎ„s statement that the JAR-FCL 3 requirements for private pilots were excessive and too demanding and that a better regulation in General Aviation had to be developed. Another working group (MDM.032), including one aeromedical specialist, was tasked to draft a set of lighter requirements for non-complex aircraft used in non-commercial operations. In this context a much lighter form of aeromedical assessment - involving self-declaration by the pilot and general practitioners as asessors â€“ has been proposed.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[PDF]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#scientificJournalArticle"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline521101717"><rdfs:label><![CDATA[Aerospace Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality785176494"><rdfs:label><![CDATA[all specialties ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>CME</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[In an aerospace medicine seminar information regarding Future aeromedical assessment in general aviation can be given through this educational resource]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[self-learnign]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[To be familiar with concept for a better regulation in General Aviation.
+To identify alternative proposals for regulation in General Aviation regarding medicine.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[To be able to use the regualtion in General Aviation]]></mdc:educationalOutcomes>
+<mdc:educationalPrerequisites><![CDATA[none]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

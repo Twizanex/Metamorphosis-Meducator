@@ -1,0 +1,373 @@
+GUID|COUNT|NAME1|AFFIL1|FOAF1|NAME2|AFFIL2|FOAF2|NAME3|AFFIL3|FOAF3|NAME4|AFFIL4|FOAF4|NAME5|AFFIL5|FOAF5 
+ 838|2|sophie vaughan|||jonathan round|||||||||||
+973|2|Daniela Giordano|||Rosalia Leonardi|||||||||||
+1104|1|Rosalia Leonardi||||||||||||||
+1146|2|Remitz Anita|||Mylläri Jarkko|||||||||||
+1160|3|eeva pyÃ¶rÃ¤lÃ¤|||marja silenti|||jarkko myllÃ¤ri||||||||
+1220|2|Leda Yazbeck|||Alex Higton|||||||||||
+1227|2|Leda Yazbeck|||Alex Higton|||||||||||
+1234|1|Tim Little||||||||||||||
+1255|1|Tim Little||||||||||||||
+1328|1|Timo Kuusi||||||||||||||
+1384|1|Teodor Stefanut||||||||||||||
+1403|1|Playgen||||||||||||||
+1410|2|SGI|||Coventry University|||||||||||
+1419|2|Coventry University|||SGI|||||||||||
+1464|1|Ãlvaro SalvÃ¡||||||||||||||
+1471|1|Ãlvaro SalvÃ¡||||||||||||||
+1489|1|L. Despotova-Toleva||||||||||||||
+1527|1|Eleni Dafli||||||||||||||
+1535|1|Eleni Dafli||||||||||||||
+1570|1|Eleni Dafli||||||||||||||
+1593|1|Eleni Dafli||||||||||||||
+1608|1|Panagiotis Bamidis||||||||||||||
+1615|1|Bruno Blaive||||||||||||||
+1638|1|Jean-François Michiels||||||||||||||
+1659|3|X Pivot|||M Marty|||M EspiÃ©||||||||
+1666|1|Anne Chevallier||||||||||||||
+1680|1|Jean-Paul Fournier||||||||||||||
+1687|1|Jean-Paul Fournier||||||||||||||
+1694|1|Pascal Staccini||||||||||||||
+1708|1|Pascal Staccini||||||||||||||
+1715|1|Centre National du Concours de l'Internat||||||||||||||
+1722|1|Pascal Staccini||||||||||||||
+1761|1|Teodor Stefanut||||||||||||||
+1768|1|Teodor Stefanut||||||||||||||
+1775|1|Teodor Stefanut||||||||||||||
+1782|1|Teodor Stefanut||||||||||||||
+1796|1|Teodor Stefanut||||||||||||||
+1803|1|L. Despotova-Toleva||||||||||||||
+1810|1|Mariya Ivanova Spasova||||||||||||||
+1817|1|Teodor Stefanut||||||||||||||
+1824|1|Timo Kuusi||||||||||||||
+1831|1|Teodor Stefanut||||||||||||||
+1838|1|Timo Kuusi||||||||||||||
+1845|1|Timo Kuusi||||||||||||||
+1852|1|Timo Kuusi||||||||||||||
+1859|1|Timo Kuusi||||||||||||||
+1866|1|Timo Kuusi||||||||||||||
+1873|1|Timo Kuusi||||||||||||||
+1880|1|Timo Kuusi||||||||||||||
+1887|1|Timo Kuusi||||||||||||||
+1894|1|Timo Kuusi||||||||||||||
+1901|1|Timo Kuusi||||||||||||||
+1908|2|Timo Kuusi|||Jarkko MyllÃ¤ri|||||||||||
+1944|1|Playgen||||||||||||||
+1951|1|Pavlos Agianian||||||||||||||
+1958|1|Margy Koffa||||||||||||||
+1969|1|Gordon Vail||||||||||||||
+1976|1|Bart Demaerschalk||||||||||||||
+1983|1|Bart Demaerschalk||||||||||||||
+1990|1|Bart Demaerschalk||||||||||||||
+1997|1|Bart Demaerschalk||||||||||||||
+2004|1|Bart Demaerschalk||||||||||||||
+2011|1|Bart Demaerschalk||||||||||||||
+2018|1|||||||||||||||
+2025|1|Bart Demaerschalk||||||||||||||
+2032|1|Bart Demaerschalk||||||||||||||
+2045|1|Bart Demaerschalk||||||||||||||
+2052|1|Bart Demaerschalk||||||||||||||
+2059|1|Bart Demaerschalk||||||||||||||
+2066|1|Bart Demaerschalk||||||||||||||
+2073|1|Bart Demaerschalk||||||||||||||
+2101|1|Institute of Algorithmic Medicine||||||||||||||
+2108|1|Institute of Algorithmic Medicine||||||||||||||
+2115|1|Institute of Algorithmic Medicine||||||||||||||
+2122|1|Institute of Algorithmic Medicine||||||||||||||
+2130|1|Marios Neofytou||||||||||||||
+2144|14|PAPADELIS|||PAPPAS|||C.|||C.|||PERANTONI|||KOURTIDOU-PAPADELI|||E.|||C.|||STYLIADIS|||C.|||KONSTANTINIDIS|||BAMIDIS|||P.|||S.||
+2151|4|Florez-Arango J.|||AND Dunn K.|||Iyengar MS|||Carruth TN.|||||
+2165|1|Institute of Algorithmic Medicine||||||||||||||
+2172|1|Institute of Algorithmic Medicine||||||||||||||
+2179|3|Loukas Hadjipetrou|||Marios Neophytou|||Zenonas Theodosiou||||||||
+2186|1|Institute of Algorithmic Medicine||||||||||||||
+2200|1|Institute of Algorithmic Medicine||||||||||||||
+2208|1|Marios Neofytou||||||||||||||
+2217|1|Panos Bamidis||||||||||||||
+2224|1|Christodoulos Christodoulou||||||||||||||
+2231|2|Teodor Stefanut|||Dorian Gorgan|||||||||||
+2238|1|Succubus Interactive||||||||||||||
+2245|2|Panos Bamidis|||Stathis Konstantinidis|||||||||||
+2252|2|Sophie Vaughan|||Jonathan Round|||||||||||
+2259|2|Sophie Vaughan|||Jonathan Round|||||||||||
+2266|2|Jonathan Round|||Sophie Vaughan|||||||||||
+2273|2|Sophie Vaughan|||Jonathan Round|||||||||||
+2280|2|Jonathan Round|||Sophie Vaughan|||||||||||
+2287|2|Jonathan Round|||Sophie Vaughan|||||||||||
+2294|2|Sophie Vaughan|||Jonathan Round|||||||||||
+2302|2|Dorian Gorgan|||Teodor Stefanut|||||||||||
+2309|1|Passadakis Ploumis||||||||||||||
+2316|2|Sophie Vaughan|||Jonathan Round|||||||||||
+2323|2|Sophie Vaughan|||Jonathan Round|||||||||||
+2330|2|Sophie Vaughan|||Jonathan Round|||||||||||
+2337|1|BEGIN:vcard FN:Raja Habib ORG:St George's University of London EMAIL:rhabib@sgul.ac.uk END:vcard||||||||||||||
+2344|1|BEGIN:vcard FN:Raja Habib ORG:St George's University of London EMAIL:rhabib@sgul.ac.uk END:vcard||||||||||||||
+2351|1|BEGIN:vcard FN:Raja Habib ORG:St George's University of London EMAIL:rhabib@sgul.ac.uk END:vcard||||||||||||||
+2358|2|Kalle|||Romanov|||||||||||
+2365|2|Romanov|||Kalle|||||||||||
+2372|2|Romanov|||Kalle|||||||||||
+2379|2|Romanov|||Kalle|||||||||||
+2386|2|Romanov|||Kalle|||||||||||
+2393|2|Kalle|||Romanov|||||||||||
+2401|4|Madalina Veres|||Istvan Gabos|||Dorian Gorgan|||Teodor Stefanut|||||
+2415|1|Paola Campione||||||||||||||
+2422|1|Teodor Stefanut||||||||||||||
+2429|1|E. Chamorey||||||||||||||
+2436|2|R.Bugat (Toulouse)|||F.Guillemin (Nancy)|||||||||||
+2448|1|Eleni Kaldoudi||||||||||||||
+2464|1|The orthodontics specialist team at Policlinico - University of Catania||||||||||||||
+2471|1|The orthodontics specialist team at Policlinico - University of Catania||||||||||||||
+2478|1|||||||||||||||
+2485|1|||||||||||||||
+2492|1|The orthodontics specialist team at Policlinico - University of Catania||||||||||||||
+2499|4|TX|||USA|||Houston|||Institute for Algorithmic Medicine|||||
+2506|1|Italian Society for the Study of Headache||||||||||||||
+2513|1|Manuela Pennisi||||||||||||||
+2520|4|Institute for Algorithmic Medicine|||Houston|||TX|||USA|||||
+2527|1|Manuela Pennisi||||||||||||||
+2534|2|Panagiotis Bamidis|||Stathis Konstantinidis|||||||||||
+2541|7|C. Kourtidou-Papadeli|||CL. Papadelis|||J. Vernikos|||PD. Bamidis|||E. Perantoni|||M. Hitoglou-Antoniadou|||E. Vlachogiannis||
+2548|4|A. Astaras|||PD. Bamidis|||N. Maglaveras|||C. Kourtidou-Papadeli|||||
+2555|6|C. Kourtidou-Papadeli|||CL. Papadelis|||D. Koutsonikolas D|||O. Guiba-Tziampiri O|||C. Styliadis|||S Boutzioukas||
+2562|1|Eleni Dafli||||||||||||||
+2569|4|Institute for Algorithmic Medicine|||TX|||Houston|||USA|||||
+2576|4|Institute for Algorithmic Medicine|||Houston|||USA|||TX|||||
+2583|1|Eleni Kaldoudi||||||||||||||
+2590|1|||||||||||||||
+2597|1|Eleni Kaldoudi||||||||||||||
+2604|1|Eleni Kaldoudi||||||||||||||
+2611|1|Eleni Kaldoudi||||||||||||||
+2618|1|Stathis Konstantinidis||||||||||||||
+2625|1|Stathis Konstantinidis||||||||||||||
+2632|7|Stathis Th. Konstantinidis|||Evdokimos Konstantinidis|||Maria M. Nikolaidou|||Afroditi K. Boutou|||Nikos Havouzis|||Paraskevi Argyropoulou|||Panagiotis D. Bamidis||
+2639|3|Panos Bamidis|||Stathis Konstantinidis|||Evdokimos Konstantinidis||||||||
+2647|1|PD. Jost||||||||||||||
+2656|1|Siedenburg J||||||||||||||
+2665|1|Siedenburg J||||||||||||||
+2672|2|R. Gerzer|||B Koch|||||||||||
+2681|4|USA|||TX|||Institute for Algorithmic Medicine|||Houston|||||
+2688|4|Institute for Algorithmic Medicine|||Houston|||USA|||TX|||||
+2717|1|Succubus Interactive||||||||||||||
+2724|1|Succubus Interactive||||||||||||||
+2731|1|Succubus Interactive||||||||||||||
+2738|1|Eleni Kaldoudi||||||||||||||
+2745|1|Eleni Kaldoudi||||||||||||||
+2752|1|Panos Bamidis and Postgraduate Class 2008 of Medical Informatics of Aristotle University of Thessaloniki||||||||||||||
+2759|1|Panos Bamidis and Class '08 of MSc in Medical Informatics of Aristotle University of Thessaloniki||||||||||||||
+2766|1|Timo Kuusi||||||||||||||
+2773|1|Timo Kuusi||||||||||||||
+2780|1|Timo Kuusi||||||||||||||
+2787|1|Timo Kuusi||||||||||||||
+2794|2|Teodor Stefanut|||Danut Mihon|||||||||||
+2801|1|Victor Bacu||||||||||||||
+2815|2|Danut Mihon|||Denisa Rodila|||||||||||
+2822|2|Danut Mihon|||Denisa Rodila|||||||||||
+2829|1|Teodor Stefanut||||||||||||||
+2836|2|Danut Mihon|||Danut Mihon|||||||||||
+2979|4|TX|||USA|||Institute for Algorithmic Medicine|||Houston|||||
+3032|3|Thireou|||Atlamazoglou|||Spyrou||||||||
+3146|3|Slavov P|||Ivanov E Department of Vascular Surgery and Angiology- Medical University - Plovdiv|||Anastasov V||||||||
+3153|3|Slavov P|||Ivanov E Department of Vascular Surgery and Angiology- Medical University - Plovdiv|||Anastasov V||||||||
+3160|3|Slavov P|||Ivanov E Department of Vascular Surgery and Angiology- Medical University - Plovdiv|||Anastasov V||||||||
+3167|3|Anastasov V|||Slavov P|||Ivanov E Department of Vascular Surgery and Angiology- Medical University - Plovdiv||||||||
+3176|3|Slavov P|||Anastasov V|||Ivanov E Department of Vascular Surgery and Angiology- Medical University - Plovdiv||||||||
+3183|3|Slavov P|||Anastasov V|||Ivanov E Department of Vascular Surgery and Angiology- Medical University - Plovdiv||||||||
+3190|3|Ivanov E Department of Vascular Surgery and Angiology- Medical University - Plovdiv|||Slavov P|||Anastasov V||||||||
+3204|1|Alan Rice||||||||||||||
+3215|1|Alan Rice||||||||||||||
+3227|1|Alan Rice||||||||||||||
+3234|1|Alan Rice||||||||||||||
+3241|1|Alan Rice||||||||||||||
+3248|1|Alan Rice||||||||||||||
+3255|1|Alan Rice||||||||||||||
+3262|1|Alan Rice||||||||||||||
+3284|1|Timo Kuusi||||||||||||||
+3349|1|Bart Demaerschalk||||||||||||||
+3370|1|European Cervical Cancer Association||||||||||||||
+3377|1|European Cervical Cancer Association||||||||||||||
+3384|1|European Cervical Cancer Association||||||||||||||
+3391|1|European Cervical Cancer Association||||||||||||||
+3402|1|||||||||||||||
+3410|3|Kostantinos Vegoudakis|||Eleni Dafli|||Konstantinos Kostopoulos||||||||
+3424|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+3431|4|PhD|||MD|||Assoc. Prof. L. Despotova-Toleva|||Medical University Plovdiv|||||
+3438|1|||||||||||||||
+3445|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+3452|4|MD|||Assoc. Prof. L. Despotova-Toleva|||PhD|||Medical University Plovdiv|||||
+3473|1|Alan Rice||||||||||||||
+3480|1|Alan Rice||||||||||||||
+3487|1|Alan Rice||||||||||||||
+3494|1|||||||||||||||
+3501|1|European Cervical Cancer Association||||||||||||||
+3508|1|European Cervical Cancer Association||||||||||||||
+3515|1|European Cervical Cancer Association||||||||||||||
+3522|1|European Cervical Cancer Association||||||||||||||
+3533|1|European Cervical Cancer Association||||||||||||||
+3540|1|European Cervical Cancer Association||||||||||||||
+3547|1|European Cervical Cancer Association||||||||||||||
+3554|1|European Cervical Cancer Association||||||||||||||
+3565|1|European Cervical Cancer Association||||||||||||||
+3572|1|European Cervical Cancer Association||||||||||||||
+3579|1|European Cervical Cancer Association||||||||||||||
+3586|1|European Cervical Cancer Association||||||||||||||
+3608|1|European Cervical Cancer Association||||||||||||||
+3615|1|European Cervical Cancer Association||||||||||||||
+3622|1|European Cervical Cancer Association||||||||||||||
+3629|1|European Cervical Cancer Association||||||||||||||
+3647|1|European Cervical Cancer Association||||||||||||||
+3654|1|European Cervical Cancer Association||||||||||||||
+3661|1|European Cervical Cancer Association||||||||||||||
+3668|1|European Cervical Cancer Association||||||||||||||
+3695|1|Eleni Kaldoudi||||||||||||||
+3702|1|Eleni Kaldoudi||||||||||||||
+3709|1|Eleni Kaldoudi||||||||||||||
+3716|1|European Cervical Cancer Association||||||||||||||
+3723|1|European Cervical Cancer Association||||||||||||||
+3730|1|European Cervical Cancer Association||||||||||||||
+3737|1|European Cervical Cancer Association||||||||||||||
+3748|1|European Cervical Cancer Association||||||||||||||
+3755|1|European Cervical Cancer Association||||||||||||||
+3762|1|European Cervical Cancer Association||||||||||||||
+3769|1|European Cervical Cancer Association||||||||||||||
+3804|1|European Cervical Cancer Association||||||||||||||
+3811|1|European Cervical Cancer Association||||||||||||||
+3818|1|European Cervical Cancer Association||||||||||||||
+3825|1|European Cervical Cancer Association||||||||||||||
+3836|1|European Cervical Cancer Association||||||||||||||
+3843|1|European Cervical Cancer Association||||||||||||||
+3850|1|European Cervical Cancer Association||||||||||||||
+3857|1|European Cervical Cancer Association||||||||||||||
+3868|1|European Cervical Cancer Association||||||||||||||
+3875|1|European Cervical Cancer Association||||||||||||||
+3882|1|European Cervical Cancer Association||||||||||||||
+3889|1|European Cervical Cancer Association||||||||||||||
+3934|1|European Cervical Cancer Association||||||||||||||
+3941|1|European Cervical Cancer Association||||||||||||||
+3948|1|European Cervical Cancer Association||||||||||||||
+3955|1|European Cervical Cancer Association||||||||||||||
+3966|1|European Cervical Cancer Association||||||||||||||
+3973|1|European Cervical Cancer Association||||||||||||||
+3980|1|European Cervical Cancer Association||||||||||||||
+3990|1|European Cervical Cancer Association||||||||||||||
+3997|1|European Cervical Cancer Association||||||||||||||
+4004|1|European Cervical Cancer Association||||||||||||||
+4011|1|European Cervical Cancer Association||||||||||||||
+4022|1|European Cervical Cancer Association||||||||||||||
+4029|1|European Cervical Cancer Association||||||||||||||
+4036|1|European Cervical Cancer Association||||||||||||||
+4043|1|European Cervical Cancer Association||||||||||||||
+4150|4|Началник Клиника по Ендокринология|||УМБАЛ „Св. Георги”|||Пловдив|||Доц. Мария Миткова Орбецова|||||
+4157|4|Доц. Мария Миткова Орбецова|||Началник Клиника по Ендокринология|||УМБАЛ „Св. Георги”|||Пловдив|||||
+4164|4|УМБАЛ „Св. Георги”|||Доц. Мария Миткова Орбецова|||Началник Клиника по Ендокринология|||Пловдив|||||
+4171|4|Пловдив|||УМБАЛ „Св. Георги”|||Началник Клиника по Ендокринология|||Доц. Мария Миткова Орбецова|||||
+4178|4|Пловдив|||Началник Клиника по Ендокринология|||УМБАЛ „Св. Георги”|||Доц. Мария Миткова Орбецова|||||
+4185|4|УМБАЛ „Св. Георги”|||Пловдив|||Началник Клиника по Ендокринология|||Доц. Мария Миткова Орбецова|||||
+4192|4|Началник Клиника по Ендокринология|||УМБАЛ „Св. Георги”|||Доц. Мария Миткова Орбецова|||Пловдив|||||
+4199|4|УМБАЛ „Св. Георги”|||Началник Клиника по Ендокринология|||Пловдив|||Доц. Мария Миткова Орбецова|||||
+4206|4|УМБАЛ „Св. Георги”|||Началник Клиника по Ендокринология|||Доц. Мария Миткова Орбецова|||Пловдив|||||
+4213|4|Началник Клиника по Ендокринология|||УМБАЛ „Св. Георги”|||Пловдив|||Доц. Мария Миткова Орбецова|||||
+4220|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4227|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4234|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4241|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4248|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4255|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4262|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4269|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4276|4|Assoc. Prof. L. Despotova-Toleva|||Medical University Plovdiv|||MD|||PhD|||||
+4283|4|Medical University Plovdiv|||PhD|||Assoc. Prof. L. Despotova-Toleva|||MD|||||
+4290|4|Assoc. Prof. L. Despotova-Toleva|||Medical University Plovdiv|||PhD|||MD|||||
+4297|4|Medical University Plovdiv|||Assoc. Prof. L. Despotova-Toleva|||PhD|||MD|||||
+4304|4|PhD|||Medical University Plovdiv|||MD|||Assoc. Prof. L. Despotova-Toleva|||||
+4311|4|Assoc. Prof. L. Despotova-Toleva|||Medical University Plovdiv|||MD|||PhD|||||
+4318|4|Medical University Plovdiv|||MD|||Assoc. Prof. L. Despotova-Toleva|||PhD|||||
+4325|4|MD|||Assoc. Prof. L. Despotova-Toleva|||Medical University Plovdiv|||PhD|||||
+4332|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4339|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4346|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4353|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4360|4|MD|||Assoc. Prof. L. Despotova-Toleva|||Medical University Plovdiv|||PhD|||||
+4367|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4374|4|PhD|||Medical University Plovdiv|||Assoc. Prof. L. Despotova-Toleva|||MD|||||
+4381|4|PhD|||Medical University Plovdiv|||Assoc. Prof. L. Despotova-Toleva|||MD|||||
+4388|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4395|4|PhD|||Medical University Plovdiv|||Assoc. Prof. L. Despotova-Toleva|||MD|||||
+4402|4|MD|||PhD|||Medical University Plovdiv|||Assoc. Prof. L. Despotova-Toleva|||||
+4409|4|Medical University Plovdiv|||PhD|||MD|||Assoc. Prof. L. Despotova-Toleva|||||
+4416|4|Assoc. Prof. L. Despotova-Toleva|||MD|||Medical University Plovdiv|||PhD|||||
+4423|4|PhD|||Medical University Plovdiv|||Assoc. Prof. L. Despotova-Toleva|||MD|||||
+4430|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4437|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4444|4|MD|||Medical University Plovdiv|||Assoc. Prof. L. Despotova-Toleva|||PhD|||||
+4451|4|Medical University Plovdiv|||PhD|||MD|||Assoc. Prof. L. Despotova-Toleva|||||
+4458|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4465|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4472|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4479|4|Assoc. Prof. L. Despotova-Toleva|||MD|||PhD|||Medical University Plovdiv|||||
+4486|4|MD|||Assoc. Prof. L. Despotova-Toleva|||Medical University Plovdiv|||PhD|||||
+4493|4|Medical University Plovdiv|||PhD|||MD|||Assoc. Prof. L. Despotova-Toleva|||||
+4500|4|MD|||Assoc. Prof. L. Despotova-Toleva|||Medical University Plovdiv|||PhD|||||
+4507|4|Assoc. Prof. L. Despotova-Toleva|||Medical University Plovdiv|||PhD|||MD|||||
+4568|1|||||||||||||||
+4575|1|||||||||||||||
+4582|1|||||||||||||||
+4589|1|||||||||||||||
+4596|1|||||||||||||||
+4603|1|||||||||||||||
+4610|1|||||||||||||||
+4633|1|Serious Games Institute||||||||||||||
+4640|1|Serious Games Institute||||||||||||||
+4799|1|D-r Ivan Novakov – PhD. Department of Thoraco-abdominal Surgery – Medical University Plovdiv.||||||||||||||
+4813|1|D-r Ivan Novakov – PhD. Department of Thoraco-abdominal Surgery – Medical University Plovdiv.||||||||||||||
+4820|1|D-r Ivan Novakov – PhD. Department of Thoraco-abdominal Surgery – Medical University Plovdiv.||||||||||||||
+4827|1|D-r Ivan Novakov – PhD. Department of Thoraco-abdominal Surgery – Medical University Plovdiv.||||||||||||||
+4865|1|D-r Ivan Novakov – PhD. Department of Thoraco-abdominal Surgery – Medical University Plovdiv.||||||||||||||
+4873|1|D-r Ivan Novakov – PhD. Department of Thoraco-abdominal Surgery – Medical University Plovdiv.||||||||||||||
+5476|1|D-r Ivan Novakov – PhD||||||||||||||
+5483|1|D-r Ivan Novakov – PhD||||||||||||||
+5490|1|D-r Ivan Novakov – PhD||||||||||||||
+5497|1|D-r Ivan Novakov – PhD||||||||||||||
+5504|1|D-r Ivan Novakov – PhD||||||||||||||
+5511|1|D-r Ivan Novakov – PhD||||||||||||||
+5518|1|D-r Ivan Novakov – PhD||||||||||||||
+5539|3|Gergana Foreva|||Radost Asenova|||Medical University||||||||
+5554|3|Gergana Foreva|||Radost Asenova|||Medical University||||||||
+5561|3|Gergana Foreva|||Radost Asenova|||Medical University||||||||
+5568|3|Radost Asenova|||Gergana Foreva|||Medical University||||||||
+5575|3|Gergana Foreva|||Radost Asenova|||Medical University||||||||
+5582|3|Medical University|||Radost Asenova|||Gergana Foreva||||||||
+5589|3|Gergana Foreva|||Radost Asenova|||Medical University||||||||
+5596|3|Medical University|||Gergana Foreva|||Radost Asenova||||||||
+5603|3|Gergana Foreva|||Radost Asenova|||Medical University||||||||
+5610|3|Medical University|||Gergana Foreva|||Radost Asenova||||||||
+5617|3|Gergana Foreva|||Radost Asenova|||Medical University||||||||
+5624|3|Gergana Foreva|||Medical University|||Radost Asenova||||||||
+5631|3|Gergana Foreva|||Radost Asenova|||Medical University||||||||
+5638|3|Medical University|||Radost Asenova|||Gergana Foreva||||||||
+5645|3|Gergana Foreva|||Radost Asenova|||Medical University||||||||
+5652|3|Medical University|||Gergana Foreva|||Radost Asenova||||||||
+8163|1|Pascal Staccini||||||||||||||
+11464|1|||||||||||||||
+12246|1|||||||||||||||
+12253|1|||||||||||||||
+12715|1|||||||||||||||
+12736|1|||||||||||||||
+15209|1|||||||||||||||
+15608|||||||||||||
+15615|||||||||||||
+15622|||||||||||||
+15629|||||||||||||
+15636|||||||||||||
+15643|||||||||||||
+15650|||||||||||||
+15657|||||||||||||
+15664|||||||||||||
+15671|||||||||||||
+15678|||||||||||||
+15685|||||||||||||
+15692|||||||||||||
+15699|||||||||||||
+15706|||||||||||||
+15713|||||||||||||
+15720|||||||||||||
+21804|1|??|bbc|http://foaf.test/learningzone/clips/the-human-heart-and-its-function/||||||||||||

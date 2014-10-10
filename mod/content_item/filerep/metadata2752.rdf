@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2752">
+
+	 <mdc:identifier><![CDATA[http://kedip.med.auth.gr/lomiedu/mod/wiki/view.php?id=169]]></mdc:identifier> 
+<mdc:title><![CDATA[Electronic Health Records ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Share-Alike" />
+<mdc:language>Greek</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Panos Bamidis and Postgraduate Class 2008 of Medical Informatics of Aristotle University of Thessaloniki]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/stathis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2008-02-11</mdc:created>
+<mdc:metadataCreated>2010-05-10</mdc:metadataCreated>
+<mdc:citation><![CDATA[Panos Bamidis and Postgraduate Class 2008 of Medical Informatics of Aristotle University of Thessaloniki. Collaboarative wiki on Electronic Health Record]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject512379238"><rdfs:label><![CDATA[Electronic Health Records (EHR) ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject558590932"><rdfs:label><![CDATA[ patient record ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject684104319"><rdfs:label><![CDATA[ input forms ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2132249430"><rdfs:label><![CDATA[ data entry ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject303773244"><rdfs:label><![CDATA[ structured data entry ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1929091275"><rdfs:label><![CDATA[ narrative form ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This wiki is devoted for PBL sessions on Electronic Health Records (EHR). 
+Terms like input forms, Structured Data Entry, narrative form/text are collaborative identified and explained.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Provide answers in the wiki  can be made in "edit" mode, include a word in square brackets [...] to create a new page.
+Username and password required to access the page.
+username: meducator
+password: meducator2009]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#wiki"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline304980430"><rdfs:label><![CDATA[Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1537599792"><rdfs:label><![CDATA[all specialties ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>postgraduate medical students</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This wiki built collaborative within a postgraduate class. It can be used as a reference, or it can be further exploited with new scenarios and terms.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[This wiki is devoted for PBL sessions on Electronic Health Records (EHR).
+Each problem is presented in a number of sequential steps.
+The students are expected to read through the first step, and discuss it via the problem's blog. Then, they should set out to find the answers to the questions asked in this Step 1, as well as answer all other questions that have been raised during the blog discussion. They have to record important steps of their search in their personal blogs. Finally, they have to provide answers collaboratively in the wiki.
+A subsequent step of the Problem Statement will be deployed once the previous one is completed]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[To familiarize the students with electronic medical record and terms like patient record, input forms, data entry, structured data entry, narrative form.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[To be able to decide whether an EHR is suitable or not for a specific healthcare unit.
+To be able to describe an illness through standards(e.g. ICD) in an EHR.]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[Students asked to create a term graph  regarding a medical theme of at least four levels and post it to their personal blog, taggged with a specific tag.]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[none]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

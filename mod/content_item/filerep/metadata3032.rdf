@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#3032">
+
+	 <mdc:identifier><![CDATA[http://bioserver-1.bioacademy.gr/Metabasis/]]></mdc:identifier> 
+<mdc:title><![CDATA[Metabasis ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Atlamazoglou]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Thireou]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Spyrou]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[George M. Spyrou]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/gspyrou?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2006-05-20</mdc:created>
+<mdc:metadataCreated>2010-05-20</mdc:metadataCreated>
+<mdc:citation><![CDATA[Atlamazoglou V, Thireou T, Hamodrakas Y, Spyrou G. "MetaBasis: a web-based database containing metadata on software tools and databases in the field of bioinformatics" Appl Bioinformatics 2006;5(3):187-92.]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject71209701"><rdfs:label><![CDATA[Bioinformatics Tools ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Use this resource for building bioinformatics analysis pipelines]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Web based database using php and mysql]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#table"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#indexes"/>
+<mdc:resourceType rdf:resource=""/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline549736022"><rdfs:label><![CDATA[Bioinformatics ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1776110379"><rdfs:label><![CDATA[bioinformatics ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>Postgraduate</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Informatics in Biology]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Search the possible bioinformatics tools to build the desired analysis]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Optimize the selection of the bioinformatics tools]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Become an expert]]></mdc:educationalOutcomes>
+</mdc:Resource></rdf:RDF>

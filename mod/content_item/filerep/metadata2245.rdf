@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2245">
+
+	 <mdc:identifier><![CDATA[http://kedip.med.auth.gr/elearning/mod/resource/view.php?id=711]]></mdc:identifier> 
+<mdc:title><![CDATA[Educational Standards ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Share-Alike" />
+<mdc:language>Greek</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Panos Bamidis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/stathis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-11-10</mdc:created>
+<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject455122013"><rdfs:label><![CDATA[Educational Standards ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1503169931"><rdfs:label><![CDATA[ IEEE LOM ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1492956024"><rdfs:label><![CDATA[ Healthcare LOM ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This presentation presents educational standards that can be used in online education.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[MS Power Point Presentation]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline2132259740"><rdfs:label><![CDATA[Medical Informatics ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>Postgraduate Medical Informatics Students</mdc:educationalLevel>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Enabling Content Sharing In Contemporary Medical Education: A review of technical standards</mdc:title>
+<mdc:identifier>http://kedip.med.auth.gr/elearning/mod/resource/view.php?id=709</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>This content item designed for a lecture in a greek postgraduate course, so it is repurposed in terms of language (form english to greek) and the information regarding educational standards provided more analytical.</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Educational-Level</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Languages</mdc:fromRepurposingContext>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

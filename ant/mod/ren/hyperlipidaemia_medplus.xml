@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<nlmSearchResult>
+  <term>"hyperlipidaemia"</term>
+  <file>viv_IlrSR7</file>
+  <server>pvlbsrch05</server>
+  <count>2</count>
+  <retstart>0</retstart>
+  <retmax>10</retmax>
+  <spellingCorrection>hyperlipidemia</spellingCorrection>
+  <list num="2" start="0" per="10">
+    <document rank="0" url="http://www.nlm.nih.gov/medlineplus/cholesterol.html">
+      <content name="title">Cholesterol</content>
+      <content name="organizationName">National Library of Medicine</content>
+      <content name="altTitle">HDL</content>
+      <content name="altTitle">LDL</content>
+      <content name="altTitle">Hyperlipidemia</content>
+      <content name="altTitle">Hypercholesterolemia</content>
+      <content name="altTitle">Familial Hypercholesterolemia</content>
+      <content name="altTitle">Familial Combined Hyperlipidemia</content>
+      <content name="altTitle">Familial Dysbetalipoproteinemia</content>
+      <content name="altTitle">Hyperlipoproteinemia</content>
+      <content name="FullSummary">&lt;p&gt;Cholesterol is a waxy, fat-like substance that occurs naturally in all parts of the body. Your body needs some cholesterol to work properly. But if you have too much in your blood, it can stick to the walls of your arteries. This is called plaque. Plaque can narrow your arteries or even block them. 
+&lt;/p&gt;&lt;p&gt;
+High levels of cholesterol in the blood can increase your risk of heart disease. Your cholesterol levels tend to rise as you get older. There are usually no signs or symptoms that you have high blood cholesterol, but it can be detected with a blood test. You are likely to have high cholesterol if members of your family have it, if you are overweight or if you eat a lot of fatty foods. 
+&lt;/p&gt;&lt;p&gt;
+You can lower your cholesterol by exercising more and eating more fruits and vegetables. You also may need to take medicine to lower your cholesterol.  
+&lt;/p&gt;&lt;p&gt;NIH: National Heart, Lung, and Blood Institute
+&lt;/p&gt;</content>
+      <content name="mesh">Cholesterol</content>
+      <content name="mesh">Hypercholesterolemia</content>
+      <content name="groupName">Blood, Heart and Circulation</content>
+      <content name="groupName">Food and Nutrition</content>
+      <content name="snippet"> Cholesterol is a waxy, fat-like substance that occurs naturally in all parts of the body. Your body needs some cholesterol to work properly. But if you have too  ... </content>
+    </document>
+    <document rank="1" url="http://www.nlm.nih.gov/medlineplus/triglycerides.html">
+      <content name="title">Triglycerides</content>
+      <content name="organizationName">National Library of Medicine</content>
+      <content name="altTitle">Hypertriglyceridemia</content>
+      <content name="altTitle">Hyperlipidemia</content>
+      <content name="altTitle">Familial Hypertriglyceridemia</content>
+      <content name="altTitle">Familial Combined Hyperlipidemia</content>
+      <content name="FullSummary">&lt;p&gt;Triglycerides are a type of fat in the bloodstream and fat tissue. Too much of this type of fat can contribute to the hardening and narrowing of your arteries. This puts you at risk of having a heart attack or stroke. Diseases such as diabetes, obesity, kidney failure or alcoholism can cause high triglycerides. Often, high triglycerides occur along with high levels of cholesterol, another type of  fat.&lt;/p&gt;&lt;p&gt;Triglycerides are measured along with cholesterol as part of a blood test.  Normal triglyceride levels are below 150. Levels above 200 are high.  If your triglyceride level is high, you can lower it by&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Getting medical treatment for the problem causing the high triglycerides&lt;/li&gt;&lt;li&gt; Following a healthy diet low in sugars and carbohydrates&lt;/li&gt;&lt;li&gt; Exercising regularly&lt;/li&gt;&lt;li&gt; Taking cholesterol-lowering medicines&lt;/li&gt;&lt;/ul&gt;</content>
+      <content name="mesh">Hyperlipoproteinemia Type IV</content>
+      <content name="mesh">Hypertriglyceridemia</content>
+      <content name="groupName">Blood, Heart and Circulation</content>
+      <content name="groupName">Food and Nutrition</content>
+      <content name="snippet"> Triglycerides are a type of fat in the bloodstream and fat tissue. Too much of this type of fat can contribute to the hardening and narrowing of your arteries. This  ... </content>
+    </document>
+  </list>
+</nlmSearchResult>

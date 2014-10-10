@@ -1,0 +1,373 @@
+GUID|IPR1|IPR2 
+838|Attribution-Non-Commercial-Share-Alike|
+973|The Platform is a LCMS free for use for mEducator users|
+1104|Attribution-Non-Commercial-Share-Alike|
+1146|Attribution-Non-Commercial-Share-Alike|
+1160|Attribution-Non-Commercial-Share-Alike|
+1220|http://purl.org/meducator/instances/|Attribution-Non-Commercial-Share-Alike
+1227|Attribution-Non-Commercial-Share-Alike|
+1234|Attribution-Non-Commercial-Share-Alike|
+1255|Attribution-Non-Commercial-Share-Alike|
+1328|http://purl.org/meducator/instances/|
+1384|Attribution-Non-Commercial-Share-Alike|
+1403|Attribution-Non-Commercial-No-Derivatives|
+1410|Attribution-Non-Commercial-Share-Alike|
+1419|Attribution-Non-Commercial-Share-Alike|
+1464|Attribution|
+1471|Attribution|
+1489||
+1527|Attribution-Non-Commercial-Share-Alike|
+1535|Attribution-Non-Commercial-Share-Alike|
+1570|Attribution-Non-Commercial-Share-Alike|
+1593|Attribution-Non-Commercial-Share-Alike|
+1608|Attribution-Share-Alike|
+1615|Attribution-Non-Commercial-Share-Alike|
+1638|Attribution-Non-Commercial-Share-Alike|
+1659|Attribution-Non-Commercial-Share-Alike|
+1666|Attribution-Non-Commercial-Share-Alike|
+1680|Attribution-Non-Commercial-Share-Alike|
+1687|Attribution-Non-Commercial-No-Derivatives|
+1694|Attribution-Non-Commercial-Share-Alike|One resource is under editor copyright
+1708|Attribution-Non-Commercial-Share-Alike|
+1715|Attribution-Non-Commercial-Share-Alike|
+1722|Attribution-Non-Commercial-Share-Alike|
+1761|Attribution-Non-Commercial-Share-Alike|
+1768|Attribution-Non-Commercial-Share-Alike|
+1775|Attribution-Non-Commercial-Share-Alike|
+1782|Attribution-Non-Commercial-Share-Alike|
+1796|Attribution-Non-Commercial-Share-Alike|
+1803||
+1810||
+1817|http://purl.org/meducator/instances/|http://purl.org/meducator/instances/, http://purl.org/meducator/instances/Attribution Non-commercial Share Alike (by-nc-sa)
+1824|Attribution-Non-Commercial-Share-Alike|
+1831|Attribution-Non-Commercial-Share-Alike|
+1838|Attribution-Non-Commercial-Share-Alike|
+1845|Attribution-Non-Commercial-Share-Alike|
+1852|Attribution-Non-Commercial-Share-Alike|
+1859|Attribution-Non-Commercial-Share-Alike|
+1866|Attribution-Non-Commercial-Share-Alike|
+1873|http://purl.org/meducator/instances/|
+1880|http://purl.org/meducator/instances/|
+1887|Attribution-Non-Commercial-Share-Alike|
+1894|Attribution-Non-Commercial-Share-Alike|
+1901|Attribution-Non-Commercial-Share-Alike|
+1908|Attribution-Non-Commercial-Share-Alike|
+1944|Attribution-Non-Commercial-No-Derivatives|
+1951||
+1958|Attribution-Non-Commercial-Share-Alike|
+1969|no license|
+1976|no license|
+1983|no license|
+1990|no license|
+1997|no license|
+2004|no license|
+2011|no license|
+2018|no license|
+2025|no license|
+2032|no license|
+2045|no license|
+2052|no license|
+2059|no license|
+2066|no license|
+2073|no license|
+2101|written permission to mEducator from the Institute of Algorithmic Medicine|
+2108|written permission to mEducator from the Institute of Algorithmic Medicine|
+2115|written permission to mEducator from the Institute of Algorithmic Medicine|
+2122|written permission to mEducator from the Institute of Algorithmic Medicine|
+2130|Attribution-Share-Alike|
+2144|Attribution-Non-Commercial-No-Derivatives|
+2151|Attribution-Non-Commercial-No-Derivatives|
+2165|written permission to mEducator from the Institute of Algorithmic Medicine|
+2172|written permission to mEducator from the Institute of Algorithmic Medicine|
+2179|Attribution-Share-Alike|
+2186|written permission to mEducator from the Institute of Algorithmic Medicine|
+2200|written permission to mEducator from the Institute of Algorithmic Medicine|
+2208|Attribution-Share-Alike|
+2217|Attribution-Share-Alike|
+2224|Attribution-Share-Alike|
+2231|Attribution-Non-Commercial-Share-Alike|
+2238||
+2245|Attribution-Share-Alike|
+2252|Attribution-Non-Commercial-Share-Alike|
+2259|Attribution-Non-Commercial-Share-Alike|
+2266|Attribution-Non-Commercial-Share-Alike|
+2273|Attribution-Non-Commercial-Share-Alike|
+2280|Attribution-Non-Commercial-Share-Alike|
+2287|Attribution-Non-Commercial-Share-Alike|
+2294|Attribution-Non-Commercial-Share-Alike|
+2302|Attribution-Non-Commercial-Share-Alike|
+2309|Attribution-Non-Commercial-Share-Alike|
+2316|Attribution-Non-Commercial-Share-Alike|
+2323|Attribution-Non-Commercial-Share-Alike|
+2330|Attribution-Non-Commercial-Share-Alike|
+2337|Attribution-Non-Commercial-Share-Alike|
+2344|Attribution-Non-Commercial-Share-Alike|
+2351||
+2358|Attribution-Non-Commercial-Share-Alike|
+2365|Attribution-Non-Commercial-Share-Alike|
+2372|Attribution-Non-Commercial-Share-Alike|
+2379|Attribution-Non-Commercial-Share-Alike|
+2386|Attribution-Non-Commercial-Share-Alike|
+2393|Attribution-Non-Commercial-Share-Alike|
+2401|Attribution-Non-Commercial-Share-Alike|
+2415||
+2422|Attribution-Non-Commercial-Share-Alike|
+2429|Attribution-Non-Commercial-Share-Alike|
+2436|Attribution-Non-Commercial-Share-Alike|
+2448|Attribution-Non-Commercial-Share-Alike|
+2464|Attribution-Non-Commercial-Share-Alike|
+2471|Attribution-Non-Commercial-Share-Alike|
+2478|Attribution|written permission to mEducator from the SPREAD
+2485|Attribution|written permission to mEducator from the SPREAD
+2492|Attribution-Non-Commercial-Share-Alike|
+2499|written permission to mEducator from the Institute of Algorithmic Medicine|
+2506|Attribution|written permission to mEducator from the SISC
+2513||
+2520|written permission to mEducator from the Institute of Algorithmic Medicine|
+2527||
+2534|Attribution-Non-Commercial-Share-Alike|
+2541|Attribution-Non-Commercial-No-Derivatives|http://www.hippokratia.gr/index.php/hippo/article/view/639
+2548|Attribution-Non-Commercial-No-Derivatives|
+2555|Attribution-Non-Commercial-No-Derivatives|
+2562|Attribution-Non-Commercial-Share-Alike|
+2569|written permission to mEducator from the Institute of Algorithmic Medicine|
+2576|written permission to mEducator from the Institute of Algorithmic Medicine|
+2583|Attribution-Non-Commercial-Share-Alike|
+2590||
+2597|Attribution-Non-Commercial-Share-Alike|
+2604|Attribution-Non-Commercial-Share-Alike|
+2611|Attribution-Non-Commercial-Share-Alike|
+2618|Attribution-Non-Commercial-Share-Alike|
+2625|Attribution-Non-Commercial-Share-Alike|
+2632|Attribution-Non-Commercial-Share-Alike|
+2639|Attribution-Non-Commercial-Share-Alike|
+2647|Attribution-Non-Commercial-No-Derivatives|
+2656|Attribution-Non-Commercial-No-Derivatives|
+2665|Attribution-Non-Commercial-No-Derivatives|
+2672|Attribution-Non-Commercial-No-Derivatives|
+2681|written permission to mEducator from the Institute of Algorithmic Medicine|
+2688|written permission to mEducator from the Institute of Algorithmic Medicine|
+2717||
+2724||
+2731||
+2738|Attribution-Non-Commercial-Share-Alike|
+2745|Attribution-Non-Commercial-Share-Alike|
+2752|Attribution-Share-Alike|
+2759|Attribution-Share-Alike|
+2766|http://purl.org/meducator/instances/|
+2773|Attribution-Non-Commercial-Share-Alike|
+2780|Attribution-Non-Commercial-Share-Alike|
+2787|Attribution-Non-Commercial-Share-Alike|
+2794|Attribution-Non-Commercial-Share-Alike|
+2801|Attribution-Non-Commercial-Share-Alike|
+2815|Attribution-Non-Commercial-Share-Alike|
+2822|Attribution-Non-Commercial-Share-Alike|
+2829|Attribution-Non-Commercial-Share-Alike|
+2836|Attribution-Non-Commercial-Share-Alike|
+2979|written permission to mEducator from the Institute of Algorithmic Medicine|
+3032|Attribution-Non-Commercial|
+3146||
+3153||
+3160||
+3167||
+3176||
+3183||
+3190||
+3204|Attribution-Non-Commercial-Share-Alike|
+3215|Attribution-Non-Commercial-Share-Alike|
+3227|Attribution-Non-Commercial-Share-Alike|
+3234|Attribution-Non-Commercial-Share-Alike|
+3241|Attribution-Non-Commercial-No-Derivatives|
+3248|Attribution-Non-Commercial-No-Derivatives|
+3255|Attribution-Non-Commercial-No-Derivatives|
+3262|Attribution-Non-Commercial-No-Derivatives|
+3284|Attribution-Non-Commercial-Share-Alike|
+3349|Attribution|
+3370|Attribution-Non-Commercial-No-Derivatives|
+3377|Attribution-Non-Commercial-No-Derivatives|
+3384|Attribution-Non-Commercial-No-Derivatives|
+3391|Attribution-Non-Commercial-No-Derivatives|
+3402||
+3410|Attribution-Non-Commercial-Share-Alike|
+3424||
+3431||
+3438|Attribution-Non-Commercial|
+3445||
+3452||
+3473|Attribution-Non-Commercial-No-Derivatives|
+3480|Attribution-Non-Commercial-No-Derivatives|
+3487|Attribution-Non-Commercial-No-Derivatives|
+3494||
+3501|Attribution-Non-Commercial-No-Derivatives|
+3508|Attribution-Non-Commercial-No-Derivatives|
+3515|Attribution-Non-Commercial-No-Derivatives|
+3522|Attribution-Non-Commercial-No-Derivatives|
+3533|Attribution-Non-Commercial-No-Derivatives|
+3540|Attribution-Non-Commercial-No-Derivatives|
+3547|Attribution-Non-Commercial-No-Derivatives|
+3554|Attribution-Non-Commercial-No-Derivatives|
+3565|Attribution-Non-Commercial-No-Derivatives|
+3572|Attribution-Non-Commercial-No-Derivatives|
+3579|Attribution-Non-Commercial-No-Derivatives|
+3586|Attribution-Non-Commercial-No-Derivatives|
+3608|Attribution-Non-Commercial-No-Derivatives|
+3615|Attribution-Non-Commercial-No-Derivatives|
+3622|Attribution-Non-Commercial-No-Derivatives|
+3629|Attribution-Non-Commercial-No-Derivatives|
+3647|Attribution-Non-Commercial-No-Derivatives|
+3654|Attribution-Non-Commercial-No-Derivatives|
+3661|Attribution-Non-Commercial-No-Derivatives|
+3668|Attribution-Non-Commercial-No-Derivatives|
+3695|Attribution-Non-Commercial-Share-Alike|
+3702|Attribution-Non-Commercial-Share-Alike|
+3709|Attribution-Non-Commercial-Share-Alike|
+3716|Attribution-Non-Commercial-No-Derivatives|
+3723|Attribution-Non-Commercial-No-Derivatives|
+3730|Attribution-Non-Commercial-No-Derivatives|
+3737|Attribution-Non-Commercial-No-Derivatives|
+3748|Attribution-Non-Commercial-No-Derivatives|
+3755|Attribution-Non-Commercial-No-Derivatives|
+3762|Attribution-Non-Commercial-No-Derivatives|
+3769|Attribution-Non-Commercial-No-Derivatives|
+3804|Attribution-Non-Commercial-No-Derivatives|
+3811|Attribution-Non-Commercial-No-Derivatives|
+3818|Attribution-Non-Commercial-No-Derivatives|
+3825|Attribution-Non-Commercial-No-Derivatives|
+3836|Attribution-Non-Commercial-No-Derivatives|
+3843|Attribution-Non-Commercial-No-Derivatives|
+3850|Attribution-Non-Commercial-No-Derivatives|
+3857|Attribution-Non-Commercial-No-Derivatives|
+3868|Attribution-Non-Commercial-No-Derivatives|
+3875|Attribution-Non-Commercial-No-Derivatives|
+3882|Attribution-Non-Commercial-No-Derivatives|
+3889|Attribution-Non-Commercial-No-Derivatives|
+3934|Attribution-Non-Commercial-No-Derivatives|
+3941|Attribution-Non-Commercial-No-Derivatives|
+3948|Attribution-Non-Commercial-No-Derivatives|
+3955|Attribution-Non-Commercial-No-Derivatives|
+3966|Attribution-Non-Commercial-No-Derivatives|
+3973|Attribution-Non-Commercial-No-Derivatives|
+3980|Attribution-Non-Commercial-No-Derivatives|
+3990|Attribution-Non-Commercial-No-Derivatives|
+3997|Attribution-Non-Commercial-No-Derivatives|
+4004|Attribution-Non-Commercial-No-Derivatives|
+4011|Attribution-Non-Commercial-No-Derivatives|
+4022|Attribution-Non-Commercial-No-Derivatives|
+4029|Attribution-Non-Commercial-No-Derivatives|
+4036|Attribution-Non-Commercial-No-Derivatives|
+4043|Attribution-Non-Commercial-No-Derivatives|
+4150||
+4157||
+4164|За база е използван написаният от автора на лекционни курс Раздел Ендокринология в Учебник за студенти: Клиника и Терапия на Вътрешните болести, 2006 г.|
+4171|Раздел Ендокринология в Учебник за студенти: Клиника и Терапия на Вътрешните болести, 2006 г.|
+4178||
+4185||
+4192|За база е използван написаният от автора на лекционния курс Раздел Ендокринология в Учебник за студенти: Клиника и Терапия на Вътрешните болести, 2006|
+4199|Раздел Ендокринология в Учебник за студенти: Клиника и Терапия на Вътрешните болести, 2006 г.|
+4206|Раздел Ендокринология в Учебник за студенти: Клиника и Терапия на Вътрешните болести, 2006 г.|
+4213|Раздел Ендокринология в Учебник за студенти: Клиника и Терапия на Вътрешните болести, 2006 г.|
+4220||
+4227||
+4234||
+4241||
+4248||
+4255||
+4262||
+4269||
+4276|ISBN 954-9806-38-3|
+4283|ISBN 954-9806-38-3|
+4290|ISBN 954-9806-38-3|
+4297|ISBN 954-9806-38-3|
+4304|ISBN 954-9806-38-3|
+4311|ISBN 954-9806-38-3|
+4318|ISBN 954-9806-38-3|
+4325|ISBN 954-9806-38-3|
+4332|ISBN 954-9806-38-3|
+4339|ISBN 954-9806-38-3|
+4346|ISBN 954-9806-38-3|
+4353|ISBN 954-9806-38-3|
+4360|ISBN 954-9806-38-3|
+4367|ISBN 954-9806-38-3|
+4374|ISBN 954-9806-38-3|
+4381|ISBN 954-9806-38-3|
+4388|ISBN 954-9806-38-3|
+4395|ISBN 954-9806-38-3|
+4402|ISBN 954-9806-38-3|
+4409|ISBN 954-9806-38-3|
+4416|ISBN 954-9806-38-3|
+4423|ISBN 954-9806-38-3|
+4430|ISBN 954-9806-38-3|
+4437|ISBN 954-9806-38-3|
+4444|ISBN 954-9806-38-3|
+4451|ISBN 954-9806-38-3|
+4458|ISBN 954-9806-38-3|
+4465|ISBN 954-9806-38-3|
+4472|ISBN 954-9806-38-3|
+4479|ISBN 954-9806-38-3|
+4486|ISBN 954-9806-38-3|
+4493|ISBN 954-9806-38-3|
+4500|ISBN 954-9806-38-3|
+4507|ISBN 954-9806-38-3|
+4568||
+4575||
+4582||
+4589||
+4596||
+4603||
+4610||
+4633|Attribution-Non-Commercial-No-Derivatives|
+4640|Attribution-Non-Commercial-No-Derivatives|
+4799||
+4813||
+4820||
+4827||
+4865||
+4873||
+5476|Textbook, writing by D-r Ivan Novakov in 2010 has been used as a base of the Test  – Part One.|
+5483||
+5490||
+5497|Textbook, writing by D-r Ivan Novakov in 2010 has been used as a base of the Test  – Part IV|
+5504||
+5511||
+5518||
+5539||
+5554||
+5561||
+5568||
+5575||
+5582||
+5589||
+5596||
+5603||
+5610||
+5617||
+5624||
+5631||
+5638||
+5645||
+5652||
+8163|http://purl.org/meducator/instances/|
+11464|http://purl.org/meducator/instances/|
+12246|http://purl.org/meducator/instances/|
+12253||
+12715||
+12736||
+15209|http://purl.org/meducator/instances/|
+15608||
+15615||
+15622||
+15629||
+15636||
+15643||
+15650||
+15657||
+15664||
+15671||
+15678||
+15685||
+15692||
+15699||
+15706||
+15713||
+15720||
+21804|Attribution|

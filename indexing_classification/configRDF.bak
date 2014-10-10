@@ -1,0 +1,23 @@
+<?php
+$ElggPath = '/opt/lampp/htdocs/elgg/';
+$IndexingClassificationPath = '/opt/lampp/htdocs/elgg/indexing_classification/';
+$IOdir = '/opt/lampp/htdocs/elgg/iodir/';
+$data_source = 1;
+$metadata_fields = "creator;title;description;educationalObjectives";
+$uses_fields = "teachingLearningInstructions";
+$tags_fields = "subject";
+$keywords_limit = -1;
+$context_limit = -1;
+$width_sliding_window = 2;
+$output_file_kohonen = 'ParteClassi.txt';
+$YACA_threshold = 0.8;
+$enable_synonyms = 0;
+$enable_idf = 0;
+$DT_DD_method = 1;
+$num_processes = 1;
+$classification_method_metadata = 3;
+$classification_method_tags = 3;
+$classification_method_uses = 3;
+$classification_method_replinks = 3;
+$minimum_association_threshold = 0.6;
+?>

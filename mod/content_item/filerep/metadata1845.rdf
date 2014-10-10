@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#1845">
+
+	 <mdc:identifier><![CDATA[http://www.med.helsinki.fi/tuke/meducator/Kansio_1004/ECG_Patient_case_1004.doc]]></mdc:identifier> 
+<mdc:title><![CDATA[ECG Patient case 1004 description ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Timo Kuusi]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Jarkko Mylläri]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/Jarkko?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-04-19</mdc:created>
+<mdc:metadataCreated>2010-04-27</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject327573728"><rdfs:label><![CDATA[ECG Patient ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2144108460"><rdfs:label><![CDATA[ case description ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Patient case description]]></mdc:description>
+<mdc:technicalDescription><![CDATA[ms word 97-03 (.doc)]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#text"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#clinicalCase"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline544054545"><rdfs:label><![CDATA[cardiology ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalContext><![CDATA[Teaching ECG; diagnosis]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Used to explain ECG observations]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Reading and interpreting ECG, making a correct diagnose]]></mdc:educationalObjectives>
+</mdc:Resource></rdf:RDF>

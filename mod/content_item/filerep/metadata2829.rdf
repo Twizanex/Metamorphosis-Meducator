@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2829">
+
+	 <mdc:identifier><![CDATA[http://dataserver.mediogrid.utcluj.ro/adnotare/release/resource/lectii/184/index.htm]]></mdc:identifier> 
+<mdc:title><![CDATA[Tratarea cancerului mamar ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>Romanian</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Teodor Stefanut]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Teodor Stefanut]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/teodor.stefanut?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-05-03</mdc:created>
+<mdc:metadataCreated>2010-05-11</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1586092630"><rdfs:label><![CDATA[breast cancer ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1749011445"><rdfs:label><![CDATA[ cancer mamar ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1792853576"><rdfs:label><![CDATA[ tratament ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1093461679"><rdfs:label><![CDATA[ diagnoza ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This resource presents general information about breast cancer, diagnose and treatment methods.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[This lesson can be accessed properly only through eTrace eLearning Application (http://dataserver.mediogrid.utcluj.ro/adnotare/).]]></mdc:technicalDescription>
+<mdc:resourceType> multimedia medical teaching material</mdc:resourceType>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1389676005"><rdfs:label><![CDATA[medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality2129114828"><rdfs:label><![CDATA[cancer ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>undergraduate, general public</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This resource is recommended to be used in introductory teaching sessions at undergraduate level or for presentations to the general public.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[The resource represents the basics materials for an interactive presentation based on graphical annotation in eTrace Application. The material could be given as a reference for individual study.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[To educate general public and undergraduate students about the breast cancer and available treatments.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[- general information about breast cancer prevention and diagnose
+- knowledge about most common and efficient treatment techniques]]></mdc:educationalOutcomes>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Breast tumors</mdc:title>
+<mdc:identifier>http://anapath.unice.fr/sitelocal/disciplines/niveaudiscipline/anapath/lecon14/lecon14.htm</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>This resource has been repurposed from it's parent in order to be suited for romanian general public. The repurposing process implied a simplification of information, adaptation of references to cultural elements and language adaptation. Furthermore, the pedagogical approach has been changed to be suited for graphical annotation based user interaction through eTrace Application, allowing a more dynamic presentation for general public.</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Languages</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Cultures</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Educational-Level</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Technology</mdc:fromRepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Breast cancers</mdc:title>
+<mdc:identifier>http://cancero.unice.fr/sitelocal/disciplines/niveaudiscipline/cancerologie/numlecon159/lecon159.htm</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>This resource has been repurposed from it's parent in order to be suited for romanian general public. The repurposing process implied a simplification of information, adaptation of references to cultural elements and language adaptation. Furthermore, the pedagogical approach has been changed to be suited for graphical annotation based user interaction through eTrace Application, allowing a more dynamic presentation for general public.</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Languages</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Cultures</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Educational-Level</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Technology</mdc:fromRepurposingContext>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

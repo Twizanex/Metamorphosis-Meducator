@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2738">
+
+	 <mdc:identifier><![CDATA[http://iris.med.duth.gr/elearning/mod/resource/view.php?id=826]]></mdc:identifier> 
+<mdc:title><![CDATA[Πυρηνικός Μαγνητικός Συντονισμός: Φασματοσκοπία και Απεικόνιση (σημειώσεις) ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>Greek</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Eleni Kaldoudi]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Eleni Kaldoudi]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/kaldoudi?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-12-01</mdc:created>
+<mdc:metadataCreated>2010-05-10</mdc:metadataCreated>
+<mdc:citation><![CDATA[Ε. Καλδούδη, «Πυρηνικός Μαγνητικός Συντονισμός: Φασματοσκοπία και Απεικόνιση», Σημειώσεις για Φοιτητές στα Πλαίσια του Προπτυχιακού Μαθήματος  «Φυσική στις Βιολογικές Επιστήμες», Τμήμα Μοριακής Βιολογίας και Γενετικής, Δημοκρίτειο Πανεπιστήμιο Θράκης, 2009]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject923655496"><rdfs:label><![CDATA[nuclear magnetic resonance ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject828788993"><rdfs:label><![CDATA[ imaging ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1106362272"><rdfs:label><![CDATA[ spectroscopy ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1790807081"><rdfs:label><![CDATA[ notes ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Lecture notes (~10000 words) on the basic physics of nuclear magnetic resonance, including imaging principles and spectroscopy principles. These notes have been developed to accompany a 2 hour lecture on the subject in an undegraduate course "Physics for Biological Sciences" intended for a Degree on Molecular Biology and Genetics.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[A pdf file of ~0.9 MB.]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#lectureNotes"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1486887369"><rdfs:label><![CDATA[biology, medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>undergraduate</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[As a reading material within a course of Physics in Medicine and/or Biology. It is at an introductory level, so it is mainly meant for undergraduate studies.]]></mdc:educationalContext>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Physical Principles of Magnetic Resonance Imaging</mdc:title>
+<mdc:identifier>http://iris.med.duth.gr/elearning/mod/resource/view.php?id=820</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>This resource is text produced based on the slides of the parent resource. It is somewhat shorter than the initial resource material and focuses mainly on spectroscopy/imaging principles.</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>http://purl.org/meducator/repurposing#Different-Content-Types</mdc:fromRepurposingContext>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

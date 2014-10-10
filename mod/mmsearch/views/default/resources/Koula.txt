@@ -1,0 +1,172 @@
+mdc:mediaType
+
+Text
+Image
+Sketch/graphical annotation
+Animation
+Audio
+Video
+3DModel
+Multimedia slide/presentation
+e-Book
+Virtual Patient
+Interactive LearningEnvironment
+Immersive environment
+SCORM package
+IMS Package
+DICOM
+Website
+Blog
+Discussion Forum
+Post
+Podcast
+Webinar
+Wiki
+
+
+
+
+mdc:resourceType
+
+Reading List
+Activity/Fieldwork/Project
+Assessment Item With Answers/Feedback
+Study Guide
+Educational Policy
+Curriculum/Syllabus/Programme
+Figure/Diagram/Picture
+Assessment Item
+Worked Example
+Demonstration
+Course/Module/Unit
+Lecture
+Tutorial/Handout
+Problems and Exercises
+Problems and exercises with feedback
+Textbook/Chapter
+Case study
+Simulation
+Objective Structured Clinical Examination (OSCE)
+Game, serious game
+Virtual patient
+Teaching File
+Lecture Notes
+Practical
+Atlas
+Bibliography
+Dictionary
+Encyclopedia
+Handbook
+Indexes
+Laboratory manuals
+Pharmacopoeias
+Legislation
+Terminology
+Software
+Forms
+Guideline
+Scientific Journal article
+Table
+Bio-signal dataset
+Clinical case
+Clinical record
+Clinical record with annotations
+Diagnostic exam
+Diagnostic exam with annotations
+Experiment
+Evidence based medicine form
+Diagnostic algorithm
+Clinical Practice Guideline
+Database
+
+
+
+
+mdc:rights
+
+Attribution
+Attribution-Share-Alike
+Attribution-No-Derivatives
+Attribution-Non-Commercial
+Attribution-Non-Commercial-Share-Alike
+Attribution-Non-Commercial-No-Derivatives
+
+
+
+
+mdc:repurposingContexts
+
+Different-Languages
+Different-Cultures
+Different-Pedagogy
+Different-Educational-Level
+Different-Disciplines
+Different-Content-Types
+Different-Technology
+Changes-to-Content
+
+
+
+
+mdc:educationalOutcomes
+
+Explain normal human structure and function
+Explain bio-chemical-physical processes from first principles
+Explain the scientific basis for disease presentation
+Apply the principles of evidence-based medicine
+Carry out scientific research
+Explain normal behaviour at individual level
+Explain varied responses of individuals, groups and society to disease
+Assess psychological factors that contribute to illness, the course of the disease and the success of the treatment
+Manage patients with dependence or self-harm issues
+Recognise stress or abuse situations
+Appreciate diversity and multi-culturality
+Take and record medical history
+Perform a full physical examination
+Perform a mental state examination
+Assess the severity of clinical presentations
+Provide explanation, advice and support
+Explain the physio-pathology underlying clinical and para-clinical signs
+Make a differential diagnosis
+Discuss the etiological and differential diagnosis w.r.t. epidemiological data and morbidity
+Justify the diagnostic procedure and the strategy of investigation
+Order investigations according to protocols and guidelines
+Interpret the results of laboratory test
+Interpret the results of bio-imaging investigation
+Interpret the results of biosignal investigation
+Define the likely diagnosis or diagnoses assessing its uncertainty degree
+Explain drugs therapeutics, pharmacokinetics, side effects and interaction
+Evaluate drug’s potential benefits and risks
+Prescribe drugs clearly and accurately
+Detect and report adverse drug reaction
+Justify the choice of therapeutic strategy and explain to patient
+Describe the modes of monitoring a disease and its treatment
+Explain the procedures of individual and collective prevention
+Provide immediate care of medical emergencies
+Perform a measurement and recording procedure
+Perform a therapeutic procedure
+Perform a procedures for clinical investigations
+Perform a bio-sampling procedure
+Perform gestures and physical manipulation
+Perform a surgical procedure
+Communicate effectively with patients and colleagues
+Apply ethical and legal principles in professional practice
+Conform to professional regulations
+Promote health
+Use Information Technology
+Work effectively in a team and in a collaborative setting
+Other
+
+
+
+
+mdc:educationalLevel
+
+ Undergraduate
+Post-graduate
+Continuing Education
+Patient-General Public Education
+
+
+
+

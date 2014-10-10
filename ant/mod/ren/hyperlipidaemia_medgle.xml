@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<root>
+			<corporateuser>false</corporateuser>
+			<logo type="small">http://www.medgle.com/logo/medglelogoBB.png</logo>
+			<logo type="big">http://www.medgle.com/logo/medglelogoE.jpg</logo>
+			<linkback_url>http://www.medgle.com/rw/diagnoses/hyperlipidemia</linkback_url>
+			<linkback_text>Click here for more information</linkback_text>
+			<resulttype>diagnosis</resulttype>
+			<diagnosis>
+				<diagnosis_name>hyperlipidemia</diagnosis_name>
+				<diagnosis_url>http://www.medgle.com/rw/diagnoses/hyperlipidemia</diagnosis_url>
+				<diagnosis_layman></diagnosis_layman>
+				<diagnosis_category>CARDIAC</diagnosis_category>
+				<diagnosis_prevalence></diagnosis_prevalence>
+				<diagnosis_travel></diagnosis_travel>
+				<diagnosis_definition></diagnosis_definition>
+				<ICD9>272.0</ICD9>
+					<ICD10>E78.</ICD10>
+					<diagnosis_symptoms type="common">abnormal blood fats, cloudy cornea, high cholesterol, ring around cornea</diagnosis_symptoms>
+				<diagnosis_ads>
+							</diagnosis_ads>
+
+				<diagnosis_emergency>No</diagnosis_emergency>
+				<related_diagnoses>
+						<related_diagnosis star="161061280"  >atrial fibrillation</related_diagnosis>
+
+
+							<related_diagnosis star="161061280"  >chest wall trauma or fracture rib</related_diagnosis>
+
+
+							<related_diagnosis star="161061280"  >cocaine abuse</related_diagnosis>
+
+
+							<related_diagnosis star="161061280"  >costochondritis</related_diagnosis>
+
+
+							<related_diagnosis star="161061280"  >drugs and toxins</related_diagnosis>
+
+
+							<related_diagnosis star="161061280"  >hypertensive heart disease</related_diagnosis>
+
+
+							<related_diagnosis star="161061280"  >myocardial infarction</related_diagnosis>
+
+
+							<related_diagnosis star="161061280"  >paroxysmal supraventricular tachycardia</related_diagnosis>
+
+
+							<related_diagnosis star="161061280"  >pulmonary embolism</related_diagnosis>
+
+
+							<related_diagnosis star="161061280"  >viral syndrome</related_diagnosis>
+
+
+							</related_diagnoses>
+				<procedures type="diagnostic">				
+						<procedure url="http://www.medgle.com/rw/procedures/Blood+Pressure+monitoring/" star="0" >Blood Pressure monitoring</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Dietary+questionnaire/" star="0" >Dietary questionnaire</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Lipoprotein+Electrophoresis/" star="0" >Lipoprotein Electrophoresis</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/body+mass+index/" star="0" >body mass index</procedure>
+							</procedures>
+
+				<procedures type="therapeutic">				
+						<procedure url="http://www.medgle.com/rw/procedures/Blood+Pressure+Management/" star="0" >Blood Pressure Management</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Maintain+Healthy+Weight/" star="0" >Maintain Healthy Weight</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Nutritional+counseling/" star="0" >Nutritional counseling</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/diet+modification/" star="0" >diet modification</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/low+fat+diet/" star="0" >low fat diet</procedure>
+							</procedures>
+
+				<advice_options>
+
+				<otc_drugs>
+				</otc_drugs>
+
+
+				<homecare_options>
+				</homecare_options>
+
+				<chronic_homecare_options>
+				</chronic_homecare_options>
+
+			</advice_options>
+
+			</diagnosis>
+			</root>
+
+			

@@ -1,0 +1,373 @@
+GUID|COUNT|VALUE1|ONTOLOGY1|VALUE2|ONTOLOGY2|VALUE3|ONTOLOGY3|VALUE4|ONTOLOGY4|VALUE5|ONTOLOGY5|VALUE6|ONTOLOGY6|VALUE7|ONTOLOGY7|VALUE8|ONTOLOGY8|VALUE9|ONTOLOGY9|VALUE10|ONTOLOGY10|VALUE11|ONTOLOGY11|VALUE12|ONTOLOGY12 
+838|4|sepsis||bacterial meningitis||meningitis||paediatrics|||||||||||||||||
+973|5|graphical annotation||pen-based e-learning||image collections||visual discrimination||digital tracing|||||||||||||||
+1104|3|teleradiographic anatomy||skull||cephalometry|||||||||||||||||||
+1146|5|skin deceases||dermatology||self-directed learning||complementing material||virtual patient|||||||||||||||
+1160|6|doctor-patient interaction||simulation||patient interview structure||actor simulation||patient interview||patient interview questions|||||||||||||
+1220|10|shock.|SNOMED Clinical Terms|Acute myocardial infarction|SNOMED Clinical Terms|Thrombolysis|Galen|Thrombolysis|SNOMED Clinical Terms|Angina pectoris|Medical Subject Headings|Angina Pectoris|Medical Subject Headings|Angina Pectoris, Variant|SNOMED Clinical Terms|Chest pain|Medical Subject Headings|Shock|Galen|Shock|Medical Subject Headings||||
+1227|5|Chest pain||acute myocardial infarction||thrombolysis||shock.||angina pectoris|||||||||||||||
+1234|9|A&amp;E||tachycardia||ECG||myocarditis||cardiomyopathy||cardiology||myocardial infarction||Cardiovascular risk factors||Echocardiogram|||||||
+1255|9|myocarditis||Echocardiogram||cardiology||A&amp;E||cardiomyopathy||ECG||tachycardia||Cardiovascular risk factors||myocardial infarction|||||||
+1328|1|ECG image limb leads|||||||||||||||||||||||
+1384|4|larynx||knowledge assessment||annotation||human anatomy|||||||||||||||||
+1403|4|serious game||climate change||diseases||A-levels|||||||||||||||||
+1410|8|quiz||diseases||cholera||malaria||plague||tuberculosis||meningitis||dengue fever|||||||||
+1419|8|cholera||dengue fever||tuberculosis||meningitis||plague||diseases||quiz||malaria|||||||||
+1464|4|medicine||clinic case||fetal||image|||||||||||||||||
+1471|3|video||dicom||multiframe|||||||||||||||||||
+1489|0||||||||||||||||||||||||||
+1527|3|OSCE||clinical skills||intarvenous cannulation|||||||||||||||||||
+1535|3|OSCE||rectal examination||clinical skills|||||||||||||||||||
+1570|3|clinical skills||blood pressure||OSCE|||||||||||||||||||
+1593|4|OSCE||θωρακικό άλγος||ΟΕΜ||καρδιολογία|||||||||||||||||
+1608|0||||||||||||||||||||||||||
+1615|2|Thoracic||Aged ; Dyspnea ; Dyspnea/etiology ; Dyspnea/radiography ; Respiration ; Radiography|||||||||||||||||||||
+1638|1|Cells ; Cells/abnormalities ; Cells/anatomy and histology ; Cells/cytology ; Cells/pathology ; Malignant neoplasm|||||||||||||||||||||||
+1659|1|Breast Neoplasms|||||||||||||||||||||||
+1666|1|Breast Neoplasms ; Breast Neoplasms/pathology|||||||||||||||||||||||
+1680|1|Myocardial Infarction/diagnosis ; Myocardial Infarction/therapy|||||||||||||||||||||||
+1687|1|Myocardial Infarction/diagnosis ; Myocardial Infarction/therapy|||||||||||||||||||||||
+1694|1|Evidence-Based Medicine ; Evidence-Based Medicine/instrumentation|||||||||||||||||||||||
+1708|2|Quality Indicators||Health Care/methods ; Process Assessment (Health Care) ;|||||||||||||||||||||
+1715|0||||||||||||||||||||||||||
+1722|2|Hospital Information Systems ; Quality of Health Care ; Medical Informatics Applications ; Medical Records Systems||Computerized|||||||||||||||||||||
+1761|3|liver anatomy||liver functional anatomy||liver surface anatomy|||||||||||||||||||
+1768|4|liver||liver lobes||liver functional anatomy||liver surface anatomy|||||||||||||||||
+1775|3|liver diseases||liver anatomy||liver functions|||||||||||||||||||
+1782|1|stomach 3D model|||||||||||||||||||||||
+1796|2|human stomach||stomach sections and anatomy|||||||||||||||||||||
+1803|0||||||||||||||||||||||||||
+1810|0||||||||||||||||||||||||||
+1817|3|stomach 3D model||stomach sections||3D annotation|||||||||||||||||||
+1824|2|cardiology||ECG image limb leads|||||||||||||||||||||
+1831|4|symptoms||risk factors||gastric cancer||diagnoses|||||||||||||||||
+1838|2|cardiology||ECG image chest leads|||||||||||||||||||||
+1845|2|ECG Patient||case description|||||||||||||||||||||
+1852|2|case description||ECG Patient|||||||||||||||||||||
+1859|2|ECG image chest leads||cardiology|||||||||||||||||||||
+1866|2|cardiology||ECG image limb leads|||||||||||||||||||||
+1873|3|limb leads||ECG image chest leads||cardiology|||||||||||||||||||
+1880|3|limb leads||cardiology||ECG image chest leads|||||||||||||||||||
+1887|0||||||||||||||||||||||||||
+1894|4|limb leads||ECG||EKG||ECG image|||||||||||||||||
+1901|2|ECG Patient||case description|||||||||||||||||||||
+1908|6|cardiology||simulator||guideline||pedagogy||manikin||best practice|||||||||||||
+1944|1|||Nanotechnology|||||||||||||||||||||||
+1951|10|biomolecule||protein||molecular graphics||protein function||rasmol||3D-structure||biology||modelling||practical||crystallography|||||
+1958|2|cell division||chromosome seggregation|||||||||||||||||||||
+1969|3|Cerebrovascular accident||hemiplegia||nurology|||||||||||||||||||
+1976|0||||||||||||||||||||||||||
+1983|1|Acute left sided weakness|||||||||||||||||||||||
+1990|0||||||||||||||||||||||||||
+1997|0||||||||||||||||||||||||||
+2004|0||||||||||||||||||||||||||
+2011|0||||||||||||||||||||||||||
+2018|0||||||||||||||||||||||||||
+2025|0||||||||||||||||||||||||||
+2032|0||||||||||||||||||||||||||
+2045|0||||||||||||||||||||||||||
+2052|0||||||||||||||||||||||||||
+2059|0||||||||||||||||||||||||||
+2066|0||||||||||||||||||||||||||
+2073|0||||||||||||||||||||||||||
+2101|3|treatment||medical algorithm||pulmonary embolism|||||||||||||||||||
+2108|4|classification||high-velocity injury||knee ligaments||knee dislocation|||||||||||||||||
+2115|0||||||||||||||||||||||||||
+2122|0||||||||||||||||||||||||||
+2130|0||||||||||||||||||||||||||
+2144|9|online education||Continuing Medical Education||IEEE LOM||pulmonary disorders||aerospace medicine||SCORM||CPD||Healthcare LOM||aviation medicine|||||||
+2151|5|Decompression Sickness||GuideView||Space||Clinical guidelines||multimodal|||||||||||||||
+2165|0||||||||||||||||||||||||||
+2172|0||||||||||||||||||||||||||
+2179|1|Health Telematics|||||||||||||||||||||||
+2186|0||||||||||||||||||||||||||
+2200|0||||||||||||||||||||||||||
+2208|4|m-health||e-emergency||mobile health||emergency healthcare systems|||||||||||||||||
+2217|1|Web information quality assessment/evaluation|||||||||||||||||||||||
+2224|2|CAD||||Computer Aided Diagnosis Systems|||||||||||||||||||||
+2231|2|graphical annotation||user interaction in medical education|||||||||||||||||||||
+2238|4|Serious game||alcoholism||prevention||binge drinking|||||||||||||||||
+2245|3|IEEE LOM||Healthcare LOM||Educational Standards|||||||||||||||||||
+2252|5|Respiratory distress syndrome||Pneumothorax||Prematurity||Neonatal sepsis||Hyaline membrane disease|||||||||||||||
+2259|4|Diarrhoea||Coeliac disease||Failure to thrive||Paediatric|||||||||||||||||
+2266|4|Diarrhoea||Failure to thrive||Coeliac disease||Paediatric|||||||||||||||||
+2273|4|Chronic cough||Paediatric||Tuberculosis||Respiratory|||||||||||||||||
+2280|4|Paediatric||Tuberculosis||Respiratory||Chronic cough|||||||||||||||||
+2287|5|Pneumothorax||Neonatal sepsis||Prematurity||Hyaline membrane disease||Respiratory distress syndrome|||||||||||||||
+2294|4|Idiopathic thrombocytopenic purpura||Paediatric||Immunoglobulin||Bruises|||||||||||||||||
+2302|3|usability evaluation||interaction technique||graphical annotation|||||||||||||||||||
+2309|6|replacement||hemodialysis||treatment||renal||dialysis||peritoneal|||||||||||||
+2316|4|Bruises||Paediatric||Immunoglobulin||Idiopathic thrombocytopenic purpura|||||||||||||||||
+2323|4|Paediatric||Bacterial Meningitis||Meningitis||Sepsis|||||||||||||||||
+2330|4|Sepsis||Paediatric||Bacterial Meningitis||Meningitis|||||||||||||||||
+2337|3|cardiac cycle||blood flow||heart|||||||||||||||||||
+2344|4|purkinje fibres||sinoatrial node||atrioventricular node||heart|||||||||||||||||
+2351|4|smooth muscle fibre||skeletal muscle fibre||cardiac muscle fibre||muscle tissue|||||||||||||||||
+2358|11|statistics||SPSS||interface||video||flash||basics||nursing||statistical software||tutorial||narration||medicine|||
+2365|6|tutorial||flash||statistics||narration||SPSS||video|||||||||||||
+2372|6|tutorial||video||SPSS||statistics||narration||flash|||||||||||||
+2379|6|SPSS||statistics||video||narration||flash||tutorial|||||||||||||
+2386|7|statistics||flash||graphics||video||SPSS||narration||tutorial|||||||||||
+2393|7|statistics||graphics||SPSS||narration||flash||video||tutorial|||||||||||
+2401|3|3D graphics annotation||user interaction types in medical eLearning||knowledge assessment|||||||||||||||||||
+2415|5|pleura||dolore toracico||dispnea||versamento pleurico||liquido pleurico|||||||||||||||
+2422|3|pancreas anatomy||pancreas diseases||pancreas functions and transplant|||||||||||||||||||
+2429|1|biostatistics ; epidemiology|||||||||||||||||||||||
+2436|1|stomach neoplasms|||||||||||||||||||||||
+2448|3|magnetic resonance imaging||lecture slides||physical principles of medical imaging|||||||||||||||||||
+2464|2|cephalometric tracings||orthodontics|||||||||||||||||||||
+2471|2|latero-lateral projection||Cephalometric landmarks|||||||||||||||||||||
+2478|0||||||||||||||||||||||||||
+2485|0||||||||||||||||||||||||||
+2492|2|Cephalometric landmarks||postero-anterior projection|||||||||||||||||||||
+2499|1|Cephalometric analysis|||||||||||||||||||||||
+2506|0||||||||||||||||||||||||||
+2513|0||||||||||||||||||||||||||
+2520|0||||||||||||||||||||||||||
+2527|0||||||||||||||||||||||||||
+2534|7|Moodle||Wiki||Forum||Medical Education||podcast||vodcast||Blogs|||||||||||
+2541|5|autism||gravity sensors||brain damage||neural plasticity||hypergravity|||||||||||||||
+2548|5|home care||Biosensors||bioMEMS||ingestible sensors.||nanomedicine|||||||||||||||
+2555|5|Chronic obstructive pulmonary disease (COPD)||Blood pressure||Hypoxia||Cognitive Performance||Human error|||||||||||||||
+2562|4|chest pain||primary healthcare||AMI||virtual patient|||||||||||||||||
+2569|0||||||||||||||||||||||||||
+2576|0||||||||||||||||||||||||||
+2583|3|DICOM||standard||medical image|||||||||||||||||||
+2590|0||||||||||||||||||||||||||
+2597|4|surgery||telematics||informatics||notes|||||||||||||||||
+2604|4|surgery||lecture||telematics||informatics|||||||||||||||||
+2611|4|lecture slides||magnetic resonance imaging||physical principles of medical imaging||molecular biology students|||||||||||||||||
+2618|3|moodle use||elearning environment||accreditation|||||||||||||||||||
+2625|3|EHR||silverlight||health database|||||||||||||||||||
+2632|8|Electronic Health Records||Open source||SCORM||Healthcare LOM||Collaborative learning||social networking||continuing medical education||public awareness|||||||||
+2639|5|communication forum||Smoking Cessation database||WEB 2.0||EHR||elearning environment|||||||||||||||
+2647|2|Bed rest study||standardisation|||||||||||||||||||||
+2656|9|JAR-FCL 3 (Medical)||harmonisation||aeromedical requirements||JAA (Joint Aviation Authorities)||standardisation||JARs (Joint Aviation Requirements)||rulemaking||transition||EASA (European Aviation Safety Agency)|||||||
+2665|3|European Aviation Safety||Aviation||aeromedical assessment|||||||||||||||||||
+2672|4|telemedicine||telepresence||international space station||space habitation|||||||||||||||||
+2681|0||||||||||||||||||||||||||
+2688|0||||||||||||||||||||||||||
+2717|4|prevention||Serious game||binge drinking||alcoholism|||||||||||||||||
+2724|3|handicap||serious game||Visually impaired|||||||||||||||||||
+2731|0||||||||||||||||||||||||||
+2738|4|notes||nuclear magnetic resonance||spectroscopy||imaging|||||||||||||||||
+2745|3|presentation||molecular imaging techniques||introduction|||||||||||||||||||
+2752|6|data entry||Electronic Health Records (EHR)||input forms||structured data entry||patient record||narrative form|||||||||||||
+2759|1|term diagrams in Medicine|||||||||||||||||||||||
+2766|1|ECG; image; limb leads; chest leads|||||||||||||||||||||||
+2773|1|ECG; ECG image; limb leads; EKG; cardiology|||||||||||||||||||||||
+2780|1|ECG; ECG image; chest leads; cardiology; EKG; heart|||||||||||||||||||||||
+2787|1|ECG Patient; ECG Patient case description; patient history|||||||||||||||||||||||
+2794|2|gigantism||metabolic diseases|||||||||||||||||||||
+2801|2|eye types||eye anatomy|||||||||||||||||||||
+2815|2|bolile pancreasului||anatomia pancreasului|||||||||||||||||||||
+2822|2|eye functions||human eye|||||||||||||||||||||
+2829|4|diagnoza||cancer mamar||tratament||breast cancer|||||||||||||||||
+2836|5|bones functions||bones disorders||bones structure||human bones||bones|||||||||||||||
+2979|2|ph and glucose range||pleural effusion|||||||||||||||||||||
+3032|1|Bioinformatics Tools|||||||||||||||||||||||
+3146|3|vascular surgery||vascular diseases||carotid stenosis|||||||||||||||||||
+3153|7|vascular diseases||vasospastic||vascular surgery||critical digital ischemia||Raynaud’s syndrome||cold exposure||Raynaud’s phenomenon|||||||||||
+3160|9|visceral aneurism||hepatic artery aneurism||renal artery aneurism||pancreatoduodenal artery aneurism||gastroduodenal artery aneurism||vascular diseases||splenic artery aneurism||coeliac artery aneurism||vascular surgery|||||||
+3167|6|Paget– Primary Varicosis of Lower Limbs||posttrombotic syndrome||Venous insufficiency||vascular surgery||Varicose disease||vascular diseases|||||||||||||
+3176|6|abdominal aorta surgery||Limb ischemia||rupture||aortic aneurysms||vascular surgery||vascular diseases|||||||||||||
+3183|5|axillary and brachial vein thrombosis||vascular diseases||Upper limb venous insufficiency||vascular surgery||Paget–Schroetter syndrome|||||||||||||||
+3190|4|Vascular surgery||Limb ischemia||Acute Upper extremity ischemia||vascular diseases|||||||||||||||||
+3204|3|complete heart block||3rd degree block||AV block|||||||||||||||||||
+3215|2|ST depression||Flipped T waves|||||||||||||||||||||
+3227|1|Pericarditis|||||||||||||||||||||||
+3234|1|Right bundle branch block|||||||||||||||||||||||
+3241|1|Right bundle branch block|||||||||||||||||||||||
+3248|3|AV block||3rd degree block||complete heart block|||||||||||||||||||
+3255|2|Flipped T waves||ST depression|||||||||||||||||||||
+3262|1|Pericarditis|||||||||||||||||||||||
+3284|5|Clinical||questions||gastroenterology||medical||nephrology|||||||||||||||
+3349|3|stroke||hemiplegia||clinical case|||||||||||||||||||
+3370|1|Cervical cancer screening|||||||||||||||||||||||
+3377|2|Papillomavirus Humain||HPV|||||||||||||||||||||
+3384|1|frottis anormal|||||||||||||||||||||||
+3391|3|cancer du col de l’utérus||HPV||Vaccination|||||||||||||||||||
+3402|0||||||||||||||||||||||||||
+3410|4|3D virtual world||virtual learning environment||OpenSim||chest pain|||||||||||||||||
+3424|5|Ventilation/oxygenation therapy; neonatal||paediatric intensive care; indications||contraindications||non-invasive||invasive methods|||||||||||||||
+3431|0||||||||||||||||||||||||||
+3438|0||||||||||||||||||||||||||
+3445|6|Mechanical ventilation;  synchronized breathing||effects of incomplete inspiration||interrelations between intubated neonates and ventilaiors||clinical indications for mechanical ventilation||laboratory indications for mechanical ventilation||interactions between the own respiration and ventilatory support|||||||||||||
+3452|0||||||||||||||||||||||||||
+3473|1|Right bundle branch block|||||||||||||||||||||||
+3480|1|Right bundle branch block|||||||||||||||||||||||
+3487|2|Q wave infarction||Myocardial infarction|||||||||||||||||||||
+3494|0||||||||||||||||||||||||||
+3501|2|cancer du col de l’utérus||Dépistage|||||||||||||||||||||
+3508|3|Papillomavirus Humain||HPV||VPH|||||||||||||||||||
+3515|3|Dépistage||cancer du col de l’utérus||frottis anormal|||||||||||||||||||
+3522|3|Vaccination||cancer du col de l’utérus.||HPV|||||||||||||||||||
+3533|3|raka grlića maternice||Prevencija||skrining Papa testom|||||||||||||||||||
+3540|2|rak grlića maternice||Humani papillomavirus (HPV)|||||||||||||||||||||
+3547|1|Abnormalnim Papa-nalazom|||||||||||||||||||||||
+3554|3|raka grlića||HPV||Vakcinacija|||||||||||||||||||
+3565|2|маточната шийка||Скрининг|||||||||||||||||||||
+3572|3|HPV||маточната шийка||Човешки Папиломен Вирус|||||||||||||||||||
+3579|0||||||||||||||||||||||||||
+3586|2|Ваксиниране||HPV|||||||||||||||||||||
+3608|2|raka vrata maternice||Probir|||||||||||||||||||||
+3615|3|HPV||rak vrata maternice||Humani papiloma virus|||||||||||||||||||
+3622|1|abnormalnim Papa-nalazom|||||||||||||||||||||||
+3629|2|Cijepljenje||HPV raka vrata|||||||||||||||||||||
+3647|2|Screening||karcinomu děložnıho čipku|||||||||||||||||||||
+3654|2|karcinomu děložnıho čipku||Lidske papillomaviry (HPV)|||||||||||||||||||||
+3661|3|bnormálnim cytologickýym||Sledováni||děložnim čipku|||||||||||||||||||
+3668|3|karcinomu děložního čípku||Očkování||HPV|||||||||||||||||||
+3695|5|optics||geometric||optical systems||presentation||slides|||||||||||||||
+3702|5|human vision||physics||eye||optics||photochemistry|||||||||||||||
+3709|1|radiation physics|||||||||||||||||||||||
+3716|2|cervical smear test||Screening|||||||||||||||||||||
+3723|2|Human papillomavirus||HPV|||||||||||||||||||||
+3730|5|severe dyskaryosis||Cervical smear test||moderate dyskaryosis||mild dyskaryosis||borderline|||||||||||||||
+3737|3|Human papillomavirus||HPV||vaccination|||||||||||||||||||
+3748|2|Cervical cancer screening||cervical smear test|||||||||||||||||||||
+3755|2|Human papillomavirus||HPV|||||||||||||||||||||
+3762|5|mild dyskaryosis||Cervical smear test||severe dyskaryosis||borderline||moderate dyskaryosis|||||||||||||||
+3769|3|HPV||vaccination||Human papillomavirus|||||||||||||||||||
+3804|2|sõeluuring||Emakakaelavähi|||||||||||||||||||||
+3811|2|HPV||Inimese papilloomviirus|||||||||||||||||||||
+3818|2|Pap-testi vastus||Jälgimine ja ravi|||||||||||||||||||||
+3825|2|emakakaelavähi||HPV|||||||||||||||||||||
+3836|2|cancro della cervice uterina||Screening|||||||||||||||||||||
+3843|3|HPV||Papilloma virus umano||cancro della cervice uterina|||||||||||||||||||
+3850|2|Trattamento||Pap-test anormale|||||||||||||||||||||
+3857|3|HPV||Vaccino||cancro cervicale|||||||||||||||||||
+3868|2|Преглед||грлото на матката|||||||||||||||||||||
+3875|3|грлото на матката||ХПВ||Хуман папилома вирус|||||||||||||||||||
+3882|1|абнормален резултат|||||||||||||||||||||||
+3889|3|ХПВ||грлото на матката||Вакцинирање|||||||||||||||||||
+3934|2|Rastreio||cancro do colo do utero|||||||||||||||||||||
+3941|3|cancro do colo do útero||HPV||Vírus do Papiloma Humano|||||||||||||||||||
+3948|3|tratamento||Seguimento||Papanicolaou anormal|||||||||||||||||||
+3955|3|HPV||Vacinação||cancro do colo do útero|||||||||||||||||||
+3966|2|Skryning||raka szyjki macicy|||||||||||||||||||||
+3973|2|Wirus brodawczaka ludzkiego||raka szyjki macicy|||||||||||||||||||||
+3980|3|leczenie||Kontrola||nieprawidłowym wynikiem badania cytologicznego|||||||||||||||||||
+3990|2|cancerului de col uterin||Screening-ul|||||||||||||||||||||
+3997|3|Virusul Papilloma||cancerul de col uterin||HPV|||||||||||||||||||
+4004|3|test Papanicolau anormal||Urmarirea||tratamentul|||||||||||||||||||
+4011|3|cancerului de col uterin||Vaccinarea||HPV|||||||||||||||||||
+4022|2|рак шейки матки||Скрининг|||||||||||||||||||||
+4029|3|Вирус папилломы человека||рак шейки матки||ВПЧ|||||||||||||||||||
+4036|1|аномалиях в Пап тесте|||||||||||||||||||||||
+4043|3|рака шейки||ВПЧ||Вакцинация|||||||||||||||||||
+4150|1|Медицина – ендокринология – студенти – аденоми на хипофиза – пролактином - акромегалия|||||||||||||||||||||||
+4157|1|Медицина – ендокринология – студенти – хипопитуитаризъм -неврохипофиза – инсипиден диабет – синдром на несъответна секреция на антидиуретичен хормон|||||||||||||||||||||||
+4164|1|Медицина – ендокринология – студенти – щитовидна жлеза – гуша – хипотиреоидизъм - тиреоидити|||||||||||||||||||||||
+4171|1|Медицина – ендокринология – студенти – щитовидна жлеза – тиреотоксикоза – хипертиреоидизъм – Базедова болест – токсичен аденом – нодозна базедовифицирана гуша – тиреоиден карцином|||||||||||||||||||||||
+4178|1|Медицина – ендокринология – студенти – калциево-фосфорна обмяна - паращитовидни жлези – хипопаратиреоидизъм - хиперпаратиреоидизъм|||||||||||||||||||||||
+4185|1|Медицина – ендокринология – студенти – надбъбречна кора – стероидегонеза – хиперкортицизъм – синдром на Cushing|||||||||||||||||||||||
+4192|1|Медицина – ендокринология – студенти – надбъбречна кора – минералокортикоиди – ендокринна хипертония -хипералдостеронизъм – синдром на Conn -|||||||||||||||||||||||
+4199|1|Медицина – ендокринология – студенти – надбъбречна медула – катехоламини – ендокринна хипертония – феохромоцитом – множествена ендокринна неоплазия|||||||||||||||||||||||
+4206|1|Медицина – ендокринология – студенти – захарен диабет  – нарушена гликемия на гладно – намален глюкозен толеранс – гликемичен контрол – хипогликемия – кетоацидоза – хиперосмоларна некетогенна кома – диабетна микроангиопатия – диабетна макроангиопатия – диабетна полиневропатия – диабетна ретинопатия – диабетна нефропатия – диабетно стъпало – перорални антидиабетни средства – инсулин – инсулинови аналози – инкретинови миметици|||||||||||||||||||||||
+4213|1|Медицина – ендокринология – студенти – надбъбречна кора – стероидегонеза – първичен хипокортицизъм – болест на Адисон – вродена надбъбречно-корова хиперплазия|||||||||||||||||||||||
+4220|0||||||||||||||||||||||||||
+4227|0||||||||||||||||||||||||||
+4234|0||||||||||||||||||||||||||
+4241|0||||||||||||||||||||||||||
+4248|0||||||||||||||||||||||||||
+4255|0||||||||||||||||||||||||||
+4262|0||||||||||||||||||||||||||
+4269|0||||||||||||||||||||||||||
+4276|7|Ventilation/oxygenation therapy; neonatal||continuous positive airway pressure /CPAP/barotruma||intensive care; medical||invasive methods||paediatric||alveolar collapse||monitoring and life-support equipment; non-invasive|||||||||||
+4283|0||||||||||||||||||||||||||
+4290|12|invasive methods||constant flow ventilation /CFV/||intensive care; medical||AC/||assist control||monitoring and life-support equipment; non-invasive||synchronous intermittent mandatory ventilation /SIMV/||pressure support ventilation /PSV/||Ventilation/oxygenation therapy; neonatal||pressure control ventilation /PCV/||paediatric||proportional assist ventilation/PSV/|
+4297|11|high frequency oscillatory ventilation /HFOV/||high frequency ventilation /HFV/||Ventilation/oxygenation therapy; neonatal||invasive methods||paediatric||high frequency  positive pressure ventilation /HFPPV/||high frequency  chest wall oscillation /HFCWO/||intensive care; medical||monitoring and life-support equipment; non-invasive||high frequency jet ventilation /HFJV/||high frequency flow interruptors /HFFI/|||
+4304|8|paediatric||oxygen delivery||intensive care; medical||еxtracorporeal membrane oxygenation /ECMO/||Ventilation/oxygenation therapy; neonatal||invasive methods||anticoagulant therapy||monitoring and life-support equipment; non-invasive|||||||||
+4311|11|perfluorocarbons /PFCs/||intensive care; medical||partial liquid ventilation /PLV/||Ventilation/oxygenation therapy; neonatal||liquid ventilation /LV/||invasive methods||monitoring and life-support equipment; non-invasive||paediatric||tidal liquid ventilation /TLV/||perfluorocarbon ventilation||perfluorocarbon associated gas exchange /PAGE/|||
+4318|6|monitoring and life-support equipment; non-invasive||invasive methods||surfactant||intensive care; medical||paediatric||Ventilation/oxygenation therapy; neonatal|||||||||||||
+4325|10|infection||intensive care; medical||invasive methods barotrauma||paediatric||monitoring and life-support equipment; non-invasive||||cardiovascular disturbances||intubation||extubation||Ventilation/oxygenation therapy; neonatal||oxygen toxicity|||||
+4332|0||||||||||||||||||||||||||
+4339|0||||||||||||||||||||||||||
+4346|0||||||||||||||||||||||||||
+4353|0||||||||||||||||||||||||||
+4360|13|general care||home care||invasive methods||intensive care; medical||Ventilation/oxygenation therapy; neonatal||intubation||monitoring and life-support equipment; non-invasive||paediatric||extubation||ventilator dependency||special care||ICU care||delivery room care|
+4367|0||||||||||||||||||||||||||
+4374|10|NIPS – Neonatal Infant Pain Score||ICPP – IC  perfusion pressure||Ventilation/oxygenation therapy; neonatal||invasive methodsр||paediatric||intensive care; medical||ICP – Intra Cranial Pressure||DSVN – Distress Scale for Ventilated Newborn Infants||monitoring and life-support equipment; non-invasive||Infant Distress Score|||||
+4381|11|TPN||feeding||invasive methods||monitoring and life-support equipment; non-invasive||intensive care; medical||Protein-Calorie Malnutriton – PCM||Ventilation/oxygenation therapy; neonatal||nutrition||paediatric||sub-nutritional quantities||minimal nutrition|||
+4388|0||||||||||||||||||||||||||
+4395|14|arterio/alveolarmratio /a/A/||mean airway pressure /MAP/||compliance /C/||repiratory rate /RR/||frequency /Fr/||positive end-expiratory pressure /PEEP/||Controlled variables||flow||ventilation efficiency index /VEI/||peak inspiratory pressure /PIP/||ventilation index /VI/||tidal volume /TV/||time constant /Tc/||alveolar-to-arterial partial oxygen tension difference /AaDO2/|
+4402|14|tidal volume /TV/||ventilation efficiency index /VEI/||alveolar-to-arterial partial oxygen tension difference /AaDO2/||time constant /Tc/||peak inspiratory pressure /PIP/||positive end-expiratory pressure /PEEP/||compliance /C/||frequency /Fr/||ventilation index /VI/||arterio/alveolarmratio /a/A/||repiratory rate /RR/||Controlled variables||flow||mean airway pressure /MAP/|
+4409|5|Ventilation/oxygenation therapy; neonatal||invasive methods||paediatric||intensive care; medical||monitoring and life-support equipment; non-invasive|||||||||||||||
+4416|5|paediatric||intensive care;drug monitoring||score||Ventilation/oxygenation therapy; neonatal||neonatal abstinence|||||||||||||||
+4423|0||||||||||||||||||||||||||
+4430|0||||||||||||||||||||||||||
+4437|0||||||||||||||||||||||||||
+4444|6|tempersture monitoring||Ventilation/oxygenation therapy; neonatal||hyperthermia||intensive care; hypothermia||termal comfort||paediatric|||||||||||||
+4451|4|Diagnostic and therapeutic procedures||Ventilation/oxygenation therapy; neonatal||paediatric||intensive care;|||||||||||||||||
+4458|0||||||||||||||||||||||||||
+4465|0||||||||||||||||||||||||||
+4472|0||||||||||||||||||||||||||
+4479|0||||||||||||||||||||||||||
+4486|8|invasive methods||Ventilation/oxygenation therapy; neonatal||mobile ICU||paediatric||monitoring and life-support equipment; non-invasive||transport||intensive care; medical||transport  monitoring|||||||||
+4493|6|home care logistics||intensive care; medical||Ventilation/oxygenation therapy; neonatal||paediatric||respiratory support||monitoring and life-support equipment; home care ventilators|||||||||||||
+4500|0||||||||||||||||||||||||||
+4507|3|Ventilation/oxygenation therapy  terminology; neonatal||intensive care terminology; abbreviations||paediatric|||||||||||||||||||
+4568|0||||||||||||||||||||||||||
+4575|0||||||||||||||||||||||||||
+4582|0||||||||||||||||||||||||||
+4589|0||||||||||||||||||||||||||
+4596|0||||||||||||||||||||||||||
+4603|0||||||||||||||||||||||||||
+4610|0||||||||||||||||||||||||||
+4633|19|Lyme Disease||Cholera||biology||diseases||Meningitis||Depression/Stress||Malaria||Tuberculosis||Bluetongue||Dengue fever||Trypanosomiasis||Skin Cancer||Plague||Heatstroke||serious game||Leishmaniasis||A-levels||climate change||Malnutrition|
+4640|19|Malnutrition||climate change||Depression/Stress||Skin Cancer||Cholera||A-levels||Leishmaniasis||Tuberculosis||biology||Plague||Malaria||serious game||Trypanosomiasis||Lyme Disease||Bluetongue||Heatstroke||Dengue fever||diseases||Meningitis|
+4799|1|medicine; medical students; clical procedures; urethral catheterization; suprapubic cystostomy. .|||||||||||||||||||||||
+4813|1|medicine; medical students; clical procedures; naso-gastric intubation.|||||||||||||||||||||||
+4820|5|medicine||pleural aspiration. .||thoracentesis||medical students||clical procedures|||||||||||||||
+4827|5|medical students||pleural aspiration. .||pleural drainage||clical procedures||medicine|||||||||||||||
+4865|5|lumbar puncture||medicine||clinical procedures||cerebro-spinal fluid aspiration. .||medical students|||||||||||||||
+4873|6|ascit||abdominal trauma. .||medicine||medical students||abdominal paracentesis||clinical procedures|||||||||||||
+5476|5|emergency medicine||general surgery||medicine||emergency surgery||medical students|||||||||||||||
+5483|5|general surgery||medical students||emergency medicine||emergency surgery||medicine|||||||||||||||
+5490|5|emergency medicine||emergency surgery||medicine||general surgery||medical students|||||||||||||||
+5497|5|emergency medicine||general surgery||medical students||emergency surgery||medicine|||||||||||||||
+5504|5|emergency surgery||medical students||general surgery||emergency medicine||medicine|||||||||||||||
+5511|5|emergency medicine||medicine||general surgery||medical students||emergency surgery|||||||||||||||
+5518|5|medical students||general surgery||emergency medicine||medicine||emergency surgery|||||||||||||||
+5539|3|General Practice||myasthenia gravis||eye pathology|||||||||||||||||||
+5554|3|eye pathology||General Practice||myasthenia gravis|||||||||||||||||||
+5561|3|General Practice||myasthenia gravis||eye pathology|||||||||||||||||||
+5568|3|eye pathology||General Practice||myasthenia gravis|||||||||||||||||||
+5575|2|General Practice||hypertensive disease|||||||||||||||||||||
+5582|2|General Practice||hypertensive disease|||||||||||||||||||||
+5589|2|General Practice||skin disease|||||||||||||||||||||
+5596|2|General Practice||skin disease|||||||||||||||||||||
+5603|2|General Practice||pneumonia|||||||||||||||||||||
+5610|2|pneumonia||General Practice|||||||||||||||||||||
+5617|2|General Practice||trichinosis|||||||||||||||||||||
+5624|2|trichinosis||General Practice|||||||||||||||||||||
+5631|2|General Practice||haematology|||||||||||||||||||||
+5638|2|haematology||General Practice|||||||||||||||||||||
+5645|2|General Practice||heart disease|||||||||||||||||||||
+5652|2|heart disease||General Practice|||||||||||||||||||||
+8163|1|Fibromyalgia - Middle Aged - Physical Therapy Modalities - Prospective Studies - Serotonin Uptake Inhibitors - Sertraline - Treatment Outcome - Randomized Controlled Trial - Clinical Trial - Evidence-based Medicine|||||||||||||||||||||||
+11464|0||||||||||||||||||||||||||
+12246|0||||||||||||||||||||||||||
+12253|0||||||||||||||||||||||||||
+12715|0||||||||||||||||||||||||||
+12736|0||||||||||||||||||||||||||
+15209|0||||||||||||||||||||||||||
+15608|0||||||||||||||||||||||||
+15615|0||||||||||||||||||||||||
+15622|0||||||||||||||||||||||||
+15629|0||||||||||||||||||||||||
+15636|0||||||||||||||||||||||||
+15643|0||||||||||||||||||||||||
+15650|0||||||||||||||||||||||||
+15657|0||||||||||||||||||||||||
+15664|0||||||||||||||||||||||||
+15671|0||||||||||||||||||||||||
+15678|0||||||||||||||||||||||||
+15685|0||||||||||||||||||||||||
+15692|0||||||||||||||||||||||||
+15699|0||||||||||||||||||||||||
+15706|0||||||||||||||||||||||||
+15713|0||||||||||||||||||||||||
+15720|0||||||||||||||||||||||||
+21804|1|human heart|Free text||||||||||||||||||||||

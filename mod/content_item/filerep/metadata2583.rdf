@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2583">
+
+	 <mdc:identifier><![CDATA[http://iris.med.duth.gr/elearning/mod/resource/view.php?id=821]]></mdc:identifier> 
+<mdc:title><![CDATA[An Introduction to DICOM Standard ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Eleni Kaldoudi]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Eleni Kaldoudi]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/kaldoudi?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2008-03-01</mdc:created>
+<mdc:metadataCreated>2010-05-08</mdc:metadataCreated>
+<mdc:citation><![CDATA[E. Kaldoudi, Â«Introduction to DICOM Standardâ€, Lecture Slides Presented in the PostGraduate Course â€œInformatics for Health Sciences, University of Patras, Greeceâ€, School of Medicine, Democritus University of Thrace, Greece, March 2008]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject280315263"><rdfs:label><![CDATA[DICOM ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject908427580"><rdfs:label><![CDATA[ standard ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1910784107"><rdfs:label><![CDATA[ medical image ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This item is a set of 100 slides corresponding to a 3 hours lecture on an introduction to the DICOM standard. The slides cover the following topics: (1) Why do we need DICOM; (2) What is DICOM; (3) The DICOM model of the real world  (4) DICOM Information Objects; (5) DICOM Attributes; (6)  DICOM Service Elements; (7) DICOM SPOs; (8) DICOM Services; (9) DICOM UIDs;  (10) Workflow Management in DICOM; (11) The WADO Supplement to DICOM; (12) Security Issues; (13) Conformance; (14) A Roadmap to DICOM documents; (15) How to get DICOM.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[A winrar zipped Powerpoint(R) file. The file requires Microsoft PowerPoint version 97-2003 player. The zipped file is ~1 MB, while the original PowerPoint file is ~1.5 MB.]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline141199342"><rdfs:label><![CDATA[medical informatics, medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality649282717"><rdfs:label><![CDATA[radiology ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>postgraduate</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This lecture is intended for postgraduates in medical informatics, or for advanced teaching residents/specialists in radiology.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Use this slide series for a 3 hour introduction to the DICOM standard.]]></mdc:teachingLearningInstructions>
+<mdc:educationalPrerequisites><![CDATA[Basic knowledge of what a technology standard is; basic knowledge on digital image technology (e.g. file formats, etc); basic knowledge on medical imaging techiques.]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<graph id="ELGG" edgedefault="directed">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="username" for="node" attr.name="username" attr.type="string"/>
+<node id="42996">
+<data key="name">mEducator user testing case studies - process approach</data>
+<data key="username">11d667b2ad53ac759a17cd3239418fa3</data>
+</node>
+</graph>
+</graphml>

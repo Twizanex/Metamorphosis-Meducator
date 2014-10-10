@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2555">
+
+	 <mdc:identifier><![CDATA[http://www.hippokratia.gr/index.php/hippo/article/view/649]]></mdc:identifier> 
+<mdc:title><![CDATA[High altitude cognitive performance and COPD interaction ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-No-Derivatives" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[C. Kourtidou-Papadeli]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ CL. Papadelis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ D. Koutsonikolas D]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ S Boutzioukas]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ C. Styliadis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ O. Guiba-Tziampiri O]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/stathis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-09-24</mdc:created>
+<mdc:metadataCreated>2010-05-08</mdc:metadataCreated>
+<mdc:citation><![CDATA[C. Kourtidou-Papadeli, CL. Papadelis, D. Koutsonikolas D, S Boutzioukas, C. Styliadis, O. Guiba-Tziampiri O. High altitude cognitive performance and COPD interaction. Hippokratia 2008; 12 (Suppl 1): 84-90]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1898517604"><rdfs:label><![CDATA[Chronic obstructive pulmonary disease (COPD) ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1522761258"><rdfs:label><![CDATA[ Cognitive Performance ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject949535197"><rdfs:label><![CDATA[ Hypoxia ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject721257121"><rdfs:label><![CDATA[ Blood pressure ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject894356652"><rdfs:label><![CDATA[ Human error ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Introduction: Thousands of people work and perform everyday in high altitude environment, either as pilots, or shift workers, or mountaineers. The problem is that most of the accidents in this environment have been attributed to human error. The objective of this study was to assess complex cognitive performance as it interacts with respiratory insufficiency at altitudes of 8000 feet
+and identify the potential effect of hypoxia on safe performance.
+Methods: Twenty subjects participated in the study, divided in two groups: Group I with mild asymptomatic chronic obstructive pulmonary disease (COPD), and Group II with normal respiratory function. Altitude was simulated at 8000 ft. using gas mixtures.
+Results: Individuals with mild COPD experienced notable hypoxemia with significant performance decrements and increased number of errors at cabin altitude, compared to normal subjects, whereas their blood pressure significantly increased.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[PDF]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#scientificJournalArticle"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline996863527"><rdfs:label><![CDATA[Aerospace Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>CME</mdc:educationalLevel>
+</mdc:Resource></rdf:RDF>

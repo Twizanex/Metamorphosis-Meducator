@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:geo-pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	xmlns:umbel-ac="http://umbel.org/umbel/ac/"
+	xmlns:sioc="http://rdfs.org/sioc/ns#"
+	xmlns:sw-vocab="http://www.w3.org/2003/06/sw-vocab-status/ns#"
+	xmlns:ff="http://factforge.net/"
+	xmlns:music-ont="http://purl.org/ontology/mo/"
+	xmlns:dc-term="http://purl.org/dc/terms/"
+	xmlns:om="http://www.ontotext.com/owlim/"
+	xmlns:opencyc-en="http://sw.opencyc.org/2008/06/10/concept/en/"
+	xmlns:factbook="http://www.daml.org/2001/12/factbook/factbook-ont#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:ot="http://www.ontotext.com/"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:mdc="http://www.purl.org/meducator/ns/"
+	xmlns:yago="http://mpii.de/yago/resource/"
+	xmlns:j.0="http://www.w3.org/2004/02/skos/core#"
+	xmlns:umbel="http://umbel.org/umbel#"
+	xmlns:wordnet16="http://xmlns.com/wordnet/1.6/"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:gr="http://purl.org/goodrelations/v1#"
+	xmlns:wordnet="http://www.w3.org/2006/03/wn/wn20/instances/"
+	xmlns:opencyc="http://sw.opencyc.org/concept/"
+	xmlns:wordn-sc="http://www.w3.org/2006/03/wn/wn20/schema/"
+	xmlns:nytimes="http://data.nytimes.com/"
+	xmlns:dbp-prop="http://dbpedia.org/property/"
+	xmlns:protons="http://proton.semanticweb.org/2005/04/protons#"
+	xmlns:geonames="http://sws.geonames.org/"
+	xmlns:protonu="http://proton.semanticweb.org/2005/04/protonu#"
+	xmlns:protont="http://proton.semanticweb.org/2005/04/protont#"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:dbpedia="http://dbpedia.org/resource/"
+	xmlns:oasis="http://psi.oasis-open.org/iso/639/#"
+	xmlns:geo-ont="http://www.geonames.org/ontology#"
+	xmlns:umbel-en="http://umbel.org/umbel/ne/wikipedia/"
+	xmlns:bbc-pont="http://purl.org/ontology/po/"
+	xmlns:lingvoj="http://www.lingvoj.org/ontology#"
+	xmlns:fb="http://rdf.freebase.com/ns/"
+	xmlns:dbtune="http://dbtune.org/bbc/peel/work/"
+	xmlns:umbel-sc="http://umbel.org/umbel/sc/"
+	xmlns:dbp-ont="http://dbpedia.org/ontology/"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:ub="http://www.lehigh.edu/~zhp2/2004/0401/univ-bench.owl#"
+	xmlns:protonkm="http://proton.semanticweb.org/2005/04/protonkm#"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<rdf:Description rdf:about="http://purl.org/meducator/resources/969f3562-fdc8-4257-9b70-a7554ce22319">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"/>
+	<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#3410</rdfs:seeAlso>
+	<mdc:creator rdf:nodeID="node21257"/>
+	<mdc:creator rdf:nodeID="node21262"/>
+	<mdc:creator rdf:nodeID="node21263"/>
+	<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike"/>
+	<mdc:title>Chest pain session in a 3D virtual learning environment</mdc:title>
+	<mdc:identifier rdf:nodeID="node21256"/>
+	<mdc:metadataCreator rdf:nodeID="node21260"/>
+	<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#simulation"/>
+	<mdc:technicalDescription>Users are provided with accounts and should log in to enter the 3D world.</mdc:technicalDescription>
+	<mdc:metadataCreated>2010-07-20</mdc:metadataCreated>
+	<mdc:metadataLanguage>English</mdc:metadataLanguage>
+	<mdc:citation>Under the terms of this Creative Commons license, we would like to acknowledge the Lab of Medical Informatics of Aristotle University of Thessaloniki for providing access to this educational scenario</mdc:citation>
+	<mdc:description>This is an OpenSim based 3D virtual learnimg environment that was built so as to support interactive learning in medical students. It includes a learning scenario concerning chest pain, but it can be used for other learning scenarios in the fields of primary healthcare, in the era of Cardiology. The graphic environment provides to the user, not only the feeling of being physically present in this virtual world, but the opportunity that he/she can interact with it.</mdc:description>
+	<mdc:created>2010-07-20</mdc:created>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1763210607"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1404256849"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject460118953"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1333342854"/>
+	<mdc:educationalOutcomes>The students are expected to learn how to deal with a patient with chest pain incident in primary healthcare.</mdc:educationalOutcomes>
+	<mdc:educationalObjectives>The aim of this learning environment is to support students to practise in decision taking in a realistic 3D environment in basic clinical skills in primary healthcare.</mdc:educationalObjectives>
+	<mdc:hasRepurposingContext rdf:nodeID="node21255"/>
+	<mdc:hasRepurposingContext rdf:nodeID="node21259"/>
+	<mdc:educationalLevel>undergraduate medical students</mdc:educationalLevel>
+	<mdc:educationalContext>The appearance of virtual worlds has additional dimensions beyond traditional Web services concerning communication, research, formal and informal education and training and lifelong learning as well. Interaction and involvement of the students\participants support self directed learning and are considered to be highly motivating.</mdc:educationalContext>
+	<mdc:discipline rdf:resource="http://meducator.open.ac.uk/metamorphosis#discipline1085112506"/>
+	<mdc:language>English</mdc:language>
+	<mdc:teachingLearningInstructions>This learning environment can be used supplementary to clinical lessons.</mdc:teachingLearningInstructions>
+	<mdc:disciplineSpeciality rdf:resource="http://meducator.open.ac.uk/metamorphosis#speciality9689221"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21257">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Eleni Dafli</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21262">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Kostantinos Vegoudakis</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21263">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Konstantinos Kostopoulos</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21256">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://kedip.med.auth.gr/elearning/course/view.php?id=62</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21260">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/elenidafli?view=foaf</mdc:profileURI>
+	<foaf:name>Eleni Dafli</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21255">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/RepurposingContext"/>
+	<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Technology</mdc:fromRepurposingContext>
+	<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy</mdc:fromRepurposingContext>
+	<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Content-Types</mdc:fromRepurposingContext>
+	<mdc:repurposedFrom rdf:resource="http://purl.org/meducator/instances/"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21259">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/RepurposingContext"/>
+	<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Technology</mdc:fromRepurposingContext>
+	<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy</mdc:fromRepurposingContext>
+	<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Content-Types</mdc:fromRepurposingContext>
+	<mdc:repurposedFrom rdf:resource="http://purl.org/meducator/instances/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/meducator/resources/8d1b434f-43fe-4cdb-8016-cdc1915c0030">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"/>
+	<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#2724</rdfs:seeAlso>
+	<mdc:creator rdf:nodeID="node21437"/>
+	<mdc:title>Virtual Kitchen</mdc:title>
+	<mdc:identifier rdf:nodeID="node21436"/>
+	<mdc:metadataCreator rdf:nodeID="node21438"/>
+	<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#gameSeriousGame"/>
+	<mdc:technicalDescription>Real time 3D application, downloadable</mdc:technicalDescription>
+	<mdc:metadataCreated>2010-05-10</mdc:metadataCreated>
+	<mdc:metadataLanguage>English</mdc:metadataLanguage>
+	<mdc:citation></mdc:citation>
+	<mdc:description>Explains to good seeing people the problems ine their day to day lives of the visually impaired people</mdc:description>
+	<mdc:created>2004-05-03</mdc:created>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject2101642395"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject281153384"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1301619122"/>
+	<mdc:language>French</mdc:language>
+	<mdc:educationalPrerequisites>None</mdc:educationalPrerequisites>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21437">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Succubus Interactive</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21436">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://www.succubus.fr/demo/VirtualKitchen.exe</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21438">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/LaurentAuneau?view=foaf</mdc:profileURI>
+	<foaf:name>Laurent Auneau</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/meducator/resources/d95cc54d-3bfa-406f-bef5-cd59bccaf302">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"/>
+	<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#2330</rdfs:seeAlso>
+	<mdc:creator rdf:nodeID="node21658"/>
+	<mdc:creator rdf:nodeID="node21659"/>
+	<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike"/>
+	<mdc:title>Catherine Miller Branched Virtual Patient</mdc:title>
+	<mdc:identifier rdf:nodeID="node21661"/>
+	<mdc:identifier rdf:nodeID="node21662"/>
+	<mdc:metadataCreator rdf:nodeID="node21660"/>
+	<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#virtualPatient"/>
+	<mdc:technicalDescription>This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information.</mdc:technicalDescription>
+	<mdc:metadataCreated>2010-05-07</mdc:metadataCreated>
+	<mdc:metadataLanguage>English</mdc:metadataLanguage>
+	<mdc:citation></mdc:citation>
+	<mdc:description>This is the story about a Virtual Patient called Catherine Miller. She is a 5 month old girl who is brought into the Emergency Department by her Father with a high temperature. As you progress through the case you have to interpret the examination findings and then investigations to reach a diagnosis and then formulate a management plan.  The potential long term complications of the diagnosis are also discussed.</mdc:description>
+	<mdc:created>2010-01-02</mdc:created>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1661176323"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject2140984269"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject2115300573"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject2032197914"/>
+	<mdc:educationalLevel>Pre-clinical Medical Student</mdc:educationalLevel>
+	<mdc:educationalContext>Self-Directed Learning</mdc:educationalContext>
+	<mdc:discipline rdf:resource="http://meducator.open.ac.uk/metamorphosis#discipline1187728830"/>
+	<mdc:language>English</mdc:language>
+	<mdc:disciplineSpeciality rdf:resource="http://meducator.open.ac.uk/metamorphosis#speciality190765767"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21658">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Sophie Vaughan</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21659">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Jonathan Round</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21661">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>evip:vp:1000523</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21662">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://labyrinth.sgul.ac.uk/mnode.asp?id=qgxlrdbu3lpfvf4jesngxlrdbtpr9kq</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21660">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf</mdc:profileURI>
+	<foaf:name>Evangelia Mitsopoulou</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/meducator/resources/998feed7-c4a5-4b25-955e-849fed55fd83">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"/>
+	<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#2323</rdfs:seeAlso>
+	<mdc:creator rdf:nodeID="node21665"/>
+	<mdc:creator rdf:nodeID="node21667"/>
+	<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike"/>
+	<mdc:title>Catherine Miller Linear Virtual Patient</mdc:title>
+	<mdc:identifier rdf:nodeID="node21663"/>
+	<mdc:identifier rdf:nodeID="node21666"/>
+	<mdc:metadataCreator rdf:nodeID="node21664"/>
+	<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#virtualPatient"/>
+	<mdc:technicalDescription>This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information.</mdc:technicalDescription>
+	<mdc:metadataCreated>2010-05-07</mdc:metadataCreated>
+	<mdc:metadataLanguage>English</mdc:metadataLanguage>
+	<mdc:citation></mdc:citation>
+	<mdc:description>This is the story about a Virtual Patient called Catherine Miller. She is a 5 month old girl who is brought into the Emergency Department by her Father with a high temperature. As you progress through the case you have to interpret the examination findings and then investigations to reach a diagnosis and then formulate a management plan.  The potential long term complications of the diagnosis are also discussed.</mdc:description>
+	<mdc:created>2010-01-02</mdc:created>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1906358321"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1932986144"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1843277701"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject435884272"/>
+	<mdc:educationalLevel>Pre-clinical Medical Student</mdc:educationalLevel>
+	<mdc:educationalContext>Self-Directed Learning</mdc:educationalContext>
+	<mdc:discipline rdf:resource="http://meducator.open.ac.uk/metamorphosis#discipline1990680166"/>
+	<mdc:language>English</mdc:language>
+	<mdc:disciplineSpeciality rdf:resource="http://meducator.open.ac.uk/metamorphosis#speciality28449717"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21665">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Sophie Vaughan</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21667">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Jonathan Round</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21663">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://www.elu.sgul.ac.uk/revip/catherine/index.html?lang=en&amp;amp;caseid=477453</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21666">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>evip:vp:1000528</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21664">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf</mdc:profileURI>
+	<foaf:name>Evangelia Mitsopoulou</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/meducator/resources/2810f280-7bc9-494e-bee0-97d83303266b">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"/>
+	<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#2316</rdfs:seeAlso>
+	<mdc:creator rdf:nodeID="node21671"/>
+	<mdc:creator rdf:nodeID="node21672"/>
+	<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike"/>
+	<mdc:title>John M Branched Virtual Patient</mdc:title>
+	<mdc:identifier rdf:nodeID="node21669"/>
+	<mdc:identifier rdf:nodeID="node21670"/>
+	<mdc:metadataCreator rdf:nodeID="node21668"/>
+	<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#virtualPatient"/>
+	<mdc:technicalDescription>This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information.</mdc:technicalDescription>
+	<mdc:metadataCreated>2010-05-07</mdc:metadataCreated>
+	<mdc:metadataLanguage>English</mdc:metadataLanguage>
+	<mdc:citation></mdc:citation>
+	<mdc:description>This is the story about a Virtual Patient called John M. He is a little boy who is nearly 3 years old and is brought into Paediatric A&amp;amp;E with bruises. As the case progresses you have to decide on the important aspects of the history and then proceed to investigations in order to make a diagnosis. Depending on your management you have to deal with some associated medical complications.</mdc:description>
+	<mdc:created>2010-01-02</mdc:created>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject441322950"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1745010796"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1267779845"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject484828760"/>
+	<mdc:educationalLevel>Pre-clinical Medical Student</mdc:educationalLevel>
+	<mdc:educationalContext>Self-directed Learning</mdc:educationalContext>
+	<mdc:discipline rdf:resource="http://meducator.open.ac.uk/metamorphosis#discipline1113677659"/>
+	<mdc:language>English</mdc:language>
+	<mdc:disciplineSpeciality rdf:resource="http://meducator.open.ac.uk/metamorphosis#speciality1562959294"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21671">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Jonathan Round</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21672">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Sophie Vaughan</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21669">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://labyrinth.sgul.ac.uk/openlabyrinth/mnode.asp?id=qgxlrdbarsx9qarsx9qqajxhqwnw2gc</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21670">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>evip:vp:1000525</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21668">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf</mdc:profileURI>
+	<foaf:name>Evangelia Mitsopoulou</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/meducator/resources/bceb94c2-c9a7-4ad8-8298-527a2e645eef">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"/>
+	<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#2294</rdfs:seeAlso>
+	<mdc:creator rdf:nodeID="node21682"/>
+	<mdc:creator rdf:nodeID="node21683"/>
+	<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike"/>
+	<mdc:title>John M Linear Virtual Patient</mdc:title>
+	<mdc:identifier rdf:nodeID="node21680"/>
+	<mdc:identifier rdf:nodeID="node21681"/>
+	<mdc:metadataCreator rdf:nodeID="node21684"/>
+	<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#virtualPatient"/>
+	<mdc:technicalDescription>This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information.</mdc:technicalDescription>
+	<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+	<mdc:metadataLanguage>English</mdc:metadataLanguage>
+	<mdc:citation></mdc:citation>
+	<mdc:description>This is the story about a Virtual Patient called John M. He is a little boy who is nearly 3 years old and is brought into Paediatric A&amp;amp;E with bruises. As the case progresses you have to decide on the important aspects of the history and then proceed to investigations in order to make a diagnosis. Depending on your management you have to deal with some associated medical complications.</mdc:description>
+	<mdc:created>2010-01-02</mdc:created>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1244080252"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1713656104"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject198920665"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject717874121"/>
+	<mdc:educationalLevel>Pre-clinical Medical Student</mdc:educationalLevel>
+	<mdc:educationalContext>Self-Directed Learning</mdc:educationalContext>
+	<mdc:discipline rdf:resource="http://meducator.open.ac.uk/metamorphosis#discipline1915713108"/>
+	<mdc:language>English</mdc:language>
+	<mdc:disciplineSpeciality rdf:resource="http://meducator.open.ac.uk/metamorphosis#speciality1141219346"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21682">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Sophie Vaughan</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21683">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Jonathan Round</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21680">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://www.elu.sgul.ac.uk/revip/john/index.html?lang=en&amp;amp;caseid=477537</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21681">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>evip:vp:1000530</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21684">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf</mdc:profileURI>
+	<foaf:name>Evangelia Mitsopoulou</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/meducator/resources/3ea47ab7-98d9-4907-884c-8c8e65ea95d5">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"/>
+	<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#2287</rdfs:seeAlso>
+	<mdc:creator rdf:nodeID="node21686"/>
+	<mdc:creator rdf:nodeID="node21687"/>
+	<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike"/>
+	<mdc:title>Florian Brabched Virtual Patient</mdc:title>
+	<mdc:identifier rdf:nodeID="node21688"/>
+	<mdc:identifier rdf:nodeID="node21689"/>
+	<mdc:metadataCreator rdf:nodeID="node21685"/>
+	<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#virtualPatient"/>
+	<mdc:technicalDescription>This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information.</mdc:technicalDescription>
+	<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+	<mdc:metadataLanguage>English</mdc:metadataLanguage>
+	<mdc:citation></mdc:citation>
+	<mdc:description>This is a story of a Virtual Patient called Florian. He is a baby born prematurely at 34 weeks gestation and you are responsible for his management at delivery and beyond as you progress through the case. Your decisions will determine the outcome and you will need to make a diagnosis and decide on management including ventilation of the baby and associated complications.</mdc:description>
+	<mdc:created>2010-01-02</mdc:created>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject616675916"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject799468772"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1755122855"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1584118296"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1539160236"/>
+	<mdc:educationalLevel>Preclinical Medical Student</mdc:educationalLevel>
+	<mdc:educationalContext>Self-Directed Learning</mdc:educationalContext>
+	<mdc:discipline rdf:resource="http://meducator.open.ac.uk/metamorphosis#discipline324613856"/>
+	<mdc:language>English</mdc:language>
+	<mdc:disciplineSpeciality rdf:resource="http://meducator.open.ac.uk/metamorphosis#speciality129662206"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21686">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Sophie Vaughan</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21687">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Jonathan Round</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21688">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>evip:vp:1000526</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21689">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://labyrinth.sgul.ac.uk/mnode.asp?id=qgxlrdbarsx9qqajxhqwnw2gcqajxhq</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21685">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf</mdc:profileURI>
+	<foaf:name>Evangelia Mitsopoulou</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/meducator/resources/97a8238c-66fe-49e7-bcf5-8110bfd5765e">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"/>
+	<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#2280</rdfs:seeAlso>
+	<mdc:creator rdf:nodeID="node21693"/>
+	<mdc:creator rdf:nodeID="node21694"/>
+	<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike"/>
+	<mdc:title>Oga Branched  Virtual Patient</mdc:title>
+	<mdc:identifier rdf:nodeID="node21691"/>
+	<mdc:identifier rdf:nodeID="node21692"/>
+	<mdc:metadataCreator rdf:nodeID="node21690"/>
+	<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#virtualPatient"/>
+	<mdc:technicalDescription>This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information.</mdc:technicalDescription>
+	<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+	<mdc:metadataLanguage>English</mdc:metadataLanguage>
+	<mdc:citation></mdc:citation>
+	<mdc:description>This is the story of a Virtual Patient called Oga. She is a 3 year girl originally from Turkey who presents with a history of chronic cough to your respiratory clinic. As you proceed through the case you are able to evaluate the important aspects of the history and clinical examination. By interpreting specialist investigations you are able to make a diagnosis and formulate a management plan as well as managing some complications.</mdc:description>
+	<mdc:created>2010-01-02</mdc:created>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1562581585"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject649414459"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1973890870"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject548210424"/>
+	<mdc:educationalLevel>Preclinical Medical Student</mdc:educationalLevel>
+	<mdc:educationalContext>Self- Directed Learning</mdc:educationalContext>
+	<mdc:discipline rdf:resource="http://meducator.open.ac.uk/metamorphosis#discipline2022870843"/>
+	<mdc:language>English</mdc:language>
+	<mdc:disciplineSpeciality rdf:resource="http://meducator.open.ac.uk/metamorphosis#speciality1753806442"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21693">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Jonathan Round</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21694">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Sophie Vaughan</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21691">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://labyrinth.sgul.ac.uk/openlabyrinth/mnode.asp?id=qgxlrdb1rx7jzf4jesnqdknamqajxhq</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21692">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>evip:vp:1000527</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21690">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf</mdc:profileURI>
+	<foaf:name>Evangelia Mitsopoulou</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/meducator/resources/09a883f1-3dfb-4532-9360-35b32a6a24dd">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"/>
+	<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#2273</rdfs:seeAlso>
+	<mdc:creator rdf:nodeID="node21695"/>
+	<mdc:creator rdf:nodeID="node21698"/>
+	<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike"/>
+	<mdc:title>Oga Linear Virtual Patient</mdc:title>
+	<mdc:identifier rdf:nodeID="node21696"/>
+	<mdc:identifier rdf:nodeID="node21697"/>
+	<mdc:metadataCreator rdf:nodeID="node21699"/>
+	<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#virtualPatient"/>
+	<mdc:technicalDescription>This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information.</mdc:technicalDescription>
+	<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+	<mdc:metadataLanguage>English</mdc:metadataLanguage>
+	<mdc:citation></mdc:citation>
+	<mdc:description>This is the story of a Virtual Patient called Oga. She is a 3 year girl originally from Turkey who presents with a history of chronic cough to your respiratory clinic. As you proceed through the case you are able to evaluate the important aspects of the history and clinical examination. By interpreting specialist investigations you are able to make a diagnosis and formulate a management plan as well as managing some complications.</mdc:description>
+	<mdc:created>2010-01-02</mdc:created>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1078441763"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject888363082"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1642951870"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject193361142"/>
+	<mdc:educationalLevel>Preclinical Medical Student</mdc:educationalLevel>
+	<mdc:educationalContext>Self-directed Learning</mdc:educationalContext>
+	<mdc:discipline rdf:resource="http://meducator.open.ac.uk/metamorphosis#discipline300042202"/>
+	<mdc:language>English</mdc:language>
+	<mdc:disciplineSpeciality rdf:resource="http://meducator.open.ac.uk/metamorphosis#speciality71147527"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21695">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Sophie Vaughan</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21698">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Jonathan Round</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21696">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>evip:vp:1000531</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21697">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://www.elu.sgul.ac.uk/revip/oega/index.html?lang=en&amp;amp;caseid=477845</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21699">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf</mdc:profileURI>
+	<foaf:name>Evangelia Mitsopoulou</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/meducator/resources/2761666c-d97a-408d-96d6-ca7e542b4243">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"/>
+	<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#2266</rdfs:seeAlso>
+	<mdc:creator rdf:nodeID="node21700"/>
+	<mdc:creator rdf:nodeID="node21701"/>
+	<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike"/>
+	<mdc:title>Anna-Lena Olofsson Branched Virtual Patient</mdc:title>
+	<mdc:identifier rdf:nodeID="node21702"/>
+	<mdc:identifier rdf:nodeID="node21703"/>
+	<mdc:metadataCreator rdf:nodeID="node21704"/>
+	<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#virtualPatient"/>
+	<mdc:technicalDescription>This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information.</mdc:technicalDescription>
+	<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+	<mdc:metadataLanguage>English</mdc:metadataLanguage>
+	<mdc:citation></mdc:citation>
+	<mdc:description>This is the story about a Virtual Patient called Ana-Lena Olofsson. The case describes a 15 month old girl with a history of loose stools and failure to thrive. As the case progresses you are able to determine a provisional diagnosis based on the history and examination findings. You have to decide on some initial investigations and interpret the results appropriately. By proceeding to specialist investigations you are able to confirm the diagnosis and then formulate a management plan.</mdc:description>
+	<mdc:created>2010-01-02</mdc:created>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1671100030"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject228059312"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject485229936"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1075586312"/>
+	<mdc:educationalLevel>Preclinical Medical Student</mdc:educationalLevel>
+	<mdc:educationalContext>Self-directed Learning</mdc:educationalContext>
+	<mdc:discipline rdf:resource="http://meducator.open.ac.uk/metamorphosis#discipline1983788477"/>
+	<mdc:language>English</mdc:language>
+	<mdc:disciplineSpeciality rdf:resource="http://meducator.open.ac.uk/metamorphosis#speciality1996539497"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21700">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Sophie Vaughan</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21701">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Jonathan Round</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21702">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>evip:vp:1000524</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21703">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://labyrinth.sgul.ac.uk/mnode.asp?id=qgxlrdbarsx9qarsx9qgxlrdb1rx7jz</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21704">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf</mdc:profileURI>
+	<foaf:name>Evangelia Mitsopoulou</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/meducator/resources/8005c2cb-a024-42eb-b35a-3cafc07c1f41">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"/>
+	<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#2259</rdfs:seeAlso>
+	<mdc:creator rdf:nodeID="node21705"/>
+	<mdc:creator rdf:nodeID="node21706"/>
+	<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike"/>
+	<mdc:title>Anna-Lena Olofsson, Linear Virtual Patient</mdc:title>
+	<mdc:identifier rdf:nodeID="node21708"/>
+	<mdc:identifier rdf:nodeID="node21709"/>
+	<mdc:metadataCreator rdf:nodeID="node21707"/>
+	<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#virtualPatient"/>
+	<mdc:technicalDescription>This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information.</mdc:technicalDescription>
+	<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+	<mdc:metadataLanguage>English</mdc:metadataLanguage>
+	<mdc:citation></mdc:citation>
+	<mdc:description>This is the story about a Virtual Patient called Ana-Lena Olofsson. The case describes a 15 month old girl with a history of loose stools and failure to thrive. As the case progresses you are able to determine a provisional diagnosis based on the history and examination findings. You have to decide on some initial investigations and interpret the results appropriately. By proceeding to specialist investigations you are able to confirm the diagnosis and then formulate a management plan.</mdc:description>
+	<mdc:created>2010-01-02</mdc:created>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1692104985"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1194974008"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1402091823"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject312836068"/>
+	<mdc:educationalLevel>Preclinical Medical Student</mdc:educationalLevel>
+	<mdc:educationalContext>Self-Directed Learning</mdc:educationalContext>
+	<mdc:discipline rdf:resource="http://meducator.open.ac.uk/metamorphosis#discipline490922571"/>
+	<mdc:language>English</mdc:language>
+	<mdc:disciplineSpeciality rdf:resource="http://meducator.open.ac.uk/metamorphosis#speciality481432527"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21705">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Sophie Vaughan</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21706">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Jonathan Round</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21708">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://www.elu.sgul.ac.uk/revip/anna-lena/index.html?lang=en&amp;amp;caseid=396585</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21709">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>evip:vp:1000529</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node21707">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf</mdc:profileURI>
+	<foaf:name>Evangelia Mitsopoulou</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/meducator/resources/60fb635d-a1bd-466b-9229-40adf9ce1660">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"/>
+	<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#1255</rdfs:seeAlso>
+	<mdc:creator rdf:nodeID="node22013"/>
+	<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike"/>
+	<mdc:title>Mr Maller Branched Virtual Patient</mdc:title>
+	<mdc:identifier rdf:nodeID="node22014"/>
+	<mdc:identifier rdf:nodeID="node22015"/>
+	<mdc:metadataCreator rdf:nodeID="node22012"/>
+	<mdc:quality>It is compliant with ANSI, the official accrediting body of the MedBiq standard</mdc:quality>
+	<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#virtualPatient"/>
+	<mdc:technicalDescription>This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information.</mdc:technicalDescription>
+	<mdc:metadataCreated>2010-03-30</mdc:metadataCreated>
+	<mdc:metadataLanguage>English</mdc:metadataLanguage>
+	<mdc:citation></mdc:citation>
+	<mdc:description>Mr Maller presents to A&amp;amp;E with a high fever and tachycardia.  The case takes students through the appropriate history, examination and investigations for such a vague presentation and soon reveals a cardiac abnormality.  The differentials of myocarditis and myocardial infarction are discussed, with interpretation of ECGs and appropriate management for both conditions explored.  Students are invited to revise the risk factors for cardiovascular disease too.  Mr Maller subsequently suffers from complications and the case discusses these and their appropriate management.</mdc:description>
+	<mdc:created>2010-01-29</mdc:created>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1969828658"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject744319505"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject294060255"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1257484139"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1405334581"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1218853087"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1599163810"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1012197312"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1660804516"/>
+	<mdc:assessmentMethods>This is a branched formative assessment Virtual Patient which is intended to be used as a self-directed learning tool or as a supplement to PBL. This type of VP should take the student approximately 30 minutes to complete.</mdc:assessmentMethods>
+	<mdc:educationalObjectives>1) To investigate recognise and treat myocarditis 2) To interpret an ECG 3) To understand how an echocardiogram can help in diagnosis 4) To list the risk factors for cardiovascular disease 5) To recognise and treat a myocardial infarction 6) To appreciate the risk of cardiomyopathy as a sequela of myocarditis and treat it appropriately</mdc:educationalObjectives>
+	<mdc:educationalLevel>Preclinical Medical Student</mdc:educationalLevel>
+	<mdc:educationalContext>This author of this VP intended its use to be as a formative branched assessment Virtual Patient</mdc:educationalContext>
+	<mdc:discipline rdf:resource="http://meducator.open.ac.uk/metamorphosis#discipline1759225383"/>
+	<mdc:language>English</mdc:language>
+	<mdc:educationalPrerequisites>In order to play this VP successfully, the student must have a basic understanding in the area of cardiology - particularly the structure and function of the heart and an understanding of cardiovascular risk factors.</mdc:educationalPrerequisites>
+	<mdc:teachingLearningInstructions>This formative branched assessment focused VP is best used by students as a revision tool to recap particular learning objectives from a taught session. Or it could be used to supplement a Problem-Based Learning (PBL) session to cover objectives that might not have been covered during the PBL session.</mdc:teachingLearningInstructions>
+	<mdc:disciplineSpeciality rdf:resource="http://meducator.open.ac.uk/metamorphosis#speciality695358602"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22013">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Tim Little</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22014">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://labyrinth.sgul.ac.uk/mnode.asp?id=37074</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22015">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>evip:vp:1000504</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22012">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf</mdc:profileURI>
+	<foaf:name>Evangelia Mitsopoulou</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/meducator/parents/labyrinth.sgul.ac.uk/mnode.asp?id=37074">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/RepurposingParent"/>
+	<mdc:title>Mr Maller Branched Virtual Patient</mdc:title>
+	<mdc:identifier rdf:nodeID="node22019"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22019">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://labyrinth.sgul.ac.uk/mnode.asp?id=37074</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/meducator/resources/4df84c90-7b54-47e9-a7c2-f4db74c919f7">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"/>
+	<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#1234</rdfs:seeAlso>
+	<mdc:creator rdf:nodeID="node22018"/>
+	<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike"/>
+	<mdc:title>Mr Maller Linear Virtual Patient</mdc:title>
+	<mdc:identifier rdf:nodeID="node22016"/>
+	<mdc:identifier rdf:nodeID="node22017"/>
+	<mdc:metadataCreator rdf:nodeID="node22020"/>
+	<mdc:quality>It is compliant with ANSI, the official accrediting body of the MedBiq standard</mdc:quality>
+	<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#virtualPatient"/>
+	<mdc:technicalDescription>This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information</mdc:technicalDescription>
+	<mdc:metadataCreated>2010-03-30</mdc:metadataCreated>
+	<mdc:metadataLanguage>English</mdc:metadataLanguage>
+	<mdc:citation>Under the terms of this Creative Commons license, we would like to acknowledge St Georgeâ€™s, University of London for providing access to this VP case:http://labyrinth.sgul.ac.uk/mnode.asp?id=40901(accessed on 30th March)</mdc:citation>
+	<mdc:description>Mr Maller presents to A&amp;amp;E with a high fever and tachycardia.  The case takes students through the appropriate history, examination and investigations for such a vague presentation and soon reveals a cardiac abnormality.  The differentials of myocarditis and myocardial infarction are discussed, with interpretation of ECGs and appropriate management for both conditions explored.  Students are invited to revise the risk factors for cardiovascular disease too.  Mr Maller subsequently suffers from complications and the case discusses these and their appropriate management.</mdc:description>
+	<mdc:created>2010-01-29</mdc:created>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject539664433"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject42227748"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1337592731"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject143547452"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject65288604"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1828909864"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject758232187"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject273291991"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1007862851"/>
+	<mdc:assessmentMethods>This is a branched formative assessment Virtual Patient which is intended to be used as a self-directed learning tool or as a supplement to PBL. This type of VP should take the student approximately 15 minutes to complete.</mdc:assessmentMethods>
+	<mdc:educationalObjectives>1) To investigate recognise and treat myocarditis 2) To interpret an ECG 3) To understand how an echocardiogram can help in diagnosis 4) To list the risk factors for cardiovascular disease 5) To recognise and treat a myocardial infarction 6) To appreciate the risk of cardiomyopathy as a sequela of myocarditis and treat it appropriately</mdc:educationalObjectives>
+	<mdc:hasRepurposingContext rdf:nodeID="node22021"/>
+	<mdc:educationalLevel>Preclinical Medical Student</mdc:educationalLevel>
+	<mdc:educationalContext>This author of this VP intended its use to be as a formative linear assessment Virtual Patient</mdc:educationalContext>
+	<mdc:discipline rdf:resource="http://meducator.open.ac.uk/metamorphosis#discipline888050096"/>
+	<mdc:language>English</mdc:language>
+	<mdc:educationalPrerequisites>In order to play this VP successfully, the student must have a basic understanding in the area of cardiology - particularly the structure and function of the heart and an understanding of cardiovascular risk factors.</mdc:educationalPrerequisites>
+	<mdc:teachingLearningInstructions>This formative branched assessment focused VP is best used by students as a revision tool to recap particular learning objectives from a taught session. Or it could be used to supplement a Problem-Based Learning (PBL) session to cover objectives that might not have been covered during the PBL session.</mdc:teachingLearningInstructions>
+	<mdc:disciplineSpeciality rdf:resource="http://meducator.open.ac.uk/metamorphosis#speciality236786808"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22018">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Tim Little</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22016">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://labyrinth.sgul.ac.uk/mnode.asp?id=40901</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22017">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>evip:vp:1000505</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22020">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf</mdc:profileURI>
+	<foaf:name>Evangelia Mitsopoulou</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22021">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/RepurposingContext"/>
+	<mdc:fromRepurposingContext rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy"/>
+	<mdc:repurposingDescription>Conducted as part of the eViP project in order to share this VP with the wider medical and healthcare education community. This particular VP was repurposed from a branched exploratory style to a more linear narrative approach. This repurposing was conducted to create an assessment VP to supplement the PBL curriculum at St George's in the area of cardiology. See www.virtualpatients.eu for more information.</mdc:repurposingDescription>
+	<mdc:repurposedFrom rdf:resource="http://purl.org/meducator/parents/labyrinth.sgul.ac.uk/mnode.asp?id=37074"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/meducator/parents/labyrinth.sgul.ac.uk/mnode.asp?id=36980">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/RepurposingParent"/>
+	<mdc:title>Mr Angermeier Branched Virtual Patient</mdc:title>
+	<mdc:identifier rdf:nodeID="node22022"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22022">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://labyrinth.sgul.ac.uk/mnode.asp?id=36980</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/meducator/resources/833d061d-c73b-4adf-8969-645173d418f1">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"/>
+	<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#1220</rdfs:seeAlso>
+	<mdc:creator rdf:nodeID="node22229"/>
+	<mdc:creator rdf:nodeID="node22230"/>
+	<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike"/>
+	<mdc:title>Mr Angermeier Branched Virtual Patient</mdc:title>
+	<mdc:identifier rdf:nodeID="node22227"/>
+	<mdc:identifier rdf:nodeID="node22228"/>
+	<mdc:metadataCreator rdf:nodeID="node22231"/>
+	<mdc:quality>It is compliant with ANSI</mdc:quality>
+	<mdc:quality>the official accrediting body of the MedBiq standard</mdc:quality>
+	<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#virtualPatient"/>
+	<mdc:technicalDescription>This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information.</mdc:technicalDescription>
+	<mdc:metadataCreated>2010-03-30</mdc:metadataCreated>
+	<mdc:metadataLanguage>en</mdc:metadataLanguage>
+	<mdc:citation>Under the terms of this Creative Commons license, we would like to acknowledge St Georgeâ€™s, University of London for providing access to this VP case: http://labyrinth.sgul.ac.uk/mnode.asp?id=36980 (accessed on 30th March)</mdc:citation>
+	<mdc:description>This is the story about a Virtual Patient called Mr Angermeier. The case describes a 48 year old man presenting to A+E with chest pain. As the case progresses, you go through differential diagnosis as well as different management options for acute myocardial infarction. You have to decide on some initial investigations and interpret the results appropriately. The case goes through interpretation of investigations as well as indications and contraindications for each treatment modality. Prior to discharge, the patient develops shock, you will have to differentiate its type and formulate a management plan.</mdc:description>
+	<mdc:created>2010-01-29</mdc:created>
+	<mdc:subject rdf:resource="http://purl.org/meducator/external/139230009"/>
+	<mdc:subject rdf:resource="http://purl.org/meducator/external/purl.bioontology.org/ontology/MDR/10040563"/>
+	<mdc:subject rdf:resource="http://purl.org/meducator/external/purl.bioontology.org/ontology/HOM-ICD9CM/MM_CLASS_10207"/>
+	<mdc:subject rdf:resource="http://purl.org/meducator/external/purl.bioontology.org/ontology/HOM-ICD9CM/MM_CLASS_10158"/>
+	<mdc:subject rdf:resource="http://purl.org/meducator/external/405347000"/>
+	<mdc:assessmentMethods>This is a branched formative assessment Virtual Patient which is intended to be used as a self-directed learning tool or as a supplement to PBL. This type of VP should take the student approximately 30 minutes to complete.</mdc:assessmentMethods>
+	<mdc:educationalObjectives>1) To obtain a chest pain history 2) To formulate a differential diagnosis and investigate appropriately 3) Interpretation of blood tests and ECG. 4) To choose and interpret specialist investigations in order to confirm the diagnosis 5) To formulate an initial management plan 6) To stabilise the patient prior to discharge</mdc:educationalObjectives>
+	<mdc:hasRepurposingContext rdf:nodeID="node22232"/>
+	<mdc:educationalContext>This author of this VP intended its use to be for Self-Directed learning as a formative branched assessment VP</mdc:educationalContext>
+	<mdc:discipline rdf:resource="http://purl.org/meducator/external/www.co-ode.org/ontologies/galen#Medicine"/>
+	<mdc:language>en</mdc:language>
+	<mdc:educationalPrerequisites>In order to play this VP successfully, the student must have a basic understanding in the area of cardiology - particularly the structure and function of the heart and an understanding of Electrocardiograms (ECG's).</mdc:educationalPrerequisites>
+	<mdc:teachingLearningInstructions>This formative branched assessment focused VP is best used by students as a revision tool to recap particular learning objectives from a taught session. Or it could be used to supplement a Problem-Based Learning (PBL) session to cover objectives that might not have been covered during the PBL session.</mdc:teachingLearningInstructions>
+	<mdc:disciplineSpeciality rdf:resource="http://purl.org/meducator/external/purl.bioontology.org/ontology/HL7/20092_CARD"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22229">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Leda Yazbeck</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22230">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Alex Higton</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22227">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://labyrinth.sgul.ac.uk/mnode.asp?id=36980</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22228">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>evip:vp:1000502</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22231">
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf</mdc:profileURI>
+	<foaf:name>Evangelia Mitsopoulou</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22232">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/RepurposingContext"/>
+	<mdc:fromRepurposingContext></mdc:fromRepurposingContext>
+	<mdc:repurposingDescription></mdc:repurposingDescription>
+	<mdc:repurposedFrom rdf:resource="http://purl.org/meducator/instances/"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/meducator/resources/5eeb6168-7039-4157-8426-962e6cfc38af">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"/>
+	<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#1227</rdfs:seeAlso>
+	<mdc:creator rdf:nodeID="node22026"/>
+	<mdc:creator rdf:nodeID="node22027"/>
+	<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike"/>
+	<mdc:title>Mr Angermeier Linear Virtual Patient</mdc:title>
+	<mdc:identifier rdf:nodeID="node22023"/>
+	<mdc:identifier rdf:nodeID="node22028"/>
+	<mdc:metadataCreator rdf:nodeID="node22024"/>
+	<mdc:quality>It is compliant with ANSI, the official accrediting body of the MedBiq standard</mdc:quality>
+	<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#lectureNotes"/>
+	<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#virtualPatient"/>
+	<mdc:technicalDescription>This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information.</mdc:technicalDescription>
+	<mdc:metadataCreated>2010-03-30</mdc:metadataCreated>
+	<mdc:metadataLanguage>English</mdc:metadataLanguage>
+	<mdc:citation>Under the terms of this Creative Commons license, we would like to acknowledge St Georgeâ€™s, University of London for providing access to this VP case: http://labyrinth.sgul.ac.uk/mnode.asp?id=40942 (accessed on 30th March)</mdc:citation>
+	<mdc:description>This is the story about a Virtual Patient called Mr Angermeier. The case describes a 48 year old man presenting to A+E with chest pain. As the case progresses, you go through differential diagnosis as well as different management options for acute myocardial infarction. You have to decide on some initial investigations and interpret the results appropriately. The case goes through interpretation of investigations as well as indications and contraindications for each treatment modality. Prior to discharge, the patient develops shock, you will have to differentiate its type and formulate a management plan.</mdc:description>
+	<mdc:created>2010-01-29</mdc:created>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1763335136"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject93723272"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject2108402135"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1215635266"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1373130514"/>
+	<mdc:assessmentMethods>This is a branched formative assessment Virtual Patient which is intended to be used as a self-directed learning tool or as a supplement to PBL. This type of VP should take the student approximately 15 minutes to complete.</mdc:assessmentMethods>
+	<mdc:educationalObjectives>1) To obtain a chest pain history 2) To formulate a differential diagnosis and investigate appropriately 3) Interpretation of blood tests and ECG. 4) To choose and interpret specialist investigations in order to confirm the diagnosis 5) To formulate an initial management plan 6) To stabilise the patient prior to discharge</mdc:educationalObjectives>
+	<mdc:hasRepurposingContext rdf:nodeID="node22025"/>
+	<mdc:educationalLevel>Preclinical Medical Student</mdc:educationalLevel>
+	<mdc:educationalContext>This author of this VP intended its use to be for Self-Directed learning as a formative branched assessment VP</mdc:educationalContext>
+	<mdc:discipline rdf:resource="http://meducator.open.ac.uk/metamorphosis#discipline1077440708"/>
+	<mdc:language>English</mdc:language>
+	<mdc:educationalPrerequisites>In order to play this VP successfully, the student must have a basic understanding in the area of cardiology - particularly the structure and function of the heart and an understanding of Electrocardiograms (ECG's).</mdc:educationalPrerequisites>
+	<mdc:teachingLearningInstructions>This formative branched assessment focused VP is best used by students as a revision tool to recap particular learning objectives from a taught session. Or it could be used to supplement a Problem-Based Learning (PBL) session to cover objectives that might not have been covered during the PBL session.</mdc:teachingLearningInstructions>
+	<mdc:disciplineSpeciality rdf:resource="http://meducator.open.ac.uk/metamorphosis#speciality470588948"/>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22026">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Leda Yazbeck</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22027">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Alex Higton</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22023">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>evip:vp:1000503</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22028">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://labyrinth.sgul.ac.uk/mnode.asp?id=40942</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22024">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf</mdc:profileURI>
+	<foaf:name>Evangelia Mitsopoulou</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22025">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/RepurposingContext"/>
+	<mdc:fromRepurposingContext rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy"/>
+	<mdc:repurposingDescription>Conducted as part of the eViP project in order to share this VP with the wider medical and healthcare education community. This particular VP was repurposed from a branched exploratory style to a more linear narrative approach. This repurposing was conducted to create an assessment VP to supplement the PBL curriculum at St George's in the area of cardiology. See www.virtualpatients.eu for more information.</mdc:repurposingDescription>
+	<mdc:repurposedFrom rdf:resource="http://purl.org/meducator/parents/labyrinth.sgul.ac.uk/mnode.asp?id=36980"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://purl.org/meducator/resources/ccc13b90-754e-4447-9c74-2ccaa42c8adc">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"/>
+	<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#1146</rdfs:seeAlso>
+	<mdc:creator rdf:nodeID="node22041"/>
+	<mdc:creator rdf:nodeID="node22043"/>
+	<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike"/>
+	<mdc:title>Using Virtual Patients in Dermatology</mdc:title>
+	<mdc:identifier rdf:nodeID="node22042"/>
+	<mdc:metadataCreator rdf:nodeID="node22040"/>
+	<mdc:resourceType>pedagogical guideline, best practice</mdc:resourceType>
+	<mdc:technicalDescription>Pdf</mdc:technicalDescription>
+	<mdc:metadataCreated>2010-03-22</mdc:metadataCreated>
+	<mdc:metadataLanguage></mdc:metadataLanguage>
+	<mdc:citation>Virtual Patients in Dermatology Self-Directed Learning - Best pedagogical Practice (Remitz, A. &amp;amp; MyllÃ¤ri, J., 2010)</mdc:citation>
+	<mdc:description>This document describes the pedagogical context and practices of using a virtual patient for self-directed studying of dermatology. Document is structured around the framework of Constructive Alignment (Biggs et al, 2007).</mdc:description>
+	<mdc:created>2010-02-08</mdc:created>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject773027341"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject845933066"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject1633484176"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject406044907"/>
+	<mdc:subject rdf:resource="http://meducator.open.ac.uk/metamorphosis#subject694217534"/>
+	<mdc:educationalContext>The virtual patients are used for voluntary, self-directed learning on a 5th year course for advanced students. The course takes place after basic introduction lectures on skin deceases and dermatology patients first course week.</mdc:educationalContext>
+	<mdc:discipline rdf:resource="http://meducator.open.ac.uk/metamorphosis#discipline1811875174"/>
+	<mdc:language>English</mdc:language>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22041">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Mylläri Jarkko</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22043">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<foaf:name>Remitz Anita</foaf:name>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22042">
+	<rdf:type rdf:resource="http://www.purl.org/meducator/ns/Identifier"/>
+	<rdfs:label>http://metamorphosis.med.duth.gr/pg/file/Jarkko/read/1156/using-virtual-patients-in-dermatology</rdfs:label>
+	<rdfs:description>URI</rdfs:description>
+</rdf:Description>
+
+<rdf:Description rdf:nodeID="node22040">
+	<rdf:type rdf:resource="http://www.w3.org/2000/01/rdf-schema#Resource"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+	<mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/Jarkko?view=foaf</mdc:profileURI>
+	<foaf:name>Jarkko Mylläri</foaf:name>
+</rdf:Description>
+
+</rdf:RDF>

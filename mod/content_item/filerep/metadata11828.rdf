@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#11828">
+<mdc:title><![CDATA[http://chestjournal.chestpubs.org/content/76/6/663.full.pdf ]]></mdc:title>
+<mdc:identifier><mdc:Identifier><rdfs:description>URI</rdfs:description><rdfs:label><![CDATA[http://chestjournal.chestpubs.org/content/76/6/663.full.pdf ]]></rdfs:label></mdc:Identifier></mdc:identifier> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Charalampos Bratsas ]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/Bratsas?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:metadataCreated>2011-07-14</mdc:metadataCreated>
+</mdc:Resource></rdf:RDF>

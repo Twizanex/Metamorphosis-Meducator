@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#1570">
+
+	 <mdc:identifier><![CDATA[http://simeon.med.auth.gr/openlabyrinth/mnode.asp?id=qu3lpfvu3lpfvtpr9kq]]></mdc:identifier> 
+<mdc:title><![CDATA[electronic OSCE station for Blood Pressure Measurement ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Eleni Dafli]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Eleni Dafli]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/elenidafli?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-11-18</mdc:created>
+<mdc:metadataCreated>2010-04-23</mdc:metadataCreated>
+<mdc:citation><![CDATA[Under the terms of this Creative Commons license, we would like to acknowledge the Lab of Medical Informatics of Aristotle University of Thessaloniki for providing access to this e-OSCE case:http://simeon.med.auth.gr/openlabyrinth/mnode.asp?id=qu3lpfvu3lpfvtpr9kq]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1417801847"><rdfs:label><![CDATA[OSCE ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1750295975"><rdfs:label><![CDATA[ blood pressure ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1173012401"><rdfs:label><![CDATA[ clinical skills ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This is an OSCE station in electronic format where you are expected to show competency in the clinical skill of blood pressure measurement. The "examination room (station) has been set up with having 10 minutes time slot for you to "perform" the clinical procedure of blood pressure. As the  measurement. As the case progresses you have different options to choose and decisions to take concerning this basic clinical skill.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[This e-OSCE case can be played with the use of any web browser.]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#diagnosticExam"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1058954265"><rdfs:label><![CDATA[medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1928707796"><rdfs:label><![CDATA[every specialty ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>undergraduate medical students</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This content is aimed to used for self directed learning and self assessment.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[This e-OSCE can be used complementary to the clinical practise, and for self evaluation and practise, concerning the basic clinical skill of performing a blood pressure measurement]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[The students should know how to perform a blood pressure measurement.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[After the use of this content item the student should know: 1) what kind of equipment is needed for a blood pressure measurement,2) how to use/place this equipment, 3) how to measure the systolic and diastolic blood pressure, and 4) how to look for orthostatic hypotension.]]></mdc:educationalOutcomes>
+<mdc:educationalPrerequisites><![CDATA[Basic knowledge.]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

@@ -1,0 +1,273 @@
+3410Chest pain session in a 3D virtual learning environment3402Differential diagnosis of chest pain256215931570electronic OSCE station for Blood Pressure Measurement15351527
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="ElggRelease" content="1.6.1" />
+	<meta name="ElggVersion" content="2009072201" />
+	<meta name="google-site-verification" content="iwEGV3ZmrorMLc47xmkgjtFfW_Wh1d2HfbIkfBwqyqo" />
+	<title>MetaMorphosis+: Create and Download the XML of a resource</title>
+	<meta name="description" content="This is an Educational Resource provided by it's author for the mEducator Project." /> 
+	<html xmlns:ntb="http://www.nitobi.com">
+	<link type="text/css" media="screen" rel="stylesheet" href="http://metamorphosis.med.duth.gr/_css/colorbox.css" />
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script> 
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="http://metamorphosis.med.duth.gr/vendors/jquery/jquery.form.js"></script>
+	<script type="text/javascript" src="http://metamorphosis.med.duth.gr/_css/js.php?lastcache=1310662363&js=initialise_elgg&viewtype=default"></script>
+<script type="text/javascript" src="http://metamorphosis.med.duth.gr/mod/fisheye_menu/views/default/js/fisheye.js"></script>
+	<script type="text/javascript" src="http://metamorphosis.med.duth.gr/vendors/jquery/jquery.colorbox-min.js"></script> 
+	<script type="text/javascript" src="http://metamorphosis.med.duth.gr/vendors/jquery.validate.min.js"></script> 
+
+	
+<script type="text/javascript">
+			$(document).ready(function(){
+				$(".example5").colorbox({iframe:true, innerWidth:740, innerHeight:606});
+				$(".example6").colorbox({iframe:true, innerWidth:620, innerHeight:420});
+				
+
+			});
+		</script>
+
+
+	<!-- include the default css file -->
+	<link rel="stylesheet" href="http://metamorphosis.med.duth.gr/_css/css.css?lastcache=1310662363&viewtype=default" type="text/css" />
+	
+	
+		
+
+    <script type="text/javascript" src="http://metamorphosis.med.duth.gr/mod/fivestar/js/ui.stars.js" ></script>
+
+    <script type="text/javascript">
+        function fivestar(id, token, ts) {
+            $("#fivestar-form-"+id).children().not("select").hide();
+
+            // Create stars for: Rate this
+            $("#fivestar-form-"+id).stars({
+                cancelShow: 1,
+                cancelValue: 0,
+                captionEl: $("#caption"),
+                callback: function(ui, type, value)
+                {
+                    // Disable Stars while AJAX connection is active
+                    ui.disable();
+
+                    // Display message to the user at the begining of request
+                    $("#fivestar-messages-"+id).text("Saving ...").stop().css("opacity", 1).fadeIn(30);
+
+                    $.post("http://metamorphosis.med.duth.gr/action/fivestar/rate", {id: id, vote: value, __elgg_token: token, __elgg_ts: ts}, function(db)
+                    {
+                        // Select stars from "Average rating" control to match the returned average rating value
+                        $("#fivestar-form-"+id).stars("select", Math.round(db.rating));
+
+                        // Update other text controls...
+                        $("#fivestar-votes-"+id).text(db.votes);
+                        $("#fivestar-rating-"+id).text(db.rating);
+
+                        // Display confirmation message to the user
+                        if (db.msg) {
+                            $("#fivestar-messages-"+id).text(db.msg).stop().css("opacity", 1).fadeIn(30);
+                        } else {
+                            $("#fivestar-messages-"+id).text("Rating Saved").stop().css("opacity", 1).fadeIn(30);
+                        }
+
+                        // Hide confirmation message and enable stars for "Rate this" control, after 2 sec...
+                        setTimeout(function(){
+                                $("#fivestar-messages-"+id).fadeOut(1000, function(){ui.enable()})
+                        }, 2000);
+                    }, "json");
+                }
+            });
+
+            // Create element to use for confirmation messages
+            $('<div class="fivestar-messages" id="fivestar-messages-'+id+'"/>').appendTo("#fivestar-form-"+id);
+        };
+    </script>
+	<script type="text/javascript" src="http://metamorphosis.med.duth.gr/mod/tag_cumulus/vendors/swfobject.js"></script>
+	
+	
+<script type="text/javascript" src="http://metamorphosis.med.duth.gr/mod/publications/javascript/publications.js"></script>
+
+
+	<script type="text/javascript">
+		 jQuery(document).ready(function($) {
+		 });
+	</script>
+
+
+</head>
+
+<body onload="onLoad()">
+
+
+
+
+<div id="page_container">
+<div id="page_wrapper">
+	<!-- display the page title -->
+   <table cellpadding="0" cellspacing="0" border="0" width="100%">
+        <tr>
+            <td class="Logo_Repeater" align="center" valign="top">
+                <table cellpadding="0" cellspacing="0" border="0" width="986px">
+                    <tr>
+                        <td class="Logo_Top" nowrap="nowrap" />
+                        <td class="Logo_Text" nowrap="nowrap" onclick="window.open('http://metamorphosis.med.duth.gr/','_self');" onmouseover="this.style.cursor='pointer';" />
+                        <td class="Logo_Separator" nowrap="nowrap" />
+                        <td class="Logo_SmallText" nowrap="nowrap" align="left">
+                            <br /> <br />
+                            a Semantic social environment
+                            <br />
+                             to share educational resources
+                           
+                            
+                        </td>
+                  <td class="Logo_Repeater_Blank" nowrap="nowrap" >
+						<br /> <br />
+						<a href="http://metamorphosis.med.duth.gr/account/register.php">Register</a> | <a href="http://metamorphosis.med.duth.gr/account/forgotten_password.php">Lost password</a></p>						</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td class="Banner_Repeater" align="center" valign="top">
+                <table cellpadding="0" cellspacing="0" border="0" width="986px">
+                    <tr>
+                        <td>
+                            <table cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                    <td class="Logo_Bottom" />
+                                    <td />
+                                </tr>
+                                <tr>
+								
+                                    <td class="Video_Icon"><a  href="http://metamorphosis.med.duth.gr/mod/content_item/about.php" title="About MetaMorphosis+"><img src="http://metamorphosis.med.duth.gr/_graphics/video_Icon.jpg" /></a> </td>
+                                    <td class="Video_Text" />
+                                </tr>
+                                <tr>
+                                    <td class="Presentation_Icon"> <a href="http://metamorphosis.med.duth.gr/mod/content_item/deliv.php" title="Documentation Related to this Environment"><img src="http://metamorphosis.med.duth.gr/_graphics/presentation_Icon.jpg" /></a> </td>
+                                    <td class="Presentation_Text"  />
+                                </tr>
+                                <tr>
+                                    <td colspan="2" class="Banner_BottomRepeater" />
+                                </tr>
+                            </table>
+                        </td>
+                        <td class="BannerImage" />
+                        <td>
+                            <table cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                    <td id="LoginRegisterModule" class="LoginRegister">
+                       	
+<div id="login-box">
+
+		<form   action="http://metamorphosis.med.duth.gr/action/login" method="POST" >
+<input type="hidden"  name="__elgg_token"  value="1a14fd6df2fba836e40c3088f2744a2b" /> <input type="hidden"  name="__elgg_ts"  value="1310668325" /> <p class="loginbox"><label>Username<br />
+<input type="text"   name="username"  value="" class="login-textarea"/> </label><label>Password<br />
+<input type="password"   name="password"  value="" class="login-textarea" /> </label><br /><input name=""  type="submit" class="submit_button"  value="Log in"  /><label>&nbsp&nbsp&nbsp <input type="checkbox" name="persistent" value="true" />Remember me</label></p><p class="loginbox"></form>		</div>
+
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="Banner_BottomRepeater" />
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+	</table>
+
+<!-- main contents -->
+    
+<!-- display any system messages -->
+
+
+<!-- canvas -->
+<div id="layout_canvas">
+
+
+<!-- main content -->
+<div id="one_column">
+
+<div id="content_area_user_title"><h2>Create and Download the XML of a resource</h2></div><br \><br \>The xml for 3D virtual learning environment for chest pain has been created.<br \><br \><div class="filerepo_download"><p><a href="metadata3410.rdf">Download this</a></p></div>40bb9cad-864a-4409-9096-7c26e47d1480THIS IS DONE<br \><br \>The xml for Differential diagnosis of chest pain has been created.<br \><br \><div class="filerepo_download"><p><a href="metadata3402.rdf">Download this</a></p></div>323da34b-5d6e-4101-85bf-4c6e331b8b24THIS IS DONE<br \><br \>The xml for Chest pain virtual patient has been created.<br \><br \><div class="filerepo_download"><p><a href="metadata2562.rdf">Download this</a></p></div>3b5f1da5-948f-4c07-99a2-8e15ab938ad9THIS IS DONE<br \><br \>The xml for OSCE θωρακικο αλγος has been created.<br \><br \><div class="filerepo_download"><p><a href="metadata1593.rdf">Download this</a></p></div>083988cb-23cf-486c-937a-f10baf49aadbTHIS IS DONE<br \><br \>The xml for electronic OSCE Station for Blood Pressure Measurement has been created.<br \><br \><div class="filerepo_download"><p><a href="metadata1570.rdf">Download this</a></p></div>dbcad269-92cc-4537-b626-c176fbb7e2a0THIS IS DONE<br \><br \>The xml for electronic OSCE for rectal examination has been created.<br \><br \><div class="filerepo_download"><p><a href="metadata1535.rdf">Download this</a></p></div>afa4ec54-5aaf-4dab-bd76-63742d8f23ccTHIS IS DONE<br \><br \>The xml for electronic OSCE station for intravenous cannulation has been created.<br \><br \><div class="filerepo_download"><p><a href="metadata1527.rdf">Download this</a></p></div>6dd8d7cb-5121-4644-8d1b-96f891843760THIS IS DONE
+</div><!-- /one_column -->	
+<div class="clearfloat"></div>
+</div><!-- /#layout_canvas -->
+
+
+<!-- footer -->
+
+<div class="clearfloat"></div>
+
+<div id="layout_footer">
+<table width="958" height="79" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td width="210" height="50">
+
+		</td>
+		
+		<td width="548" height="50" align="right">
+		<p class="footer_toolbar_links">
+		<div class="footer_toolbar_links">
+		| <a href="http://metamorphosis.med.duth.gr/pg/sitemap/">Sitemap</a>&nbsp;
+</div>		</p>
+		</td>
+	</tr>
+	
+	<tr>
+		<td width="400" height="28">
+		<a href="http://www.elgg.org" target="_blank">
+		<img src="http://metamorphosis.med.duth.gr/_graphics/powered_by_elgg_badge_light_bckgnd.gif" border="0" />
+		<a href="http://www.meducator.net"><img src="http://metamorphosis.med.duth.gr/_graphics/b1_160x33_wb.jpg" border="0" alt="mEducator" height="33" width="160" /></a>
+		</a>
+		</td>
+		
+		<td width="748" height="28" align="right">
+		<p class="footer_legal_links"><small>
+		 	Website under <a href="http://www.gnu.org/licenses/old-licenses/gpl-2.0-faq.html">GNU-GPL v2</a>.<br />
+						<br/><font color="gray"> For any assistance contact <a href="http://metamorphosis.med.duth.gr/pg/profile/lordanton">Nikolas Dovrolis </a></font>
+		</p>
+		      <br />
+	
+		 <img src="http://metamorphosis.med.duth.gr/mod/powered/graphics/rss-powered.png" border="0" />
+		 <img src="http://metamorphosis.med.duth.gr/mod/powered/graphics/openid-powered.png" border="0" />
+		 <img src="http://metamorphosis.med.duth.gr/mod/powered/graphics/foaf-powered.png" border="0" />
+ <img src="http://metamorphosis.med.duth.gr/mod/powered/graphics/rdf-powered.png" border="0" />
+  		<!-- <img src="http://metamorphosis.med.duth.gr/mod/powered/graphics/oauth-powered.png" border="0" />-->
+		<!-- <img src="http://metamorphosis.med.duth.gr/mod/powered/graphics/omb-powered.png" border="0" />-->
+		<!-- <img src="http://metamorphosis.med.duth.gr/mod/powered/graphics/listserv-powered.png" border="0" />-->
+  		<!-- <img src="http://metamorphosis.med.duth.gr/mod/powered/graphics/xmmp-powered.png" border="0" />-->
+		
+       <br />
+
+		</td>
+	</tr>
+</table>
+</div><!-- /#layout_footer -->
+
+<div class="clearfloat"></div>
+
+</div><!-- /#page_wrapper -->
+</div><!-- /#page_container -->
+<!-- insert an analytics view to be extended -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12813298-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+  })();
+  
+  if(typeof onLoad != 'function') {
+    function onLoad() { return; }
+  }
+
+</script>
+</body>
+</html>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2224">
+
+	 <mdc:identifier><![CDATA[http://moodle.cs.ucy.ac.cy/course/view.php?id=30]]></mdc:identifier> 
+<mdc:title><![CDATA[COMPUTER-AIDED DIAGNOSIS SYSTEMS: Ultrasound Image Analysis using Despeckle Filtering and Segmentation ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Christodoulos Christodoulou]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Athos Antoniades]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/athos?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created></mdc:created>
+<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject21643478"><rdfs:label><![CDATA[CAD ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject818860400"><rdfs:label><![CDATA[ Computer Aided Diagnosis Systems ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject758634724"><rdfs:label><![CDATA[ ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This resources provides an introduction to CAD ( Computer Aided Diagnosis). 
+Computer Aided Diagnosis (CAD) is the diagnosis where the physician incorporates in his decision taking process the output of Signal Processing and Medical Imaging Analysis methods and Computational Intelligence methods. The CAD system acts as a â€˜second opinionâ€™ in making diagnostic decisions.
+
+Some example applications are also presented
+EMG Signal Clustering and Decomposition
+Decision Support System in EMG Diagnosis
+Texture Analysis of Ultrasonic Carotid Plaque Images]]></mdc:description>
+<mdc:technicalDescription><![CDATA[PDF format presentations with embeded media of the following medical data:
+
+EMG Signal Clustering and Decomposition
+Decision Support System in EMG Diagnosis
+Texture Analysis of Ultrasonic Carotid Plaque Images]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#lectureNotes"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#image"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#figureDiagramPicture"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#figureDiagramPicture"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#sketchGraphicalAnnotation"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#diagnosticAlgorithm"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#discussionForum"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline581765227"><rdfs:label><![CDATA[Healthcare Professionals, medical doctors, Computer Scientists ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1587069014"><rdfs:label><![CDATA[computer aided diagnosis ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>healthcare professional or computer scientist interested in CAD</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This resource can be used as independent learning material or in a traditional classroom enviroment. Web 2.0 technologies are utilized to provide learners with the ability to contact their peers and discuss issues relating to the content, or teachers and authors of the content for questions.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Go through the presentations utilizing provided web2.0 tools for addressing any questions that may arise.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Provide an introduction to computer aided diagnosis. 
+Demystify the computer aided diagnosis process. 
+Explain in detail algorithms related to three types of CAD provided as examples:
+1. EMG Signal Clustering and Decomposition
+2. Decision Support System in EMG Diagnosis
+3. Texture Analysis of Ultrasonic Carotid Plaque Images]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Demystification of the learner on CAD. 
+Understanding of the algorithms used in the examples. 
+Ability for the learner to utilize CAD systems.]]></mdc:educationalOutcomes>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:identifier>http://www.jisjournal.org/issue/Volume%208%20Abstracts/j815.html</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

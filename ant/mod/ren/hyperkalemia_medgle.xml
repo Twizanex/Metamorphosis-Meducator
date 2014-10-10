@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<root>
+			<corporateuser>false</corporateuser>
+			<logo type="small">http://www.medgle.com/logo/medglelogoBB.png</logo>
+			<logo type="big">http://www.medgle.com/logo/medglelogoE.jpg</logo>
+			<linkback_url>http://www.medgle.com/rw/diagnoses/hyperkalemia</linkback_url>
+			<linkback_text>Click here for more information</linkback_text>
+			<resulttype>diagnosis</resulttype>
+			<diagnosis>
+				<diagnosis_name>hyperkalemia</diagnosis_name>
+				<diagnosis_url>http://www.medgle.com/rw/diagnoses/hyperkalemia</diagnosis_url>
+				<diagnosis_layman>increased blood potassium</diagnosis_layman>
+				<diagnosis_category>METABOLIC</diagnosis_category>
+				<diagnosis_prevalence>uncommon</diagnosis_prevalence>
+				<diagnosis_travel></diagnosis_travel>
+				<diagnosis_definition>Hyperkalemia (hyper is high, kalium is the Latin name for potassium) is an elevated blood level (above 5.0 mmol/L) of the electrolyte potassium.</diagnosis_definition>
+				<ICD9>276.7</ICD9>
+					<ICD10>E87.5</ICD10>
+					<diagnosis_symptoms type="common">bodyache, palpitations, palpitations without fever, weakness, fatigue, heart rate irregular, hyperkalemia, lethargy, muscle cramps, slow heart rate, sudden onset of weakness</diagnosis_symptoms>
+				<diagnosis_ads>
+							</diagnosis_ads>
+
+				<diagnosis_emergency>Yes</diagnosis_emergency>
+				<related_diagnoses>
+						<related_diagnosis star="0"  >hypoglycemia</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >hyponatremia</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >hypocalcemia</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >hypokalemia</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >hypomagnesemia</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >metabolic alkalosis</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >hyperventilation</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >Grave's disease</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >grand mal seizures</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >hyperthyroidism</related_diagnosis>
+
+
+							</related_diagnoses>
+				<procedures type="diagnostic">				
+						<procedure url="http://www.medgle.com/rw/procedures/Cardiac+monitoring/" star="10" >Cardiac monitoring</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Complete+metabolic+panel/" star="10" >Complete metabolic panel</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/EKG/" star="10" >EKG</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/serum+glucose/" star="10" >serum glucose</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/serum+potassium/" star="10" >serum potassium</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Urinalysis/" star="9" >Urinalysis</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Serum+Cortisol/" star="8" >Serum Cortisol</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/BUN/" star="8" >BUN</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Serum+Creatinine/" star="8" >Serum Creatinine</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Serum+Aldosterone/" star="6" >Serum Aldosterone</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Arterial+Blood+Gas/" star="5" >Arterial Blood Gas</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Serum+calcium/" star="5" >Serum calcium</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/serum+digoxin/" star="5" >serum digoxin</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/serum+insulin/" star="5" >serum insulin</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/24+hour+urine+potassium/" star="0" >24 hour urine potassium</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Blood+glucose/" star="0" >Blood glucose</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Telemetry/" star="0" >Telemetry</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Urinary+electrolytes/" star="0" >Urinary electrolytes</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/serum+electrolytes/" star="0" >serum electrolytes</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/transtubular+potassium+gradient+%28TTKG%29/" star="0" >transtubular potassium gradient (TTKG)</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/urine+output/" star="0" >urine output</procedure>
+							</procedures>
+
+				<procedures type="therapeutic">				
+						<procedure url="http://www.medgle.com/rw/procedures/Blood+glucose/" star="10" >Blood glucose</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/serum+insulin/" star="3" >serum insulin</procedure>
+							</procedures>
+
+				<medications>
+						<medication url="http://www.medgle.com/rw/drugs/insulin/" star="10" >insulin</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Furosemide/" star="2" >Furosemide</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Albuterol/" star="1" >Albuterol</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Sodium+bicarbonate/" star="0" >Sodium bicarbonate</medication>
+							<medication url="http://www.medgle.com/rw/drugs/50%25+dextrose/" star="0" >50% dextrose</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Calcium+chloride/" star="0" >Calcium chloride</medication>
+							<medication url="http://www.medgle.com/rw/drugs/calcium+gluconate/" star="0" >calcium gluconate</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Magnesium+sulfate/" star="0" >Magnesium sulfate</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Sodium+polystyrene+sulfonate/" star="0" >Sodium polystyrene sulfonate</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Ethacrynic+acid/" star="0" >Ethacrynic acid</medication>
+							</medications>
+					
+				<advice_options>
+
+				<otc_drugs>
+				</otc_drugs>
+
+
+				<homecare_options>
+				</homecare_options>
+
+				<chronic_homecare_options>
+				</chronic_homecare_options>
+
+			</advice_options>
+
+			</diagnosis>
+			</root>
+
+			

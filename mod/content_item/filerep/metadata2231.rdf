@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2231">
+
+	 <mdc:identifier><![CDATA[http://dataserver.mediogrid.utcluj.ro/adnotare/papers/Tehnici_de_adnotare_grafica_in_eLearning.ppt]]></mdc:identifier> 
+<mdc:title><![CDATA[Tehnici de adnotare grafica in eLearning ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>Romanian</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Teodor Stefanut]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Dorian Gorgan]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Teodor Stefanut]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/teodor.stefanut?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2008-08-14</mdc:created>
+<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2111880695"><rdfs:label><![CDATA[graphical annotation ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject809714125"><rdfs:label><![CDATA[ user interaction in medical education ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This paper presents new methods of user interaction in medical domain, with different multimedia eLearning elements like: images, rich HTML documents, 3D objects.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Microsoft Office 2003 Power Point format (.ppt).]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#scientificJournalArticle"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1700003401"><rdfs:label><![CDATA[medical informatics ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1761855788"><rdfs:label><![CDATA[elearning ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>undergraduate, postgraduate, medical informatics specialists</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This document can be used to exemplify new methods of user interaction with multimedia elements included in eLearning medical teaching materials.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[The resource can be presented in class or given to the students for individual research activity.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Present new, improved and natural ways of user interaction methods that can be used in medical eLearning applications to improve the efficiency of the learning process.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[The students will be able to compare the interaction based on graphical annotation with other user interaction methods and to envisage new application interfaces and new learning and pedagogical methodologies.]]></mdc:educationalOutcomes>
+</mdc:Resource></rdf:RDF>

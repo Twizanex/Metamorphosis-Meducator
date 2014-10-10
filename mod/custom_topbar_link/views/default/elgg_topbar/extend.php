@@ -1,0 +1,1 @@
+<a href="<?php echo get_plugin_setting('linkurl','custom_topbar_link');?>"><?php echo get_plugin_setting('linktext','custom_topbar_link');?></a>

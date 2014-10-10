@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2647">
+
+	 <mdc:identifier><![CDATA[http://www.hippokratia.gr/index.php/hippo/article/view/641]]></mdc:identifier> 
+<mdc:title><![CDATA[Simulating human space physiology with bed rest ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-No-Derivatives" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[PD. Jost]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/stathis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2008-09-24</mdc:created>
+<mdc:metadataCreated>2010-05-09</mdc:metadataCreated>
+<mdc:citation><![CDATA[PD Jost. Simulating human space physiology with bed rest. Hippokratia 2008; 12 (Suppl 1): 37-40]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject277426348"><rdfs:label><![CDATA[Bed rest study ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject510693712"><rdfs:label><![CDATA[ standardisation ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[In a recent review on bed rest studies of the past 20 years, it was concluded that head-down bed rest has proved its usefulness as a reliable simulation model for most physiological effects of spaceflight. Much of this research has been conducted to find countermeasures against the negative effects, which are associated with gravitational unloading. There have been partial successes in the prevention of, for example muscle wasting, cardio-vascular deconditioning, adverse metabolic changes, and bone demineralization. Reviews refer to bone-related measurements of the U.S. and Russian space programmes, as well as data from bed rest analogues, and conclude that in spite of the wealth of knowledge obtained thus far, many questions remain regarding bone loss, bone recovery, and the factors affecting these skeletal
+processes.
+Bed rest research has also direct relevance for medical science on Earth. Valuable data on physiology and early reversible pathological changes that are associated with a sedentary lifestyle on Earth can be obtained. A good example is the conclusion from a metabolic protocol implemented during the 2001/2002 90-day ESA/CNES/NASDA male bed rest study. The results of that experiment on fatty acid oxidation suggest that Mediterranean diets should be recommended in recumbent patients. Some other unexpected results obtained during the ESA/NASA/CNES/CSA 60-day female bed rest study WISE-2005 may well prompt the development of a treatment for certain cardiac diseases. A nutritional supplement that was designed to alleviate skeletal muscle atrophy turned out to preserve cardiac muscle mass. In order to optimise bed rest research, a systematic and standardised approach will be beneficial. During the last years, serious efforts have been made towards such standardisation on an international level. It is expected that results from future studies, combined with in-flight validation, will provide the answers to many biomedical problems that currently limit safe long-duration human space exploration beyond lower earth orbit.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[PDF]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#scientificJournalArticle"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline807549214"><rdfs:label><![CDATA[Aerospace Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality530316426"><rdfs:label><![CDATA[all specialties ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>CME</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[In an aerospace medicine seminar information regarding critical revisit of bed rest studies and
+ESA framework for future bed rest studies can be given through this educational resource]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Self-learning.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[To familiarize learners with critical revisit of bed rest studies and ESA framework for future bed rest studies.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[To be able to judge while reading a bed rest study if it is a valid one. To be able to follow ESA framework for future bed rest studies]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[multiple choice question]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[Basic Medical knowlegde]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

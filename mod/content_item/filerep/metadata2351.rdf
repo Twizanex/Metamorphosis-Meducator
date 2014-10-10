@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2351">
+
+	 <mdc:identifier><![CDATA[]]></mdc:identifier> 
+<mdc:title><![CDATA[Muscles ]]></mdc:title>
+<mdc:metadataLanguage></mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[BEGIN:vcard FN:Raja Habib ORG:St George's University of London EMAIL:rhabib@sgul.ac.uk END:vcard]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Evangelia Mitsopoulou]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-04-10</mdc:created>
+<mdc:metadataCreated>2010-05-07</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1176934848"><rdfs:label><![CDATA[cardiac muscle fibre ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2068826051"><rdfs:label><![CDATA[ smooth muscle fibre ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1515154931"><rdfs:label><![CDATA[ skeletal muscle fibre ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject179101344"><rdfs:label><![CDATA[ muscle tissue ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This topic starts with a basic introduction to muscles and an image illustrating the possible locations of the different muscle tissues. The three types of muscle tissue are described in more detail. Along with the features of muscle tissue (e.g. contractibility), the functions of these tissues (e.g. support) are discussed.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Application/ ZIP]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#lectureNotes"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#image"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#teachingFile"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1952001160"><rdfs:label><![CDATA[Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1677341262"><rdfs:label><![CDATA[cardiology ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>Pre-clinical Medical Student</mdc:educationalLevel>
+</mdc:Resource></rdf:RDF>

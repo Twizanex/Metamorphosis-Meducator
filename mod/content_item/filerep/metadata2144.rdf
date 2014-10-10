@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2144">
+
+	 <mdc:identifier><![CDATA[http://www.hippokratia.gr/index.php/hippo/article/view/637/325]]></mdc:identifier> 
+<mdc:title><![CDATA[An e-learning platform for Aerospace Medicine ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-No-Derivatives" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[BAMIDIS]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ P.]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ KONSTANTINIDIS]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ S.]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ PAPADELIS]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ C.]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ PERANTONI]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ E.]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ STYLIADIS]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ C.]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ KOURTIDOU-PAPADELI]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ C.]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ PAPPAS]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ C.]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/stathis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2008-09-24</mdc:created>
+<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+<mdc:citation><![CDATA[Bamidis PD., Konstantinidis S., Papadelis CL., Perantoni E., Styliadis C., Kourtidou-Papadeli C., AND Pappas C.. An e-learning platform for Aerospace Medicine. Hippokratia. 2008:12 (Suppl 1): 15-22]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1689763990"><rdfs:label><![CDATA[SCORM ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2022074536"><rdfs:label><![CDATA[ Healthcare LOM ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject881299038"><rdfs:label><![CDATA[ IEEE LOM ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject562500438"><rdfs:label><![CDATA[ Continuing Medical Education ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2086623356"><rdfs:label><![CDATA[ CPD ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject449816654"><rdfs:label><![CDATA[ aviation medicine ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1841583156"><rdfs:label><![CDATA[ online education ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1625629084"><rdfs:label><![CDATA[ aerospace medicine ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject859739309"><rdfs:label><![CDATA[ pulmonary disorders ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[The aim of this content item is to illustrate the procedure of creating a SCORM compliant course that incorporates notions of recent advances in social web technologies. The course is in accordance with main educational and technological details and is specific to pulmonary disorders in aerospace medicine. As new educational trends place much emphasis in continuing medical education, the expansion of a general practitionerâ€™s knowledge in topics such as aviation and aerospace pulmonary disorders for crew and passengers becomes a societal requirement.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[A PDF reader is required]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#scientificJournalArticle"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1138582427"><rdfs:label><![CDATA[Medical Informatics, Aerospace medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>CME</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[To illustrate the procedure of creating a SCORM compliant course that incorporates notions of recent
+advances in social web technologies.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[This content item could be used as a reference guide within classroom. Hands on course can take place and in parallel you can make questions in students with the aim of identifying the solutions within this content item. Questions example: What tools we need in order to create a SCORM compliant course?. Prompt trainee to find and download the open source tools and gather the educational material. What are the main categories of Healthcare LOM? Prompt trainee to create the metadata for their material using as an example the example in this content item.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[To explain how a SCORM compliant course is created and how Healthcare LOM applied in such a course.
+To expand general practitionerâ€™s knowledge in topics such as aviation and aerospace pulmonary
+disorders for crew and passengers.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[To be able to create a SCORM compliant course. To be able to read, understand and create Healthcare Learning Object Metadata.]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[Take home exercise: Create a SCORM compliant course for this content item accompanied with Healthcare Learning Object Metadata.]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[Basic use of internet and PC.]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

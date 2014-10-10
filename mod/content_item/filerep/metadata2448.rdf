@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2448">
+
+	 <mdc:identifier><![CDATA[http://iris.med.duth.gr/elearning/mod/resource/view.php?id=820]]></mdc:identifier> 
+<mdc:title><![CDATA[Physical Principles of Magnetic Resonance Imaging ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>Greek</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Eleni Kaldoudi]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Eleni Kaldoudi]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/kaldoudi?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2004-04-01</mdc:created>
+<mdc:metadataCreated>2010-05-08</mdc:metadataCreated>
+<mdc:citation><![CDATA[E. Kaldoudi, Physical Principles of Magnetic Resonance Imaging, Lecture Slides used for Continous Education Radiographers Seminars, School of Medicine, Democritus University of Thrace, Greece, April 2004]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1841529480"><rdfs:label><![CDATA[magnetic resonance imaging ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject27056823"><rdfs:label><![CDATA[ lecture slides ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1610755966"><rdfs:label><![CDATA[ physical principles of medical imaging ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This item is a set of slides corresponding to seven ~45 min lectures on the basic physical principles of magnetic resonance imaging. The slides cover the following topics: (1) Introduction to NMR; (2) Safety; (3) RF Pulses; (4) Relaxation Phenomena; (5) Spin Echoes; (6) Imaging Principles and Pulse-sequences; (7) Fat-Water Differentiation in MRI.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[A winrar zipped Powerpoint(R) file. The file requires Microsoft PowerPoint version 97-2003 player. The zipped file is ~1.3 MB, while the original PowerPoint file is ~3.8 MB.]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline2052918648"><rdfs:label><![CDATA[medicine, physics ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>postgraduate, continuing education</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This presentation can be used for seven ~45 min lectures on the basic physical principles of magnetic resonance imaging. It is suitable for an introduction to MRI in an advanced (postgraduate of continous education) course of medical imaging priciples targeting radiographers, residents in radiology, and medical physisists.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Use a MS PowerPoint player to show the slides. There are some slides that contain animations, especially in the part that explains RF pulses. So, it is advisable to use the 'slide show' mode. A few slides contain some explanation notes. The teacher can break the presentation into 7 parts. Estimated duration for each part is around 45 min. Although the resource is in greek, it is basically structured around graphics and figures, so an educated MRI specialist can easily use his/her own text and repurpose the resource into a different language, using the same background graphics/figures.]]></mdc:teachingLearningInstructions>
+<mdc:educationalPrerequisites><![CDATA[Basic knowledge of medical imaging principles.]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

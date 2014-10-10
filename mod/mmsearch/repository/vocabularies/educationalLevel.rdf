@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xml:base="http://purl.org/meducator/educationalLevel#" xmlns:mdc="http://purl.org/meducator/ns/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" >
+	
+	<mdc:EducationalLevel rdf:about="http://purl.org/meducator/educationalLevel#Undergraduate">
+	<rdfs:label> Undergraduate</rdfs:label>
+	</mdc:EducationalLevel>
+	
+	<mdc:EducationalLevel rdf:about="http://purl.org/meducator/educationalLevel#Post-graduate">
+	<rdfs:label>Post-graduate</rdfs:label>
+	</mdc:EducationalLevel>
+		
+	<mdc:EducationalLevel rdf:about="http://purl.org/meducator/educationalLevel#Continuing Education">
+	<rdfs:label>Continuing Education</rdfs:label>
+	</mdc:EducationalLevel>
+	
+	<mdc:EducationalLevel rdf:about="http://purl.org/meducator/educationalLevel#Patient-General Public Education">
+	<rdfs:label>Patient-General Public Education</rdfs:label>
+	</mdc:EducationalLevel>
+	
+</rdf:RDF>

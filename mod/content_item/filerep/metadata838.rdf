@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#838">
+
+	 <mdc:identifier><mdc:Identifier><rdfs:description>URI</rdfs:description><rdfs:label><![CDATA[http://labyrinth.sgul.ac.uk/mnode.asp?id=qgxlrdbu3lpfvf4jesngxlrdbtpr9kq]]></rdfs:label></mdc:Identifier></mdc:identifier> 
+<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#838</rdfs:seeAlso>
+<mdc:title><![CDATA[Catherine Miller ]]></mdc:title>
+<mdc:identifier><mdc:Identifier><rdfs:description>URI</rdfs:description><rdfs:label><![CDATA[evip:vp:1000523 ]]></rdfs:label></mdc:Identifier></mdc:identifier> 
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[jonathan round]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ sophie vaughan]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Chara Balasubramaniam]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/cbalasub?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-01-29</mdc:created>
+<mdc:metadataCreated>2010-02-26</mdc:metadataCreated>
+<mdc:citation><![CDATA[Under the terms of this Creative Commons license, we would like to acknowledge St Georgeâ€™s, University of London for providing access to this VP case: http://labyrinth.sgul.ac.uk/mnode.asp?id=qgxlrdbu3lpfvf4jesngxlrdbtpr9kq (accessed on 26th Feb 2010)]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject360232396"><rdfs:label><![CDATA[sepsis ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject268026758"><rdfs:label><![CDATA[ bacterial meningitis ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1900176122"><rdfs:label><![CDATA[ meningitis ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject359011447"><rdfs:label><![CDATA[ paediatrics ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This is the story about a Virtual Patient called Catherine Miller. She is a 5 month old girl who is brought into the Emergency Department by her Father with a high temperature. As you progress through the case you have to interpret the examination findings and then investigations to reach a diagnosis and then formulate a management plan. The potential long term complications of the diagnosis are also discussed.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[<p>This Virtual Patient (VP) is playable  using any web browser. However, if you are interested in adapting or   modifying this VP please contact <a href="mailto:elu@sgul.ac.uk"><span><span style="font-size: 9pt; color: #e36c0a;">elu@sgul.ac.uk</span></span></a> for more information.</p>]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource=""/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline88066465"><rdfs:label><![CDATA[medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality996733716"><rdfs:label><![CDATA[paediatrics ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>3rd year uk undergraduate medical student embarking on clinical training.</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This author of this VP intended its use to be for Self-Directed learning.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[<p>This Self-Directed learning focused VP is best used by students as a revision tool to recap particular learning objectives from a taught session. Or it could be used to supplement a Problem-Based Learning (PBL) session to cover objectives that might not have been covered during the PBL session.</p>]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[<p>1)&nbsp;&nbsp; &nbsp;To explore the important aspects in the history of a young child with a high temperature<br />2)&nbsp;&nbsp; &nbsp;To interpret the examination findings in a child of this age group<br />3)&nbsp;&nbsp; &nbsp;To understand the investigation results and base your diagnosis on these results<br />4)&nbsp;&nbsp; &nbsp;To start an effective management plan<br />5)&nbsp;&nbsp; &nbsp;To discuss the potential long term complications of the diagnosis</p>]]></mdc:educationalObjectives>
+<mdc:educationalPrerequisites><![CDATA[<p>In order to play this VP successfully, the student must have a basic understanding in the area of infectious diseases &ndash; particularly meningitis.</p>]]></mdc:educationalPrerequisites>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom rdf:resource="http://purl.org/meducator/resources/5755c602-7e33-4216-a960-6a7000583f6b" />
+<mdc:repurposingDescription>Conducted as part of the eViP project in order to share this VP with the wider medical and healthcare education community. This particular VP was repurposed from Germany to the UK in order to fill a gap in the St Georges paediatrics curriculm relating to meningitis. See www.virtualpatients.eu for more information.</mdc:repurposingDescription>
+<mdc:fromRepurposingContext rdf:resource="http://purl.org/meducator/repurposing#Different-Technology" /> 
+<mdc:fromRepurposingContext rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy" /> 
+<mdc:fromRepurposingContext rdf:resource="http://purl.org/meducator/repurposing#Different-Cultures" /> 
+<mdc:fromRepurposingContext rdf:resource="http://purl.org/meducator/repurposing#Different-Languages" /> 
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

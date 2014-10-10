@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#3349">
+
+	 <mdc:identifier><![CDATA[http://medting.com/user/gordvail/case/mayo-clinic-consultation-subject-d-b/]]></mdc:identifier> 
+<mdc:title><![CDATA[Mayo Clinic Consultation: Subject D-B ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Bart Demaerschalk]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Álvaro Salvá]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/asalva?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-09-03</mdc:created>
+<mdc:metadataCreated>2010-07-14</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject213219978"><rdfs:label><![CDATA[clinical case ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject728765677"><rdfs:label><![CDATA[ stroke ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject269138853"><rdfs:label><![CDATA[ hemiplegia ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[We have a 54 year old woman who developed left sided hemiplegia at 0830 after waking. Her past history is positive for smoking and hypertension. She has received labetolol in the emergency dept to lower her BP from 190/89 and is now at 159/74. HR = 74 and normal sinus. She is not on any blood thinners. She has no contraindications to tpa therapy. We are requesting an acute stroke neurology consultation to determine the appropriateness of tpa therapy.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Web page with javascript.
+Flash required in order to see the media.]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#guideline"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#clinicalCase"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#atlas"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline2097048126"><rdfs:label><![CDATA[neurology ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1869828468"><rdfs:label><![CDATA[neurology ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalContext><![CDATA[former physicians]]></mdc:educationalContext>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Mayo Clinic Consultation: Subject D-B</mdc:title>
+<mdc:identifier>http://globalstroke.net/user/gvail/case/mayo-clinic-consultation-subject-d-b/</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>Repurposed from a closed enviroment to a public site.</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>http://purl.org/meducator/repurposing#Different-Pedagogy</mdc:fromRepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:identifier>http://metamorphosis.med.duth.gr/pg/profile/GS_case_subjectDB</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

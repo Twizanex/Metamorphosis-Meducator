@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2337">
+
+	 <mdc:identifier><![CDATA[http://repository.jorum.ac.uk/intralibrary/IntraLibrary?command=open-preview&amp;learning_object_key=i12568n89469t]]></mdc:identifier> 
+<mdc:title><![CDATA[Heart Anatomy ]]></mdc:title>
+<mdc:identifier><![CDATA[oai:uk.ac.ed.ucs.bodach.jorum:994 (x-none) ]]></mdc:identifier> 
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[BEGIN:vcard FN:Raja Habib ORG:St George's University of London EMAIL:rhabib@sgul.ac.uk END:vcard]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Evangelia Mitsopoulou]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2006-04-10</mdc:created>
+<mdc:metadataCreated>2010-05-07</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject589536243"><rdfs:label><![CDATA[heart ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1819091129"><rdfs:label><![CDATA[ cardiac cycle ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject826675089"><rdfs:label><![CDATA[ blood flow ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This topic contains a labelled photograph and diagram of the heart. An introduction to the cardiac cycle is given: the heart is briefly described as having four chambers, and the blood-flow within them is described (e.g. if it is oxygenated or deoxygenated). An animation illustrates the direction of blood flow during the cardiac cycle.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[It is a zip file]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#teachingFile"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#figureDiagramPicture"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#image"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline57104567"><rdfs:label><![CDATA[Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1660613897"><rdfs:label><![CDATA[cardiology ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>Pre-clinical Medical Student</mdc:educationalLevel>
+<mdc:teachingLearningInstructions><![CDATA[This resource is aimed for access to nursing and healthcare students (UKEC: Further Education, HE0). Topic should be used as an introduction to the subject and may also be suitable for revision/refresher purposes.]]></mdc:teachingLearningInstructions>
+</mdc:Resource></rdf:RDF>

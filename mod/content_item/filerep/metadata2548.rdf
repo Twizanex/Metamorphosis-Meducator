@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2548">
+
+	 <mdc:identifier><![CDATA[http://www.hippokratia.gr/index.php/hippo/article/view/636]]></mdc:identifier> 
+<mdc:title><![CDATA[Biomedical real-time monitoring in restricted and safety-critical environments ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-No-Derivatives" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[A. Astaras]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ PD. Bamidis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ C. Kourtidou-Papadeli]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ N. Maglaveras]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/stathis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-09-24</mdc:created>
+<mdc:metadataCreated>2010-05-08</mdc:metadataCreated>
+<mdc:citation><![CDATA[A. Astaras, PD. Bamidis, C. Kourtidou-Papadeli, N. Maglaveras. Biomedical real-time monitoring in restricted and safety-critical environments. Hippokratia 2008; 12 (Suppl 1): 10-14]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1111484135"><rdfs:label><![CDATA[Biosensors ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject673587867"><rdfs:label><![CDATA[ nanomedicine ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1585011034"><rdfs:label><![CDATA[ bioMEMS ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1416335833"><rdfs:label><![CDATA[ home care ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject728480499"><rdfs:label><![CDATA[ ingestible sensors. ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Biomedical signal monitoring can counteract the risk of human operator error due to inattention or fatigue in safetycritical and restrictive environments, such as in aviation, space, automobile and heavy industrial machinery operation. Real-time biomedical data acquisition is changing through advances in microelectronics fabrication, bio-MEMS and power micro-generators. Such data acquisition and processing systems are becoming increasingly miniaturised, flexible and pervasive, while data is being collected from inside the human body as well as around it. In this paper we review two related research projects exploiting this technological convergence, discuss its implications and suggest future innovation prospects through further similar cross-disciplinary synergies.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[PDF]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#scientificJournalArticle"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline2032805517"><rdfs:label><![CDATA[Medical Informatics ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>postgraduate medical informatics student</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Description of bio-MEMS and power micro-generators is provided. Applying of these technologies is described through two projects (as examples ). Implications are discuused as well as future innovation
+prospects through further similar cross-disciplinary synergies.]]></mdc:educationalContext>
+</mdc:Resource></rdf:RDF>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2365">
+
+	 <mdc:identifier><![CDATA[http://www.helsinki.fi/~romanov/spss2/SPSS_2.html]]></mdc:identifier> 
+<mdc:title><![CDATA[The Elementaries of SPSS 15.0 statistical analysis software - Basics of entering variables and data ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>Finnish</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Romanov]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Kalle]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Jarkko Mylläri]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/Jarkko?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2008-09-15</mdc:created>
+<mdc:metadataCreated>2010-05-07</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject874434344"><rdfs:label><![CDATA[SPSS ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject959487664"><rdfs:label><![CDATA[ statistics ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1392321703"><rdfs:label><![CDATA[ video ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1167775826"><rdfs:label><![CDATA[ narration ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject753518352"><rdfs:label><![CDATA[ flash ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject111113387"><rdfs:label><![CDATA[ tutorial ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Video contains short narrated demonstration of various elementary techniques of using SPSS]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Flash video]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#video"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline137405873"><rdfs:label><![CDATA[Medicine, nursing ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>All levels</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[The material is targeted to any medical student interested of analyzing scientific data]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Self-explanatory content for e.g. self-directed learning]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[To adopt the basic skills to use SPSS]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Student will adopt several basic skills to perform  elementary procedures in SPSS]]></mdc:educationalOutcomes>
+<mdc:educationalPrerequisites><![CDATA[The basic knowledge of the structure of scientific data]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

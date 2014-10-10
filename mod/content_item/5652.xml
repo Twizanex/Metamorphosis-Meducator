@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<graph id="ELGG" edgedefault="directed">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="username" for="node" attr.name="username" attr.type="string"/>
+<node id="5652">
+<data key="name">Case study 8 Repurpose
+Repurposing Context: different educational levels</data>
+<data key="username">Case_study_8_Repurpose</data>
+</node>
+<node id="5645">
+<data key="name">Case study 8</data>
+<data key="username">Case_study_8</data>
+</node>
+<edge id="e75 " source="5645" target="5652"/>
+</graph>
+</graphml>

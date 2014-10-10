@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#4276">
+
+	 <mdc:identifier><![CDATA[http://moodle-pld.co.cc/file.php/3/49-51.ppt]]></mdc:identifier> 
+<mdc:title><![CDATA[Continuous Positive Airway Pressure - СРАР ]]></mdc:title>
+<mdc:rights><![CDATA[ ISBN 954-9806-38-3]]></mdc:rights>
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Assoc. Prof. L. Despotova-Toleva]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ MD]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ PhD]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Medical University Plovdiv]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Dora Edreva]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/doraed?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-08-23</mdc:created>
+<mdc:metadataCreated>2010-08-28</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1195014280"><rdfs:label><![CDATA[Ventilation/oxygenation therapy; neonatal ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject281909181"><rdfs:label><![CDATA[ paediatric ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2064293197"><rdfs:label><![CDATA[ intensive care; medical ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1115367657"><rdfs:label><![CDATA[ monitoring and life-support equipment; non-invasive ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1988362968"><rdfs:label><![CDATA[ invasive methods ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1743137524"><rdfs:label><![CDATA[ continuous positive airway pressure /CPAP/barotruma ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1761264084"><rdfs:label><![CDATA[ alveolar collapse ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Main points: 1. Implementation of CPAP, 2. Advantages of CPAP; 3.Timing of CPAP; 4. CPAP monitoring]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Power Point Presentation]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#handbook"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline978913807"><rdfs:label><![CDATA[Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1997742151"><rdfs:label><![CDATA[Neonatology, Paediatrics, Intensive  Care ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>PhD – students, MD, anaesthesiologists, paediatricians, intensivists</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Educational material for PhD- students, MD, anaesthesiologists,paediatricians, intensivists.]]></mdc:educationalContext>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter4</mdc:title>
+<mdc:identifier>http://moodle-pld.co.cc/file.php/3/Ventilation_Chapter4.pdf</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Languages</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Technology</mdc:fromRepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:identifier>http://metamorphosis.med.duth.gr/pg/profile/VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter4</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

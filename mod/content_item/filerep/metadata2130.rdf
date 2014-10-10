@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2130">
+
+	 <mdc:identifier><![CDATA[http://moodle.cs.ucy.ac.cy/course/view.php?id=27]]></mdc:identifier> 
+<mdc:title><![CDATA[Μελέτη - Ανάπτυξη και Αξιολόγηση Ολοκληρωμένου Συστήματος Ψηφιακής Ανάλυσης Ενδοσκοπικής Εικόνας Μακροβιοψίας για την Υποστήριξη διάγνωσης γυναικολογικού Καρκίνου ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Share-Alike" />
+<mdc:language>Greek</mdc:language>
+<mdc:metadataLanguage>Greek</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Marios Neofytou]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Athos Antoniades]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/athos?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-05-01</mdc:created>
+<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject636351472"><rdfs:label><![CDATA[ ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Μελέτη - Ανάπτυξη και Αξιολόγηση Ολοκληρωμένου Συστήματος Ψηφιακής Ανάλυσης Ενδοσκοπικής Εικόνας Μακροβιοψίας για την Υποστήριξη διάγνωσης γυναικολογικού Καρκίνου.
+Ανάπτυξη τυποποιημένου πρωτόκολλου ποσοτικής ανάλυσης ενδοσκοπικών εικόνων 
+Ανάπτυξη και εφαρμογή αυτόματου συστήματος υποστήριξης διάγνωσης (CAD system) γυναικολογικού καρκίνου του ενδομητρίου με χρήση υστεροσκοπικών εικόνων]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Αποτελέσματα απο ανάλυση με
+40 γυναίκες, ηλικίας 22 μέχρι 50 χρόνων
+ 
+416 εικόνες
+208 εικόνες φυσιολογικού ενδομητρίου
+208 εικόνες παθολογικού ενδομητρίου]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#video"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#image"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#lectureNotes"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline112006782"><rdfs:label><![CDATA[Ιατρική Πληροφορική ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1956082889"><rdfs:label><![CDATA[ανάλυση εικόνας ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalContext><![CDATA[Μάθημα Ιατρικής Πληροφορικής
+Μάθημα ανάλυσης Ψυφιακής Εικόνας
+Μάθημα για διαγνοστικά εργαλία γυναικολογικού Καρκίνου]]></mdc:educationalContext>
+<mdc:educationalObjectives><![CDATA[Παρουσίαση της ανάπτυξης τυποποιημένου πρωτόκολλου ποσοτικής ανάλυσης ενδοσκοπικών εικόνων 
+Παρουσίαση της ανάπτυξης και εφαρμογής αυτόματου συστήματος υποστήριξης διάγνωσης (CAD system) γυναικολογικού καρκίνου του ενδομητρίου με χρήση υστεροσκοπικών εικόνων]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Κατανόηση αλγοριθμικών μεθόδων και προτεινόμενου προτοκόλου ανάλυσης.]]></mdc:educationalOutcomes>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:identifier>http://www.ncbi.nlm.nih.gov/pubmed/19162887</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

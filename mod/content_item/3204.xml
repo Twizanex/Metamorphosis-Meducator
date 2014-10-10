@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<graph id="ELGG" edgedefault="directed">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="username" for="node" attr.name="username" attr.type="string"/>
+<node id="3204">
+<data key="name">Complete heart block Repurposed
+Repurposing Context: Other,different technology,different educational levels</data>
+<data key="username">ECG1</data>
+</node>
+<node id="3248">
+<data key="name">Complete heart block</data>
+<data key="username">ECG1_original</data>
+</node>
+<edge id="e29 " source="3248" target="3204"/>
+</graph>
+</graphml>

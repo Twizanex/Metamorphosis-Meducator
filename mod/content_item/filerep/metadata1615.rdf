@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#1615">
+
+	 <mdc:identifier><![CDATA[http://ticeg5.unice.fr/projet_Blaive2/corpus.html]]></mdc:identifier> 
+<mdc:title><![CDATA[Chest XRay of the Elderly : decision support for diagnosing acute or chronic dyspnea ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>French</mdc:language>
+<mdc:metadataLanguage></mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Bruno Blaive]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Pascal Staccini]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/pstaccini?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-10-20</mdc:created>
+<mdc:metadataCreated>2010-04-25</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1478719864"><rdfs:label><![CDATA[Aged ; Dyspnea ; Dyspnea/etiology ; Dyspnea/radiography ; Respiration ; Radiography ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1691331098"><rdfs:label><![CDATA[ Thoracic ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This radiological classification analyzes the etiologies of the most frequent dyspneas but also those rarer of the domain of the specialists. It reminds clinician and students that a picture is rarely specific of a given pathology and that some very different etiologies can have an similar expression or can belong to several radiological syndromes. This e-book provides physicians with two different supports: diagrams of the thorax permitting a fast reading, a traditional illustration with reproductions of x-rays.]]></mdc:description>
+<mdc:resourceType> e-book with annotated and interactive figures</mdc:resourceType>
+<mdc:educationalContext><![CDATA[This resource can be used to illustrate principles of respiratory physiology. It also provides teachers and students with a lot of pictures to be commented.]]></mdc:educationalContext>
+</mdc:Resource></rdf:RDF>

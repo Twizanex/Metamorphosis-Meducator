@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#1419">
+
+	 <mdc:identifier><![CDATA[http://metamorphosis.med.duth.gr/pg/file/Dpanzo/read/1418/diseases-quiz-climate-health-impact-french]]></mdc:identifier> 
+<mdc:title><![CDATA[Disease quiz climate health impact French ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>French</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[SGI]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Coventry University]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[David Panzoli]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/Dpanzo?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-04-09</mdc:created>
+<mdc:metadataCreated>2010-04-22</mdc:metadataCreated>
+<mdc:citation><![CDATA[French Diseases Quiz, 2010, Climate Health Impact (Playgen, UK). Serious Games Institute, Coventry University, UK.]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject982247628"><rdfs:label><![CDATA[quiz ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2118887334"><rdfs:label><![CDATA[ diseases ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1297167347"><rdfs:label><![CDATA[ cholera ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject690197594"><rdfs:label><![CDATA[ malaria ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1242316527"><rdfs:label><![CDATA[ plague ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1470224312"><rdfs:label><![CDATA[ tuberculosis ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1529926651"><rdfs:label><![CDATA[ meningitis ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject23043750"><rdfs:label><![CDATA[ dengue fever ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[The resource contains 16 diseases in French, including symptoms, transmission and treatment. Each disease is illustrated with pictures.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Requires a computer and a Web browser with Adobe Flash plugin.]]></mdc:technicalDescription>
+<mdc:resourceType> quiz</mdc:resourceType>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline2008587777"><rdfs:label><![CDATA[Biology ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>AS/A Levels</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[In class, at home.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[The quiz is using exploratory learning which refers to the idea that learners are active during the learning process by constructing their own knowledge through exploration and action. In this particular case learners/players are allowed to explore online resources, read relevant information and find the correct answers and. Feedback is provided either for correct or wrong answers. The quiz can also be used as an assessment tool.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Learn to identify 16 major diseases, their symptoms, transmission vector and treatment.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[16 major diseases, their symptoms, transmission vector and treatment]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[The quiz is also an assessment tool per se, by offering a grade at the end.]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[GCSE Biology]]></mdc:educationalPrerequisites>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Disease quiz climate health impact</mdc:title>
+<mdc:identifier>http://metamorphosis.med.duth.gr/pg/file/Dpanzo/read/1417/diseases-quiz-climate-health-impact</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>The 16 diseases from the quiz have been translated from English to French</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>http://purl.org/meducator/repurposing#Different-Languages</mdc:fromRepurposingContext>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

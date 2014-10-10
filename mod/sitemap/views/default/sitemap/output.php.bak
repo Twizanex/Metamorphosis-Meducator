@@ -1,0 +1,191 @@
+<?php
+
+	/**
+	 * Elgg Sitemap plugin
+	 * 
+	 * @package
+	 * @license http://www.gnu.org/licenses/old-licenses/gpl-2.0.html GNU Public License version 2
+	 * @author Matthias Sutter email@matthias-sutter.de
+	 * @copyright CubeYoo.de
+	 * @link http://cubeyoo.de
+	 */
+
+
+?>
+
+
+
+<div class="contentWrapper">
+
+    <div id="left">
+
+    <div id="box">	
+<h3><a href="<?php echo $vars['url']; ?>">Start</a></h3>
+<?php if (is_plugin_enabled('externalpages')) { ?>
+<ul class="menu">
+<li><a href="<?php echo $vars['url']; ?>pg/expages/read/About/">About</a></li>
+<li><a href="<?php echo $vars['url']; ?>pg/expages/read/Terms/">Terms</a></li>
+<li><a href="<?php echo $vars['url']; ?>pg/expages/read/Privacy/">Privacy</a></li>
+<?php }; ?>
+
+<li><a href="<?php echo $vars['url']; ?>account/register.php">Register</a></li>
+<li><a href="<?php echo $vars['url']; ?>account/forgotten_password.php">Lost password</a></li>
+</ul>
+</div>
+
+
+<?php if (is_plugin_enabled('profile')) { ?>
+
+    <div id="box">
+<h3><a href="<?php echo $vars['url']; ?>pg/settings/">Settings</a></h3>
+<ul class="menu">
+<li><a href="<?php echo $vars['url']; ?>pg/settings/statistics/<?php echo $_SESSION['user']->username; ?>/">Account statistics</a></li>
+<li><a href="<?php echo $vars['url']; ?>pg/settings/plugins/<?php echo $_SESSION['user']->username; ?>">Configure your tools</a></li>
+<li><a href="<?php echo $vars['url']; ?>mod/notifications/">Notifications</a></li>
+<li><a href="<?php echo $vars['url']; ?>mod/notifications/groups.php">Group notifications</a></li>
+</ul>
+    </div>
+
+<?php }; ?>
+
+
+<?php if (is_plugin_enabled('messages')) { ?>
+
+    <div id="box">	
+
+<h3><a href="<?php echo $vars['url']; ?>pg/messages/<?php echo $_SESSION['user']->username; ?>">Messages</a></h3>
+<ul class="menu">
+<li><a href="<?php echo $vars['url']; ?>mod/messages/send.php">Compose a message</a></li>
+<li><a href="<?php echo $vars['url']; ?>mod/messages/sent.php">Sent messages</a></li>
+</ul>
+    </div>
+<?php }; ?>
+
+
+
+<?php if (is_plugin_enabled('riverdashboard')) { ?>
+
+    <div id="box">	
+<h3><a href="<?php echo $vars['url']; ?>pg/dashboard/">Dashboard</a></h3>
+<ul class="menu">
+<li><a href="<?php echo $vars['url']; ?>pg/dashboard/?type=&display=friends&content=">Friends activity</a></li>
+<li><a href="<?php echo $vars['url']; ?>pg/dashboard/?type=&display=mine&content=">My activity</a></li>
+</ul>
+    </div>
+<?php }; ?>
+
+
+	
+
+<?php if (is_plugin_enabled('blog')) { ?>
+    <div id="box">	
+<h3><a href="<?php echo $vars['url']; ?>mod/blog/everyone.php">All site blogs</a></h3>
+
+<ul class="menu">
+<li><a href="<?php echo $vars['url']; ?>pg/blog/<?php echo $_SESSION['user']->username; ?>">Your blog</a></li>
+<li><a href="<?php echo $vars['url']; ?>pg/blog/<?php echo $_SESSION['user']->username; ?>/friends/">Friends blogs</a></li>
+<li><a href="<?php echo $vars['url']; ?>pg/blog/<?php echo $_SESSION['user']->username; ?>/new/">Write a blog post</a></li>
+</ul>
+    </div>
+
+<?php }; ?>
+
+
+   </div>
+   
+
+	
+<div id="right">
+
+   		<div id="fernglas">
+			<img src="<?php echo $vars['url']; ?>mod/sitemap/graphics/sitemap.png" border="0" />
+        </div>
+
+
+
+<?php if (is_plugin_enabled('groups')) { ?>
+    <div id="box">	
+<h3><a href="<?php echo $vars['url']; ?>pg/groups/world/">All site groups</a></h3>
+<ul class="menu">
+<li><a href="<?php echo $vars['url']; ?>pg/groups/world/?filter=pop">Popular groups</a></li>
+<li><a href="<?php echo $vars['url']; ?>pg/groups/world/?filter=active">Latest groupe discussion</a></li>
+
+<li><a href="<?php echo $vars['url']; ?>pg/groups/owned/<?php echo $_SESSION['user']->username; ?>">Groups you own</a></li>
+<li><a href="<?php echo $vars['url']; ?>pg/groups/member/<?php echo $_SESSION['user']->username; ?>">Your groups</a></li>
+<li><a href="<?php echo $vars['url']; ?>pg/groups/new/">Create a new group</a></li>
+</ul>
+    </div>
+
+<?php }; ?>
+
+
+
+<?php if (is_plugin_enabled('file')) { ?>
+    <div id="box">	
+<h3><a href="<?php echo $vars['url']; ?>mod/file/world.php">All site files</a></h3>
+
+<ul class="menu">
+<li><a href="<?php echo $vars['url']; ?>pg/file/<?php echo $_SESSION['user']->username; ?>">Your files</a></li>
+<li><a href="<?php echo $vars['url']; ?>pg/file/<?php echo $_SESSION['user']->username; ?>/friends/">Your friends' files</a></li>
+<li><a href="<?php echo $vars['url']; ?>pg/file/<?php echo $_SESSION['user']->username; ?>/new/">Upload a file</a></li>
+</ul>
+    </div>
+
+<?php }; ?>
+
+
+
+<?php if (is_plugin_enabled('pages')) { ?>
+    <div id="box">	
+<h3><a href="<?php echo $vars['url']; ?>mod/pages/world.php">All site pages</a></h3>
+<ul class="menu">
+<li><a href="<?php echo $vars['url']; ?>pg/pages/owned/<?php echo $_SESSION['user']->username; ?>">Pages home</a></li>
+
+<li><a href="<?php echo $vars['url']; ?>pg/pages/welcome/">Edit welcome message</a></li>
+</ul>
+    </div>
+
+<?php }; ?>
+
+
+
+<?php if (is_plugin_enabled('bookmarks')) { ?>
+    <div id="box">
+<h3><a href="<?php echo $vars['url']; ?>mod/bookmarks/everyone.php">All site bookmarks</a></h3>
+
+<ul class="menu">
+<li><a href="<?php echo $vars['url']; ?>pg/bookmarks/<?php echo $_SESSION['user']->username; ?>/inbox">Bookmarks inbox</a></li>
+<li><a href="<?php echo $vars['url']; ?>pg/bookmarks/<?php echo $_SESSION['user']->username; ?>/items">My bookmarked items</a></li>
+<li><a href="<?php echo $vars['url']; ?>pg/bookmarks/<?php echo $_SESSION['user']->username; ?>/friends/items">Friends' bookmarks</a></li>
+<li><a href="<?php echo $vars['url']; ?>pg/bookmarks/<?php echo $_SESSION['user']->username; ?>/bookmarklet">Get bookmarklet</a></li>
+</ul>
+    </div>
+
+<?php }; ?>
+
+	
+
+
+<?php if (is_plugin_enabled('members')) { ?>
+    <div id="box">
+<h3><a href="<?php echo $vars['url']; ?>mod/members/index.php">All site members</a></h3>
+<ul class="menu">
+<li><a href="<?php echo $vars['url']; ?>mod/members/index.php?filter=pop">Popular members</a></li>
+<li><a href="<?php echo $vars['url']; ?>mod/members/index.php?filter=active">Active members</a></li>
+</ul>
+    </div>
+<?php }; ?>
+
+
+
+
+</div>
+
+
+
+	
+<div class="clearfloat"></div>
+    
+	</div>	
+	
+

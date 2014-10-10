@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2534">
+
+	 <mdc:identifier><![CDATA[http://kedip.med.auth.gr/elearning/mod/resource/view.php?id=733]]></mdc:identifier> 
+<mdc:title><![CDATA[Distance (online) Medical Education ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>Greek</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Panagiotis Bamidis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/stathis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2008-10-28</mdc:created>
+<mdc:metadataCreated>2010-05-08</mdc:metadataCreated>
+<mdc:citation><![CDATA[Stathis Konstantinidis, Panagiotis Bamidis, "Distance Medical Education", online presentation,  http://kedip.med.auth.gr/elearning/mod/resource/view.php?id=733, retrieved at....]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject824462468"><rdfs:label><![CDATA[Medical Education ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1302423424"><rdfs:label><![CDATA[ Moodle ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject780469925"><rdfs:label><![CDATA[ Wiki ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1591678889"><rdfs:label><![CDATA[ Blogs ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1876931423"><rdfs:label><![CDATA[ Forum ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1341650559"><rdfs:label><![CDATA[ podcast ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1345954527"><rdfs:label><![CDATA[ vodcast ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[It describes new technologies that can be used in online Medical Education. Examples are provided]]></mdc:description>
+<mdc:technicalDescription><![CDATA[MS Power Point Presentation]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#image"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline644894845"><rdfs:label><![CDATA[Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality795263171"><rdfs:label><![CDATA[all specialties ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>CME</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This resource recommended for introducing educational technologies and online medical education to physisians.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Presentation on an amphitheater]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[To identify the different educational tools
+To be familiar with moodle, SCORM, podcasts and vodcasts]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[the learners are able to understand what online education is
+to be familiar with educational technologies
+to be able to take an online course]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[Multiple choice questions]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[none]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

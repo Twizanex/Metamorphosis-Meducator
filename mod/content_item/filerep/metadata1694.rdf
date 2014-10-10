@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#1694">
+
+	 <mdc:identifier><![CDATA[http://grincheux.unice.fr/~meducator/evidencebasedanalysis/27042009/]]></mdc:identifier> 
+<mdc:title><![CDATA[Evidence Based Analysis - Article title: "Interest of a sterilised anti-burning gel in radiation dermatitis: results of a comparative study" ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:rights><![CDATA[ One resource is under editor copyright]]></mdc:rights>
+<mdc:language>French</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Pascal Staccini]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Pascal Staccini]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/pstaccini?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-04-23</mdc:created>
+<mdc:metadataCreated>2010-04-25</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1914664758"><rdfs:label><![CDATA[Evidence-Based Medicine ; Evidence-Based Medicine/instrumentation ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Repository containing PDF files]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#evidenceBasedMedicineForm"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#scientificJournalArticle"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#examinationQuestions"/>
+<mdc:educationalContext><![CDATA[Learning of critical appraisal of medical scientific literature]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[One file is the full text article
+One file is the article without the abstract
+One file is a questions form
+One file contains the answers of the questions]]></mdc:teachingLearningInstructions>
+<mdc:educationalPrerequisites><![CDATA[biostatistics
+epidemiology
+clinical trials methodology]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

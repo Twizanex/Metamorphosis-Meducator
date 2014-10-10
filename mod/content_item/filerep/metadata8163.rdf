@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#8163">
+
+	 <mdc:identifier><![CDATA[]]></mdc:identifier> 
+<mdc:title><![CDATA[Cas pratique d'analyse critique d'article médical scientifique : Etude comparative dans le traitement de la fibromyalgie : ultrasons et kinésithérapie versus sertraline ]]></mdc:title>
+<mdc:identifier><![CDATA[http://grincheux.unice.fr/~meducator/evidencebasedanalysis/21112009/correction.pdf ]]></mdc:identifier> 
+<mdc:rights rdf:resource="" />
+<mdc:rights><![CDATA[ http://purl.org/meducator/instances/]]></mdc:rights>
+<mdc:quality><![CDATA[No Quality stamp ]]></mdc:quality> 
+<mdc:language>fr</mdc:language>
+<mdc:metadataLanguage>fr</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Pascal Staccini]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Antoine Mistretta]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/Antomis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2011-04-13</mdc:created>
+<mdc:metadataCreated>2011-04-12</mdc:metadataCreated>
+<mdc:citation><![CDATA[Staccini P. Cas pratique d'analyse critique d'article médical scientifique [Article :]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1418895321"><rdfs:label><![CDATA[Fibromyalgia - Middle Aged - Physical Therapy Modalities - Prospective Studies - Serotonin Uptake Inhibitors - Sertraline - Treatment Outcome - Randomized Controlled Trial - Clinical Trial - Evidence-based Medicine ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA["Description of the resource in terms of its educational content" : il est précisé en "bulle-info" : "For example, resource synopsis, resource contents, resource overview, etc."]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Format PDF / Windows / OS Mac]]></mdc:technicalDescription>
+<mdc:resourceType> http://purl.org/meducator/resourceType#problemsExercises</mdc:resourceType>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline797134195"><rdfs:label><![CDATA[medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1844076044"><rdfs:label><![CDATA[thérapeutique ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalContext><![CDATA[Entrainement à l'épreuve de Lecture Critique d'Article (LCA) aux Epreuves Classantes Nationales (ECN) pour l'accès au 3ème cycle des études médicales (France).]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[La séance de travaux dirigés se déroule en : distribution des questions, lecture de l'article (30 mn), réponses aux questions (60 mn) et corrections (30 mn)]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Les objectifs pédagogiques sont définis dans un document accessible à l'adresse suivante : http://www.cnci.univ-paris5.fr/medecine/LectureCritiqueArticle.pdf]]></mdc:educationalObjectives>
+<mdc:assessmentMethods><![CDATA[Méthodes d'évaluation : Vérifier la capacité à analyser le contenu d'un article médical scientifique  Vérifier la capacité à déterminer le niveau de preuve d'une étude clinique (thérapeutique, pronostic, diagnostic et études épidémiologiques)]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[Epidémiologie, statistiques descriptives et inférentielles (niveau 1), méthodologie de la recherche clinique]]></mdc:educationalPrerequisites>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Cette ressource n'est pas "repurposed" mais intérêt à tester.</mdc:title>
+<mdc:identifier></mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>Test "Repurposing description" à faire peut-être : mise en anglais du texte</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>http://purl.org/meducator/repurposing#Different-Languages</mdc:fromRepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:identifier>Cette ressource n'est pas "repurposed" mais intérêt à tester.</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

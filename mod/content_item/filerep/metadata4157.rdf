@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#4157">
+
+	 <mdc:identifier><![CDATA[http://moodle-pld.co.cc/file.php/5/Hypopituitar-Diabinsip-lecture-project.ppt]]></mdc:identifier> 
+<mdc:title><![CDATA[Лекция №2. ХИПОПИТУИТАРИЗЪМ. ЗАБОЛЯВАНИЯ НА НЕВРОХИПОФИЗАТА Инсипиден диабет. SIADH ]]></mdc:title>
+<mdc:language>Bulgarian</mdc:language>
+<mdc:metadataLanguage>Bulgarian</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Доц. Мария Миткова Орбецова]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Началник Клиника по Ендокринология]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ УМБАЛ „Св. Георги”]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Пловдив]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Eva Mihajlova]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/Evamihajlova?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-12-20</mdc:created>
+<mdc:metadataCreated>2010-08-27</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1211189735"><rdfs:label><![CDATA[Медицина – ендокринология – студенти – хипопитуитаризъм -неврохипофиза – инсипиден диабет – синдром на несъответна секреция на антидиуретичен хормон ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Лекцията е част от лекционен курс по ендокринология, покриващ основните ендокринологични заболявания, разпределени по отделни жлези.  Материалът е представен като системно класическо описание на нозологичните единици, отговарящо на изискванията за учебно помагало. 
+Първата част на лекцията съдържа данни за класификация, клинична картина, диагноза, диференциална диагноза и лечение на хипопитуитаризма. Отделя се място на синдрома на  Simonds-Sheehan. Втората част включва кратки данни за анатомия и физиология на неврохипофизата, описание на неврохипофизарните хормони, връзката с хипоталамуса; видовете заболявания на неврохипофизата. Подробно е разгледан инсипидният диабет с типовите параграфи за лекционния курс: определение, етиология, патогенеза, клинична картина, усложнения, тестове и методи на диагноза, диференциална диагноза, лечение. Характеризиран е в резюме синдромът на несъответна секреция на АДХ, който е рядко заболяване, но трябва да се познава.]]></mdc:description>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:educationalLevel>Ниво: висше образование: медицина •	5 курс</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[•	Целева група – студенти от по медицина, изучаващи модул ендокринология в рамките на обучение по вътрешни болести. За България – студенти от V медицински курс. Възраст между 23 и 25 г. Социо-културен профил – хетерогенен, предимно от семейства на интелектуалци. Български език – нативен или изучаем. Ниво на обучението – І ниво за студенти. Цели на лекционния курс – да се овладеят основни понятия (терминологично и смислово) в ендокринологията; да се добие представа за основни принципи на регулация на хормоналната синтеза, механизъм на действие на отделните хормони; да се добият познания за същност, етиология, патогенеза, класификация, клинична картина, диагноза, диференциална диагноза, лечение на основни ендокринни заболявания; да се създадат умения за разпознаване на специфични симптомокомплекси, насочващи към ендокринна патология, практически подходи към пациентите, суспектни за носителство на ендокринни заболявания. 
+•	Учебният ресурс използва формата на  Лекция / презентация: в класически университетски смисъл, но в електронна форма]]></mdc:educationalContext>
+<mdc:educationalObjectives><![CDATA[Образователни цели:
+-	преподаване на нови знания / умения
+-	усвояване и прилагане в практиката на новите знания от страна на обучаемите
+-	овладяване на умения от обучаемите за разпознаване и лечение в общ план на отделните нозологични единици, разгледани в лекционния курс. 
+-	За Лекция №2 – разпознаване, диагностициране, лечение на хипопитуитаризма – по-подробно обяснение на най-честите му форми – постоперативен/пострадиационен и следродова некроза на хипофизата (синдром на Simmonds-Sheehan). Познания относно заболяванията на неврохипофизата, по-специално инсипидния диабет с различните му форми – централен, нефрогенен, дипсогенен, клинична картина, усложнения, диференциална диагноза, лечение. Общи познания върху синдрома на несъответна секреция на АДХ]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Очаквани резултати от обучението:
+-	усвояване на знания 
+-	овладяване на умения 
+Прицелни умения
+-	рецептивни –четене с разбиране
+-	социокултурни (самообучение)
+-	автономност на обучаемия]]></mdc:educationalOutcomes>
+<mdc:educationalPrerequisites><![CDATA[Предварително ниво на знания и умения, които обучаемите трябва да притежават, за да ползват учебния ресурс – паралелен курс практически упражнения по ендокринология]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

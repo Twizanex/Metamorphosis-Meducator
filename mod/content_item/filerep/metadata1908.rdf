@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#1908">
+
+	 <mdc:identifier><![CDATA[http://metamorphosis.med.duth.gr/action/file/download?file_guid=1168]]></mdc:identifier> 
+<mdc:title><![CDATA[Using Manikin Simulator in Cardiology ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Timo Kuusi]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Jarkko MyllÃ¤ri]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Jarkko Mylläri]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/Jarkko?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-02-15</mdc:created>
+<mdc:metadataCreated>2010-04-27</mdc:metadataCreated>
+<mdc:citation><![CDATA[Kuusi, T. MyllÃ¤ri, J. (2010): Using Manikin Simulator in Cardiology. Pedagogical guideline. University of Helsinki.]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject27099663"><rdfs:label><![CDATA[cardiology ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1376308965"><rdfs:label><![CDATA[ simulator ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject317943193"><rdfs:label><![CDATA[ manikin ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject860581214"><rdfs:label><![CDATA[ pedagogy ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1212298499"><rdfs:label><![CDATA[ best practice ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1501698398"><rdfs:label><![CDATA[ guideline ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This document describes the pedagogical context and practices of using a simulator (manikin torso able to perform breathing and pulses) developed by the University of Miami to simulate heart malfunctions on a course to support further, self-directed studying. Document structured around the framework of Con-structive alignment (Biggs et al, 2007) and a summary of applied Game Based elements of Pedagogy is includ]]></mdc:description>
+<mdc:technicalDescription><![CDATA[PDF]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#practical"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#text"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline243661010"><rdfs:label><![CDATA[cardiology ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalContext><![CDATA[The teaching/studying: 1) (introduction) how to listen to heart sounds and
+2) being exposed to different findings, trying to identify them, and deciding on further action.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Guideline for using manikin in teaching cardiology (heart sounds)]]></mdc:teachingLearningInstructions>
+</mdc:Resource></rdf:RDF>

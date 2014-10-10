@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#12722">
+<mdc:title><![CDATA[jmetertest123 ]]></mdc:title>
+<mdc:identifier><mdc:Identifier><rdfs:description>URL</rdfs:description><rdfs:label><![CDATA[http://jakarta.apache.org/jmeter/ ]]></rdfs:label></mdc:Identifier></mdc:identifier> 
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Share-Alike" />
+<mdc:quality><![CDATA[Jmeter created resource ]]></mdc:quality> 
+<mdc:language>en</mdc:language> 
+<mdc:metadataLanguage>en</mdc:metadataLanguage>
+<mdc:creator><foaf:Person> 
+<foaf:name><![CDATA[JMeter ]]></foaf:name> 
+<sioc:memberOf><![CDATA[Jakarta ]]></sioc:memberOf>
+<mdc:profileURI><![CDATA[ ]]></mdc:profileURI>
+</foaf:Person></mdc:creator>	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Maurice Hendrix ]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/rexmedorum?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2011-08-24</mdc:created>
+<mdc:metadataCreated>2011-08-22</mdc:metadataCreated>
+<mdc:subject><mdc:Subject rdf:about="http://purl.org/meducator/external/purl.bioontology.org/ontology/AIR/MFHRT"><rdfs:isDefinedBy>http://purl.bioontology.org/ontology/AIR/MFHRT</rdfs:isDefinedBy><rdfs:label>Heart</rdfs:label><mdc:externalSource>AI/RHEUM</mdc:externalSource></mdc:Subject></mdc:subject><mdc:description><![CDATA[Jmeter created resource ]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Jmeter created resource ]]></mdc:technicalDescription>
+<mdc:discipline><mdc:Discipline rdf:about="http://purl.org/meducator/external/www.co-ode.org/ontologies/basic-bio/basic-vertebrate-gross-anatomy.owl#Heart"><rdfs:isDefinedBy>http://www.co-ode.org/ontologies/basic-bio/basic-vertebrate-gross-anatomy.owl#Heart</rdfs:isDefinedBy><rdfs:label>Heart</rdfs:label><mdc:externalSource>Basic Vertebrate Anatomy</mdc:externalSource></mdc:Discipline></mdc:discipline><mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://purl.org/meducator/external/www.co-ode.org/ontologies/basic-bio/basic-vertebrate-gross-anatomy.owl#Heart"><rdfs:isDefinedBy>http://www.co-ode.org/ontologies/basic-bio/basic-vertebrate-gross-anatomy.owl#Heart</rdfs:isDefinedBy><rdfs:label>Heart</rdfs:label><mdc:externalSource>Basic Vertebrate Anatomy</mdc:externalSource></mdc:DisciplineSpeciality></mdc:disciplineSpeciality></mdc:Resource></rdf:RDF>

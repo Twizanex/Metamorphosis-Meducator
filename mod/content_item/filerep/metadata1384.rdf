@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#1384">
+
+	 <mdc:identifier><![CDATA[http://dataserver.mediogrid.utcluj.ro/adnotare/release/resource/lectii/173/index.htm]]></mdc:identifier> 
+<mdc:title><![CDATA[The Larynx - introductory lesson ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Teodor Stefanut]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Teodor Stefanut]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/teodor.stefanut?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-04-05</mdc:created>
+<mdc:metadataCreated>2010-04-21</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject104463024"><rdfs:label><![CDATA[larynx ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject327265031"><rdfs:label><![CDATA[ human anatomy ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1971926289"><rdfs:label><![CDATA[ knowledge assessment ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject224468380"><rdfs:label><![CDATA[ annotation ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Presents general information about the organ and provides a short test page built on graphical annotation based user interaction.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[In order to correctly visualize the lesson and to have the ability to create graphical annotations, e-Trace application must be installed: http://dataserver.mediogrid.utcluj.ro/adnotare/]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#lectureNotes"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1394886494"><rdfs:label><![CDATA[Human anatomy ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>undergraduate</mdc:educationalLevel>
+<mdc:teachingLearningInstructions><![CDATA[This resource can be used by students in individual study or by teachers in class presentations, where they can add valuable information through graphical annotation.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[General presentation of the larynx and it's functions in human anatomy.]]></mdc:educationalObjectives>
+</mdc:Resource></rdf:RDF>

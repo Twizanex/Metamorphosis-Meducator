@@ -1,0 +1,81 @@
+<?php
+
+	/**
+	 * Elgg pageshell
+	 * The standard HTML page shell that everything else fits into
+	 * 
+	 * @package Elgg
+	 * @subpackage Core
+	 * @license http://www.gnu.org/licenses/old-licenses/gpl-2.0.html GNU Public License version 2
+	 * @author Curverider Ltd
+	 * @copyright Curverider Ltd 2008-2009
+	 * @link http://elgg.org/
+	 * 
+	 * @uses $vars['config'] The site configuration settings, imported
+	 * @uses $vars['title'] The page title
+	 * @uses $vars['body'] The main content of the page
+	 * @uses $vars['messages'] A 2d array of various message registers, passed from system_messages()
+	 */
+
+	// Set the content type
+	header("Content-type: text/html; charset=UTF-8");
+
+	// Set title
+		if (empty($vars['title'])) {
+			$title = $vars['config']->sitename;
+		} else if (empty($vars['config']->sitename)) {
+			$title = $vars['title'];
+		} else {
+			$title = $vars['config']->sitename . ": " . $vars['title'];
+		}
+
+?>
+<script type="text/javascript" src="<?php echo $vars['url']; ?>mod/canvas_menu/views/default/js/fisheye.js"></script>
+	
+<?php echo elgg_view('page_elements/header', $vars); ?>
+<?php echo elgg_view('page_elements/elgg_topbar', $vars); ?>
+<?php echo elgg_view('page_elements/header_contents', $vars); ?>
+
+<!-- main contents -->
+    
+<!-- display any system messages -->
+<?php echo elgg_view('messages/list', array('object' => $vars['sysmessages'])); ?>
+
+
+<!-- canvas -->
+<div id="layout_canvas">
+<center>
+
+
+<div id="fisheye">
+	<ul id="fisheye_menu">
+  
+  <li><a class="dock-item" href="<?php echo $vars['url']; ?>pg/messages<?php echo $vars['user']->username; ?>"><img src="<?php echo $vars['url']; ?>mod/canvas_menu/images/mail.png" alt="messages" /><span ><?php echo elgg_echo("messages"); ?></span></a> </li>
+  <li><a class="dock-item" href="<?php echo $vars['url']; ?>pg/groups/member/<?php echo $vars['user']->username; ?>"><img src="<?php echo $vars['url']; ?>mod/canvas_menu/images/groups.png" alt="groups" /><span><?php echo elgg_echo("groups"); ?></span></a></li>
+  <li><a class="dock-item" href="<?php echo $vars['url']; ?>pg/blog/<?php echo $vars['user']->username; ?>"><img src="<?php echo $vars['url']; ?>mod/canvas_menu/images/blog.png" alt="blog" /><span><?php echo elgg_echo("blog"); ?></span></a> </li>
+  <li><a class="dock-item" href="<?php echo $vars['url']; ?>pg/pages/owned/<?php echo $vars['user']->username; ?>"><img src="<?php echo $vars['url']; ?>mod/canvas_menu/images/page.png" alt="page" /><span><?php echo elgg_echo("pages"); ?></span></a> </li>
+  <li><a class="dock-item" href="<?php echo $vars['url']; ?>pg/friends/<?php echo $vars['user']->username; ?>"><img src="<?php echo $vars['url']; ?>mod/canvas_menu/images/users.png" alt="friends" /><span><?php echo elgg_echo("friends"); ?></span></a> </li>
+  <li><a class="dock-item" href="<?php echo $vars['url']; ?>pg/file/<?php echo $vars['user']->username; ?>"><img src="<?php echo $vars['url']; ?>mod/canvas_menu/images/file.png" alt="file" /><span><?php echo elgg_echo("file"); ?></span></a> </li>
+
+			</ul>
+</div>
+<hr width=100%><!-- horizontal rule change the width here  -->
+
+</center>
+
+<?php echo $vars['body']; ?>
+
+<div class="clearfloat"></div>
+</div><!-- /#layout_canvas -->
+
+<?php
+	if(isloggedin()){
+?>
+		<!-- spotlight -->
+		<?php echo elgg_view('page_elements/spotlight', $vars); ?>
+<?php
+	}
+?>
+
+<!-- footer -->
+<?php echo elgg_view('page_elements/footer', $vars); ?>

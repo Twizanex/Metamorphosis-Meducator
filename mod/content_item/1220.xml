@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<graph id="ELGG" edgedefault="directed">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="username" for="node" attr.name="username" attr.type="string"/>
+<node id="1220">
+<data key="name">Mr Angermeier Branched Virtual Patient</data>
+<data key="username">Mr_Angermeier_Branched_Virtual_Patient</data>
+</node>
+<node id="1227">
+<data key="name">Mr Angermeier Linear Virtual Patient
+Repurposing Context: different pedagogy</data>
+<data key="username">Mr_Angermeier_Linear_Virtual_Patient</data>
+</node>
+<edge id="e0 " source="1220" target="1227"/>
+</graph>
+</graphml>

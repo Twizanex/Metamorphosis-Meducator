@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2492">
+
+	 <mdc:identifier><![CDATA[http://web-trace.ing.unict.it]]></mdc:identifier> 
+<mdc:title><![CDATA[Collection of 16 Postero Anterior skull x-rays landmarked with cephalometric points ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[The orthodontics specialist team at Policlinico - University of Catania]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Daniela Giordano]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/dani?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-11-03</mdc:created>
+<mdc:metadataCreated>2010-05-08</mdc:metadataCreated>
+<mdc:citation><![CDATA[The Web-Trace collection of Postero Anterior xrays with cephalometric landmarks (http://web-trace.ing.unict.it)]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject387670512"><rdfs:label><![CDATA[Cephalometric landmarks ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject764370959"><rdfs:label><![CDATA[ postero-anterior projection ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This collection of 26 Xrays  (at 300 dpi)  in postero-anterior projection is annotated with 31 landmarks commonly used in advanced PA cephalometric analysis.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[For active learning the resource has to be used within the LCMS Web-Trace. Otherwise the collection can be dowloaded and used for visual inspection.]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource=""/>
+</mdc:Resource></rdf:RDF>

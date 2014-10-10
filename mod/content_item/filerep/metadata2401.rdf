@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2401">
+
+	 <mdc:identifier><![CDATA[http://dataserver.mediogrid.utcluj.ro/adnotare/papers/Knowledge_Assessment_Based_on_Evaluation_of_3D_Graphics_Annotation_in_Lesson_Context.pdf]]></mdc:identifier> 
+<mdc:title><![CDATA[Knowledge Assessment Based on Evaluation of 3D Graphics Annotation in Lesson Context ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Dorian Gorgan]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Teodor Stefanut]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Madalina Veres]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Istvan Gabos]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Teodor Stefanut]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/teodor.stefanut?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2008-07-16</mdc:created>
+<mdc:metadataCreated>2010-05-07</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject182112731"><rdfs:label><![CDATA[knowledge assessment ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject646731863"><rdfs:label><![CDATA[ 3D graphics annotation ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1632050851"><rdfs:label><![CDATA[ user interaction types in medical eLearning ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This paper presents algorithms for automatic knowledge assessment based on graphical annotation in medical eLearning environments.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Adobe Acrobat document (.pdf)]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#scientificJournalArticle"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline907490538"><rdfs:label><![CDATA[medical informatics ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1633041800"><rdfs:label><![CDATA[user interaction ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>undergraduate, postgraduate, medical informatics specialists</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[The development of user interfaces in medical eLearning domain is an ongoing process. The implementation of new user interaction techniques that allow a more efficient and natural interaction with different multimedia elements is in the present one of the most important objectives of the research activities in this area.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[This resource can be used as a course presentation support or can be given to the students as a reference for individual research activities.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[The item presents new types of exercises for knowledge assessment in medical eLearning domain, based on graphical annotation as main user interaction technique. Together with the short description of this new user interaction method, the document also specifies algorithms and methods for automatic evaluation of the answers codified in 3D graphical annotation.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[The students will be able to create new types of exercises and to use a new approach in the development of user interfaces. As a more advanced target, the algorithms presented can be implemented, tested and improved.]]></mdc:educationalOutcomes>
+<mdc:educationalPrerequisites><![CDATA[For an efficient use of this resource the students should possess basic knowledge about user interfaces, 3D graphics, knowledge assessment in eLearning applications.]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

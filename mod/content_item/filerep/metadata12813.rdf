@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#12813">
+<mdc:title><![CDATA[jmetertest87895791 ]]></mdc:title>
+<mdc:identifier><mdc:Identifier><rdfs:description>URL</rdfs:description><rdfs:label><![CDATA[http://jakarta.apache.org/jmeter/ ]]></rdfs:label></mdc:Identifier></mdc:identifier> 
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution" />
+<mdc:quality><![CDATA[Jmeter created resource ]]></mdc:quality> 
+<mdc:language>af</mdc:language> 
+<mdc:metadataLanguage>af</mdc:metadataLanguage>
+<mdc:creator><foaf:Person> 
+<foaf:name><![CDATA[JMeter ]]></foaf:name> 
+<sioc:memberOf><![CDATA[Jakarta ]]></sioc:memberOf>
+<mdc:profileURI><![CDATA[ ]]></mdc:profileURI>
+</foaf:Person></mdc:creator>	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Maurice Hendrix ]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/rexmedorum?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2011-08-24</mdc:created>
+<mdc:metadataCreated>2011-08-22</mdc:metadataCreated>
+<mdc:citation><![CDATA[Jmeter resource ]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://purl.org/meducator/external/purl.bioontology.org/ontology/SNOMEDCT/195038000"><rdfs:isDefinedBy>http://purl.bioontology.org/ontology/SNOMEDCT/195038000</rdfs:isDefinedBy><rdfs:label>(Conduction disorders (&amp; [of heart])) or (heart block)</rdfs:label><mdc:externalSource>SNOMED Clinical Terms</mdc:externalSource></mdc:Subject></mdc:subject><mdc:description><![CDATA[Jmeter resource ]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Jmeter resource ]]></mdc:technicalDescription>
+<mdc:mediaType><![CDATA[Jmeter resource ]]></mdc:mediaType>
+<mdc:resourceType><![CDATA[Jmeter resource ]]></mdc:resourceType>
+<mdc:discipline><mdc:Discipline rdf:about="http://purl.org/meducator/external/purl.bioontology.org/ontology/SNOMEDCT/195038000"><rdfs:isDefinedBy>http://purl.bioontology.org/ontology/SNOMEDCT/195038000</rdfs:isDefinedBy><rdfs:label>(Conduction disorders (&amp; [of heart])) or (heart block)</rdfs:label><mdc:externalSource>SNOMED Clinical Terms</mdc:externalSource></mdc:Discipline></mdc:discipline><mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://purl.org/meducator/external/purl.bioontology.org/ontology/SNOMEDCT/195038000"><rdfs:isDefinedBy>http://purl.bioontology.org/ontology/SNOMEDCT/195038000</rdfs:isDefinedBy><rdfs:label>(Conduction disorders (&amp; [of heart])) or (heart block)</rdfs:label><mdc:externalSource>SNOMED Clinical Terms</mdc:externalSource></mdc:DisciplineSpeciality></mdc:disciplineSpeciality><mdc:educationalContext><![CDATA[ Jmeter resource ]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[ Jmeter resource ]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[ Jmeter resource ]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes>http://purl.org/meducator/educationalOutcome#explainNormalHumanStructureAndFunction</mdc:educationalOutcomes> 
+<mdc:assessmentMethods><![CDATA[ Jmeter resource ]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[ Jmeter resource ]]></mdc:educationalPrerequisites>
+<mdc:isAccompaniedBy><mdc:Resource rdf:about="http://www.google.com"/></mdc:isAccompaniedBy> 
+</mdc:Resource></rdf:RDF>

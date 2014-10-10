@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<graph id="ELGG" edgedefault="directed">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="username" for="node" attr.name="username" attr.type="string"/>
+<node id="8554">
+<data key="name">Nikolas resource test 100</data>
+<data key="username">39868c061090857064249ff80739e116</data>
+</node>
+<node id="1817">
+<data key="name">3D annotated stomach model
+Repurposing Context: different technology,different content type</data>
+<data key="username">3D_annotated_stomach_model</data>
+</node>
+<node id="1782">
+<data key="name">3D model of the stomach</data>
+<data key="username">3D_model_of_the_stomach</data>
+</node>
+<node id="1796">
+<data key="name">The stomach</data>
+<data key="username">The_stomach</data>
+</node>
+<node id="1831">
+<data key="name">Gastric Cancer</data>
+<data key="username">Gastric_Cancer</data>
+</node>
+<node id="8504">
+<data key="name">Test of complete resource Teodor</data>
+<data key="username">8779c9550a2522e3f1b07c253b44acbe</data>
+</node>
+<node id="1160">
+<data key="name">Actor Simulated Patient Interview</data>
+<data key="username">Actor_Simulated_Patient_Interview</data>
+</node>
+<edge id="e79 " source="1817" target="8554"/>
+<edge id="e9 " source="1782" target="1817"/>
+<edge id="e10 " source="1817" target="1831"/>
+<edge id="e78 " source="1817" target="8504"/>
+<edge id="e8 " source="1782" target="1796"/>
+<edge id="e77 " source="1160" target="8504"/>
+</graph>
+</graphml>

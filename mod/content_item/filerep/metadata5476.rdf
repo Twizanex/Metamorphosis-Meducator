@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#5476">
+
+	 <mdc:identifier><![CDATA[http://moodle-pld.co.cc/file.php/8/tests/Test.Part1.pdf]]></mdc:identifier> 
+<mdc:title><![CDATA[Test - Questions and Answers on Emergency Surgery, Emergency Medicine, Intensive Care, General Surgery  – Bulgarian language  Part One ]]></mdc:title>
+<mdc:identifier><![CDATA[978-954-516-658-7 ]]></mdc:identifier> 
+<mdc:rights><![CDATA[ Textbook, writing by D-r Ivan Novakov in 2010 has been used as a base of the Test  – Part One.]]></mdc:rights>
+<mdc:language>Bulgarian</mdc:language>
+<mdc:metadataLanguage>Bulgarian</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[D-r Ivan Novakov – PhD]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Eva Mihajlova]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/Evamihajlova?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2011-01-03</mdc:created>
+<mdc:metadataCreated>2011-01-24</mdc:metadataCreated>
+<mdc:citation><![CDATA[Ivan Novakov. “112 Questions in Emergency Surgery”]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1776571300"><rdfs:label><![CDATA[medicine ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject669329883"><rdfs:label><![CDATA[ medical students ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1776118273"><rdfs:label><![CDATA[ emergency surgery ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1911681255"><rdfs:label><![CDATA[ emergency medicine ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject530492592"><rdfs:label><![CDATA[ general surgery ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[The Part One  is a form of education on emergency surgery, emergency medicine and general surgery. 
+This activity has been designed to meet the educational needs of medical students and residences in general surgery. 
+The Test-Part one corresponds with the demands of medical student’s practical guide and practical education in emergency surgery and emergency medicine.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Adobe Acrobat 7.0 Document]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#examinationQuestions"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline673707530"><rdfs:label><![CDATA[Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1486565335"><rdfs:label><![CDATA[General Surgery;  Emergency Medicine; Intensive Care; Family Medicine ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>Level: High school - medicine  •	4th course medical students</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[•	Target group – medical students (4th year of their education), as a part of their training in emergency surgery, general surgery, intensive care, family medicine and emergency medicine. 
+•	The aim of the lecture – Theoretical and practical education in emergency surgery.
+•	Educational resource has been presented as a Presentation as well as an electronical form.
+•	This resource is recommended for: medical students; general practitioners; residences in general surgery.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[The resource may be used by reviewing of the presentation – many times. The included text  in the presentation  facilitate training on emergency surgery, emergency and family medicine.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[-	Obtaining new knowledge / skill
+-	To acquire and apply the new skills in clinical practice by medical students. 
+-	About Part - One - knowledge and skill in emergency surgery and family medicine]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Expected learning outcomes:
+-	theoretical education and acquiring theoretical knowledge 
+-	practical training]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[Examination]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[Mandatory preliminary level of knowledge and skills - The students must have basic skills and knowledge in anatomy, general surgery, emergency medicine and family medicine]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

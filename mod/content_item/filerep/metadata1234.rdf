@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#1234">
+
+	 <mdc:identifier><![CDATA[http://labyrinth.sgul.ac.uk/mnode.asp?id=40901]]></mdc:identifier> 
+<mdc:title><![CDATA[Mr Maller Linear Virtual Patient ]]></mdc:title>
+<mdc:identifier><![CDATA[evip:vp:1000505 ]]></mdc:identifier> 
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:quality><![CDATA[It is compliant with ANSI, the official accrediting body of the MedBiq standard ]]></mdc:quality> 
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Tim Little]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Evangelia Mitsopoulou]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-01-29</mdc:created>
+<mdc:metadataCreated>2010-03-30</mdc:metadataCreated>
+<mdc:citation><![CDATA[Under the terms of this Creative Commons license, we would like to acknowledge St Georgeâ€™s, University of London for providing access to this VP case:http://labyrinth.sgul.ac.uk/mnode.asp?id=40901(accessed on 30th March)]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1890511831"><rdfs:label><![CDATA[A&amp;E ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject147377139"><rdfs:label><![CDATA[ tachycardia ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1345338879"><rdfs:label><![CDATA[ myocarditis ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2006160876"><rdfs:label><![CDATA[ cardiology ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject807084552"><rdfs:label><![CDATA[ myocardial infarction ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject838587344"><rdfs:label><![CDATA[ cardiomyopathy ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2004807283"><rdfs:label><![CDATA[ ECG ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2114876007"><rdfs:label><![CDATA[ Echocardiogram ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject749065364"><rdfs:label><![CDATA[ Cardiovascular risk factors ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Mr Maller presents to A&amp;E with a high fever and tachycardia.  The case takes students through the appropriate history, examination and investigations for such a vague presentation and soon reveals a cardiac abnormality.  The differentials of myocarditis and myocardial infarction are discussed, with interpretation of ECGs and appropriate management for both conditions explored.  Students are invited to revise the risk factors for cardiovascular disease too.  Mr Maller subsequently suffers from complications and the case discusses these and their appropriate management.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#virtualPatient"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline49109213"><rdfs:label><![CDATA[Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1624188577"><rdfs:label><![CDATA[cardiology ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>Preclinical Medical Student</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This author of this VP intended its use to be as a formative linear assessment Virtual Patient]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[This formative branched assessment focused VP is best used by students as a revision tool to recap particular learning objectives from a taught session. Or it could be used to supplement a Problem-Based Learning (PBL) session to cover objectives that might not have been covered during the PBL session.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[1) To investigate recognise and treat myocarditis 2) To interpret an ECG 3) To understand how an echocardiogram can help in diagnosis 4) To list the risk factors for cardiovascular disease 5) To recognise and treat a myocardial infarction 6) To appreciate the risk of cardiomyopathy as a sequela of myocarditis and treat it appropriately]]></mdc:educationalObjectives>
+<mdc:assessmentMethods><![CDATA[This is a branched formative assessment Virtual Patient which is intended to be used as a self-directed learning tool or as a supplement to PBL. This type of VP should take the student approximately 15 minutes to complete.]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[In order to play this VP successfully, the student must have a basic understanding in the area of cardiology - particularly the structure and function of the heart and an understanding of cardiovascular risk factors.]]></mdc:educationalPrerequisites>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Mr Maller Branched Virtual Patient</mdc:title>
+<mdc:identifier>http://labyrinth.sgul.ac.uk/mnode.asp?id=37074</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>Conducted as part of the eViP project in order to share this VP with the wider medical and healthcare education community. This particular VP was repurposed from a branched exploratory style to a more linear narrative approach. This repurposing was conducted to create an assessment VP to supplement the PBL curriculum at St George's in the area of cardiology. See www.virtualpatients.eu for more information.</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>http://purl.org/meducator/repurposing#Different-Pedagogy</mdc:fromRepurposingContext>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<root>
+			<meta>
+				<corporateuser>false</corporateuser>
+				<logo type="small">http://www.medgle.com/logo/medglelogoBB.png</logo>
+				<logo type="big">http://www.medgle.com/logo/medglelogoE.jpg</logo>
+				<linkback_url>http://www.medgle.com/?q=%22dyslipidaemia%22&amp;task=getinfo</linkback_url>
+				<linkback_text>Click here for more personalized results</linkback_text>
+			</meta>
+
+			<query>
+				<raw><![CDATA[q=%22dyslipidaemia%22&task=getinfo]]></raw>
+				<querytype>symptom</querytype>
+				<resulttype>symptoms</resulttype>
+
+				<symptoms>			
+					<symptom><![CDATA[dyslipidemias]]></symptom>
+					</symptoms>			
+				<notsymptoms>
+					</notsymptoms>
+
+				<family_history_conditions>
+				</family_history_conditions>
+				<current_conditions>
+				</current_conditions>
+				
+				<medications_in_use>
+				</medications_in_use>
+
+				<applied_tests>
+				</applied_tests>
+				<symptomexps>
+					<symptomexp isbinary="false" ><![CDATA[*NONE*]]></symptomexp>
+
+					</symptomexps>
+
+				<isrecurring></isrecurring>
+
+				<emsymptoms>
+					<emsymptom display="dyslipidemias" mustcritical="false" potentialcritical="false" >abnormal blood fats</emsymptom>
+					</emsymptoms>
+				<critical_body_part_injury>false</critical_body_part_injury>
+				<category_pie_graph>http%3A%2F%2Fchart.apis.google.com%2Fchart%3Fchs%3D400x120%26amp%3Bcht%3Dp%26amp%3Bchd%3Dt%3A21.535126%2C19.21169%2C17.950943%2C14.203836%2C12.922461%26amp%3Bchxt%3Dx%26amp%3Bchxs%3D0%2C232323%2C10%26amp%3Bchco%3D3366AA%26amp%3Bchxl%3D0%3A%7CGASTROINTESTINAL%7CENDOCRINE%7CNEPHROLOGY%7CEYE+DISEASES%7CBEHAVIORAL%2FPSYCHOLOGICAL%2FPSYCHIATRY%7C</category_pie_graph>
+				<emergency_histogram>http%3A%2F%2Fchart.apis.google.com%2Fchart%3Fchs%3D120x40%26amp%3Bcht%3Dbvs%26amp%3Bchds%3D0%2C10.0%26amp%3Bchd%3Dt%3A2.0%2C2.0%2C1.0%2C9.0%2C5.0%26amp%3Bchxt%3Dx%26amp%3Bchxs%3D0%2C232323%2C10%26amp%3Bchco%3D00aaff%26amp%3Bchxl%3D0%3A%7C1%7C2%7C3%7C4%7C5%7C</emergency_histogram>
+				<emergency_average>4.4</emergency_average>
+				<esi>4</esi>				
+				<esi_border>true</esi_border>
+				<emergency_low_score>1.0</emergency_low_score>
+				<criticalsymptoms>
+					</criticalsymptoms>
+
+				<severe_symptoms>
+					</severe_symptoms>
+				<mild_symptoms>
+					</mild_symptoms>
+				<moderate_symptoms>				
+					</moderate_symptoms>
+				<realduration>3</realduration>
+				<duration>0-3 days</duration>
+					<gender></gender>
+				<agerange>18-29</agerange>
+				<realage>23</realage>
+				<diagnoses_no_match>false</diagnoses_no_match>
+			</query>
+			<suggestions>
+			<questions>
+
+				<diagnosis_severity_questions>
+				</diagnosis_severity_questions>
+
+
+				<important_questions>
+				<important_question type="symptom" star="10" >clammy skin</important_question>
+						<important_question type="symptom" star="10" >confusion</important_question>
+						<important_question type="symptom" star="10" >vision problems</important_question>
+						<important_question type="symptom" star="10" >slurred speech</important_question>
+						<important_question type="symptom" star="10" >impaired sensations</important_question>
+						<important_question type="symptom" star="10" >change in cognition</important_question>
+						<important_question type="symptom" star="10" >diarrhea</important_question>
+						<important_question type="symptom" star="10" >vomiting</important_question>
+						<important_question type="symptom" star="8" >difficulty breathing</important_question>
+						<important_question type="symptom" star="8" >dizziness</important_question>
+						<important_question type="symptom" star="8" >palpitations</important_question>
+						<important_question type="symptom" star="8" >passing out</important_question>
+						<important_question type="symptom" star="5" >urinating large amounts</important_question>
+						<important_question type="symptom" star="4" >stomach swelling</important_question>
+						<important_question type="previousconditions" star="3" >angina pectoris</important_question>
+						<important_question type="previousconditions" star="3" >congestive heart failure</important_question>
+						<important_question type="previousconditions" star="3" >hypertension</important_question>
+						<important_question type="lifestyle" star="3" >Alcohol</important_question>
+						<important_question type="lifestyle" star="3" >Obesity</important_question>
+						<important_question type="lifestyle" star="3" >Smoking</important_question>
+						<important_question type="lifestyle" star="3" >diabetes</important_question>
+						<important_question type="symptom" star="3" >increased sweating</important_question>
+						<important_question type="symptom" star="3" >pain in arm(s)</important_question>
+						<important_question type="symptom" star="3" >upper abdominal pain</important_question>
+						<important_question type="lifestyle" star="1" >drugmed</important_question>
+						<important_question type="symptom" star="1" >weakness</important_question>
+						<important_question type="symptom" star="1" >stomach pain</important_question>
+						<important_question type="previousconditions" star="0" >diabetes mellitus type 2</important_question>
+						</important_questions>
+				<symptom_questions>
+				<didyoumean_questions>
+					</didyoumean_questions>
+				<subsymptoms>
+					<subsymptom base="dyslipidemias" subsub="has nephrotic syndrome" >has nephrotic syndrome</subsymptom>
+					</subsymptoms>
+				<symptom_severity_questions>
+					</symptom_severity_questions>
+
+
+
+				<emergency_symptoms>
+				<emergency_symptom mustcritical="false" critical="true" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="drugs and toxins, diabetes mellitus type 2, acute pancreatitis, membranous glomerulonephritis, chronic renal disease, ischemic cardiomyopathy, Tangier disease" synonyms="fast heart rhythm, heart beats fast, heart is racing, heart pounding, heart racing, heart rate faster than 140 bpm in adults, increased heart rate, racing heart rate, rapid heart beat, tachycardia, throbbing tachycardia, thumping in chest" subops="" subsynonyms="" isbinary="false" explaination="100-140+beats+per+min+%28bpm%29++mild%0D..141-200+bpm+moderate%0D..more+than+200+bpm+severe" >palpitations</emergency_symptom><emergency_symptom mustcritical="false" critical="true" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="drugs and toxins, alcoholism, diabetes mellitus type 2, acute pancreatitis, hypothyroidism, membranous glomerulonephritis, chronic renal disease, hyperlipidemia, ischemic cardiomyopathy" synonyms="confused behavior, confused speech, confused thinking, dazed, disorganized speech, disorganized thoughts, disorientation, disoriented, not oriented to time person or place, not recognizing parents, not thinking clearly" subops="" subsynonyms="" isbinary="false" explaination="" >confusion</emergency_symptom><emergency_symptom mustcritical="false" critical="true" sourcesl1=""  sourcesem="" sources="acute pancreatitis, alcoholism, hypothyroidism, metabolic syndrome, nephrotic syndrome, membranous glomerulonephritis, focal segmental glomerulosclerosis, chronic renal disease, minimal change glomerulonephritis, Tangier disease" synonyms="abdominal distension, distended stomach, stomach distension, swelling abdomen, swelling stomach, swollen abdomen, swollen belly, swollen stomach" subops="" subsynonyms="" isbinary="false" explaination="" >stomach swelling</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="drugs and toxins, alcoholism, acute pancreatitis, diabetes mellitus type 2, chronic pancreatitis, Cushing's disease or syndrome, chronic renal disease" synonyms="abdominal pain, belly pain, bellyache, pain in abdomen, pain in belly, pain in tummy, stomach ache, stomach discomfort, stomach hurting, stomach soreness, tummy ache" subops="" subsynonyms="" isbinary="false" explaination="" >stomach pain</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="drugs and toxins, alcoholism, acute pancreatitis, diabetes mellitus type 2, membranous glomerulonephritis, chronic renal disease, hyperlipidemia" synonyms="barfing, retching, throwing up" subops="" subsynonyms="" isbinary="false" explaination="mild%3A+less+than+3+times+a+day%0D..moderate%3A+4-9+times+a+day%0D..severe%3A+10+or+more+times+a+day" >vomiting</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="" sources="diabetes mellitus type 2, alcoholism, drugs and toxins, acute pancreatitis, hypothyroidism, nephrotic syndrome, membranous glomerulonephritis, focal segmental glomerulosclerosis, Cushing's disease or syndrome, chronic renal disease, minimal change glomerulonephritis, Tangier disease" synonyms="asthenia, feeling generally weak, generalized muscle weakness, too weak to cry, too weak to drink, too weak to eat, weak cry, weak suck" subops="" subsynonyms="" isbinary="false" explaination="" >weakness</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, alcoholism, hypothyroidism, chronic renal disease, hyperlipidemia, Tangier disease" synonyms="abnormal sensations, burning sensations, decreased pain touch or temperature sensations, decreased sensations, diminished sensations, loss of sensations, numbness, paresthesias, sensations impaired, sensory loss, tingling numbness" subops="" subsynonyms="" isbinary="false" explaination="" >impaired sensations</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, acute pancreatitis, metabolic syndrome, chronic pancreatitis, Cushing's disease or syndrome, chronic renal disease, ischemic cardiomyopathy" synonyms="acetonuria, increased urination, large amounts of urine, peeing a lot, urinating excessively, voiding large amounts" subops="" subsynonyms="" isbinary="true" explaination="" >urinating large amounts</emergency_symptom><emergency_symptom mustcritical="false" critical="true" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, acute pancreatitis, hypothyroidism, membranous glomerulonephritis, chronic renal disease, hyperlipidemia, Tangier disease" synonyms="blurred vision, blurry vision, cloudy vision, decreased vision, foggy vision, impaired vision, low vision, poor vision, reduced vision, vision problems left eye, vision problems right eye" subops="" subsynonyms="" isbinary="false" explaination="" >vision problems</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1=""  sourcesem="" sources="drugs and toxins, diabetes mellitus type 2, acute pancreatitis, chronic pancreatitis, chronic renal disease" synonyms="bm frequent, bm loose, frequent bm, having bowel movements very often, hyperdefecation, increased frequency of stools, loose bowel movements, loose motions, runny stools, stools frequent, stools loose, watery stools" subops="" subsynonyms="" isbinary="false" explaination="mild%3A+less+than+6+times+a+day%0D..moderate%3A+7-14+times+a+day%0D..severe%3A+15+or+more+times+a+day" >diarrhea</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="alcoholism, diabetes mellitus type 2, drugs and toxins, acute pancreatitis, hypothyroidism, Cushing's disease or syndrome, chronic renal disease, hyperlipidemia, ischemic cardiomyopathy" synonyms="altered level of consciousness, change in level of cognition, change in level of consciousness" subops="" subsynonyms="" isbinary="false" explaination="" >change in cognition</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="alcoholism, diabetes mellitus type 2, drugs and toxins, acute pancreatitis, hypothyroidism, ischemic cardiomyopathy" synonyms="speech slurring" subops="" subsynonyms="" isbinary="false" explaination="" >slurred speech</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1=""  sourcesem="" sources="acute pancreatitis" synonyms="guarding abdomen" subops="" subsynonyms="" isbinary="true" explaination="" >abdominal guarding</emergency_symptom><emergency_symptom mustcritical="false" critical="true" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="diabetes mellitus type 2, drugs and toxins, acute pancreatitis, membranous glomerulonephritis, ischemic cardiomyopathy" synonyms="dizzy, feeling like falling, lightheadedness" subops="" subsynonyms="" isbinary="false" explaination="" >dizziness</emergency_symptom><emergency_symptom mustcritical="true" critical="true" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="diabetes mellitus type 2, drugs and toxins, acute pancreatitis, hypothyroidism" synonyms="cold and wet skin, skin clammy, skin cold and wet" subops="" subsynonyms="" isbinary="true" explaination="" >clammy skin</emergency_symptom><emergency_symptom mustcritical="false" critical="true" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="diabetes mellitus type 2, drugs and toxins, acute pancreatitis, membranous glomerulonephritis, chronic renal disease, ischemic cardiomyopathy" synonyms="breathing difficulty, breathing problems, breathlessness, can't breathe, cannot breathe, chest pain when breathing deeply, dyspnea, hard to breathe, inability to take a deep breath, labored breathing, painful breathing, problem breathing, shortness of breath, sob, suffocating feeling, unable to breathe" subops="" subsynonyms="" isbinary="false" explaination="mild%3A+speaking+normally+in+sentences%0D..moderate%3A+speaks+only+in+phrases%0D..severe%3A+speaks+only+in+single+words" >difficulty breathing</emergency_symptom><emergency_symptom mustcritical="false" critical="true" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="alcoholism, diabetes mellitus type 2, drugs and toxins, acute pancreatitis, hypothyroidism, chronic renal disease, ischemic cardiomyopathy" synonyms="blacking out, body suddenly feels limp, briefly losing consciousness, cannot stand because feeling weak, fainted, fainting, feels weak, knocked out, knocked unconscious for a brief period, lost consciousness for a brief period, orthostasis, passed out, sudden limpness, suddenly becoming limp, syncope, too weak to stand, too weak to walk, transient loss of consciousness, transient period of unconsciousness, unconscious for brief period, very weak" subops="" subsynonyms="" isbinary="true" explaination="" >passing out</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1=""  sourcesem="" sources="" synonyms="" subops="" subsynonyms="" isbinary="false" explaination="" >LIFESTYLE:immunosuppressed</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1=""  sourcesem="" sources="" synonyms="" subops="" subsynonyms="" isbinary="false" explaination="" >PREVIOUSCONDITIONS:angina pectoris</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1=""  sourcesem="" sources="" synonyms="" subops="" subsynonyms="" isbinary="false" explaination="" >PREVIOUSCONDITIONS:congestive heart failure</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1=""  sourcesem="" sources="" synonyms="" subops="" subsynonyms="" isbinary="false" explaination="" >PREVIOUSCONDITIONS:hypertension</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1=""  sourcesem="" sources="" synonyms="" subops="" subsynonyms="" isbinary="false" explaination="" >LIFESTYLE:Alcohol</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1=""  sourcesem="" sources="" synonyms="" subops="" subsynonyms="" isbinary="false" explaination="" >LIFESTYLE:Obesity</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1=""  sourcesem="" sources="" synonyms="" subops="" subsynonyms="" isbinary="false" explaination="" >LIFESTYLE:Smoking</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1=""  sourcesem="" sources="" synonyms="" subops="" subsynonyms="" isbinary="false" explaination="" >LIFESTYLE:diabetes</emergency_symptom><emergency_symptom mustcritical="false" critical="true" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="diabetes mellitus type 2, drugs and toxins, alcoholism, acute pancreatitis, ischemic cardiomyopathy, Tangier disease" synonyms="dripping sweat, excessive diaphoresis, excessive perspiration, excessive sweating without exertion, perspiration excessive, perspiration increased, perspiring a lot without exertion, perspiring profusely, sudden profuse sweating, sudden sweaty armpits, sudden sweaty face, suddenly sweating profusely, sweating a lot without exertion, sweating excessively without exertion, sweating increased suddenly, sweating without exertion, sweats, visible sweat without exertion" subops="" subsynonyms="" isbinary="false" explaination="" >increased sweating</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="nephrotic syndrome, membranous glomerulonephritis, focal segmental glomerulosclerosis, chronic renal disease, minimal change glomerulonephritis" synonyms="ache in arm(s), arm(s) hurt(s), arm(s) painful, cries on moving arm(s), crying on moving arm(s), pain left arm, pain right arm, sore arm(s), soreness in arm(s), tenderness arm(s), tenderness left arm, tenderness right arm" subops="" subsynonyms="" isbinary="false" explaination="" >pain in arm(s)</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="drugs and toxins, alcoholism, acute pancreatitis, chronic pancreatitis" synonyms="abdominal pain in upper part, belly pain in upper part, pain above belly button, pain above umbilicus, pain in upper abdomen, pain in upper part of belly, pain in upper part of stomach, stomach pain in upper part, upper abdominal soreness" subops="" subsynonyms="" isbinary="false" explaination="" >upper abdominal pain</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1=""  sourcesem="" sources="" synonyms="" subops="" subsynonyms="" isbinary="false" explaination="" >LIFESTYLE:drugmed</emergency_symptom><emergency_symptom mustcritical="false" critical="false" sourcesl1=""  sourcesem="" sources="" synonyms="" subops="" subsynonyms="" isbinary="false" explaination="" >LIFESTYLE:hiv</emergency_symptom></emergency_symptoms>
+
+					<physical_exam_options>
+					<physical_exam category="GENERAL" section="GENERAL" >*blank*</physical_exam>
+								<physical_exam category="GENERAL" section="SKIN" >cap refill</physical_exam>
+								<physical_exam category="GENERAL" section="SKIN" >clubbing</physical_exam>
+								<physical_exam category="GENERAL" section="SKIN" >clubbing</physical_exam>
+								<physical_exam category="GENERAL" section="SKIN" >cyanosis</physical_exam>
+								<physical_exam category="GENERAL" section="SKIN" >edema</physical_exam>
+								<physical_exam category="GENERAL" section="HEAD" >NC/AT</physical_exam>
+								<physical_exam category="GENERAL" section="HEAD" >face</physical_exam>
+								<physical_exam category="GENERAL" section="HEAD" >CN V</physical_exam>
+								<physical_exam category="GENERAL" section="HEAD" >CN VII</physical_exam>
+								<physical_exam category="GENERAL" section="EYES" >conjunctiva</physical_exam>
+								<physical_exam category="GENERAL" section="EYES" >EOMI</physical_exam>
+								<physical_exam category="GENERAL" section="EYES" >VFI</physical_exam>
+								<physical_exam category="GENERAL" section="EYES" >PERRLA</physical_exam>
+								<physical_exam category="GENERAL" section="EYES" >ophthalmoscopic</physical_exam>
+								<physical_exam category="GENERAL" section="EARS" >TMs</physical_exam>
+								<physical_exam category="GENERAL" section="EARS" >hearing</physical_exam>
+								<physical_exam category="GENERAL" section="NOSE" >*blank*</physical_exam>
+								<physical_exam category="GENERAL" section="THROAT" >palatal elev</physical_exam>
+								<physical_exam category="GENERAL" section="THROAT" >gag reflex</physical_exam>
+								<physical_exam category="GENERAL" section="NECK" >lymph nodes</physical_exam>
+								<physical_exam category="GENERAL" section="NECK" >Carotid pulses</physical_exam>
+								<physical_exam category="GENERAL" section="NECK" >bruits</physical_exam>
+								<physical_exam category="GENERAL" section="NECK" >Thyroid</physical_exam>
+								<physical_exam category="GENERAL" section="LUNGS" >inspect</physical_exam>
+								<physical_exam category="GENERAL" section="LUNGS" >auscultate</physical_exam>
+								<physical_exam category="GENERAL" section="LUNGS" >percuss ( w/ diaph excursion)</physical_exam>
+								<physical_exam category="GENERAL" section="CV" >palpate PMI</physical_exam>
+								<physical_exam category="GENERAL" section="CV" >auscultate @ 4 areas w/diaphragm: rate, rhythm, murmurs, rubs, gallops, clicks</physical_exam>
+								<physical_exam category="GENERAL" section="CV" >check for aortic insufficiency (LSB w/ pt forward in exhalation)</physical_exam>
+								<physical_exam category="PT LYING DOWN" section="CV" >Auscultation @ BASE and LSB</physical_exam>
+								<physical_exam category="PT LYING DOWN" section="LL DECUBITUS" >apex</physical_exam>
+								<physical_exam category="PT LYING DOWN" section="LL DECUBITUS" >JVP</physical_exam>
+								<physical_exam category="PT LYING DOWN" section="ABDOMEN" >bowel sounds</physical_exam>
+								<physical_exam category="PT LYING DOWN" section="ABDOMEN" >bruits</physical_exam>
+								<physical_exam category="PT LYING DOWN" section="ABDOMEN" >percuss</physical_exam>
+								<physical_exam category="PT LYING DOWN" section="ABDOMEN" >liver span</physical_exam>
+								<physical_exam category="PT LYING DOWN" section="ABDOMEN" >palpate</physical_exam>
+								<physical_exam category="PT LYING DOWN" section="PULSES" >dorsalis pedis</physical_exam>
+								<physical_exam category="PT LYING DOWN" section="PULSES" >posterior tibial</physical_exam>
+								<physical_exam category="PT LYING DOWN" section="PULSES" >edema</physical_exam>
+								<physical_exam category="PT LYING DOWN" section="PULSES" >femoral pulse ( + auscultate)</physical_exam>
+								<physical_exam category="PT LYING DOWN" section="LE MS EXAM" >*blank*</physical_exam>
+								<physical_exam category="PT SITTING" section="CVA tenderness" >*blank*</physical_exam>
+								<physical_exam category="PT SITTING" section="UE MS EXAM" >wrists</physical_exam>
+								<physical_exam category="PT SITTING" section="UE MS EXAM" >elbows</physical_exam>
+								<physical_exam category="PT SITTING" section="UE MS EXAM" >shoulders</physical_exam>
+								<physical_exam category="PT SITTING" section="UE MS EXAM" >neck</physical_exam>
+								<physical_exam category="PT SITTING" section="NEURO" >Mental status</physical_exam>
+								<physical_exam category="PT SITTING" section="NEURO" >Cranial Nerves</physical_exam>
+								<physical_exam category="PT SITTING" section="SENSATION" >touch</physical_exam>
+								<physical_exam category="PT SITTING" section="SENSATION" >pain</physical_exam>
+								<physical_exam category="PT SITTING" section="SENSATION" >position</physical_exam>
+								<physical_exam category="PT SITTING" section="SENSATION" >vibration</physical_exam>
+								<physical_exam category="PT SITTING" section="REFLEXES" >biceps</physical_exam>
+								<physical_exam category="PT SITTING" section="REFLEXES" >brachioradialis</physical_exam>
+								<physical_exam category="PT SITTING" section="REFLEXES" >triceps</physical_exam>
+								<physical_exam category="PT SITTING" section="REFLEXES" >patellar</physical_exam>
+								<physical_exam category="PT SITTING" section="REFLEXES" >achilles</physical_exam>
+								<physical_exam category="PT SITTING" section="REFLEXES" >babinski</physical_exam>
+								<physical_exam category="PT SITTING" section="CEREBELLAR" >finger tapping</physical_exam>
+								<physical_exam category="PT SITTING" section="CEREBELLAR" >heel to shin</physical_exam>
+								<physical_exam category="PT STANDING" section="SPINE" >*blank*</physical_exam>
+								<physical_exam category="PT STANDING" section="SPINE" >UE drift</physical_exam>
+								<physical_exam category="PT STANDING" section="SPINE" >Romberg</physical_exam>
+								<physical_exam category="PT STANDING" section="SPINE" >Gait and station</physical_exam>
+								<physical_exam category="PT STANDING" section="SPINE" >swing and stance</physical_exam>
+								<physical_exam category="PT STANDING" section="SPINE" >heel / toe walking</physical_exam>
+								</physical_exam_options>
+
+
+					<review_of_systems>
+					<ros answer="" star="4" critical="false"  category="GI" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="diabetes mellitus type 2, drugs and toxins, alcoholism, acute pancreatitis, membranous glomerulonephritis, chronic renal disease" >nausea</ros>
+								<ros answer="" star="4" critical="false"  category="GI" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="drugs and toxins, alcoholism, acute pancreatitis, diabetes mellitus type 2, membranous glomerulonephritis, chronic renal disease, hyperlipidemia" >vomiting</ros>
+								<ros answer="" star="0" critical="false"  category="GI" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, hypothyroidism" >difficulty swallowing</ros>
+								<ros answer="" star="0" critical="false"  category="GI" subops="" sourcesl1=""  sourcesem="" sources="" >pain on swallowing</ros>
+								<ros answer="" star="4" critical="false"  category="GI" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="drugs and toxins, chronic renal disease" >heartburn</ros>
+								<ros answer="" star="2" critical="false"  category="GI" subops="" sourcesl1=""  sourcesem="" sources="alcoholism, acute pancreatitis, drugs and toxins, hypothyroidism, chronic pancreatitis, nephrotic syndrome, membranous glomerulonephritis, focal segmental glomerulosclerosis, chronic renal disease, minimal change glomerulonephritis" >poor appetite</ros>
+								<ros answer="" star="3" critical="false"  category="GI" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="drugs and toxins, alcoholism, acute pancreatitis, diabetes mellitus type 2, chronic pancreatitis, Cushing's disease or syndrome, chronic renal disease" >stomach pain</ros>
+								<ros answer="" star="2" critical="true"  category="GI" subops="" sourcesl1=""  sourcesem="" sources="acute pancreatitis, alcoholism, hypothyroidism, metabolic syndrome, nephrotic syndrome, membranous glomerulonephritis, focal segmental glomerulosclerosis, chronic renal disease, minimal change glomerulonephritis, Tangier disease" >stomach swelling</ros>
+								<ros answer="" star="6" critical="true"  category="GI" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, alcoholism, acute pancreatitis, chronic renal disease" >blood in vomit</ros>
+								<ros answer="" star="2" critical="false"  category="GI" subops="" sourcesl1=""  sourcesem="" sources="hypothyroidism" >change in bowel habits</ros>
+								<ros answer="" star="2" critical="false"  category="GI" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, diabetes mellitus type 2, acute pancreatitis, chronic pancreatitis, chronic renal disease" >diarrhea</ros>
+								<ros answer="" star="3" critical="false"  category="GI" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, hypothyroidism, chronic renal disease" >constipation</ros>
+								<ros answer="" star="6" critical="true"  category="GI" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, alcoholism, acute pancreatitis, chronic renal disease" >black stools</ros>
+								<ros answer="" star="4" critical="false"  category="GI" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, acute pancreatitis, chronic renal disease" >blood in stool</ros>
+								<ros answer="" star="0" critical="false"  category="ENDOCRINE" subops="" sourcesl1=""  sourcesem="" sources="" >pain in front of neck</ros>
+								<ros answer="" star="0" critical="false"  category="ENDOCRINE" subops="" sourcesl1=""  sourcesem="" sources="" >thyroid swelling</ros>
+								<ros answer="" star="0" critical="false"  category="ENDOCRINE" subops="" sourcesl1=""  sourcesem="" sources="" >passing out with cold temperature</ros>
+								<ros answer="" star="0" critical="false"  category="ENDOCRINE" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, Tangier disease" >impaired pain and temperature sensations</ros>
+								<ros answer="" star="0" critical="false"  category="ENDOCRINE" subops="" sourcesl1=""  sourcesem="" sources="" >rash with cold temperature</ros>
+								<ros answer="" star="0" critical="false"  category="ENDOCRINE" subops="" sourcesl1=""  sourcesem="" sources="" >rash with warm temperature</ros>
+								<ros answer="" star="3" critical="false"  category="ENDOCRINE" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, acute pancreatitis, metabolic syndrome, chronic pancreatitis, Cushing's disease or syndrome, chronic renal disease, ischemic cardiomyopathy" >urinating large amounts</ros>
+								<ros answer="" star="4" critical="false"  category="ENDOCRINE" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="diabetes mellitus type 2, drugs and toxins, acute pancreatitis, chronic pancreatitis, Cushing's disease or syndrome, chronic renal disease, ischemic cardiomyopathy" >increased thirst</ros>
+								<ros answer="" star="4" critical="false"  category="ENDOCRINE" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, chronic pancreatitis" >increased appetite</ros>
+								<ros answer="" star="0" critical="false"  category="GU" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins" >painful urination in males</ros>
+								<ros answer="" star="0" critical="false"  category="GU" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins" >painful urination in females</ros>
+								<ros answer="" star="3" critical="false"  category="GU" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, metabolic syndrome, Cushing's disease or syndrome, chronic renal disease" >urinating often</ros>
+								<ros answer="" star="0" critical="false"  category="GU" subops="" sourcesl1=""  sourcesem="" sources="" >urgency to urinate in males</ros>
+								<ros answer="" star="0" critical="false"  category="GU" subops="" sourcesl1=""  sourcesem="" sources="" >urgency to urinate in females</ros>
+								<ros answer="" star="2" critical="false"  category="GU" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, metabolic syndrome, chronic pancreatitis, Cushing's disease or syndrome, chronic renal disease, ischemic cardiomyopathy" >urinating at night or bedwetting</ros>
+								<ros answer="" star="6" critical="false"  category="GU" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins" >incontinence of urine in males</ros>
+								<ros answer="" star="6" critical="false"  category="GU" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins" >incontinence of urine in females</ros>
+								<ros answer="" star="0" critical="false"  category="GENERAL" subops="" sourcesl1="myocardial infarction"  sourcesem="" sources="drugs and toxins, alcoholism, acute pancreatitis, chronic pancreatitis, nephrotic syndrome, membranous glomerulonephritis, focal segmental glomerulosclerosis, chronic renal disease, minimal change glomerulonephritis" >fever</ros>
+								<ros answer="" star="3" critical="false"  category="GENERAL" subops="" sourcesl1=""  sourcesem="" sources="acute pancreatitis" >chills</ros>
+								<ros answer="" star="4" critical="false"  category="GENERAL" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, alcoholism" >night sweats</ros>
+								<ros answer="" star="2" critical="false"  category="GENERAL" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, alcoholism, chronic pancreatitis, chronic renal disease" >weight loss</ros>
+								<ros answer="" star="3" critical="false"  category="GENERAL" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, hypothyroidism, nephrotic syndrome, membranous glomerulonephritis, focal segmental glomerulosclerosis, Cushing's disease or syndrome, chronic renal disease, minimal change glomerulonephritis" >weight gain</ros>
+								<ros answer="" star="4" critical="false"  category="GENERAL" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, chronic pancreatitis" >increased appetite</ros>
+								<ros answer="" star="3" critical="false"  category="GENERAL" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="diabetes mellitus type 2, drugs and toxins, acute pancreatitis, hypothyroidism, metabolic syndrome, nephrotic syndrome, membranous glomerulonephritis, focal segmental glomerulosclerosis, Cushing's disease or syndrome, chronic renal disease, minimal change glomerulonephritis, ischemic cardiomyopathy" >fatigue</ros>
+								<ros answer="" star="0" critical="false"  category="GENERAL" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, alcoholism, acute pancreatitis, chronic pancreatitis, nephrotic syndrome, membranous glomerulonephritis, focal segmental glomerulosclerosis, chronic renal disease, minimal change glomerulonephritis" >malaise</ros>
+								<ros answer="" star="5" critical="false"  category="EYES" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, acute pancreatitis, hypothyroidism, membranous glomerulonephritis, chronic renal disease, hyperlipidemia, Tangier disease" >vision problems</ros>
+								<ros answer="" star="7" critical="false"  category="EYES" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, membranous glomerulonephritis, Tangier disease" >blindness</ros>
+								<ros answer="" star="5" critical="false"  category="EYES" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, membranous glomerulonephritis" >double vision</ros>
+								<ros answer="" star="5" critical="false"  category="EYES" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, hypothyroidism" >cataract</ros>
+								<ros answer="" star="0" critical="false"  category="EYES" subops="" sourcesl1=""  sourcesem="" sources="" >eye injury</ros>
+								<ros answer="" star="0" critical="false"  category="EYES" subops="" sourcesl1=""  sourcesem="" sources="" >eye pain</ros>
+								<ros answer="" star="0" critical="false"  category="EYES" subops="" sourcesl1=""  sourcesem="" sources="" >eye discharge</ros>
+								<ros answer="" star="4" critical="false"  category="EYES" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins" >photophobia</ros>
+								<ros answer="" star="5" critical="true"  category="CHEST/HEART" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="drugs and toxins, diabetes mellitus type 2, acute pancreatitis, chronic pancreatitis, membranous glomerulonephritis, chronic renal disease, hyperlipidemia, ischemic cardiomyopathy, Tangier disease" >chest pain</ros>
+								<ros answer="" star="5" critical="true"  category="CHEST/HEART" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="drugs and toxins, diabetes mellitus type 2, acute pancreatitis, membranous glomerulonephritis, chronic renal disease, ischemic cardiomyopathy, Tangier disease" >palpitations</ros>
+								<ros answer="" star="5" critical="true"  category="CHEST/HEART" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="alcoholism, diabetes mellitus type 2, drugs and toxins, acute pancreatitis, hypothyroidism, chronic renal disease, ischemic cardiomyopathy" >passing out</ros>
+								<ros answer="" star="3" critical="false"  category="CHEST/HEART" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="diabetes mellitus type 2, drugs and toxins, acute pancreatitis, hypothyroidism, metabolic syndrome, nephrotic syndrome, membranous glomerulonephritis, focal segmental glomerulosclerosis, Cushing's disease or syndrome, chronic renal disease, minimal change glomerulonephritis, ischemic cardiomyopathy" >fatigue</ros>
+								<ros answer="" star="0" critical="false"  category="CHEST/HEART" subops="" sourcesl1=""  sourcesem="" sources="membranous glomerulonephritis, hyperlipidemia" >heart murmur</ros>
+								<ros answer="" star="2" critical="false"  category="CHEST/HEART" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, hypothyroidism, nephrotic syndrome, membranous glomerulonephritis, focal segmental glomerulosclerosis, minimal change glomerulonephritis" >swollen hand(s)</ros>
+								<ros answer="" star="1" critical="false"  category="CHEST/HEART" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, acute pancreatitis, hypothyroidism, nephrotic syndrome, membranous glomerulonephritis, focal segmental glomerulosclerosis, chronic renal disease, minimal change glomerulonephritis" >swollen feet</ros>
+								<ros answer="" star="1" critical="false"  category="CHEST/HEART" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, hypothyroidism, nephrotic syndrome, membranous glomerulonephritis, focal segmental glomerulosclerosis, chronic renal disease, minimal change glomerulonephritis" >swollen feet and legs</ros>
+								<ros answer="" star="0" critical="false"  category="CHEST/HEART" subops="" sourcesl1=""  sourcesem="" sources="" >sudden difficulty breathing at night</ros>
+								<ros answer="" star="4" critical="false"  category="PSYCH" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="diabetes mellitus type 2, drugs and toxins, acute pancreatitis, membranous glomerulonephritis" >anxiety</ros>
+								<ros answer="" star="0" critical="false"  category="PSYCH" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins" >mania</ros>
+								<ros answer="" star="4" critical="false"  category="PSYCH" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, alcoholism, hypothyroidism" >memory impairment</ros>
+								<ros answer="" star="3" critical="false"  category="PSYCH" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, alcoholism, hypothyroidism, Cushing's disease or syndrome, chronic renal disease" >depression</ros>
+								<ros answer="" star="4" critical="false"  category="PSYCH" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, chronic renal disease" >apathy</ros>
+								<ros answer="" star="4" critical="false"  category="PSYCH" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins" >decreased need for sleep</ros>
+								<ros answer="" star="3" critical="false"  category="PSYCH" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="diabetes mellitus type 2, drugs and toxins, acute pancreatitis, hypothyroidism, metabolic syndrome, nephrotic syndrome, membranous glomerulonephritis, focal segmental glomerulosclerosis, Cushing's disease or syndrome, chronic renal disease, minimal change glomerulonephritis, ischemic cardiomyopathy" >fatigue</ros>
+								<ros answer="" star="4" critical="false"  category="PSYCH" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="diabetes mellitus type 2, drugs and toxins, alcoholism, acute pancreatitis, hypothyroidism, chronic renal disease, ischemic cardiomyopathy" >lethargy</ros>
+								<ros answer="" star="3" critical="false"  category="PSYCH" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, hypothyroidism, chronic renal disease" >poor concentration</ros>
+								<ros answer="" star="4" critical="false"  category="PSYCH" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, chronic pancreatitis" >increased appetite</ros>
+								<ros answer="" star="0" critical="true"  category="PSYCH" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, alcoholism" >suicidal ideation</ros>
+								<ros answer="" star="4" critical="false"  category="MS" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, alcoholism" >limitation of movement</ros>
+								<ros answer="" star="0" critical="false"  category="MS" subops="" sourcesl1=""  sourcesem="" sources="" >muscle ache generalized</ros>
+								<ros answer="" star="4" critical="false"  category="MS" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, hyperlipidemia" >swollen joint(s)</ros>
+								<ros answer="" star="0" critical="false"  category="MS" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="drugs and toxins" >pain in neck</ros>
+								<ros answer="" star="1" critical="false"  category="MS" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="acute pancreatitis, chronic pancreatitis, Cushing's disease or syndrome" >pain in back</ros>
+								<ros answer="" star="5" critical="false"  category="SKIN" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, Cushing's disease or syndrome" >rash</ros>
+								<ros answer="" star="4" critical="true"  category="SKIN" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="diabetes mellitus type 2, drugs and toxins, alcoholism, acute pancreatitis, ischemic cardiomyopathy, Tangier disease" >increased sweating</ros>
+								<ros answer="" star="2" critical="false"  category="SKIN" subops="" sourcesl1=""  sourcesem="" sources="hypothyroidism" >decreased sweating</ros>
+								<ros answer="" star="5" critical="false"  category="SKIN" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, Cushing's disease or syndrome, chronic renal disease" >poor wound healing</ros>
+								<ros answer="" star="0" critical="true"  category="SKIN" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, Cushing's disease or syndrome, chronic renal disease" >bruising in multiple areas</ros>
+								<ros answer="" star="4" critical="false"  category="SKIN" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins" >increased skin sensitivity to sun</ros>
+								<ros answer="" star="0" critical="true"  category="SKIN" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins" >blue lips or dusky skin</ros>
+								<ros answer="" star="0" critical="false"  category="SKIN" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, chronic pancreatitis" >clubbing of fingers or toes</ros>
+								<ros answer="" star="4" critical="false"  category="SKIN" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, chronic renal disease" >itching</ros>
+								<ros answer="" star="2" critical="false"  category="SKIN" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, hypothyroidism, chronic renal disease" >dry skin</ros>
+								<ros answer="" star="5" critical="true"  category="NEURO" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="angina pectoris, coronary artery disease" sources="alcoholism, diabetes mellitus type 2, drugs and toxins, acute pancreatitis, hypothyroidism, chronic renal disease, ischemic cardiomyopathy" >passing out</ros>
+								<ros answer="" star="6" critical="false"  category="NEURO" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins, membranous glomerulonephritis" >vertigo</ros>
+								<ros answer="" star="5" critical="false"  category="NEURO" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, alcoholism, hypothyroidism, chronic renal disease" >convulsions</ros>
+								<ros answer="" star="5" critical="false"  category="NEURO" subops="" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, alcoholism, hypothyroidism, chronic renal disease, hyperlipidemia, Tangier disease" >impaired sensations</ros>
+								<ros answer="" star="3" critical="false"  category="NEURO" subops="" sourcesl1="myocardial infarction, coronary vasospasm"  sourcesem="" sources="diabetes mellitus type 2, alcoholism, drugs and toxins, acute pancreatitis, hypothyroidism, nephrotic syndrome, membranous glomerulonephritis, focal segmental glomerulosclerosis, Cushing's disease or syndrome, chronic renal disease, minimal change glomerulonephritis, Tangier disease" >weakness</ros>
+								<ros answer="" star="6" critical="false"  category="NEURO" subops="" sourcesl1=""  sourcesem="" sources="drugs and toxins" >abnormal gait</ros>
+								</review_of_systems>
+
+					<additional_symptoms>
+					<symptom star="5" >epigastric abdominal pain</symptom><symptom star="3" >poor appetite</symptom><symptom star="2" >stomach pain</symptom><symptom star="2" >upper abdominal pain</symptom><symptom star="2" >vomiting</symptom><symptom star="3" >weight gain</symptom><symptom star="0" >increased skin pigmentation</symptom><symptom star="2" >lethargy</symptom><symptom star="0" >obese</symptom><symptom star="0" >short stature</symptom><symptom star="0" >eyelid swelling</symptom><symptom star="2" >puffy face</symptom><symptom star="2" >stomach swelling</symptom><symptom star="3" >swollen feet</symptom><symptom star="2" >swollen feet and legs</symptom></additional_symptoms>
+					<common_symptoms></common_symptoms>
+					</symptom_questions>
+
+					<lifestyle_options>
+								<lifestyle>
+									<lifestyle_label>history of heart attack or bypass surgery</lifestyle_label>
+										<lifestyle_attribute>recentsurgeryheart</lifestyle_attribute>
+										<lifestyle_value>Yes</lifestyle_value>
+									</lifestyle>
+								<lifestyle>
+									<lifestyle_label>immunosuppressed - hiv, steroid use, etc</lifestyle_label>
+										<lifestyle_attribute>immunosuppressed</lifestyle_attribute>
+										<lifestyle_value>Yes</lifestyle_value>
+									</lifestyle>
+								<lifestyle>
+									<lifestyle_label>Alcohol</lifestyle_label>
+										<lifestyle_attribute>drink</lifestyle_attribute>
+										<lifestyle_value>Yes</lifestyle_value>
+									</lifestyle>
+								<lifestyle>
+									<lifestyle_label>Family History</lifestyle_label>
+										<lifestyle_attribute>familyhistoryof</lifestyle_attribute>
+										<lifestyle_value>**familyhistoryof**</lifestyle_value>
+										<familyhistoryof>Tangier disease</familyhistoryof>
+											<familyhistoryof>diabetes mellitus type 2</familyhistoryof>
+											<familyhistoryof>hypothyroidism</familyhistoryof>
+											</lifestyle>
+								<lifestyle>
+									<lifestyle_label>High Fat Diet</lifestyle_label>
+										<lifestyle_attribute>highfat</lifestyle_attribute>
+										<lifestyle_value>Yes</lifestyle_value>
+									</lifestyle>
+								<lifestyle>
+									<lifestyle_label>Obesity</lifestyle_label>
+										<lifestyle_attribute>weight</lifestyle_attribute>
+										<lifestyle_value>Yes</lifestyle_value>
+									</lifestyle>
+								<lifestyle>
+									<lifestyle_label>Sedentary</lifestyle_label>
+										<lifestyle_attribute>sedentary</lifestyle_attribute>
+										<lifestyle_value>Yes</lifestyle_value>
+									</lifestyle>
+								<lifestyle>
+									<lifestyle_label>taking medications</lifestyle_label>
+										<lifestyle_attribute>drugmed</lifestyle_attribute>
+										<lifestyle_value>Yes</lifestyle_value>
+									</lifestyle>
+								<lifestyle>
+									<lifestyle_label>hiv</lifestyle_label>
+										<lifestyle_attribute>hiv</lifestyle_attribute>
+										<lifestyle_value>Yes</lifestyle_value>
+									</lifestyle>
+								</lifestyle_options>
+					</questions>
+			<tests>
+			<procedures type="diagnostic"></procedures>
+			<emergency_procedures></emergency_procedures>
+			<lifethreatening_procedures></lifethreatening_procedures>			
+			<procedures_with_ems>
+				<procedure_with_em emlevel="" isparent="false" parent="" url="http://www.medgle.com/rw/procedures/serum+glucose/" star="2" values="high, low,normal,[ordered]" sourcesl1=""  sourcesem="" sources="acute pancreatitis, metabolic syndrome, chronic pancreatitis, membranous glomerulonephritis, Cushings disease or syndrome, chronic renal disease" cpt="82947" cost="27" cptper="" averageunit="" totalcost="" calccost="27.0" dollars="$"  ><![CDATA[serum glucose]]></procedure_with_em>
+
+						<procedure_with_em emlevel="" isparent="true" parent="" url="http://www.medgle.com/rw/procedures/Complete+metabolic+panel/" star="2" values="abnormal, normal,[ordered]" sourcesl1=""  sourcesem="" sources="drugs and toxins, acute pancreatitis, membranous glomerulonephritis, focal segmental glomerulosclerosis, Cushings disease or syndrome, chronic renal disease, minimal change glomerulonephritis, myocardial infarction, ischemic cardiomyopathy, coronary vasospasm" cpt="80048" cost="$46" cptper="" averageunit="" totalcost="" calccost="46.0" dollars="$"  ><![CDATA[Complete metabolic panel]]></procedure_with_em>
+
+						<procedure_with_em emlevel="" subtest="true" parent="Complete metabolic panel" url="http://www.medgle.com/rw/procedures/serum+sodium/" star="2" values="high, low,normal"  >serum sodium</procedure_with_em>
+								<procedure_with_em emlevel="" subtest="true" parent="Complete metabolic panel" url="http://www.medgle.com/rw/procedures/serum+potassium/" star="2" values="high, low,normal"  >serum potassium</procedure_with_em>
+								<procedure_with_em emlevel="" subtest="true" parent="Complete metabolic panel" url="http://www.medgle.com/rw/procedures/serum+calcium/" star="2" values="high, low,normal"  >serum calcium</procedure_with_em>
+								<procedure_with_em emlevel="" subtest="true" parent="Complete metabolic panel" url="http://www.medgle.com/rw/procedures/serum+chloride/" star="2" values="high, low,normal"  >serum chloride</procedure_with_em>
+								<procedure_with_em emlevel="" subtest="true" parent="Complete metabolic panel" url="http://www.medgle.com/rw/procedures/serum+carbon+dioxide/" star="2" values="high, low,normal"  >serum carbon dioxide</procedure_with_em>
+								<procedure_with_em emlevel="" subtest="true" parent="Complete metabolic panel" url="http://www.medgle.com/rw/procedures/Blood+urea+nitrogen+%28BUN%29/" star="2" values="high, low,normal"  >Blood urea nitrogen (BUN)</procedure_with_em>
+								<procedure_with_em emlevel="" subtest="true" parent="Complete metabolic panel" url="http://www.medgle.com/rw/procedures/serum+creatinine/" star="2" values="high, low,normal"  >serum creatinine</procedure_with_em>
+								<procedure_with_em emlevel="" subtest="true" parent="Complete metabolic panel" url="http://www.medgle.com/rw/procedures/total+protein/" star="2" values="high, low,normal"  >total protein</procedure_with_em>
+								<procedure_with_em emlevel="" subtest="true" parent="Complete metabolic panel" url="http://www.medgle.com/rw/procedures/serum+albumin/" star="2" values="high, low,normal"  >serum albumin</procedure_with_em>
+								<procedure_with_em emlevel="" subtest="true" parent="Complete metabolic panel" url="http://www.medgle.com/rw/procedures/total+bilirubin/" star="2" values="high, low,normal"  >total bilirubin</procedure_with_em>
+								<procedure_with_em emlevel="" subtest="true" parent="Complete metabolic panel" url="http://www.medgle.com/rw/procedures/serum+alkaline+phosphatase/" star="2" values="high, low,normal"  >serum alkaline phosphatase</procedure_with_em>
+								<procedure_with_em emlevel="" subtest="true" parent="Complete metabolic panel" url="http://www.medgle.com/rw/procedures/aspartate+aminotransferase+%28AST%29/" star="2" values="high, low,normal"  >aspartate aminotransferase (AST)</procedure_with_em>
+								<procedure_with_em emlevel="" subtest="true" parent="Complete metabolic panel" url="http://www.medgle.com/rw/procedures/alanine+aminotransferase+%28ALT%29/" star="2" values="high, low,normal"  >alanine aminotransferase (ALT)</procedure_with_em>
+								<procedure_with_em emlevel="" subtest="true" parent="Complete metabolic panel" url="http://www.medgle.com/rw/procedures/serum+glucose/" star="2" values="high, low,normal"  >serum glucose</procedure_with_em>
+								<procedure_with_em emlevel="" isparent="false" parent="" url="http://www.medgle.com/rw/procedures/Serum+Creatinine/" star="1" values="high, low,normal,[ordered]" sourcesl1=""  sourcesem="" sources="drugs and toxins, acute pancreatitis, membranous glomerulonephritis, focal segmental glomerulosclerosis, chronic renal disease, minimal change glomerulonephritis" cpt="82043" cost="56.55" cptper="" averageunit="" totalcost="" calccost="56.55" dollars="$$"  ><![CDATA[Serum Creatinine]]></procedure_with_em>
+
+						<procedure_with_em emlevel="" isparent="false" parent="" url="http://www.medgle.com/rw/procedures/BUN/" star="1" values="high, low,normal,[ordered]" sourcesl1=""  sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, acute pancreatitis, membranous glomerulonephritis, focal segmental glomerulosclerosis, chronic renal disease, minimal change glomerulonephritis" cpt="" cost="$15.00" cptper="" averageunit="" totalcost="" calccost="15.0" dollars="$"  ><![CDATA[BUN]]></procedure_with_em>
+
+						</procedures_with_ems>
+
+
+			</tests>
+
+			<therapies>
+			<advice_options>
+
+				<otc_drugs>
+				</otc_drugs>
+
+
+				<homecare_options>
+				<homecare  star="2" values="" sources="alcoholism"  >http://www.nlm.nih.gov/medlineplus/ency/article/000944.htm</homecare>
+						<homecare  star="2" values="" sources="alcoholism"  >http://www.nlm.nih.gov/medlineplus/ency/article/001944.htm</homecare>
+						<homecare  star="0" values="" sources="acute pancreatitis, diabetes mellitus type 2, hypothyroidism, metabolic syndrome"  >Avoid alcohol and smoking and Avoid exposure to secondary smoke</homecare>
+						</homecare_options>
+
+				<chronic_homecare_options>
+				</chronic_homecare_options>
+
+			</advice_options>
+
+			<therapeutic_procedures>
+				<therapeutic_procedure emlevel="4" isparent="false" parent="" url="http://www.medgle.com/rw/procedures/Avoid+Smoking/" star="2" values="[ordered]" sourcesl1="" sourcesem="" sources="diabetes mellitus type 2, drugs and toxins, metabolic syndrome" dollars="$" >Avoid Smoking</therapeutic_procedure>
+						<therapeutic_procedure emlevel="2" isparent="false" parent="" url="http://www.medgle.com/rw/procedures/surgical+intervention/" star="2" values="[ordered]" sourcesl1="" sourcesem="acute pancreatitis" sources="diabetes mellitus type 2, chronic pancreatitis" dollars="$$$$" >surgical intervention</therapeutic_procedure>
+						<therapeutic_procedure emlevel="4" isparent="false" parent="" url="http://www.medgle.com/rw/procedures/Nutritional+counseling/" star="1" values="[ordered]" sourcesl1="" sourcesem="" sources="diabetes mellitus type 2, metabolic syndrome, chronic pancreatitis" dollars="$$$" >Nutritional counseling</therapeutic_procedure>
+						<therapeutic_procedure emlevel="4" isparent="false" parent="" url="http://www.medgle.com/rw/procedures/diet+modification/" star="1" values="[ordered]" sourcesl1="" sourcesem="" sources="diabetes mellitus type 2, metabolic syndrome, chronic pancreatitis" dollars="$" >diet modification</therapeutic_procedure>
+						</therapeutic_procedures>
+
+
+
+
+
+			<therapeutic_drugs>
+				<therapeutic_drug emlevel="4" isparent="false" parent="" url="http://www.medgle.com/rw/drugs/Metformin/" star="2" values="[ordered]" sourcesl1="" sourcesem="" sources="diabetes mellitus type 2, metabolic syndrome" >Metformin</therapeutic_drug>
+						<therapeutic_drug emlevel="4" isparent="false" parent="" url="http://www.medgle.com/rw/drugs/Pioglitazone+hydrochloride+and+glimepiride/" star="2" values="[ordered]" sourcesl1="" sourcesem="" sources="diabetes mellitus type 2, metabolic syndrome" >Pioglitazone hydrochloride and glimepiride</therapeutic_drug>
+						<therapeutic_drug emlevel="4" isparent="false" parent="" url="http://www.medgle.com/rw/drugs/Rosiglitazone+maleate/" star="2" values="[ordered]" sourcesl1="" sourcesem="" sources="diabetes mellitus type 2, metabolic syndrome" >Rosiglitazone maleate</therapeutic_drug>
+						<therapeutic_drug emlevel="4" isparent="false" parent="" url="http://www.medgle.com/rw/drugs/Insulin/" star="2" values="[ordered]" sourcesl1="" sourcesem="" sources="diabetes mellitus type 2, chronic pancreatitis" >Insulin</therapeutic_drug>
+						</therapeutic_drugs>
+			</therapies>
+			</suggestions>
+			<results>
+			<triage_completed>false</triage_completed>
+				<ddxstreams>
+				</ddxstreams>
+				<query_detailed><![CDATA[A 23 years old presents with ABNORMAL BLOOD FATS (chief complaints). After questioning also indicates patient has: dyslipidemias.]]></query_detailed>
+			<analysis_summary><![CDATA[A 23 years old presents with ABNORMAL BLOOD FATS (chief complaints). After questioning also indicates patient has: dyslipidemias. 
+
+ASSESMENT (AUTOMATED)
+CLINICALGPS TRIAGE LEVEL: 4
+
+Most likely causes for abnormal blood fats include diabetes mellitus type 2, drugs and toxins, alcoholism, acute pancreatitis, and hypothyroidism. 
+
+Diabetes mellitus type 2 matches all the given symptoms. 
+
+Drugs and toxins matches all the given symptoms. 
+
+Alcoholism matches all the given symptoms. 
+
+Acute pancreatitis matches all the given symptoms. 
+
+Hypothyroidism matches all the given symptoms. 
+
+END AUTOMATED ASSESMENT
+
+
+NOTES & COMMENTS
+]]></analysis_summary>
+			<analysis_summary_hl7><![CDATA[MSH|^~\&|ClinicalGPS|MEDgle|GECENTRICITY|SUMMITMED|20123594645||ORU^R01|$SHORTCODE|P|2.3.1
+$PID
+OBX|1|TX|AGE||23|y|||||X
+OBX|1|TX|GENDER||||||||X
+OBX|1|TX|CHIEF COMPLAINT||abnormal blood fats||||||X
+OBX|1|TX|ADDITIONAL SYMPTOMS||dyslipidemias||||||X
+OBX|1|TX|SYMPTOM DURATION||3 days||||||X
+OBX|1|TX|IMMUNOSUPPRESSED||N||||||X
+OBX|1|TX|TRIAGE LEVEL||4||||||X
+OBX|1|TX|SELECTED POSSIBLE DIAGNOSES||||||||X
+OBX|1|TX|TOP POSSIBLE DIAGNOSES||diabetes mellitus type 2, drugs and toxins, alcoholism, acute pancreatitis, hypothyroidism||||||X
+OBX|1|TX|AUTOMATED ASSESSMENT AND PLAN||||||||X
+OBX|1|TX|AUTOMATED ASSESSMENT||||||||X
+OBX|1|TX|HISTORY OF PRESENT ILLNESS AUTONOTE||A 23 years old presents with ABNORMAL BLOOD FATS (chief complaints). After questioning also indicates patient has: dyslipidemias.||||||X
+]]></analysis_summary_hl7>
+
+			<lifethreatening_diagnoses>
+				</lifethreatening_diagnoses>
+
+
+
+			<estimated_total_cost probability="2.0">1253.7241</estimated_total_cost><diagnoses_result_count>21</diagnoses_result_count>
+			<diagnoses_shown_result_count>4</diagnoses_shown_result_count>
+			<diagnoses>
+				<diagnosis>
+						<diagnosis_name>diabetes mellitus type 2</diagnosis_name>
+						<diagnosis_presentation_label>diabetes mellitus type 2</diagnosis_presentation_label>
+						<diagnosis_url>http://www.medgle.com/rw/diagnoses/diabetes+mellitus+type+2</diagnosis_url>
+						<diagnosis_layman>multisystem disease due to insulin resistance and high blood sugar</diagnosis_layman>
+						<diagnosis_shortform>NIDDM</diagnosis_shortform>
+						<diagnosis_prevalence>very common</diagnosis_prevalence>
+						<diagnosis_is_chronic>false</diagnosis_is_chronic>
+						<diagnosis_test_cost dollars="$$+">106.26575</diagnosis_test_cost>
+						<diagnosis_treat_cost dollars="$$$">390.13297</diagnosis_treat_cost>
+						<diagnosis_symptoms type="common">increased thirst, urinating often, vision problems, weakness</diagnosis_symptoms>
+						<diagnosis_is_added>false</diagnosis_is_added>
+						<diagnosis_is_previous_condition>false</diagnosis_is_previous_condition>
+						<diagnosis_is_given>false</diagnosis_is_given>
+						<diagnosis_emergency>No</diagnosis_emergency>
+						<diagnosis_category>endocrine, eye diseases, nephrology, vascular problems</diagnosis_category>
+						<diagnosis_emergency_level>4</diagnosis_emergency_level>
+						<diagnosis_emergency_level_options>2, 3, 4, 5</diagnosis_emergency_level_options>
+						<diagnosis_result_score>6</diagnosis_result_score>
+						<diagnosis_raw_score>7.688736</diagnosis_raw_score>
+						<diagnosis_mod_up></diagnosis_mod_up>
+						<diagnosis_mod_down></diagnosis_mod_down>
+						<diagnosis_sym_match>abnormal blood fats</diagnosis_sym_match>
+						<diagnosis_sym_not_match></diagnosis_sym_not_match>
+						<diagnosis_match_with_upstream></diagnosis_match_with_upstream>
+						<diagnosis_match_with_parent></diagnosis_match_with_parent>
+
+			
+						<diagnosis_ads>
+							<diagnosis_ad>http://206.135.193.170/ads/Januvia.jpg</diagnosis_ad>
+							</diagnosis_ads>
+						<ICD9>250.0</ICD9>
+							<ICD10>E10.0</ICD10>
+							<ICD10>E14.0</ICD10>
+							<diagnosis_upstream></diagnosis_upstream>
+						
+
+						<diagnosis_downstream></diagnosis_downstream>
+						<diagnosis_homecare><![CDATA[1) Take your diabetes medication as directed, 2) Avoid alcohol and smoking and Avoid exposure to secondary smoke, 3) Check your blood pressure every day and Keep a log of your results., 4) Check your blood sugar every day and Keep a log of blood sugar results., 5) Follow an exercise plan as directed by your doctor., 6) Get regular dental checkups and practice good dental hygiene., 7) Get regular eye and foot examinations., 8) Inspect the skin of your feet and your nails every day, in order to look for injury., 9) Lose weight if you are overweight, 10) Take prescribed medications as directed., 11) Wear a Medic Alert bracelet at all times.]]></diagnosis_homecare>
+					</diagnosis>
+				<diagnosis>
+						<diagnosis_name>drugs and toxins</diagnosis_name>
+						<diagnosis_presentation_label>drug overdose or poisoning</diagnosis_presentation_label>
+						<diagnosis_url>http://www.medgle.com/rw/diagnoses/drugs+and+toxins</diagnosis_url>
+						<diagnosis_layman>adverse effects of drugs and toxins</diagnosis_layman>
+						<diagnosis_shortform></diagnosis_shortform>
+						<diagnosis_prevalence>very common</diagnosis_prevalence>
+						<diagnosis_is_chronic>false</diagnosis_is_chronic>
+						<diagnosis_test_cost dollars="$$+">193.8676</diagnosis_test_cost>
+						<diagnosis_treat_cost dollars="$$$">293.44116</diagnosis_treat_cost>
+						<diagnosis_symptoms type="common">palpitations, stomach pain, upper abdominal pain, vomiting</diagnosis_symptoms>
+						<diagnosis_is_added>false</diagnosis_is_added>
+						<diagnosis_is_previous_condition>false</diagnosis_is_previous_condition>
+						<diagnosis_is_given>false</diagnosis_is_given>
+						<diagnosis_emergency>Yes</diagnosis_emergency>
+						<diagnosis_category>allergies, behavioral/psychological/psychiatry, cardiac, eye diseases, gastrointestinal, hematological, orthopedics, dermatology, other</diagnosis_category>
+						<diagnosis_emergency_level>4</diagnosis_emergency_level>
+						<diagnosis_emergency_level_options>1, 2, 3, 4</diagnosis_emergency_level_options>
+						<diagnosis_result_score>5</diagnosis_result_score>
+						<diagnosis_raw_score>6.515101</diagnosis_raw_score>
+						<diagnosis_mod_up></diagnosis_mod_up>
+						<diagnosis_mod_down></diagnosis_mod_down>
+						<diagnosis_sym_match>abnormal blood fats</diagnosis_sym_match>
+						<diagnosis_sym_not_match></diagnosis_sym_not_match>
+						<diagnosis_match_with_upstream></diagnosis_match_with_upstream>
+						<diagnosis_match_with_parent></diagnosis_match_with_parent>
+
+			
+						<diagnosis_ads>
+							</diagnosis_ads>
+						<ICD9>304.9</ICD9>
+							<ICD9></ICD9>
+							<ICD10>F19.20</ICD10>
+							<diagnosis_upstream></diagnosis_upstream>
+						
+
+						<diagnosis_downstream></diagnosis_downstream>
+						<diagnosis_homecare><![CDATA[]]></diagnosis_homecare>
+					</diagnosis>
+				<diagnosis>
+						<diagnosis_name>alcoholism</diagnosis_name>
+						<diagnosis_presentation_label>alcoholism</diagnosis_presentation_label>
+						<diagnosis_url>http://www.medgle.com/rw/diagnoses/alcoholism</diagnosis_url>
+						<diagnosis_layman>effects on body from frequent and heavy alcohol consumption</diagnosis_layman>
+						<diagnosis_shortform></diagnosis_shortform>
+						<diagnosis_prevalence>very common</diagnosis_prevalence>
+						<diagnosis_is_chronic>false</diagnosis_is_chronic>
+						<diagnosis_test_cost dollars="$$+">113.87094</diagnosis_test_cost>
+						<diagnosis_treat_cost dollars="$$+">149.51979</diagnosis_treat_cost>
+						<diagnosis_symptoms type="common">passing out, poor appetite, stomach pain, upper abdominal pain</diagnosis_symptoms>
+						<diagnosis_is_added>false</diagnosis_is_added>
+						<diagnosis_is_previous_condition>false</diagnosis_is_previous_condition>
+						<diagnosis_is_given>false</diagnosis_is_given>
+						<diagnosis_emergency>Yes</diagnosis_emergency>
+						<diagnosis_category>behavioral/psychological/psychiatry, gastrointestinal, liver gallbladder and bile ducts, neurology, nutrition, muscles, addiction problems</diagnosis_category>
+						<diagnosis_emergency_level>4</diagnosis_emergency_level>
+						<diagnosis_emergency_level_options>1, 2, 3, 4, 5</diagnosis_emergency_level_options>
+						<diagnosis_result_score>5</diagnosis_result_score>
+						<diagnosis_raw_score>6.407359</diagnosis_raw_score>
+						<diagnosis_mod_up></diagnosis_mod_up>
+						<diagnosis_mod_down></diagnosis_mod_down>
+						<diagnosis_sym_match>abnormal blood fats</diagnosis_sym_match>
+						<diagnosis_sym_not_match></diagnosis_sym_not_match>
+						<diagnosis_match_with_upstream></diagnosis_match_with_upstream>
+						<diagnosis_match_with_parent></diagnosis_match_with_parent>
+
+			
+						<diagnosis_ads>
+							</diagnosis_ads>
+						<ICD9>303</ICD9>
+							<ICD10>F10.0</ICD10>
+							<diagnosis_upstream></diagnosis_upstream>
+						
+
+						<diagnosis_downstream></diagnosis_downstream>
+						<diagnosis_homecare><![CDATA[]]></diagnosis_homecare>
+					</diagnosis>
+				<diagnosis>
+						<diagnosis_name>acute pancreatitis</diagnosis_name>
+						<diagnosis_presentation_label>acute pancreatitis</diagnosis_presentation_label>
+						<diagnosis_url>http://www.medgle.com/rw/diagnoses/acute+pancreatitis</diagnosis_url>
+						<diagnosis_layman>acute inflammation of pancreas</diagnosis_layman>
+						<diagnosis_shortform></diagnosis_shortform>
+						<diagnosis_prevalence>common</diagnosis_prevalence>
+						<diagnosis_is_chronic>false</diagnosis_is_chronic>
+						<diagnosis_test_cost dollars="$$+">152.6335</diagnosis_test_cost>
+						<diagnosis_treat_cost dollars="$$+">215.61694</diagnosis_treat_cost>
+						<diagnosis_symptoms type="common">stomach pain, stomach swelling, upper abdominal pain, vomiting</diagnosis_symptoms>
+						<diagnosis_is_added>false</diagnosis_is_added>
+						<diagnosis_is_previous_condition>false</diagnosis_is_previous_condition>
+						<diagnosis_is_given>false</diagnosis_is_given>
+						<diagnosis_emergency>Yes</diagnosis_emergency>
+						<diagnosis_category>gastrointestinal</diagnosis_category>
+						<diagnosis_emergency_level>3</diagnosis_emergency_level>
+						<diagnosis_emergency_level_options>2, 3</diagnosis_emergency_level_options>
+						<diagnosis_result_score>5</diagnosis_result_score>
+						<diagnosis_raw_score>5.82164</diagnosis_raw_score>
+						<diagnosis_mod_up></diagnosis_mod_up>
+						<diagnosis_mod_down></diagnosis_mod_down>
+						<diagnosis_sym_match>abnormal blood fats</diagnosis_sym_match>
+						<diagnosis_sym_not_match></diagnosis_sym_not_match>
+						<diagnosis_match_with_upstream></diagnosis_match_with_upstream>
+						<diagnosis_match_with_parent></diagnosis_match_with_parent>
+
+			
+						<diagnosis_ads>
+							</diagnosis_ads>
+						<ICD9>577.0</ICD9>
+							<ICD10>K85.</ICD10>
+							<diagnosis_upstream></diagnosis_upstream>
+						
+
+						<diagnosis_downstream></diagnosis_downstream>
+						<diagnosis_homecare><![CDATA[1) Do not drink alcohol., 2) Avoid caffeine., 3) Drink plenty of liquids., 4) Eat a low fat diet., 5) Take prescribed medications as directed by your doctor.]]></diagnosis_homecare>
+					</diagnosis>
+				</diagnoses>
+			<meta_analysis>
+			<upstream_diagnoses>
+				<upstream_diagnosis star="10" val="9.723294" sources="chronic renal disease" diffnotcontains="false" chronic="true" >diabetes mellitus type 2</upstream_diagnosis>
+						<upstream_diagnosis star="2" val="2.0345583" sources="chronic renal disease" diffnotcontains="true" chronic="true" >insulin dependent diabetes mellitus</upstream_diagnosis>
+						<upstream_diagnosis star="2" val="2.00945" sources="hyperlipidemia" diffnotcontains="true" chronic="true" >human immunodeficiency virus infections</upstream_diagnosis>
+						</upstream_diagnoses>
+
+
+
+			<downstream_diagnoses>
+				</downstream_diagnoses>
+
+			<medication_sideeffects>
+				</medication_sideeffects>
+
+			</meta_analysis>
+
+			<hospitals>
+				</hospitals>
+
+
+				<physicians>
+				</physicians>
+			<chronic>
+			<healthiermee>
+				<corporateuser>false</corporateuser>
+			<logo type="small">http://www.medgle.com/logo/medglelogoBB.png</logo>
+			<logo type="big">http://www.medgle.com/logo/medglelogoE.jpg</logo>
+
+			<hme_query>
+				<gender></gender>
+				<age></age>
+
+				<height></height>
+				<weight></weight>
+				<givenbmi></givenbmi>
+
+				<activitylevel>2</activitylevel>
+				<activitylevellabel>some activity</activitylevellabel>
+			
+				<numdailydrinks>0.0</numdailydrinks>
+				<numdailydrinkslabel>0</numdailydrinkslabel>
+	
+				<numdailypacks>0.0</numdailypacks>
+				<numdailypackslabel>0</numdailypackslabel>
+	
+				<dailyfat>1</dailyfat>
+				<dailyfatlabel>normal</dailyfatlabel>
+				</hme_query>
+
+			<analysis>
+				<healthage>19</healthage>
+				<fitscore>937.2</fitscore>
+				<rawfitscore>745</rawfitscore>
+				<maxfitscoreforage>795</maxfitscoreforage>
+
+				<fitscore_gimg>http://chart.apis.google.com/chart?chs=125x70&amp;cht=gom&amp;chd=t:78&amp;chxt=x&amp;chxs=0,767676,14&amp;chxl=0:|B</fitscore_gimg>
+				<fitscore_grade>B</fitscore_grade>
+
+				<dailycalorieburn>798</dailycalorieburn>
+				<dailyrecommendedlose>0</dailyrecommendedlose>
+				<currentcalorieburnclose>1000</currentcalorieburnclose>
+				<dietcalorieburnclose>1000</dietcalorieburnclose>
+
+				<current_weight_meal_plan>http://www.mypyramid.gov/downloads/results/results_1000_18.pdf</current_weight_meal_plan>
+				<diet_weight_meal_plan>http://www.mypyramid.gov/downloads/results/results_1000_18.pdf</diet_weight_meal_plan>
+			
+				
+				<bmidata>
+					<bmi>22.0</bmi>
+					<bmiunderweight>18.5</bmiunderweight>
+					<bmioverweight>24.9</bmioverweight>
+					<bmiobese>29.9</bmiobese>
+				</bmidata>
+
+
+				<estimated_health_cost probability="1.4">632.0</estimated_health_cost>
+					<atriskfor>
+					<atrisk_diagnosis riskrank="1.4410002" riskscore="1.4410002" dollars="$$$$" >diabetes mellitus type 2</atrisk_diagnosis>
+
+						</atriskfor>
+
+				<chronic_diagnostic_tests>
+				<chronic_diagnostic_test star="-4" val="0.46623945" sources="diabetes mellitus type 2"  >Fasting blood sugar</chronic_diagnostic_test>
+						<chronic_diagnostic_test star="-4" val="0.46623945" sources="diabetes mellitus type 2"  >Glutamic acid decarboxylase (GAD) antibodies</chronic_diagnostic_test>
+						<chronic_diagnostic_test star="-4" val="0.46623945" sources="diabetes mellitus type 2"  >HBA1c (Hemoglobin A1c)</chronic_diagnostic_test>
+						<chronic_diagnostic_test star="-4" val="0.46623945" sources="diabetes mellitus type 2"  >Islet cell antibodies</chronic_diagnostic_test>
+						<chronic_diagnostic_test star="-4" val="0.46623945" sources="diabetes mellitus type 2"  >Serum glutamic acid decarboxylase (GAD) antibodies</chronic_diagnostic_test>
+						<chronic_diagnostic_test star="-4" val="0.46623945" sources="diabetes mellitus type 2"  >serum glucose</chronic_diagnostic_test>
+						<chronic_diagnostic_test star="-3" val="0.36477053" sources="diabetes mellitus type 2"  >Monofilament Foot Sensation</chronic_diagnostic_test>
+						<chronic_diagnostic_test star="-3" val="0.31478757" sources="diabetes mellitus type 2"  >Complete metabolic panel</chronic_diagnostic_test>
+						<chronic_diagnostic_test star="-3" val="0.31478757" sources="diabetes mellitus type 2"  >Serum Creatinine</chronic_diagnostic_test>
+						<chronic_diagnostic_test star="-3" val="0.31478757" sources="diabetes mellitus type 2"  >Urinalysis</chronic_diagnostic_test>
+						</chronic_diagnostic_tests>
+
+				<chronic_symptoms>
+				<chronic_symptom star="7" val="1.4410002" sources="diabetes mellitus type 2"  >abnormal blood fats</chronic_symptom>
+						<chronic_symptom star="7" val="1.4410002" sources="diabetes mellitus type 2"  >blister(s) or bump(s) on foot (feet)</chronic_symptom>
+						<chronic_symptom star="7" val="1.4410002" sources="diabetes mellitus type 2"  >blister(s) or bump(s) under breasts</chronic_symptom>
+						<chronic_symptom star="7" val="1.4410002" sources="diabetes mellitus type 2"  >fatigue</chronic_symptom>
+						<chronic_symptom star="7" val="1.4410002" sources="diabetes mellitus type 2"  >has diabetes</chronic_symptom>
+						<chronic_symptom star="7" val="1.4410002" sources="diabetes mellitus type 2"  >headache worse in the morning</chronic_symptom>
+						<chronic_symptom star="7" val="1.4410002" sources="diabetes mellitus type 2"  >hyperglycemia</chronic_symptom>
+						<chronic_symptom star="7" val="1.4410002" sources="diabetes mellitus type 2"  >impaired sensations</chronic_symptom>
+						<chronic_symptom star="7" val="1.4410002" sources="diabetes mellitus type 2"  >impotence</chronic_symptom>
+						<chronic_symptom star="7" val="1.4410002" sources="diabetes mellitus type 2"  >incontinence of urine in females</chronic_symptom>
+						</chronic_symptoms>
+
+
+
+
+				<chronic_therapeutic_procedures>
+				<chronic_therapeutic_procedure star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Avoid Smoking</chronic_therapeutic_procedure>
+						<chronic_therapeutic_procedure star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Bariatric surgery</chronic_therapeutic_procedure>
+						<chronic_therapeutic_procedure star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Blood Glucose Self-Monitoring</chronic_therapeutic_procedure>
+						<chronic_therapeutic_procedure star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Blood Pressure Management</chronic_therapeutic_procedure>
+						<chronic_therapeutic_procedure star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Diabetes Education</chronic_therapeutic_procedure>
+						<chronic_therapeutic_procedure star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Diabetes Skin Care</chronic_therapeutic_procedure>
+						<chronic_therapeutic_procedure star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Diabetes control</chronic_therapeutic_procedure>
+						<chronic_therapeutic_procedure star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Diabetic Foot Care</chronic_therapeutic_procedure>
+						<chronic_therapeutic_procedure star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Diabetic drug management</chronic_therapeutic_procedure>
+						<chronic_therapeutic_procedure star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Exercise programs</chronic_therapeutic_procedure>
+						</chronic_therapeutic_procedures>
+
+
+
+				<chronic_therapeutic_medications>
+				<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >22. 	rosiglitazone(Avandia )</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Acarbose</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Chlorpropamide</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Colesevelam</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Diabinese</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Glimepiride</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Glipizide</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Glipizide/metformin</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Glucagon</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Glyburide</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Glyburide/metformin</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >INSULIN ASPART</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >INSULIN GLARGINE</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Insulin</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Insulin detemir</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Insulin glulisine</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Metformin</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Miglitol</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Nateglinide</chronic_therapeutic_medication>
+						<chronic_therapeutic_medication star="7" val="1.4410002" sources="diabetes mellitus type 2"  >Pioglitazone hydrochloride and glimepiride</chronic_therapeutic_medication>
+						</chronic_therapeutic_medications>
+
+
+
+				<acute_atriskfor>
+					</acute_atriskfor>
+
+
+				<improvement_factors>
+					<improvement_factor delta="1.6" >Increase Activity</improvement_factor>
+							</improvement_factors>
+			</analysis>
+		</healthiermee>
+				</chronic>
+			</results>
+			</root>
+			

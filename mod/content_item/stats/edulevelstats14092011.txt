@@ -1,0 +1,373 @@
+GUID|COUNT|VALUE1|VALUE2|VALUE3|VALUE4|VALUE5|VALUE6|VALUE7|VALUE8|VALUE9|VALUE10 
+838|1|3rd year uk undergraduate medical student embarking on clinical training.|||||||||
+973|||||||||||
+1104|||||||||||
+1146|||||||||||
+1160|1|consult the file|||||||||
+1220|||||||||||
+1227|1|Preclinical Medical Student|||||||||
+1234|1|Preclinical Medical Student|||||||||
+1255|1|Preclinical Medical Student|||||||||
+1328|||||||||||
+1384|1|undergraduate|||||||||
+1403|1|AS/A Levels|||||||||
+1410|1|AS/A Levels|||||||||
+1419|1|AS/A Levels|||||||||
+1464|||||||||||
+1471|||||||||||
+1489|||||||||||
+1527|1|3nd year undergraduate medical students|||||||||
+1535|1|3nd year medical students|||||||||
+1570|1|undergraduate medical students|||||||||
+1593|||||||||||
+1608|||||||||||
+1615|||||||||||
+1638|||||||||||
+1659|||||||||||
+1666|||||||||||
+1680|||||||||||
+1687|||||||||||
+1694|||||||||||
+1708|||||||||||
+1715|||||||||||
+1722|||||||||||
+1761|1|undergraduate|||||||||
+1768|||||||||||
+1775|1|undergraduate|||||||||
+1782|||||||||||
+1796|||||||||||
+1803|||||||||||
+1810|||||||||||
+1817|||||||||||
+1824|||||||||||
+1831|||||||||||
+1838|||||||||||
+1845|||||||||||
+1852|||||||||||
+1859|||||||||||
+1866|||||||||||
+1873|||||||||||
+1880|||||||||||
+1887|||||||||||
+1894|||||||||||
+1901|||||||||||
+1908|||||||||||
+1944|||||||||||
+1951|1|Undergraduate, Postgratuate|||||||||
+1958|||||||||||
+1969|||||||||||
+1976|||||||||||
+1983|||||||||||
+1990|||||||||||
+1997|||||||||||
+2004|||||||||||
+2011|||||||||||
+2018|||||||||||
+2025|||||||||||
+2032|||||||||||
+2045|||||||||||
+2052|||||||||||
+2059|||||||||||
+2066|||||||||||
+2073|||||||||||
+2101|1|post graduate|||||||||
+2108|1|post graduate|||||||||
+2115|||||||||||
+2122|||||||||||
+2130|||||||||||
+2144|1|CME|||||||||
+2151|1|Medical students|||||||||
+2165|||||||||||
+2172|||||||||||
+2179|1|healthcare worker ( doctor, nurse etc) interested in telemedicine|||||||||
+2186|||||||||||
+2200|||||||||||
+2208|1|any|||||||||
+2217|1|Postgraduate Medical Students|||||||||
+2224|1|healthcare professional or computer scientist interested in CAD|||||||||
+2231|1|undergraduate, postgraduate, medical informatics specialists|||||||||
+2238|||||||||||
+2245|1|Postgraduate Medical Informatics Students|||||||||
+2252|1|Preclinical Medical Student|||||||||
+2259|1|Preclinical Medical Student|||||||||
+2266|1|Preclinical Medical Student|||||||||
+2273|1|Preclinical Medical Student|||||||||
+2280|1|Preclinical Medical Student|||||||||
+2287|1|Preclinical Medical Student|||||||||
+2294|1|Pre-clinical Medical Student|||||||||
+2302|1|undergraduate, postgraduate, medical informatics specialists|||||||||
+2309|1|undergraduates|||||||||
+2316|1|Pre-clinical Medical Student|||||||||
+2323|1|Pre-clinical Medical Student|||||||||
+2330|1|Pre-clinical Medical Student|||||||||
+2337|1|Pre-clinical Medical Student|||||||||
+2344|1|Pre-clinical Medical Student|||||||||
+2351|1|Pre-clinical Medical Student|||||||||
+2358|1|all levels|||||||||
+2365|1|All levels|||||||||
+2372|1|All levels|||||||||
+2379|1|All levels|||||||||
+2386|1|All levels|||||||||
+2393|1|All levels|||||||||
+2401|1|undergraduate, postgraduate, medical informatics specialists|||||||||
+2415|1|studenti di medicina, specializzandi in malattie respiratorie|||||||||
+2422|1|undergraduate, general public|||||||||
+2429|1|Undergraduate|||||||||
+2436|1|Undergraduate|||||||||
+2448|1|postgraduate, continuing education|||||||||
+2464|||||||||||
+2471|1|specialists|||||||||
+2478|1|For any neurologist in public and private  hospitals|||||||||
+2485|||||||||||
+2492|||||||||||
+2499|1|specialists in orthodontics|||||||||
+2506|||||||||||
+2513|1|Undergraduate students|||||||||
+2520|1|Specialists in Neurology|||||||||
+2527|1|Resident Students|||||||||
+2534|1|CME|||||||||
+2541|1|CME|||||||||
+2548|1|postgraduate medical informatics student|||||||||
+2555|1|CME|||||||||
+2562|1|4th year medical students|||||||||
+2569|1|Specialists in Dentistry|||||||||
+2576|||||||||||
+2583|1|postgraduate|||||||||
+2590|||||||||||
+2597|1|postgraduate, continuing education|||||||||
+2604|1|postgraduate, continuing education|||||||||
+2611|1|undegraduate|||||||||
+2618|1|CME|||||||||
+2625|1|CME|||||||||
+2632|1|Continues Proffesional Development, postgraduate students|||||||||
+2639|1|CME, postgraduate medical students|||||||||
+2647|1|CME|||||||||
+2656|1|CME|||||||||
+2665|1|CME|||||||||
+2672|1|CME|||||||||
+2681|||||||||||
+2688|||||||||||
+2717|||||||||||
+2724|||||||||||
+2731|||||||||||
+2738|1|undergraduate|||||||||
+2745|1|undergraduate, continuing education|||||||||
+2752|1|postgraduate medical students|||||||||
+2759|1|postgraduate medical students|||||||||
+2766|||||||||||
+2773|||||||||||
+2780|||||||||||
+2787|||||||||||
+2794|1|undergraduate, public|||||||||
+2801|1|undergraduate|||||||||
+2815|1|student, public larg|||||||||
+2822|1|undergraduate, general public|||||||||
+2829|1|undergraduate, general public|||||||||
+2836|1|undergraduate|||||||||
+2979|||||||||||
+3032|1|Postgraduate|||||||||
+3146|1|Medical students of appropriate  year of study  (4-th year in BG)|||||||||
+3153|1|Medical students of appropriate  year of study  (4-th year in BG)|||||||||
+3160|1|Medical students of appropriate  year of study  (4-th year in BG)|||||||||
+3167|1|Medical students of appropriate  year of study  (4-th year in BG)|||||||||
+3176|1|Medical students of appropriate  year of study  (4-th year in BG)|||||||||
+3183|1|Medical students of appropriate  year of study  (4-th year in BG)|||||||||
+3190|1|Medical students of appropriate  year of study  (4-th year in BG)|||||||||
+3204|1|Level 4, 5 & 6|||||||||
+3215|1|Level 4, 5 & 6|||||||||
+3227|1|Level 4, 5 & 6|||||||||
+3234|1|Level 4, 5 & 6|||||||||
+3241|1|Level 4, 5 & 6|||||||||
+3248|1|Level 4, 5 & 6|||||||||
+3255|1|Level 4, 5 & 6|||||||||
+3262|1|Level 4, 5 & 6|||||||||
+3284|1|clinical|||||||||
+3349|||||||||||
+3370|1|general public|||||||||
+3377|1|General public|||||||||
+3384|1|General public|||||||||
+3391|1|General public|||||||||
+3402|||||||||||
+3410|1|undergraduate medical students|||||||||
+3424|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+3431|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+3438|||||||||||
+3445|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+3452|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+3473|1|Paramedic Practice|||||||||
+3480|1|Level 4, 5 & 6|||||||||
+3487|1|Level 4, 5 & 6|||||||||
+3494|||||||||||
+3501|1|General public|||||||||
+3508|1|General public|||||||||
+3515|1|General public|||||||||
+3522|1|General public|||||||||
+3533|1|General public|||||||||
+3540|1|General public|||||||||
+3547|1|General public|||||||||
+3554|1|General public|||||||||
+3565|1|General public|||||||||
+3572|1|General public|||||||||
+3579|1|General public|||||||||
+3586|1|General public|||||||||
+3608|1|General public|||||||||
+3615|1|General public|||||||||
+3622|1|General public|||||||||
+3629|1|General public|||||||||
+3647|1|General public|||||||||
+3654|1|General public|||||||||
+3661|1|General public|||||||||
+3668|1|General public|||||||||
+3695|1|undergraduate|||||||||
+3702|1|undergraduate|||||||||
+3709|1|continuing education|||||||||
+3716|1|General public|||||||||
+3723|1|General public|||||||||
+3730|1|General public|||||||||
+3737|1|General public|||||||||
+3748|1|General public|||||||||
+3755|1|General public|||||||||
+3762|1|General public|||||||||
+3769|1|General public|||||||||
+3804|1|General public|||||||||
+3811|1|General public|||||||||
+3818|1|General public|||||||||
+3825|1|General public|||||||||
+3836|1|General public|||||||||
+3843|1|General public|||||||||
+3850|||||||||||
+3857|1|General public|||||||||
+3868|1|General public|||||||||
+3875|1|General public|||||||||
+3882|1|General public|||||||||
+3889|1|General public|||||||||
+3934|1|General public|||||||||
+3941|1|General public|||||||||
+3948|1|General public|||||||||
+3955|1|General public|||||||||
+3966|1|General public|||||||||
+3973|1|General public|||||||||
+3980|1|General public|||||||||
+3990|1|General public|||||||||
+3997|1|General public|||||||||
+4004|1|General public|||||||||
+4011|1|General public|||||||||
+4022|1|General public|||||||||
+4029|1|General public|||||||||
+4036|1|General public|||||||||
+4043|1|General public|||||||||
+4150|1|Ниво: висше образование: медицина •	5 курс|||||||||
+4157|1|Ниво: висше образование: медицина •	5 курс|||||||||
+4164|1|Ниво: висше образование: медицина •	5 курс|||||||||
+4171|1|Ниво: висше образование: медицина •	5 курс|||||||||
+4178|1|Ниво: висше образование: медицина •	5 курс|||||||||
+4185|1|Ниво: висше образование: медицина •	5 курс|||||||||
+4192|1|Ниво: висше образование: медицина •	5 курс|||||||||
+4199|1|Ниво: висше образование: медицина •	5 курс|||||||||
+4206|1|Ниво: висше образование: медицина •	5 курс|||||||||
+4213|1|Ниво: висше образование: медицина •	5 курс|||||||||
+4220|||||||||||
+4227|||||||||||
+4234|||||||||||
+4241|||||||||||
+4248|||||||||||
+4255|||||||||||
+4262|||||||||||
+4269|||||||||||
+4276|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4283|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4290|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4297|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4304|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4311|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4318|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4325|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4332|||||||||||
+4339|||||||||||
+4346|||||||||||
+4353|||||||||||
+4360|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4367|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4374|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4381|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4388|||||||||||
+4395|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4402|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4409|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4416|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4423|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4430|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4437|||||||||||
+4444|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4451|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4458|||||||||||
+4465|||||||||||
+4472|||||||||||
+4479|||||||||||
+4486|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4493|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4500|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4507|1|PhD – students, MD, anaesthesiologists, paediatricians, intensivists|||||||||
+4568|||||||||||
+4575|||||||||||
+4582|||||||||||
+4589|||||||||||
+4596|||||||||||
+4603|||||||||||
+4610|||||||||||
+4633|1|A levels|||||||||
+4640|1|A levels, University entry level|||||||||
+4799|1|Level: High school; medicine  •	4th course medical students|||||||||
+4813|1|Level: High school; medicine  •	4th course medical students|||||||||
+4820|1|Level: High school; medicine  •	4th course medical students|||||||||
+4827|1|Level: High school; medicine  •	4th course medical students|||||||||
+4865|1|Level: High school; medicine  •	4th course medical students|||||||||
+4873|1|Level: High school; medicine  •	4th course medical students|||||||||
+5476|1|Level: High school - medicine  •	4th course medical students|||||||||
+5483|1|Level: High school - medicine  •	4th course medical students|||||||||
+5490|1|Level: High school - medicine  •	4th course medical students|||||||||
+5497|1|Level: High school - medicine  •	4th course medical students|||||||||
+5504|1|Level: High school - medicine  •	4th course medical students|||||||||
+5511|1|Level: High school - medicine  •	4th course medical students|||||||||
+5518|1|Level: High school - medicine  •	4th course medical students|||||||||
+5539|1|Undergraduate students|||||||||
+5554|1|Postgraduate students, MD, PhD|||||||||
+5561|1|Undergraduate students|||||||||
+5568|1|Postgraduate students, MD, PhD|||||||||
+5575|1|Undergraduate students|||||||||
+5582|1|Postgraduate students, MD, PhD|||||||||
+5589|1|Undergraduate students|||||||||
+5596|1|Postgraduate students, MD, PhD|||||||||
+5603|1|Undergraduate students|||||||||
+5610|1|Postgraduate students, MD, PhD|||||||||
+5617|||||||||||
+5624|1|Postgraduate students, MD, PhD|||||||||
+5631|1|Undergraduate students|||||||||
+5638|1|Postgraduate students, MD, PhD|||||||||
+5645|1|Undergraduate students|||||||||
+5652|1|Postgraduate students, MD, PhD|||||||||
+8163|||||||||||
+11464|1| Undergraduate|||||||||
+12246|||||||||||
+12253|||||||||||
+12715|||||||||||
+12736|||||||||||
+15209|||||||||||
+15608|||||||||||
+15615|||||||||||
+15622|||||||||||
+15629|||||||||||
+15636|||||||||||
+15643|||||||||||
+15650|||||||||||
+15657|||||||||||
+15664|||||||||||
+15671|||||||||||
+15678|||||||||||
+15685|||||||||||
+15692|||||||||||
+15699|||||||||||
+15706|||||||||||
+15713|||||||||||
+15720|||||||||||
+21804|||||||||||

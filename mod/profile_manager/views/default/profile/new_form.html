@@ -1,0 +1,253 @@
+<?php
+# new search form 
+# initial search via Ajax call to ajax_fetch_data.php
+# 
+
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>mEducator | Bio-medical Ontology Search Thingy (prototype)</title>
+  <meta name="author" content="KMi, The Open University, UK" />
+  <style type="text/css">
+    body { font-family: Verdana, Arial, sans-serif; font-size: 0.9em; color: #000000; background-color: #FFFFFF; }
+    input { border: 1px solid #000000; }
+    select { border: 1px solid #000000; margin: 4px 0; }
+    option { font-size: 90%; }
+    .noBox { border: 0; margin-bottom: 4px; }
+    .mainSelectors { width: 400px; }
+    .dim { color: #101010; }</style>
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script> 
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+
+  <script type="text/javascript">/* <![CDATA[ */
+    var labels=new Array();
+    var conceptIds=new Array();
+    var preferredNames=new Array();
+    var uniqueLabels=new Array();
+    // arrays of the results actually picked by the user
+    var pickedIndex=new Array(); // index number from search results
+    var pickedLabels=new Array();
+    var pickedIds=new Array();
+    var pickedNames=new Array();
+    // array search function
+    Array.prototype.in_array = function(p_val) {
+      for (var i = 0, l = this.length; i < l; i++) {
+        if (this[i] == p_val) {
+          return true;
+        }
+      }
+      return false;
+    }
+    // remove ontologies filter
+    function removeFilter(form) {
+      form.hitOnologies.selectedIndex=-1;
+      form.hits.length=0;
+      for (i=0; i < labels.length; i++) {
+        form.hits.options[i]=new Option(preferredNames[i] + ' | ' + labels[i], i);
+        // form.hits.options[i]=new Option(preferredNames[i], i);
+      }
+      form.hitLabel.value='';
+      form.hitConceptId.value='';
+      return true;
+    }
+
+    // pick a hit
+    function addHit(form) {
+      selIndex=form.hits.selectedIndex;
+      if (selIndex < 0) return false;
+      // newText=form.hits.options[selIndex].text;
+      newVal=form.hits.options[selIndex].value;
+      newText=preferredNames[newVal];
+      select=form.picked;
+      l=select.length;
+      select.options[l]=new Option(newText, newVal);
+      pickedIndex[newVal]=newVal;
+      pickedLabels[newVal]=labels[newVal];
+      pickedIds[newVal]=conceptIds[newVal];
+      pickedNames[newVal]=preferredNames[newVal];
+      return true;
+    }
+    // remove a single picked hit
+    function remHit(form) {
+      selIndex=form.picked.selectedIndex;
+      if (selIndex < 0) return false;
+      indexVal=form.picked.options[selIndex].value;
+      // alert('Removing item ' + selIndex + ', real index value ' + indexVal);
+      select.options[selIndex]=null;
+      pickedIndex[indexVal]=null;
+      pickedLabels[indexVal]=null;
+      pickedIds[indexVal]=null;
+      pickedNames[indexVal]=null;
+      return true;
+    }
+    // clear the picked hits
+    function clearAll(form) {
+      if (form.picked.length < 1) return false;
+      if (!confirm('Are you sure you want to clear these terms?')) return false;
+      form.picked.length=0;
+      pickedIndex.length=0;
+      pickedLabels.length=0;
+      pickedIds.length=0;
+      pickedNames.length=0;
+      return true;
+    }
+    // display details of a particular hit
+    function highlightHit(form) {
+      selIndex=form.hits.selectedIndex;
+      if (selIndex < 0) return false;
+      indexVal=form.hits.options[selIndex].value;
+      form.hitLabel.value=labels[indexVal];
+      form.hitConceptId.value=conceptIds[indexVal];
+    }
+    // fiter hits on ontology
+    function filterOntology(form) {
+      selIndex=form.hitOnologies.selectedIndex;
+      if (selIndex < 0) return false;
+      filterOntologies=new Array();
+      // get the text of the filter ontologies - can be more than one
+      
+      for (i=0; i < form.hitOnologies.length; i++) {
+        if (form.hitOnologies.options[i].selected) filterOntologies.push(form.hitOnologies.options[i].text);
+      }
+      // ontFilter=form.hitOnologies.options[selIndex].text; // the ontology we want
+      form.hits.length=0; // empty the hits filter
+      l=0;
+      // re-build the hits selector - don't show the ontology name if we've filtered on only one
+      for (i=0; i < preferredNames.length; i++) {
+        // if (labels[i]==ontFilter) {
+        if (filterOntologies.in_array(labels[i])) {
+          if (filterOntologies.length > 1) {
+            form.hits.options[l]=new Option(preferredNames[i] + ' | ' + labels[i], i);
+          } else {
+            form.hits.options[l]=new Option(preferredNames[i], i);
+          }
+          l++;
+        }
+      }
+      form.hitLabel.value='';
+      form.hitConceptId.value='';
+      return true;
+    }
+    function buildRDF(form) {
+      selIndex=form.picked.selectedIndex;
+      if (selIndex.length < 1) return false;
+	  // eliminate empty array elements
+	  labelsList=new Array();
+	  for (i=0; i < pickedLabels.length; i++) {
+        if (pickedLabels[i]) labelsList.push(pickedLabels[i]);
+      }
+      IdsList=new Array();
+      for (i=0; i < pickedIds.length; i++) {
+        if (pickedIds[i]) IdsList.push(pickedIds[i]);
+      }
+      namesList=new Array();
+      for (i=0; i < pickedNames.length; i++) {
+        if (pickedNames[i]) namesList.push(pickedNames[i]);
+      }
+	  // pass the arrays back to the main (opening) form
+      opener.document.forms['masterForm'].pickedLabels.value=labelsList;
+      opener.document.forms['masterForm'].pickedIds.value=IdsList;
+      opener.document.forms['masterForm'].pickedNames.value=namesList;
+      form.submit();
+	  window.close();
+      return true;
+    }
+    // jQuery Ajax call
+    function fetchHits(form) {
+      if (form.searchfor.value=='') return false;
+      searchfor = form.searchfor.value;
+      form.statusBox.value = 'Searching...';
+      $.ajax({
+        type: "GET",
+        url: "ajax_fetch_data.php?searchfor=" + searchfor,
+        dataType: "xml",
+        success: function(xml) {
+          $(xml).find('hit').each(function(){
+            labels.push($(this).find("label").text());
+            conceptIds.push($(this).find("conceptId").text());
+            preferredNames.push($(this).find("preferredName").text());
+          });
+          $(xml).find('ontology').each(function(){
+            uniqueLabels.push($(this).find("name").text());
+          });
+          if (labels.length > 0) {
+            form.statusBox.value = 'Your search found ' + labels.length + ' hits';
+            // populate the hits selector
+            l=0;
+            for (i=0; i < preferredNames.length; i++) {
+              form.hits.options[l]=new Option(preferredNames[i] + ' | ' + labels[i], i);
+              l++;
+            }
+            l=0;
+            if (uniqueLabels.length > 0) {
+              form.statusBox.value = form.statusBox.value + ' from ' + uniqueLabels.length + ' ontologies';
+              document.getElementById('ontolFilter').style.visibility='visible';
+              for (i=0; i < uniqueLabels.length; i++) {
+                form.hitOnologies.options[l]=new Option(uniqueLabels[i] , '');
+                l++;
+              }
+            }
+          } else {
+            form.statusBox.value = 'Sorry but your search did not find any hits';
+          }
+        }
+      });
+    }
+    // reset the entire form; empty the JavaScript arrays
+    function resetForm(form) {
+      if (!confirm('Are you certain you want to start from scratch?')) return false;
+      form.searchfor.value='';
+      form.hits.options.length=0;
+      form.hitOnologies.options.length=0;
+      form.picked.options.length=0;
+      document.getElementById('ontolFilter').style.visibility='hidden';
+      
+      labels.length=0;
+      conceptIds.length=0;
+      preferredNames.length=0;
+      uniqueLabels.length=0;
+      
+      pickedIndex.length=0;
+      pickedLabels.length=0;
+      pickedIds.length=0;
+      pickedNames.length=0;
+    }
+    /* ]]> */
+  </script>
+</head>
+
+<body>
+<h3>mEducator | Bio-medical Ontology Search Thingy (prototype)</h3>
+
+<form action='' name='theForm' method='post'>
+<p>
+Enter your search term: <input type='text' name='searchfor' size='32' maxlength='100' /> 
+<input type='button' value='Search' onclick='return fetchHits(this.form);' /> 
+<input type='text' name='statusBox' size='100' class='noBox' /></p>
+<input type='hidden' name='action' value='' />
+<table><tr><td style='width: 45%; text-align: center; vertical-align: top;'>Your chosen responses:<br />
+<select name='picked' size='12' class='mainSelectors'></select><br />
+<input type='button' value='[clear all]' onclick='return clearAll(this.form);' /></td>
+<td style='vertical-align: top; padding-top: 36px;'><input type='button' value='&laquo;' title='Click to add entry' onclick='return addHit(this.form);' /><br />
+<br />
+<input type='button' value='x' title='Click to remove entry' onclick='return remHit(this.form);' /></td>
+<td style='width: 45%; text-align: center; vertical-align: top;'>Bio-portal response:<br />
+<select name='hits' size='12' class='mainSelectors' onclick='highlightHit(this.form);'>
+</select><br />
+Ontology: <input type='text' name='hitLabel' size='50' class='noBox' /><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;URL: <input type='text' name='hitConceptId' size='50' class='noBox' /><br />
+<br />
+<div id='ontolFilter' style='visibility: hidden;'>
+Filter on ontology:<br /><select name='hitOnologies' size='6' multiple></select><br />
+<input type='button' value='apply filter' onclick='return filterOntology(this.form);' /> <input type='button' value='none' onclick='return removeFilter(this.form);' />
+</div></td>
+</tr>
+<tr><td><input type='button' value='submit your choice' onclick='return buildRDF(this.form);' /> <input type='reset' value='reset and search again' onclick='return resetForm(this.form);' /></td></tr>
+</table>
+</form>
+
+</body>
+</html>

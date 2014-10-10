@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#3227">
+
+	 <mdc:identifier><![CDATA[]]></mdc:identifier> 
+<mdc:title><![CDATA[Pericarditis_Repurposed ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Alan Rice]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Evangelia Mitsopoulou]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-01-01</mdc:created>
+<mdc:metadataCreated>2010-06-15</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject318004290"><rdfs:label><![CDATA[Pericarditis ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[12 lead ECG showing]]></mdc:description>
+<mdc:technicalDescription><![CDATA[It is a digital ECG, imported into Web Trace platform. a pen-based learning tool developed at the University of Catania.]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#image"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#image"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1280558968"><rdfs:label><![CDATA[Cardiac Care ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality88029066"><rdfs:label><![CDATA[Paramedic Practice ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>Level 4, 5 &amp; 6</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Within Foundation Degree Paramedic Science]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Consolidation tool to follow ECG and cardiac care training]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[To allow the students to practice ECG interpretation]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Student should be able to identify normal and abnormal findings from 12 lead electrocardiography]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[ECG interpretation within assignment and OSPE assessment]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[Appropriate knowledge of underpinning anatomy and physiology, clinical presentation of numerous diseases and mechanics of electrocardiography]]></mdc:educationalPrerequisites>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Pericarditis</mdc:title>
+<mdc:identifier>http://metamorphosis.med.duth.gr/pg/file/litsa/read/3224/ecg_img3</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>WebTrace is a web-based learning tool developed at the University of Catania in Italy and is used for learning by tracing medical images. The repurposing activity took three forms:
+
+1)	The first instance of repurposing, “repurposing to a different technology”, was the use of this web-based tool to replace the paper-based ECG format.
+
+2)	The second type of repurposing, is ‘repurposing to educational content’. The original ECG is a test result, which had been repurposed, in a paper based format, as educational content. Here, it has been necessary to return to the original test result, and once again repurpose, to a different type of educational content. Web Trace permits the creation of multiple levels of difficulty in the questions, so that answers can be expressed in different colours which correspond to the differing levels of difficulty, within the same ECG
+
+3)	A further minor repurposing is “changes in the content itself”. WebTrace, initially created to fit one purpose (tracing medical images of a specific format i.e. X Rays images) was used to for different content (ECG images).</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>rdf:resource="</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Technology</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Educational-Level</mdc:fromRepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:identifier>http://metamorphosis.med.duth.gr/pg/file/litsa/read/3224/ecg_img3</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

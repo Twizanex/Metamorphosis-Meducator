@@ -1,0 +1,1781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<graph id="ELGG" edgedefault="directed">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="username" for="node" attr.name="username" attr.type="string"/>
+<node id="1782">
+<data key="name">3D model of the stomach</data>
+<data key="username">3D_model_of_the_stomach</data>
+</node>
+<node id="1817">
+<data key="name">3D stomach model with description of the main sections</data>
+<data key="username">3D_annotated_stomach_model</data>
+</node>
+<node id="3410">
+<data key="name">3D virtual learning environment for chest pain</data>
+<data key="username">3D_virtual_learning_environment_for_chest_pain</data>
+</node>
+<node id="43490">
+<data key="name">;</data>
+<data key="username">c70cd9b8589f006c277456f24a5e7ce3</data>
+</node>
+<node id="3438">
+<data key="name">A rare  case of intestinal obstruction</data>
+<data key="username">A_rare__case_of_intestinal_obstruction</data>
+</node>
+<node id="2672">
+<data key="name">A research facility for habitation questions to be built at the German Aerospace Center in Cologne: future challenges of Space medicine</data>
+<data key="username">A_research_facility_for_habitation_questions_to_be_built_at_the_German_Aerospace_Center_in_Cologne:_future_challenges_of_Space_m</data>
+</node>
+<node id="3176">
+<data key="name">Abdominal Aorta Aneurysm</data>
+<data key="username">Abdominal_Aorta_Aneurysm</data>
+</node>
+<node id="2122">
+<data key="name">acid base balance</data>
+<data key="username">acid_base_status</data>
+</node>
+<node id="1160">
+<data key="name">Actor Simulated Patient Interview</data>
+<data key="username">Actor_Simulated_Patient_Interview</data>
+</node>
+<node id="3190">
+<data key="name">Acute Upper Extremity Ischemia</data>
+<data key="username">Acute_Upper_Extremity_Ischemia</data>
+</node>
+<node id="2144">
+<data key="name">An elearning platform for Aerospace Medicine</data>
+<data key="username">An_elearning_platform_for_Aerospace_Medicine</data>
+</node>
+<node id="2266">
+<data key="name">Anna Lena Olofsson Branched VP</data>
+<data key="username">Anna_Lena_Olofsson_Branched_VP</data>
+</node>
+<node id="2259">
+<data key="name">Anna Lena Olofsson, Linear VP</data>
+<data key="username">Anna_Lena_Olofsson,_Linear_VP</data>
+</node>
+<node id="43448">
+<data key="name">Autophagy</data>
+<data key="username">f4dfe73f77c9c74aaa9edf95371ac728</data>
+</node>
+<node id="2513">
+<data key="name">Basi di Stimolazione Magnetica Transcranica</data>
+<data key="username">Basi_di_Stimolazione_Magnetica_Transcranica</data>
+</node>
+<node id="62952">
+<data key="name">Basic Knowledge About Nike Shoes</data>
+<data key="username">955fb088bc3a2b4b1afd067a1a1022eb</data>
+</node>
+<node id="2548">
+<data key="name">Biomedical realtime monitoring in restricted and safetycritical environments</data>
+<data key="username">Biomedical_realtime_monitoring_in_restricted_and_safetycritical_environments</data>
+</node>
+<node id="1951">
+<data key="name">Biomolecular structure function analysis practicals</data>
+<data key="username">Biomolecular_structure_function_analysis_practicals</data>
+</node>
+<node id="2429">
+<data key="name">Biostatistics for epidemiology</data>
+<data key="username">Biostatistics_for_epidemiology</data>
+</node>
+<node id="42922">
+<data key="name">Blogi lääketieteen opetuksesta</data>
+<data key="username">947737f062cb77b5e7a67d58060abe2e</data>
+</node>
+<node id="42915">
+<data key="name">Blogi lääketieteen opetuksesta Helsingissä</data>
+<data key="username">b0c93632b9286e7d008481f30f8e7bca</data>
+</node>
+<node id="2794">
+<data key="name">Boli metabolice</data>
+<data key="username">Boli_metabolice</data>
+</node>
+<node id="2815">
+<data key="name">Bolile pancreasului</data>
+<data key="username">Bolile_pancreasului</data>
+</node>
+<node id="2200">
+<data key="name">Boston Criteria for the Diagnosis of Congestive Heart Failure</data>
+<data key="username">Boston_Criteria_for_the_Diagnosis_of_Congestive_Heart_Failure</data>
+</node>
+<node id="1659">
+<data key="name">Breast cancers</data>
+<data key="username">Breast_cancers</data>
+</node>
+<node id="1666">
+<data key="name">Breast tumors</data>
+<data key="username">Breast_tumors</data>
+</node>
+<node id="4610">
+<data key="name">CADs I</data>
+<data key="username">CADs_I</data>
+</node>
+<node id="43434">
+<data key="name">cancer</data>
+<data key="username">ce2eaac9272dadf69162d935a55ebe09</data>
+</node>
+<node id="43441">
+<data key="name">cancer</data>
+<data key="username">e44810a6a6a45da89736980a62184c02</data>
+</node>
+<node id="43462">
+<data key="name">cancer</data>
+<data key="username">68cc622829c0db803334624d7b641bae</data>
+</node>
+<node id="43469">
+<data key="name">cancer</data>
+<data key="username">ab1e13518abf07778596bcf251ed7784</data>
+</node>
+<node id="43483">
+<data key="name">cancer</data>
+<data key="username">3b17fa0ff973c3902c4ef80383488d78</data>
+</node>
+<node id="4596">
+<data key="name">Cardiology I</data>
+<data key="username">Cardiology_I</data>
+</node>
+<node id="4603">
+<data key="name">Cardiology II</data>
+<data key="username">Cardiology_II</data>
+</node>
+<node id="4360">
+<data key="name">CARE FOR VENTILATED PAIENT</data>
+<data key="username">CARE_FOR_VENTILATED_PAIENT</data>
+</node>
+<node id="3146">
+<data key="name">Carotid Stenosis</data>
+<data key="username">Carotid_Stenosis</data>
+</node>
+<node id="11464">
+<data key="name">Cas pratique d'analyse critique d'article médical scientifique - Grille de notation :Ximélagatran versus warfarine dans la prévention des accidents vasculaires cérébraux chez les patients souffrant de fibrillation auriculaire non valvulaire</data>
+<data key="username">7bdbd1ccbc81590bdcfc08ea31ef9fe6</data>
+</node>
+<node id="8163">
+<data key="name">Cas pratique d'analyse critique d'article médical scientifique : Etude comparative dans le traitement de la fibromyalgie : ultrasons et kinésithérapie versus sertraline</data>
+<data key="username">essai</data>
+</node>
+<node id="5539">
+<data key="name">Case study 1</data>
+<data key="username">Case_studie_1</data>
+</node>
+<node id="5554">
+<data key="name">Case study 1 Repurpose</data>
+<data key="username">Case_study_1_Repurpose</data>
+</node>
+<node id="5561">
+<data key="name">Case study 2</data>
+<data key="username">Case_study_2</data>
+</node>
+<node id="5568">
+<data key="name">Case study 2 Repurpose</data>
+<data key="username">Case_study_2_Repurpose</data>
+</node>
+<node id="5575">
+<data key="name">Case study 3</data>
+<data key="username">Case_study_3</data>
+</node>
+<node id="5582">
+<data key="name">Case study 3 Repurpose</data>
+<data key="username">Case_study_3_Repurpose</data>
+</node>
+<node id="5589">
+<data key="name">Case study 4</data>
+<data key="username">Case_study_4</data>
+</node>
+<node id="5596">
+<data key="name">Case study 4 Repurpose</data>
+<data key="username">Case_study_4_Repurpose</data>
+</node>
+<node id="5603">
+<data key="name">Case study 5</data>
+<data key="username">Case_study_5</data>
+</node>
+<node id="5610">
+<data key="name">Case study 5 Repurpose</data>
+<data key="username">Case_study_5_Repurpose</data>
+</node>
+<node id="5624">
+<data key="name">Case study 6 Repurpose</data>
+<data key="username">Case_study_6_Repurpose</data>
+</node>
+<node id="5631">
+<data key="name">Case study 7</data>
+<data key="username">Case_study_7</data>
+</node>
+<node id="5638">
+<data key="name">Case study 7 Repurpose</data>
+<data key="username">Case_study_7_Repurpose</data>
+</node>
+<node id="5645">
+<data key="name">Case study 8</data>
+<data key="username">Case_study_8</data>
+</node>
+<node id="5652">
+<data key="name">Case study 8 Repurpose</data>
+<data key="username">Case_study_8_Repurpose</data>
+</node>
+<node id="5617">
+<data key="name">Case trichinosis</data>
+<data key="username">Case_study_6</data>
+</node>
+<node id="2330">
+<data key="name">Catherine Miller Branched VP</data>
+<data key="username">Catherine_Miller_Brabched_VP</data>
+</node>
+<node id="2323">
+<data key="name">Catherine Miller Linear VP</data>
+<data key="username">Catherine_Miller_Linear_VP</data>
+</node>
+<node id="838">
+<data key="name">Catherine Miller VP</data>
+<data key="username">Test_VP</data>
+</node>
+<node id="1958">
+<data key="name">cell division video</data>
+<data key="username">cell_division_video</data>
+</node>
+<node id="3370">
+<data key="name">Cervical cancer screening brochure Belgium French</data>
+<data key="username">Cervical_cancer_screening_brochure_Belgium_French</data>
+</node>
+<node id="3533">
+<data key="name">Cervical cancer screening brochure for Bosnia</data>
+<data key="username">Cervical_cancer_screening_brochure_for_Bosnia</data>
+</node>
+<node id="3565">
+<data key="name">Cervical cancer screening brochure for Bulgaria</data>
+<data key="username">Cervical_cancer_screening_brochure_for_Bulgaria</data>
+</node>
+<node id="3608">
+<data key="name">Cervical cancer screening brochure for Croatia</data>
+<data key="username">Cervical_cancer_screening_brochure_for_Croatia</data>
+</node>
+<node id="3716">
+<data key="name">Cervical cancer screening brochure for England</data>
+<data key="username">Cervical_cancer_screening_brochure_for_England</data>
+</node>
+<node id="3804">
+<data key="name">Cervical cancer screening brochure for Estonia</data>
+<data key="username">Cervical_cancer_screening_brochure_for_Estonia</data>
+</node>
+<node id="3501">
+<data key="name">Cervical cancer screening brochure for France</data>
+<data key="username">Cervical_cancer_screening_brochure_for_France</data>
+</node>
+<node id="3748">
+<data key="name">Cervical cancer screening brochure for Ireland</data>
+<data key="username">Cervical_cancer_screening_brochure_for_Ireland</data>
+</node>
+<node id="3836">
+<data key="name">Cervical cancer screening brochure for Italy</data>
+<data key="username">Cervical_cancer_screening_brochure_for_Italy</data>
+</node>
+<node id="3868">
+<data key="name">Cervical cancer screening brochure for Macedonia</data>
+<data key="username">Cervical_cancer_screening_brochure_for_Macedonia</data>
+</node>
+<node id="3966">
+<data key="name">Cervical cancer screening brochure for Poland</data>
+<data key="username">Cervical_cancer_screening_brochure_for_Poland</data>
+</node>
+<node id="3934">
+<data key="name">Cervical cancer screening brochure for Portugal</data>
+<data key="username">Cervical_cancer_screening_brochure_for_Portugal</data>
+</node>
+<node id="3990">
+<data key="name">Cervical cancer screening brochure for Romania</data>
+<data key="username">Cervical_cancer_screening_brochure_for_Romania</data>
+</node>
+<node id="4022">
+<data key="name">Cervical cancer screening brochure for Russia</data>
+<data key="username">Cervical_cancer_screening_brochure_for_Russia</data>
+</node>
+<node id="3647">
+<data key="name">Cervical cancer screening brochure for the Czech Republic</data>
+<data key="username">Cervical_cancer_screening_brochure_for_the_Czech_Republic</data>
+</node>
+<node id="15608">
+<data key="name">Cette ressource n'est pas "repurposed" mais intérêt à tester.</data>
+<data key="username">b2020d4822838d0225d9852ce41ebcbd</data>
+</node>
+<node id="2562">
+<data key="name">Chest pain virtual patient</data>
+<data key="username">Chest_pain_virtual_patient</data>
+</node>
+<node id="1615">
+<data key="name">Chest XRay of the Elderly</data>
+<data key="username">Chest_XRay_of_the_Elderly</data>
+</node>
+<node id="3167">
+<data key="name">Chronic Venous Insufficiency</data>
+<data key="username">Chronic_Venous_Insufficiency</data>
+</node>
+<node id="2979">
+<data key="name">Classes of Light for Parapneumonic Effusions and Empyema</data>
+<data key="username">Classes_of_Light_for_Parapneumonic_Effusions_and_Empyema</data>
+</node>
+<node id="4633">
+<data key="name">Climate Health Impact French version</data>
+<data key="username">Climate_Health_Impact_French_version</data>
+</node>
+<node id="1403">
+<data key="name">Climate Health Impact game</data>
+<data key="username">Climate_Health_Impact_game</data>
+</node>
+<node id="4640">
+<data key="name">Climate Health Impact Greek version</data>
+<data key="username">Climate_Health_Impact_Greek_version</data>
+</node>
+<node id="3284">
+<data key="name">clinical questions in gastroenterology and nephrology</data>
+<data key="username">Preclinical_progress_test_questions</data>
+</node>
+<node id="2471">
+<data key="name">Collection of laterolateral Xrays landmarked with cephalometric points</data>
+<data key="username">Collection_of_laterolateral_Xrays_landmarked_with_cephalometric_points</data>
+</node>
+<node id="2464">
+<data key="name">Collection of laterolateral Xrays with basic and advanced cephalometric tracings</data>
+<data key="username">Collection_of_laterolateral_Xrays_with_basic_and_advanced_cephalometric_tracings</data>
+</node>
+<node id="2492">
+<data key="name">Collection of skull Postero Anterior Xrays landmarked with cephalometric points</data>
+<data key="username">Collection_of_skull_Postero_Anterior_Xrays_landmarked_with_cephalometric_points</data>
+</node>
+<node id="3248">
+<data key="name">Complete heart block</data>
+<data key="username">ECG1_original</data>
+</node>
+<node id="3204">
+<data key="name">Complete heart block Repurposed</data>
+<data key="username">ECG1</data>
+</node>
+<node id="2224">
+<data key="name">COMPUTER AIDED DIAGNOSIS SYSTEMS</data>
+<data key="username">COMPUTER_AIDED_DIAGNOSIS_SYSTEMS</data>
+</node>
+<node id="4276">
+<data key="name">Continuous Positive Airway Pressure  СРАР</data>
+<data key="username">Continuous_Positive_Airway_Pressure__СРАР</data>
+</node>
+<node id="4395">
+<data key="name">CONTROLLED VARIABLES, DETERMINANTES OF THE OXYGENATION AND CALCULATED INDICES</data>
+<data key="username">CONTROLLED_VARIABLES,_DETERMINANTES_OF_THE_OXYGENATION_AND_CALCULATED_INDICES</data>
+</node>
+<node id="4402">
+<data key="name">CONTROLLED VARIABLES, DETERMINANTES OF THE OXYGENATION AND CALCULATED INDICES  part2</data>
+<data key="username">CONTROLLED_VARIABLES,_DETERMINANTES_OF_THE_OXYGENATION_AND_CALCULATED_INDICES__part2</data>
+</node>
+<node id="4409">
+<data key="name">CONTROLLED VARIABLES, DETERMINANTES OF THE OXYGENATION AND CALCULATED INDICES part3</data>
+<data key="username">CONTROLLED_VARIABLES,_DETERMINANTES_OF_THE_OXYGENATION_AND_CALCULATED_INDICES_part3</data>
+</node>
+<node id="4283">
+<data key="name">CONVENTIONAL VENTILATION  CV</data>
+<data key="username">CONVENTIONAL_VENTILATION__CV</data>
+</node>
+<node id="2639">
+<data key="name">Creation of a Smoking Cessation Network</data>
+<data key="username">Creation_of_a_Smoking_Cessation_Network</data>
+</node>
+<node id="2527">
+<data key="name">Criteri per la Diagnosi ALS tramite esame clinico ed elettrofisiologico</data>
+<data key="username">Criteri_per_la_Diagnosi_ALS_tramite_esame_clinico_ed_elettrofisiologico</data>
+</node>
+<node id="4185">
+<data key="name">Cushing</data>
+<data key="username">Cushing</data>
+</node>
+<node id="63397">
+<data key="name">Der Erfolg der Nike Air Max legte den Erfolg von Nike</data>
+<data key="username">94a872005f6b28cf2a4a351565c97e07</data>
+</node>
+<node id="4206">
+<data key="name">Diabet</data>
+<data key="username">Diabet</data>
+</node>
+<node id="45460">
+<data key="name">DIABETES MELLITUS - Lecture in Endocrinology for medical students</data>
+<data key="username">5891059e098ec34154c3b5a72c67371d</data>
+</node>
+<node id="2499">
+<data key="name">Diagnosis of the Long Face syndrome</data>
+<data key="username">Diagnosis_of_the_Long_Face_syndrome</data>
+</node>
+<node id="1471">
+<data key="name">Dicom multiframe</data>
+<data key="username">Dicom_multiframe</data>
+</node>
+<node id="2583">
+<data key="name">DICOM Standard: An Introduction</data>
+<data key="username">DICOM_Standard:_An_Introduction</data>
+</node>
+<node id="2590">
+<data key="name">DICOM Standard: An Introduction in SCORM</data>
+<data key="username">DICOM_Standard:_An_Introduction_in_SCORM</data>
+</node>
+<node id="3402">
+<data key="name">Differential diagnosis of chest pain</data>
+<data key="username">Differential_diagnosis_of_chest_pain</data>
+</node>
+<node id="43476">
+<data key="name">dimos</data>
+<data key="username">42b3449dc0420fde02687d4aed52c1d0</data>
+</node>
+<node id="1410">
+<data key="name">Disease quiz climate health impact</data>
+<data key="username">Disease_quiz_climate_health_impact</data>
+</node>
+<node id="1419">
+<data key="name">Disease quiz climate health impact French</data>
+<data key="username">Disease_quiz_climate_health_impact_French</data>
+</node>
+<node id="2534">
+<data key="name">Distance Medical Education</data>
+<data key="username">Distance_Medical_Education</data>
+</node>
+<node id="43210">
+<data key="name">dna precipitation</data>
+<data key="username">8b1371a24c0440f289a2d8bd4a934cb1</data>
+</node>
+<node id="42693">
+<data key="name">dom's resource</data>
+<data key="username">fe61d00182e5bdf76174009fbe5f3efc</data>
+</node>
+<node id="43231">
+<data key="name">don't open THIS</data>
+<data key="username">187420086f5b10dbce0b2a1d116cce1f</data>
+</node>
+<node id="2172">
+<data key="name">Dynamic Prognostic Profile for Acute Myocardial Infarction</data>
+<data key="username">Dynamic_Prognostic_Profile_for_Acute_Myocardial_Infarction</data>
+</node>
+<node id="42469">
+<data key="name">ECCA Test 1</data>
+<data key="username">2661847fd7f84c485b850992f12fd583</data>
+</node>
+<node id="42506">
+<data key="name">ECCA TEST 2</data>
+<data key="username">9cac06e74c06536b4fde9541497a4846</data>
+</node>
+<node id="42513">
+<data key="name">ECCA TEST 3 Heart diseases</data>
+<data key="username">c0ca6f7ad9f48d08a56274174f3868eb</data>
+</node>
+<node id="42797">
+<data key="name">ecca test Vilnius</data>
+<data key="username">f704d3b27880313fb93566b8b435bf88</data>
+</node>
+<node id="42811">
+<data key="name">ECCA TEST VILNIUS</data>
+<data key="username">1e8169076a0aadb1869df3b4314268d0</data>
+</node>
+<node id="42790">
+<data key="name">ecca test vilnius Lina</data>
+<data key="username">865edcaf80fafdd3c16211b89af676af</data>
+</node>
+<node id="42818">
+<data key="name">ecca test vilnius Lina</data>
+<data key="username">78ed9a26ce29ee11551ebcd7aeca2910</data>
+</node>
+<node id="42804">
+<data key="name">ecca vilnius</data>
+<data key="username">e9cb3e47372a9b13b4d11fc322542fe2</data>
+</node>
+<node id="2165">
+<data key="name">ECG short term risk acute myocardial infarction</data>
+<data key="username">ECG_short_term_risk_acute_myocardial_infarction</data>
+</node>
+<node id="2681">
+<data key="name">EEG Changes of Haider et al in Sedative Overdosage and Coma</data>
+<data key="username">EEG_Changes_of_Haider_et_al_in_Sedative_Overdosage_and_Coma</data>
+</node>
+<node id="2186">
+<data key="name">Efavirenz Dose Reduction in an HIV1 Infected Patient Based on CYP2B6 Genotype</data>
+<data key="username">Efavirenz_Dose_Reduction_in_an_HIV1_Infected_Patient_Based_on_CYP2B6_Genotype</data>
+</node>
+<node id="2752">
+<data key="name">Electronic Health Record</data>
+<data key="username">Electronic_Health_Record</data>
+</node>
+<node id="1535">
+<data key="name">electronic OSCE for rectal examination</data>
+<data key="username">electronic_OSCE_for_rectal_examination</data>
+</node>
+<node id="1570">
+<data key="name">electronic OSCE Station for Blood Pressure Measurement</data>
+<data key="username">electronic_OSCE_Station_for_Blood_Pressure_Measurement</data>
+</node>
+<node id="1527">
+<data key="name">electronic OSCE station for intravenous cannulation</data>
+<data key="username">electronic_OSCE_station_for_intravenous_cannulation</data>
+</node>
+<node id="1608">
+<data key="name">Enabling Content Sharing in Contemporary Medical Education: A Review of technical standards</data>
+<data key="username">Enabling_Content_Sharing_in_Contemporary_Medical_Education:_A_Review_of_technical_standards</data>
+</node>
+<node id="4575">
+<data key="name">Endoscopy</data>
+<data key="username">Endoscopy</data>
+</node>
+<node id="2130">
+<data key="name">Endoscopy image analyses</data>
+<data key="username">Endoscopy_image_analyses</data>
+</node>
+<node id="43245">
+<data key="name">Evaluation 18414</data>
+<data key="username">75784a58b445a8459176a82099c0bdb0</data>
+</node>
+<node id="1694">
+<data key="name">Evidence Based Analysis 1</data>
+<data key="username">Evidence_Based_Analysis_1</data>
+</node>
+<node id="43224">
+<data key="name">EXAMINATION 1</data>
+<data key="username">f3fa937439d560d5d3de2a0ddef75fe9</data>
+</node>
+<node id="1715">
+<data key="name">Examination cases</data>
+<data key="username">Examination_cases</data>
+</node>
+<node id="2801">
+<data key="name">Eye: introductory lesson</data>
+<data key="username">Eye:_introductory_lesson</data>
+</node>
+<node id="65252">
+<data key="name">feling111</data>
+<data key="username">d5c5add9712045c8c89e9dd40984dbc4</data>
+</node>
+<node id="1464">
+<data key="name">Fetal medicine case</data>
+<data key="username">Fetal_medicine_case</data>
+</node>
+<node id="2287">
+<data key="name">Florian Branched VP</data>
+<data key="username">Florian_Branched_VP</data>
+</node>
+<node id="2252">
+<data key="name">Florian Virtual Patient</data>
+<data key="username">Florian_Virtual_Patient</data>
+</node>
+<node id="3384">
+<data key="name">Follow up of an abnormal Pap smear Belgium French</data>
+<data key="username">Follow_up_of_an_abnormal_Pap_smear_Belgium_French</data>
+</node>
+<node id="3547">
+<data key="name">Follow up of an abnormal Pap smear brochure for Bosnia</data>
+<data key="username">Follow_up_of_an_abnormal_Pap_smear_brochure_for_Bosnia</data>
+</node>
+<node id="3579">
+<data key="name">Follow up of an abnormal Pap smear brochure for Bulgaria</data>
+<data key="username">Follow_up_of_an_abnormal_Pap_smear_brochure_for_Bulgaria</data>
+</node>
+<node id="3622">
+<data key="name">Follow up of an abnormal Pap smear brochure for Croatia</data>
+<data key="username">Follow_up_of_an_abnormal_Pap_smear_brochure_for_Croatia</data>
+</node>
+<node id="3818">
+<data key="name">Follow up of an abnormal Pap smear brochure for Estonia</data>
+<data key="username">Follow_up_of_an_abnormal_Pap_smear_brochure_for_Estonia</data>
+</node>
+<node id="3515">
+<data key="name">Follow up of an abnormal Pap smear brochure for France</data>
+<data key="username">Follow_up_of_an_abnormal_Pap_smear_brochure_for_France</data>
+</node>
+<node id="3762">
+<data key="name">Follow up of an abnormal Pap smear brochure for Ireland</data>
+<data key="username">Follow_up_of_an_abnormal_Pap_smear_brochure_for_Ireland</data>
+</node>
+<node id="3850">
+<data key="name">Follow up of an abnormal Pap smear brochure for Italy</data>
+<data key="username">Follow_up_of_an_abnormal_Pap_smear_brochure_for_Italy</data>
+</node>
+<node id="3882">
+<data key="name">Follow up of an abnormal Pap smear brochure for Macedonia</data>
+<data key="username">Follow_up_of_an_abnormal_Pap_smear_brochure_for_Macedonia</data>
+</node>
+<node id="3980">
+<data key="name">Follow up of an abnormal Pap smear brochure for Poland</data>
+<data key="username">Follow_up_of_an_abnormal_Pap_smear_brochure_for_Poland</data>
+</node>
+<node id="3948">
+<data key="name">Follow up of an abnormal Pap smear brochure for Portugal</data>
+<data key="username">Follow_up_of_an_abnormal_Pap_smear_brochure_for_Portugal</data>
+</node>
+<node id="4004">
+<data key="name">Follow up of an abnormal Pap smear brochure for Romania</data>
+<data key="username">Follow_up_of_an_abnormal_Pap_smear_brochure_for_Romania</data>
+</node>
+<node id="4036">
+<data key="name">Follow up of an abnormal Pap smear brochure for Russia</data>
+<data key="username">Follow_up_of_an_abnormal_Pap_smear_brochure_for_Russia</data>
+</node>
+<node id="3661">
+<data key="name">Follow up of an abnormal Pap smear brochure for the Czech Republic</data>
+<data key="username">Follow_up_of_an_abnormal_Pap_smear_brochure_for_the_Czech_Republic</data>
+</node>
+<node id="3730">
+<data key="name">Follow-up of an abnormal cervical smear brochure for England</data>
+<data key="username">Follow_up_and_Treatment_of_an_Abnormal_Cervical_Smear</data>
+</node>
+<node id="2665">
+<data key="name">Future aeromedical assessment in general aviation: a contribution to the actual discussion</data>
+<data key="username">Future_aeromedical_assessment_in_general_aviation:_a_contribution_to_the_actual_discussion</data>
+</node>
+<node id="1831">
+<data key="name">Gastric Cancer</data>
+<data key="username">Gastric_Cancer</data>
+</node>
+<node id="3695">
+<data key="name">Geometric Optics. An Introduction</data>
+<data key="username">Geometric_Optics._An_Introduction</data>
+</node>
+<node id="2302">
+<data key="name">Graphics Annotation Usability in eLearning Applications</data>
+<data key="username">Graphics_Annotation_Usability_in_eLearning_Applications</data>
+</node>
+<node id="1969">
+<data key="name">GS case subjectDB</data>
+<data key="username">GS_case_subjectDB</data>
+</node>
+<node id="2238">
+<data key="name">Happy Night episode 1</data>
+<data key="username">Happy_Night_episode_1</data>
+</node>
+<node id="2717">
+<data key="name">Happy Night episode 2</data>
+<data key="username">Happy_Night_episode_2</data>
+</node>
+<node id="4568">
+<data key="name">Health Telematics</data>
+<data key="username">Health_Telematics</data>
+</node>
+<node id="2337">
+<data key="name">Heart Anatomy</data>
+<data key="username">Heart_Anatomy</data>
+</node>
+<node id="2344">
+<data key="name">Heart Structure</data>
+<data key="username">Heart_Structure</data>
+</node>
+<node id="2309">
+<data key="name">Hemodialysis and Peritoneal Dialysis</data>
+<data key="username">Hemodialysis_and_Peritoneal_Dialysis</data>
+</node>
+<node id="2555">
+<data key="name">High altitude cognitive performance and COPD interaction</data>
+<data key="username">High_altitude_cognitive_performance_and_COPD_interaction</data>
+</node>
+<node id="4297">
+<data key="name">High Frequency Ventilation  HFV</data>
+<data key="username">High_Frequency_Ventilation__HFV</data>
+</node>
+<node id="15699">
+<data key="name">http://chestjournal.chestpubs.org/content/76/6/663.full.pdf</data>
+<data key="username">ac6eede8f304e5c8179b130ff413430c</data>
+</node>
+<node id="15692">
+<data key="name">http://ieeexplore.ieee.org/Xplore/login.jsp?url=http://ieeexplore.ieee.org/iel5/74/21666/01003651.pdf?arnumber=1003651</data>
+<data key="username">062ddefeaa2e4a2bfc5f8be5a0c0b061</data>
+</node>
+<node id="15622">
+<data key="name">http://iris.med.duth.gr/elearning/course/view.php?id=104</data>
+<data key="username">80cddc8a95e46e9e7857bfde36f4c26f</data>
+</node>
+<node id="15706">
+<data key="name">http://jama.ama-assn.org/cgi/content/full/279/5/387</data>
+<data key="username">7d1589fa9816f6e506291eab54a232e2</data>
+</node>
+<node id="43905">
+<data key="name">http://medting.com/private/files/mdtng hCHmBX.pptx</data>
+<data key="username">7de4af4c72f1e2ed3662af39a483cc1c</data>
+</node>
+<node id="15664">
+<data key="name">http://metamorphosis.med.duth.gr/pg/file/litsa/read/3222/ecg_img1</data>
+<data key="username">452248e321acb2a011917402303f59af</data>
+</node>
+<node id="15657">
+<data key="name">http://metamorphosis.med.duth.gr/pg/file/litsa/read/3223/ecg_img2</data>
+<data key="username">ef307487f65eb71ed048e5944f1deb22</data>
+</node>
+<node id="15650">
+<data key="name">http://metamorphosis.med.duth.gr/pg/file/litsa/read/3224/ecg_img3</data>
+<data key="username">8e886710955a10de4d2aa19e27b89786</data>
+</node>
+<node id="15643">
+<data key="name">http://metamorphosis.med.duth.gr/pg/file/litsa/read/3225/ecg_img4</data>
+<data key="username">0f5b7a2ec5834bf78abaab6f4de7880e</data>
+</node>
+<node id="15629">
+<data key="name">http://metamorphosis.med.duth.gr/pg/profile/Geometric_Optics._An_Introduction</data>
+<data key="username">3b193fc8da00768e0f6ac78bd03677d2</data>
+</node>
+<node id="15636">
+<data key="name">http://metamorphosis.med.duth.gr/pg/profile/GS_case_subjectDB</data>
+<data key="username">8d43be9b68464a3f046e801734af2896</data>
+</node>
+<node id="15615">
+<data key="name">http://metamorphosis.med.duth.gr/pg/profile/VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter4</data>
+<data key="username">30bfc55b4b987776de937fa9afe5e38d</data>
+</node>
+<node id="15678">
+<data key="name">http://www.ivpcl.org/2007_m-Health.pdf</data>
+<data key="username">f6b998f4f157b161413572c80719f060</data>
+</node>
+<node id="15671">
+<data key="name">http://www.jisjournal.org/issue/Volume 8 Abstracts/j815.html</data>
+<data key="username">3ef074c7327e23322529734ae473a0d7</data>
+</node>
+<node id="15685">
+<data key="name">http://www.journals.uchicago.edu/doi/pdf/10.1086/429327</data>
+<data key="username">f77160540f0c30ab6b971164f94be24a</data>
+</node>
+<node id="15713">
+<data key="name">http://www.ncbi.nlm.nih.gov/pubmed/19162887</data>
+<data key="username">ae2a9db01a0a650ce93de9b0a39fb068</data>
+</node>
+<node id="2836">
+<data key="name">Human bones</data>
+<data key="username">Human_bones</data>
+</node>
+<node id="2822">
+<data key="name">Human eye</data>
+<data key="username">Human_eye</data>
+</node>
+<node id="3377">
+<data key="name">Human papillomavirus and cervical cancer brochure Belgium French</data>
+<data key="username">Human_papillomavirus_and_cervical_cancer_brochure_Belgium_French</data>
+</node>
+<node id="3540">
+<data key="name">Human papillomavirus and cervical cancer brochure for Bosnia</data>
+<data key="username">Human_papillomavirus_and_cervical_cancer_brochure_for_Bosnia</data>
+</node>
+<node id="3572">
+<data key="name">Human papillomavirus and cervical cancer brochure for Bulgaria</data>
+<data key="username">Human_papillomavirus_and_cervical_cancer_brochure_for_Bulgaria</data>
+</node>
+<node id="3615">
+<data key="name">Human papillomavirus and cervical cancer brochure for Croatia</data>
+<data key="username">Human_papillomavirus_and_cervical_cancer_brochure_for_Croatia</data>
+</node>
+<node id="3723">
+<data key="name">Human papillomavirus and cervical cancer brochure for England</data>
+<data key="username">Human_papillomavirus_and_cervical_cancer_brochure_for_England</data>
+</node>
+<node id="3811">
+<data key="name">Human papillomavirus and cervical cancer brochure for Estonia</data>
+<data key="username">Human_papillomavirus_and_cervical_cancer_brochure_for_Estonia</data>
+</node>
+<node id="3508">
+<data key="name">Human papillomavirus and cervical cancer brochure for France</data>
+<data key="username">Human_papillomavirus_and_cervical_cancer_brochure_for_France</data>
+</node>
+<node id="3755">
+<data key="name">Human papillomavirus and cervical cancer brochure for Ireland</data>
+<data key="username">Human_papillomavirus_and_cervical_cancer_brochure_for_Ireland</data>
+</node>
+<node id="3843">
+<data key="name">Human papillomavirus and cervical cancer brochure for Italy</data>
+<data key="username">Human_papillomavirus_and_cervical_cancer_brochure_for_Italy</data>
+</node>
+<node id="3875">
+<data key="name">Human papillomavirus and cervical cancer brochure for Macedonia</data>
+<data key="username">Human_papillomavirus_and_cervical_cancer_brochure_for_Macedonia</data>
+</node>
+<node id="3973">
+<data key="name">Human papillomavirus and cervical cancer brochure for Poland</data>
+<data key="username">Human_papillomavirus_and_cervical_cancer_brochure_for_Poland</data>
+</node>
+<node id="3941">
+<data key="name">Human papillomavirus and cervical cancer brochure for Portugal</data>
+<data key="username">Human_papillomavirus_and_cervical_cancer_brochure_for_Portugal</data>
+</node>
+<node id="3997">
+<data key="name">Human papillomavirus and cervical cancer brochure for Romania</data>
+<data key="username">Human_papillomavirus_and_cervical_cancer_brochure_for_Romania</data>
+</node>
+<node id="4029">
+<data key="name">Human papillomavirus and cervical cancer brochure for Russia</data>
+<data key="username">Human_papillomavirus_and_cervical_cancer_brochure_for_Russia</data>
+</node>
+<node id="3654">
+<data key="name">Human papillomavirus and cervical cancer brochure for the Czech Republic</data>
+<data key="username">Human_papillomavirus_and_cervical_cancer_brochure_for_the_Czech_Republic</data>
+</node>
+<node id="4192">
+<data key="name">Hyperaldosteronism</data>
+<data key="username">Hyperaldosteronism</data>
+</node>
+<node id="4213">
+<data key="name">hypocorticism</data>
+<data key="username">hypocorticism</data>
+</node>
+<node id="2151">
+<data key="name">Informatics based Medical Procedure Assistance during Space Missions</data>
+<data key="username">Informatics_based_Medical_Procedure_Assistance_during_Space_Missions</data>
+</node>
+<node id="2604">
+<data key="name">Information and Communication Technologies in Surgery (Lecture Slides)</data>
+<data key="username">Surgery_Telematics:_Presentation</data>
+</node>
+<node id="12736">
+<data key="name">Information Technology</data>
+<data key="username">d5e0d1a971a17bdffe9b9af2478828a5</data>
+</node>
+<node id="4500">
+<data key="name">INFORMATIONAL TECHNOLOGIES AND VOT</data>
+<data key="username">INFORMATIONAL_TECHNOLOGIES_AND_VOT</data>
+</node>
+<node id="3709">
+<data key="name">Introduction to Radiation Physics</data>
+<data key="username">Introduction_to_Radiation_Physics</data>
+</node>
+<node id="3255">
+<data key="name">Ischaemic chest pain</data>
+<data key="username">ECG2_original</data>
+</node>
+<node id="3215">
+<data key="name">Ischaemic chest pain_Repurposed</data>
+<data key="username">ECG_test2</data>
+</node>
+<node id="3452">
+<data key="name">Itroduction in mechanical ventilation</data>
+<data key="username">INTRODUCTION_IN_MECHANICAL_VENTILATION</data>
+</node>
+<node id="2316">
+<data key="name">John M Branched VP</data>
+<data key="username">John_M_Branched_VP</data>
+</node>
+<node id="2294">
+<data key="name">John M Linear VP</data>
+<data key="username">John_M_Linear_VP</data>
+</node>
+<node id="15720">
+<data key="name">katrin miller (from university of heidelberg) evip:vp:1000263</data>
+<data key="username">762211206927f040d29f8a414abb50e5</data>
+</node>
+<node id="2108">
+<data key="name">knee dislocation KD Wascher</data>
+<data key="username">high_velocity_knee_dislocation_classification</data>
+</node>
+<node id="2401">
+<data key="name">Knowledge Assessment Based on Evaluation of 3D Graphics Annotation in Lesson Context</data>
+<data key="username">Knowledge_Assessment_Based_on_Evaluation_of_3D_Graphics_Annotation_in_Lesson_Context</data>
+</node>
+<node id="1722">
+<data key="name">Lecture notes 1</data>
+<data key="username">Lecture_notes_1</data>
+</node>
+<node id="4799">
+<data key="name">Lecture of  emergency medicine  Chapter 2</data>
+<data key="username">Lecture_of__emergency_medicine__Chapter_2</data>
+</node>
+<node id="4813">
+<data key="name">Lecture of  emergency medicine Chapter 1</data>
+<data key="username">Lecture_of__emergency_medicine_Chapter_1</data>
+</node>
+<node id="4827">
+<data key="name">Lecture on Emergency Medicine and General Surger Chapter 4</data>
+<data key="username">Lecture_on_Emergency_Medicine_and_General_Surger_Chapter_4</data>
+</node>
+<node id="4820">
+<data key="name">Lecture on Emergency Medicine and General Surgery Chapter 3</data>
+<data key="username">Lecture_on_Emergency_Medicine_and_General_Surgery_Chapter_3</data>
+</node>
+<node id="4865">
+<data key="name">Lecture on Emergency Medicine, Family Medicine and Neurology  Chapter 5</data>
+<data key="username">Lecture_on_Emergency_Medicine,_Family_Medicine_and_Neurology__Chapter_5</data>
+</node>
+<node id="4873">
+<data key="name">Lecture on Emergency Medicine, Family Medicine, General Surgery and Gastroenterology  – Bulgarian language Chapter 6. Abdominal paracentesis</data>
+<data key="username">Lecture_on_Emergency_Medicine,_Family_Medicine,_General_Surgery_and_Gastroenterology__Chapter_6</data>
+</node>
+<node id="45259">
+<data key="name">Lecture on Emergency Medicine, Intensive Care, General Surgery and Family Medicine. Chapter 12. Cannulation of Peripheral Veins.</data>
+<data key="username">93befdd337e48ec3b5731e4a910211bb</data>
+</node>
+<node id="45273">
+<data key="name">Lecture on Emergency Medicine, Intensive Care, General Surgery and Otorhinolaryngology  – Bulgarian language  Chapter 14. Tracheal Intubation</data>
+<data key="username">11d58c13d1238a118ddf10122b9dbd1a</data>
+</node>
+<node id="45266">
+<data key="name">Lecture on Emergency Medicine, Intensive Care, General Surgery and Otorhinolaryngology.  Chapter 13. Tracheostomy</data>
+<data key="username">192ea853af4f73c4c1685ac9e3752592</data>
+</node>
+<node id="45252">
+<data key="name">Lecture on Emergency Medicine, Intensive Care, General Surgery and Otorhinolaryngology. Chapter 11. Nasal Tamponade</data>
+<data key="username">50869b494f456060293beff2c11fc0ad</data>
+</node>
+<node id="45280">
+<data key="name">Lecture on Emergency Medicine, Intensive Care, General Surgery and Otorhinolaryngology. Chapter 15. Cricothyroidotomy</data>
+<data key="username">1b712509a025d642ad9d8071ff7913ca</data>
+</node>
+<node id="45245">
+<data key="name">Lecture on Emergency Medicine, Intensive Care, General Surgery and Vascular Surgery.  Chapter 10. Venesection</data>
+<data key="username">ba6b7fb477f84a2308641895748c14cc</data>
+</node>
+<node id="45287">
+<data key="name">Lecture on Emergency Medicine, Intensive Care, General Surgery, Cardiology, Anesthesiology and Otorhinolaryngology.  Chapter 16. Resustitation</data>
+<data key="username">5ec930c854036b41a1d8f60e3bce621f</data>
+</node>
+<node id="2656">
+<data key="name">Legal Background of Aviation Medicine in Europe and its future development</data>
+<data key="username">Legal_Background_of_Aviation_Medicine_in_Europe_and_its_future_development</data>
+</node>
+<node id="2478">
+<data key="name">Linee guida italiane di prevenzione e trattamento dell'ictus cerebrale</data>
+<data key="username">Linee_Guida</data>
+</node>
+<node id="1761">
+<data key="name">Liver anatomy: anterior view</data>
+<data key="username">Liver_anatomy:_anterior_view</data>
+</node>
+<node id="1768">
+<data key="name">Liver anatomy: visceral surface</data>
+<data key="username">Liver_anatomy:_visceral_surface</data>
+</node>
+<node id="42609">
+<data key="name">Management of chronic obstructive pulmonary disease in adults in primary and secondary care (partial update).</data>
+<data key="username">08116516f48a3ade9bfb909ab9a2844a</data>
+</node>
+<node id="2731">
+<data key="name">Massif Facial</data>
+<data key="username">Massif_Facial</data>
+</node>
+<node id="12715">
+<data key="name">Mathematics</data>
+<data key="username">36c34c7a941d08d05e04abfe7320acac</data>
+</node>
+<node id="4589">
+<data key="name">Medical Learning Course</data>
+<data key="username">Medical_Learning_Course</data>
+</node>
+<node id="42996">
+<data key="name">mEducator user testing case studies - process approach</data>
+<data key="username">11d667b2ad53ac759a17cd3239418fa3</data>
+</node>
+<node id="3032">
+<data key="name">Metabasis platform</data>
+<data key="username">George1</data>
+</node>
+<node id="4582">
+<data key="name">Mhealth</data>
+<data key="username">Mhealth</data>
+</node>
+<node id="2208">
+<data key="name">mHealth eEmergency Systems and Services</data>
+<data key="username">mHealth_eEmergency_Systems_and_Services</data>
+</node>
+<node id="2745">
+<data key="name">Molecular Imaging Techniques: presentation</data>
+<data key="username">Molecular_Imaging_Techniques:_presentation</data>
+</node>
+<node id="1220">
+<data key="name">Mr Angermeier Branched Virtual Patient</data>
+<data key="username">Mr_Angermeier_Branched_Virtual_Patient</data>
+</node>
+<node id="1227">
+<data key="name">Mr Angermeier Linear Virtual Patient</data>
+<data key="username">Mr_Angermeier_Linear_Virtual_Patient</data>
+</node>
+<node id="1255">
+<data key="name">Mr Maller Branched Virtual Patient</data>
+<data key="username">Mr_Maller_Branched_Virtual_Patient</data>
+</node>
+<node id="1234">
+<data key="name">Mr Maller Linear Virtual Patient</data>
+<data key="username">Mr_Maller_Linear_Virtual_Patient</data>
+</node>
+<node id="2611">
+<data key="name">MRI for Molecular Biology</data>
+<data key="username">MRI_for_Molecular_Biology</data>
+</node>
+<node id="2351">
+<data key="name">Muscles</data>
+<data key="username">Muscles</data>
+</node>
+<node id="1680">
+<data key="name">Myocardial infarction</data>
+<data key="username">Myocardial_infarction</data>
+</node>
+<node id="1687">
+<data key="name">Myocardial infarction: simulation scenario</data>
+<data key="username">Myocardial_infarction:_simulation_scenario</data>
+</node>
+<node id="1944">
+<data key="name">NanoMission</data>
+<data key="username">NanoMission</data>
+</node>
+<node id="2280">
+<data key="name">Oga Branched Virtual Patient</data>
+<data key="username">Oga_Branched_Virtual_Patient</data>
+</node>
+<node id="2273">
+<data key="name">Oga Linear Virtual Patient</data>
+<data key="username">Oga_Linear_Virtual_Patient</data>
+</node>
+<node id="1593">
+<data key="name">OSCE θωρακικο αλγος</data>
+<data key="username">OSCE_θωρακικο_αλγος</data>
+</node>
+<node id="3431">
+<data key="name">Oxygenation therapy</data>
+<data key="username">Oxygenation_therapy</data>
+</node>
+<node id="3183">
+<data key="name">Paget–Schroetter syndrome</data>
+<data key="username">Paget–Schroetter_syndrome</data>
+</node>
+<node id="1489">
+<data key="name">Palliative care in childhood</data>
+<data key="username">Paliativna</data>
+</node>
+<node id="4178">
+<data key="name">Parathyroid</data>
+<data key="username">Parathyroid</data>
+</node>
+<node id="4290">
+<data key="name">Patient Triggered Ventilation PTV</data>
+<data key="username">Patient_Triggered_Ventilation_PTV</data>
+</node>
+<node id="42943">
+<data key="name">Patients’ satisfaction with the work of medical professionals in the hospital</data>
+<data key="username">5633a4aa8d888f4430578dfb24594ac9</data>
+</node>
+<node id="42950">
+<data key="name">Patients’ satisfaction with the work of medical professionals in the hospital</data>
+<data key="username">162a35ea45aad4290d248f2de0720b0e</data>
+</node>
+<node id="2101">
+<data key="name">PE massive therapy Gossage</data>
+<data key="username">PE_massive_therapy_Gossage</data>
+</node>
+<node id="1810">
+<data key="name">Pediatrics tests</data>
+<data key="username">Pediatrics_tests</data>
+</node>
+<node id="4311">
+<data key="name">Perfluorocarbon Ventilation, Liquid Ventilation  LV</data>
+<data key="username">Perfluorocarbon_Ventilation,_Liquid_Ventilation__LV</data>
+</node>
+<node id="3262">
+<data key="name">Pericarditis</data>
+<data key="username">ECG3_original</data>
+</node>
+<node id="3227">
+<data key="name">Pericarditis_Repurposed</data>
+<data key="username">ECG3</data>
+</node>
+<node id="4199">
+<data key="name">pheochromocytoma</data>
+<data key="username">pheochromocytoma</data>
+</node>
+<node id="2448">
+<data key="name">Physical Principles of MRI</data>
+<data key="username">Physical_Principles_of_MRI</data>
+</node>
+<node id="3702">
+<data key="name">Physics of Human Vision and Eye</data>
+<data key="username">Physics_of_Human_Vision_and_Eye</data>
+</node>
+<node id="63868">
+<data key="name">PLEs on Social Semantic Web</data>
+<data key="username">46f8e1d919829e6248aea3b9f9230b82</data>
+</node>
+<node id="2415">
+<data key="name">pleuriti e versamenti pleurici</data>
+<data key="username">pleuriti_e_versamenti_pleurici</data>
+</node>
+<node id="4367">
+<data key="name">PRINCIPLES OF MONITORING VOT</data>
+<data key="username">PRINCIPLES_OF_MONITORING_VOT</data>
+</node>
+<node id="3494">
+<data key="name">Progressing myocardial infarction</data>
+<data key="username">Progressing_myocardial_infarction</data>
+</node>
+<node id="3487">
+<data key="name">Progressing myocardial infarction_Repurposed</data>
+<data key="username">Progressing_myocardial_infarction_Repurposed</data>
+</node>
+<node id="42637">
+<data key="name">pubmed</data>
+<data key="username">0c1ab6703a97937902def596594c4b00</data>
+</node>
+<node id="42957">
+<data key="name">Quality of Obstetric Services: Perspectives of Patients, Obstetricians, and Midwives</data>
+<data key="username">d004b5c77505d21136e9b4d2098d1e8b</data>
+</node>
+<node id="5483">
+<data key="name">Questions and Answers on Emergency Surgery Part II</data>
+<data key="username">Questions_and_Answers_on_Emergency_Surgery_Part_II</data>
+</node>
+<node id="5490">
+<data key="name">Questions and Answers on Emergency Surgery Part III</data>
+<data key="username">Questions_and_Answers_on_Emergency_Surgery_Part_III</data>
+</node>
+<node id="5497">
+<data key="name">Questions and Answers on Emergency Surgery Part IV</data>
+<data key="username">Questions_and_Answers_on_Emergency_Surgery_Part_IV</data>
+</node>
+<node id="5504">
+<data key="name">Questions and Answers on Emergency Surgery Part V</data>
+<data key="username">Questions_and_Answers_on_Emergency_Surgery_Part_V</data>
+</node>
+<node id="5511">
+<data key="name">Questions and Answers on Emergency Surgery Part VI</data>
+<data key="username">Questions_and_Answers_on_Emergency_Surgery_Part_VI</data>
+</node>
+<node id="5518">
+<data key="name">Questions and Answers on Emergency Surgery Part VII</data>
+<data key="username">Questions_and_Answers_on_Emergency_Surgery_Part_VII</data>
+</node>
+<node id="5476">
+<data key="name">Questions and Answers on Emergency Surgery, part 1</data>
+<data key="username">Questions_and_Answers_on_Emergency_Surgery,_part_1</data>
+</node>
+<node id="3153">
+<data key="name">Raynaud’s Syndrome</data>
+<data key="username">Raynaud’s_Syndrome</data>
+</node>
+<node id="3349">
+<data key="name">Repurposed globalstroke case</data>
+<data key="username">Repurposed_globalstroke_case</data>
+</node>
+<node id="2520">
+<data key="name">Revised Criteria of the rhCNTF ALS Group for the Diagnosis of Amyotrophic Lateral Sclerosis</data>
+<data key="username">Revised_Criteria_of_the_rhCNTF_ALS_Group_for_the_Diagnosis_of_Amyotrophic_Lateral_Sclerosis</data>
+</node>
+<node id="3473">
+<data key="name">Right bundle branch block1</data>
+<data key="username">Right_bundle_branch_block1</data>
+</node>
+<node id="3234">
+<data key="name">Right bundle branch block1_Repurposed</data>
+<data key="username">ECG4</data>
+</node>
+<node id="3480">
+<data key="name">Right bundle branch block2</data>
+<data key="username">Right_bundle_branch_block2</data>
+</node>
+<node id="3241">
+<data key="name">Right bundle branch block2_Repurposed</data>
+<data key="username">ECG5</data>
+</node>
+<node id="2647">
+<data key="name">Simulating human space physiology with bed rest</data>
+<data key="username">Simulating_human_space_physiology_with_bed_rest</data>
+</node>
+<node id="2372">
+<data key="name">SPSS video tutorial, Basic analyses of frequencies and means</data>
+<data key="username">SPSS_video_tutorial,_Basic_analyses_of_frequencies_and_means</data>
+</node>
+<node id="2379">
+<data key="name">SPSS video tutorial, Basic analyses with crosstabulation</data>
+<data key="username">SPSS_video_tutorial,_Basic_analyses_with_crosstabulation</data>
+</node>
+<node id="2386">
+<data key="name">SPSS video tutorial, Basic graphics I</data>
+<data key="username">SPSS_video_tutorial,_Basic_graphics_I</data>
+</node>
+<node id="2393">
+<data key="name">SPSS video tutorial, Basic graphics II</data>
+<data key="username">SPSS_video_tutorial,_Basic_graphics_II</data>
+</node>
+<node id="2365">
+<data key="name">SPSS video tutorial, Basics of entering variables and data</data>
+<data key="username">SPSS_video_tutorial,_Basics_of_entering_variables_and_data</data>
+</node>
+<node id="2358">
+<data key="name">SPSS video tutorial, Introduction to the Interface</data>
+<data key="username">SPSS_video_tutorial,_Introduction_to_the_Interface</data>
+</node>
+<node id="1708">
+<data key="name">Statistical process control in healthcare</data>
+<data key="username">Statistical_process_control_in_healthcare</data>
+</node>
+<node id="2436">
+<data key="name">Stomach cancer</data>
+<data key="username">Stomach_cancer</data>
+</node>
+<node id="2506">
+<data key="name">Strategie Terapeutiche delle Cefalee Primarie</data>
+<data key="username">Strategie_Terapeutiche_delle_Cefalee_Primarie</data>
+</node>
+<node id="2018">
+<data key="name">Stroke Alert Case 1</data>
+<data key="username">Stroke_Alert_Case_1</data>
+</node>
+<node id="2073">
+<data key="name">Stroke Alert Case 10</data>
+<data key="username">Stroke_Alert_Case_10</data>
+</node>
+<node id="2025">
+<data key="name">Stroke Alert Case 2</data>
+<data key="username">Stroke_Alert_Case_2</data>
+</node>
+<node id="2011">
+<data key="name">Stroke Alert Case 21</data>
+<data key="username">Stroke_Alert_Case_21</data>
+</node>
+<node id="1997">
+<data key="name">Stroke Alert Case 25</data>
+<data key="username">Stroke_Alert_Case_25</data>
+</node>
+<node id="2032">
+<data key="name">Stroke Alert Case 3</data>
+<data key="username">Stroke_Alert_Case_3</data>
+</node>
+<node id="2045">
+<data key="name">Stroke Alert Case 4</data>
+<data key="username">Stroke_Alert_Case_4</data>
+</node>
+<node id="1983">
+<data key="name">Stroke Alert Case 43</data>
+<data key="username">Stroke_Alert_Case_43</data>
+</node>
+<node id="2004">
+<data key="name">Stroke Alert Case 46</data>
+<data key="username">Stroke_Alert_Case_46</data>
+</node>
+<node id="2052">
+<data key="name">Stroke Alert Case 5</data>
+<data key="username">Stroke_Alert_Case_5</data>
+</node>
+<node id="2059">
+<data key="name">Stroke Alert Case 6</data>
+<data key="username">Stroke_Alert_Case_6</data>
+</node>
+<node id="2066">
+<data key="name">Stroke Alert Case 7</data>
+<data key="username">Stroke_Alert_Case_7</data>
+</node>
+<node id="1990">
+<data key="name">Stroke Alert Case 8</data>
+<data key="username">Stroke_Alert_Case_8</data>
+</node>
+<node id="1976">
+<data key="name">Stroke Alert Case 9</data>
+<data key="username">Stroke_Alert_Case_9</data>
+</node>
+<node id="2597">
+<data key="name">Surgery Telematics</data>
+<data key="username">Surgery_Telematics</data>
+</node>
+<node id="2231">
+<data key="name">Tehnici de adnotare grafica in eLearning</data>
+<data key="username">Tehnici_de_adnotare_grafica_in_eLearning</data>
+</node>
+<node id="2576">
+<data key="name">Temporomandibular Joint Disorders</data>
+<data key="username">Temporomandibular_Joint_Disorders</data>
+</node>
+<node id="2759">
+<data key="name">Term diagram for Medicine</data>
+<data key="username">Term_diagram_for_Medicine</data>
+</node>
+<node id="42426">
+<data key="name">test</data>
+<data key="username">81b5ecab074a46fcf20b0ea1ca7967ba</data>
+</node>
+<node id="42630">
+<data key="name">test Bucharest  ECCA SNMF Romania</data>
+<data key="username">1c9f65fbe8f6732c752e375567d0222e</data>
+</node>
+<node id="42623">
+<data key="name">Test Bucharest ECCA</data>
+<data key="username">aceba81bea2a63205ec977809a53c3b4</data>
+</node>
+<node id="42462">
+<data key="name">TEST ECCA</data>
+<data key="username">20b698099b0160034c8858e07c0a4acb</data>
+</node>
+<node id="42540">
+<data key="name">TEST ECCA RO</data>
+<data key="username">f6576c8fff84cb8b49de49dfe902f0ad</data>
+</node>
+<node id="12253">
+<data key="name">Test form check resource</data>
+<data key="username">aea6f3817777064319937646a871c7a6</data>
+</node>
+<node id="15209">
+<data key="name">test from medting</data>
+<data key="username">4149a4898c30437b4ca2955f3d800547</data>
+</node>
+<node id="42370">
+<data key="name">Test from Unict</data>
+<data key="username">dd8f4e527c779da58a157dfcd92379a9</data>
+</node>
+<node id="43129">
+<data key="name">Test resource</data>
+<data key="username">7b05845957f42a64e761caa2a5c7c80e</data>
+</node>
+<node id="42567">
+<data key="name">TEST RO1</data>
+<data key="username">e396b0e58dbfb736f0bbbf8f4c832420</data>
+</node>
+<node id="42377">
+<data key="name">Test2 from Unict</data>
+<data key="username">0f90db26cc1abbfc5b520f4ffacfde99</data>
+</node>
+<node id="42384">
+<data key="name">Test3 from Unict</data>
+<data key="username">94adcd7310de23b2c1ca4edc07ea4805</data>
+</node>
+<node id="42391">
+<data key="name">Test4 from Unict</data>
+<data key="username">1315ef46b8e5799a7c5e0055d6824e68</data>
+</node>
+<node id="43935">
+<data key="name">testmh</data>
+<data key="username">5130193b7179d0995ac672aa11a5927d</data>
+</node>
+<node id="12246">
+<data key="name">testresource4</data>
+<data key="username">a4dc81dd2b41afac778885cd74af1586</data>
+</node>
+<node id="2115">
+<data key="name">tetanus prophylaxis as part of wound management</data>
+<data key="username">tetanus_prophylaxis_as_part_of_wound_management</data>
+</node>
+<node id="2569">
+<data key="name">The Anamnestic and Clinical Dysfunction Indices of Helkimo for Disorders of the Temporomandibular Joint and Masticatory System</data>
+<data key="username">The_Anamnestic_and_Clinical_Dysfunction_Indices_of_Helkimo_for_Disorders_of_the_Temporomandibular_Joint_and_Masticatory_System</data>
+</node>
+<node id="21804">
+<data key="name">The human heart and it's function - test</data>
+<data key="username">74e26f1f68a8415206d3b456d0f13028</data>
+</node>
+<node id="2485">
+<data key="name">The Italian guidelines for stroke prevention and management</data>
+<data key="username">The_Italian_guidelines_for_stroke_prevention_and_management</data>
+</node>
+<node id="1384">
+<data key="name">The Larynx</data>
+<data key="username">The_Larynx</data>
+</node>
+<node id="1775">
+<data key="name">The liver: introductory lesson</data>
+<data key="username">The_liver:_introductory_lesson</data>
+</node>
+<node id="2688">
+<data key="name">The OMENS Classification for Hemifacial Microsomia</data>
+<data key="username">The_OMENS_Classification_for_Hemifacial_Microsomia</data>
+</node>
+<node id="2422">
+<data key="name">The pancreas: overview</data>
+<data key="username">The_pancreas:_overview</data>
+</node>
+<node id="1796">
+<data key="name">The stomach</data>
+<data key="username">The_stomach</data>
+</node>
+<node id="2541">
+<data key="name">The therapeutic Benefits of Gravity in Space and on Earth</data>
+<data key="username">The_therapeutic_Benefits_of_Gravity_in_Space_and_on_Earth</data>
+</node>
+<node id="2632">
+<data key="name">The use of Open Source and Web2.0 in developing an Integrated EHR and elearning System for the Greek Smoking Cessation Network</data>
+<data key="username">The_use_of_Open_Source_and_Web2.0_in_developing_an_Integrated_EHR_and_elearning_System_for_the_Greek_Smoking_Cessation_Network</data>
+</node>
+<node id="973">
+<data key="name">The WebTrace platform</data>
+<data key="username">The_WebTrace_platform</data>
+</node>
+<node id="42616">
+<data key="name">This is a new educational resource from Hotel continental</data>
+<data key="username">eb43f157b2a1a1decef31884b61f44a3</data>
+</node>
+<node id="45107">
+<data key="name">Toán</data>
+<data key="username">70ae5ab37bcc5a42e9200b09c607ef4a</data>
+</node>
+<node id="2179">
+<data key="name">Training Doctors Health Telematics</data>
+<data key="username">Training_Doctors_Health_Telematics</data>
+</node>
+<node id="2829">
+<data key="name">Tratarea cancerului mamar</data>
+<data key="username">Tratarea_cancerului_mamar</data>
+</node>
+<node id="1638">
+<data key="name">Tumor cell</data>
+<data key="username">Tumor_cell</data>
+</node>
+<node id="1104">
+<data key="name">Tutorial on teleradiographic anatomy of the skull</data>
+<data key="username">Tutorial_on_teleradiographic_anatomy_of_the_skull</data>
+</node>
+<node id="43455">
+<data key="name">Types of miRNAs</data>
+<data key="username">770bd237bae7279c2de222ff3ac475cd</data>
+</node>
+<node id="2618">
+<data key="name">Use of elearning environment for Greek Smoking Cessation Network</data>
+<data key="username">Use_of_elearning_environment_for_Greek_Smoking_Cessation_Network</data>
+</node>
+<node id="2625">
+<data key="name">Use of Greek Smoking Cessation Network EHR platform</data>
+<data key="username">Use_of_Greek_Smoking_Cessation_Network_EHR_platform</data>
+</node>
+<node id="1908">
+<data key="name">Using Manikin Simulator in Cardiology</data>
+<data key="username">Using_Manikin_Simulator_in_Cardiology</data>
+</node>
+<node id="3391">
+<data key="name">Vaccination against HPV and cervical cancer Belgium French</data>
+<data key="username">Vaccination_against_HPV_and_cervical_cancer_Belgium_French</data>
+</node>
+<node id="3554">
+<data key="name">Vaccination against HPV and cervical cancer brochure for Bosnia</data>
+<data key="username">Vaccination_against_HPV_and_cervical_cancer_brochure_for_Bosnia</data>
+</node>
+<node id="3586">
+<data key="name">Vaccination against HPV and cervical cancer brochure for Bulgaria</data>
+<data key="username">Vaccination_against_HPV_and_cervical_cancer_brochure_for_Bulgaria</data>
+</node>
+<node id="3629">
+<data key="name">Vaccination against HPV and cervical cancer brochure for Croatia</data>
+<data key="username">Vaccination_against_HPV_and_cervical_cancer_brochure_for_Croatia</data>
+</node>
+<node id="3737">
+<data key="name">Vaccination against HPV and cervical cancer brochure for England</data>
+<data key="username">Vaccination_against_HPV_and_cervical_cancer_brochure_for_England</data>
+</node>
+<node id="3825">
+<data key="name">Vaccination against HPV and cervical cancer brochure for Estonia</data>
+<data key="username">Vaccination_against_HPV_and_cervical_cancer_brochure_for_Estonia</data>
+</node>
+<node id="3522">
+<data key="name">Vaccination against HPV and cervical cancer brochure for France</data>
+<data key="username">Vaccination_against_HPV_and_cervical_cancer_brochure_for_France</data>
+</node>
+<node id="3769">
+<data key="name">Vaccination against HPV and cervical cancer brochure for Ireland</data>
+<data key="username">Vaccination_against_HPV_and_cervical_cancer_brochure_for_Ireland</data>
+</node>
+<node id="3857">
+<data key="name">Vaccination against HPV and cervical cancer brochure for Italy</data>
+<data key="username">Vaccination_against_HPV_and_cervical_cancer_brochure_for_Italy</data>
+</node>
+<node id="3889">
+<data key="name">Vaccination against HPV and cervical cancer brochure for Macedonia</data>
+<data key="username">Vaccination_against_HPV_and_cervical_cancer_brochure_for_Macedonia</data>
+</node>
+<node id="3955">
+<data key="name">Vaccination against HPV and cervical cancer brochure for Portugal</data>
+<data key="username">Vaccination_against_HPV_and_cervical_cancer_brochure_for_Portugal</data>
+</node>
+<node id="4011">
+<data key="name">Vaccination against HPV and cervical cancer brochure for Romania</data>
+<data key="username">Vaccination_against_HPV_and_cervical_cancer_brochure_for_Romania</data>
+</node>
+<node id="4043">
+<data key="name">Vaccination against HPV and cervical cancer brochure for Russia</data>
+<data key="username">Vaccination_against_HPV_and_cervical_cancer_brochure_for_Russia</data>
+</node>
+<node id="3668">
+<data key="name">Vaccination against HPV and cervical cancer brochure for the Czech Republic</data>
+<data key="username">Vaccination_against_HPV_and_cervical_cancer_brochure_for_the_Czech_Republic</data>
+</node>
+<node id="4479">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD  Abbrevitations</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD__Abbrevitations</data>
+</node>
+<node id="4332">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 13 14</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter3</data>
+</node>
+<node id="4339">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 15 16</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter_15_16</data>
+</node>
+<node id="4346">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 18 19</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter_18_19</data>
+</node>
+<node id="4353">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 20</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter_20</data>
+</node>
+<node id="4423">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 21</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter_21</data>
+</node>
+<node id="4430">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 22</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter_22</data>
+</node>
+<node id="4437">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 23</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter_23</data>
+</node>
+<node id="4458">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 24</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter_24</data>
+</node>
+<node id="4465">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 25</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter_25</data>
+</node>
+<node id="4472">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 26</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter_26</data>
+</node>
+<node id="4388">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 3</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter_3</data>
+</node>
+<node id="3424">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter1</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter1</data>
+</node>
+<node id="4262">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter10</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter10</data>
+</node>
+<node id="4269">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter11 12</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter11_12</data>
+</node>
+<node id="3445">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter2</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter2</data>
+</node>
+<node id="4220">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter4</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter4</data>
+</node>
+<node id="4227">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter5</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter5</data>
+</node>
+<node id="4234">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter6</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter6</data>
+</node>
+<node id="4241">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter7</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter7</data>
+</node>
+<node id="4248">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter8</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter8</data>
+</node>
+<node id="4255">
+<data key="name">VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter9</data>
+<data key="username">VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter9</data>
+</node>
+<node id="4318">
+<data key="name">VENTILATION OXYGENATON THERAPY AND SURFACTANT</data>
+<data key="username">VENTILATION_OXYGENATON_THERAPY_AND_SURFACTANT</data>
+</node>
+<node id="1803">
+<data key="name">Ventilation/oxygenation therapy in  childhoodpostgraduate</data>
+<data key="username">Ventilatorna</data>
+</node>
+<node id="2724">
+<data key="name">Virtual Kitchen</data>
+<data key="username">Virtual_Kitchen</data>
+</node>
+<node id="1146">
+<data key="name">Virtual Patients in Dermatology</data>
+<data key="username">Virtual_Patients_in_Dermatology</data>
+</node>
+<node id="3160">
+<data key="name">Visceral Aneurisms</data>
+<data key="username">Visceral_Aneurisms</data>
+</node>
+<node id="4493">
+<data key="name">VOT  Home care</data>
+<data key="username">VOT__Home_care</data>
+</node>
+<node id="4507">
+<data key="name">VOT Abbreviations</data>
+<data key="username">VOT_Abbreviations</data>
+</node>
+<node id="4451">
+<data key="name">VOT and diagnostic therapeutic procedures</data>
+<data key="username">VOT_and_diagnostic_therapeutic_procedures</data>
+</node>
+<node id="4416">
+<data key="name">VOT and drug therapy</data>
+<data key="username">VOT_and_drug_therapy</data>
+</node>
+<node id="4381">
+<data key="name">VOT and nutrition</data>
+<data key="username">VOT_and_nutrition</data>
+</node>
+<node id="4444">
+<data key="name">VOT and thermal comfort</data>
+<data key="username">VOT_and_thermal_comfort</data>
+</node>
+<node id="4486">
+<data key="name">VOT and transport</data>
+<data key="username">VOT_and_transport</data>
+</node>
+<node id="4325">
+<data key="name">VOT COMPLICATIONS</data>
+<data key="username">VOT_COMPLICATIONS</data>
+</node>
+<node id="4374">
+<data key="name">VOT NEUROLOGICAL  MONITORING</data>
+<data key="username">VOT_NEUROLOGICAL__MONITORING</data>
+</node>
+<node id="2245">
+<data key="name">Εκπαιδευτικα Προτυπα</data>
+<data key="username">Εκπαιδευτικα_Προτυπα</data>
+</node>
+<node id="2217">
+<data key="name">Η ΔΙΑΣΦΑΛΙΣΗ ΤΗΣ ΠΟΙΟΤΗΤΑΣ ΤΗΣ ΙΑΤΡΙΚΗΣ ΠΛΗΡΟΦΟΡΙΑΣ ΣΤΟ ΔΙΑΔΙΚΤΥΟ</data>
+<data key="username">Η_ΔΙΑΣΦΑΛΙΣΗ_ΤΗΣ_ΠΟΙΟΤΗΤΑΣ_ΤΗΣ_ΙΑΤΡΙΚΗΣ_ΠΛΗΡΟΦΟΡΙΑΣ_ΣΤΟ_ΔΙΑΔΙΚΤΥΟ</data>
+</node>
+<node id="2738">
+<data key="name">Πυρηνικός Μαγνητικός Συντονισμός: Φασματοσκοπία και Απεικόνιση</data>
+<data key="username">Πυρηνικός_Μαγνητικός_Συντονισμός</data>
+</node>
+<node id="45301">
+<data key="name">БОЛКА</data>
+<data key="username">3269ef52fd05b0f60fe6a31ef406c0ad</data>
+</node>
+<node id="45350">
+<data key="name">ГЛАВОБОЛИЕ</data>
+<data key="username">fc75c28d0796042a567e84ff28266c1a</data>
+</node>
+<node id="45322">
+<data key="name">ДЕМЕНЦИЯ</data>
+<data key="username">706623af0704d6ca63545d02c53faa96</data>
+</node>
+<node id="4304">
+<data key="name">ЕxtraCorporeal Membrane Oxygenation  ЕСМО</data>
+<data key="username">ЕxtraCorporeal_Membrane_Oxygenation__ЕСМО</data>
+</node>
+<node id="45329">
+<data key="name">ЕПИЛЕПСИЯ</data>
+<data key="username">b55bf3b899b0e7b735fab4542b35997c</data>
+</node>
+<node id="45308">
+<data key="name">ИНСУЛТ</data>
+<data key="username">aedc72679342632bd7290dfea2dff970</data>
+</node>
+<node id="4150">
+<data key="name">Лекция по Ендокринология за студенти по медицина – български език</data>
+<data key="username">Лекция_по_Ендокринология_за_студенти_по_медицина_–_български_език</data>
+</node>
+<node id="4157">
+<data key="name">Лекция №2. ХИПОПИТУИТАРИЗЪМ. ЗАБОЛЯВАНИЯ НА НЕВРОХИПОФИЗАТА Инсипиден диабет. SIADH</data>
+<data key="username">Лекция_№2._ХИПОПИТУИТАРИЗЪМ._ЗАБОЛЯВАНИЯ_НА_НЕВРОХИПОФИЗАТА_Инсипиден_диабет._SIADH</data>
+</node>
+<node id="4164">
+<data key="name">Лекция №3. ЗАБОЛЯВАНИЯ НА ЩИТОВИДНАТА ЖЛЕЗА Гуша. Хипотиреоидизъм. Тиреоидити</data>
+<data key="username">Лекция_№3._ЗАБОЛЯВАНИЯ_НА_ЩИТОВИДНАТА_ЖЛЕЗА_Гуша._Хипотиреоидизъм._Тиреоидити</data>
+</node>
+<node id="4171">
+<data key="name">Лекция №4. ЗАБОЛЯВАНИЯ НА ЩИТОВИДНАТА ЖЛЕЗА Хипертиреоидизъм и тиреотоксикоза. Тиреоидни карциноми</data>
+<data key="username">Лекция_№4._ЗАБОЛЯВАНИЯ_НА_ЩИТОВИДНАТА_ЖЛЕЗА_Хипертиреоидизъм_и_тиреотоксикоза._Тиреоидни_карциноми</data>
+</node>
+<node id="45336">
+<data key="name">МНОЖЕСТВЕНА  СКЛЕРОЗА</data>
+<data key="username">bd95f0dd15a8329025a5f49ee68093fe</data>
+</node>
+<node id="45294">
+<data key="name">НАРУШЕНИЯ  НА  СЪЗНАНИЕТО</data>
+<data key="username">71792c57f591fc9b488b4f7c4d903339</data>
+</node>
+<node id="45343">
+<data key="name">ПАРКИНСОНОВА  БОЛЕСТ</data>
+<data key="username">afb1c3be6cbf5a10fd1e4c12a0beac96</data>
+</node>
+<node id="45371">
+<data key="name">Първични имунодефицитни състояния в детската възраст</data>
+<data key="username">0c02e9580d5f72a1a9cede3fb81d1298</data>
+</node>
+<node id="45357">
+<data key="name">СВЕТОВЪРТЕЖ, ШУМ УШИТЕ И ГЛУХОТА</data>
+<data key="username">e65671957898de1b77a3fe6b4437e3c9</data>
+</node>
+<node id="45315">
+<data key="name">СЛАБОСТ (ПАРАЛИЗА)</data>
+<data key="username">9266df893bf64e7a40a7804065529bbe</data>
+</node>
+<edge id="e0" source="1220" target="1227"/>
+<edge id="e1" source="1255" target="1234"/>
+<edge id="e2" source="1403" target="1410"/>
+<edge id="e3" source="1410" target="1419"/>
+<edge id="e4" source="838" target="1471"/>
+<edge id="e5" source="3402" target="1593"/>
+<edge id="e6" source="1761" target="1775"/>
+<edge id="e7" source="1768" target="1775"/>
+<edge id="e8" source="1782" target="1796"/>
+<edge id="e9" source="1817" target="1831"/>
+<edge id="e10" source="1608" target="2245"/>
+<edge id="e11" source="838" target="2415"/>
+<edge id="e12" source="2979" target="2415"/>
+<edge id="e13" source="2379" target="2429"/>
+<edge id="e14" source="2464" target="2471"/>
+<edge id="e15" source="2478" target="2485"/>
+<edge id="e16" source="2520" target="2527"/>
+<edge id="e17" source="1593" target="2562"/>
+<edge id="e18" source="2583" target="2590"/>
+<edge id="e19" source="2597" target="2604"/>
+<edge id="e20" source="2448" target="2611"/>
+<edge id="e21" source="2738" target="2611"/>
+<edge id="e22" source="2618" target="2632"/>
+<edge id="e23" source="2625" target="2632"/>
+<edge id="e24" source="2632" target="2639"/>
+<edge id="e25" source="2448" target="2738"/>
+<edge id="e26" source="2422" target="2815"/>
+<edge id="e27" source="1659" target="2829"/>
+<edge id="e28" source="1666" target="2829"/>
+<edge id="e29" source="3248" target="3204"/>
+<edge id="e30" source="3262" target="3227"/>
+<edge id="e31" source="3473" target="3234"/>
+<edge id="e32" source="1969" target="3349"/>
+<edge id="e33" source="3716" target="3370"/>
+<edge id="e34" source="3723" target="3377"/>
+<edge id="e35" source="3730" target="3384"/>
+<edge id="e36" source="3737" target="3391"/>
+<edge id="e37" source="1593" target="3410"/>
+<edge id="e38" source="2562" target="3410"/>
+<edge id="e39" source="3424" target="3431"/>
+<edge id="e40" source="3445" target="3452"/>
+<edge id="e41" source="3494" target="3487"/>
+<edge id="e42" source="3716" target="3501"/>
+<edge id="e43" source="3702" target="3695"/>
+<edge id="e44" source="4220" target="4276"/>
+<edge id="e45" source="4227" target="4283"/>
+<edge id="e46" source="4234" target="4297"/>
+<edge id="e47" source="4241" target="4297"/>
+<edge id="e48" source="4248" target="4304"/>
+<edge id="e49" source="4255" target="4311"/>
+<edge id="e50" source="4262" target="4318"/>
+<edge id="e51" source="4269" target="4325"/>
+<edge id="e52" source="4332" target="4360"/>
+<edge id="e53" source="4339" target="4367"/>
+<edge id="e54" source="4346" target="4374"/>
+<edge id="e55" source="4353" target="4381"/>
+<edge id="e56" source="4388" target="4395"/>
+<edge id="e57" source="4388" target="4402"/>
+<edge id="e58" source="4388" target="4409"/>
+<edge id="e59" source="4423" target="4416"/>
+<edge id="e60" source="4430" target="4444"/>
+<edge id="e61" source="4437" target="4451"/>
+<edge id="e62" source="4458" target="4486"/>
+<edge id="e63" source="4465" target="4493"/>
+<edge id="e64" source="4472" target="4500"/>
+<edge id="e65" source="4479" target="4507"/>
+<edge id="e66" source="1403" target="4633"/>
+<edge id="e67" source="1403" target="4640"/>
+<edge id="e68" source="5539" target="5554"/>
+<edge id="e69" source="5561" target="5568"/>
+<edge id="e70" source="5575" target="5582"/>
+<edge id="e71" source="5589" target="5596"/>
+<edge id="e72" source="5603" target="5610"/>
+<edge id="e73" source="5617" target="5624"/>
+<edge id="e74" source="5631" target="5638"/>
+<edge id="e75" source="5645" target="5652"/>
+<edge id="e76" source="42950" target="42943"/>
+<edge id="e77" source="42943" target="42957"/>
+</graph>
+</graphml>

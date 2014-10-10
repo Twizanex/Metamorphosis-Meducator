@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2618">
+
+	 <mdc:identifier><![CDATA[http://nosmoke.med.auth.gr/elearning/mod/resource/view.php?inpopup=true&amp;id=50]]></mdc:identifier> 
+<mdc:title><![CDATA[Use of elearning environment for Greek Smoking Cessation Network ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>Greek</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/stathis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-05-21</mdc:created>
+<mdc:metadataCreated>2010-05-09</mdc:metadataCreated>
+<mdc:citation><![CDATA[Stathis Konstantinidis. "Use of elearning environment for Greek Smoking Cessation Network",[online video], http://nosmoke.med.auth.gr/elearning/mod/resource/view.php?inpopup=true&amp;id=50, retrieved at....]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1417567796"><rdfs:label><![CDATA[moodle use ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1660781241"><rdfs:label><![CDATA[ elearning environment ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1363776382"><rdfs:label><![CDATA[ accreditation ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This resource desribes the steps of how a physisian can register and connect to an elearning environment, and the steps that he needs to take in order to get a certificate of attedance of an online seminar.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Video format WMV]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#video"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1869976496"><rdfs:label><![CDATA[Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>CME</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[During a seminar of Smoking Cessation Network, this video enhance and explain the use of elearning environment of this Network.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Show the video and ask from the participant to create an account. Self-learning.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[To familiarize the learners with elearing environments.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[To be able to connect to an elearning environment. To follow an online course. To get online a certificate.]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[Hands on exercise.]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[The learners should be familiar with basic use of internet and have an email.]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

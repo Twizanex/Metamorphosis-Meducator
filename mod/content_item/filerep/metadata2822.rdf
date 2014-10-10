@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2822">
+
+	 <mdc:identifier><![CDATA[http://dataserver.mediogrid.utcluj.ro/adnotare/release/resource/lectii/182/index.htm]]></mdc:identifier> 
+<mdc:title><![CDATA[Human eye ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Danut Mihon]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Denisa Rodila]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Denisa Rodila]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/denisa.rodila?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-03-16</mdc:created>
+<mdc:metadataCreated>2010-05-11</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1655675112"><rdfs:label><![CDATA[human eye ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1603580903"><rdfs:label><![CDATA[ eye functions ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[The resource presents the specific characteristics of the human eye.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Although it can be accessed through common browsers with running errors, it is recommended that this resource to be visualized in eTrace eLearning Application.]]></mdc:technicalDescription>
+<mdc:resourceType> multimedia medical teaching material</mdc:resourceType>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline609816673"><rdfs:label><![CDATA[medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality402174202"><rdfs:label><![CDATA[anatomy ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>undergraduate, general public</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This resource can be used to educate general public or undergraduate students about human eye general characteristics.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[This resource can be used as a base for a presentation that can be enriched through graphical annotations in eTrace application or can be referenced for individual study.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[The resources presents general information about the human eye.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[The learners will acquire basic knowledge about human eye and its characteristics.]]></mdc:educationalOutcomes>
+</mdc:Resource></rdf:RDF>

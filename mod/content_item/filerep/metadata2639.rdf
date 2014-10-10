@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2639">
+
+	 <mdc:identifier><![CDATA[]]></mdc:identifier> 
+<mdc:title><![CDATA[Creation of a Smoking Cessation Network ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>Greek</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Panos Bamidis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Evdokimos Konstantinidis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/stathis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-09-23</mdc:created>
+<mdc:metadataCreated>2010-05-09</mdc:metadataCreated>
+<mdc:citation><![CDATA[Stathis Konstantinidis, Panos Bamidis, Evdokimos Konstantinidis. Creation of a Smoking Cessation Network. [presentation], http://nosmoke.med.auth.gr/elearning/mod/resource/view.php?id=64, Retrieved at ...]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject262673450"><rdfs:label><![CDATA[EHR ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject479306739"><rdfs:label><![CDATA[ elearning environment ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject927034935"><rdfs:label><![CDATA[ Smoking Cessation database ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject535940005"><rdfs:label><![CDATA[ communication forum ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1772897071"><rdfs:label><![CDATA[ WEB 2.0 ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[To present a new System of Smoking Cessation Network and to provide information regarding hte use of the system.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[MS powerpoint]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline411217940"><rdfs:label><![CDATA[Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>CME, postgraduate medical students</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[During a seminar of Smoking Cessation Network, this presentation enhance and explain the use of an Electronic Health Record , the use of elearning environment nad the use of communication forum of this Network]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Directed-learing or self learning.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[To familiarize the learners with Electronic Health Record of Smoking Cessation Network
+To familiarize the learners with elearning environment of Smoking Cessation Network
+To familiarize the learners with communication forum of Smoking Cessation Network]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[To be able to use Electronic Health Record, elearning environment, communication forum of Smoking Cessation Network.
+To be able to follow an online course and get an online certificate.]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[Hands on exercise]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[Basic knowlegde of internet use. Basic knowlegde of terms like EHR.]]></mdc:educationalPrerequisites>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>The use of Open Source and Web2.0 in developing an Integrated EHR and e-learning System for the Greek Smoking Cessation Network</mdc:title>
+<mdc:identifier>http://nosmoke.med.auth.gr/elearning/mod/resource/view.php?id=63</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>The presentation repurposed in term of different language, from English to Greek.
+The target audience is different, (medical informatician to physician). Some slides where removed and other were simplified so as to be understandable from a non technical. The purpose of the 2 lectures is different. In the parent the aim was to present an innovative technology and analyze how is technical work, and in the second to present the technology and make ti usable from the end users.</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Disciplines</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Languages</mdc:fromRepurposingContext>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

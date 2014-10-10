@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<graph id="ELGG" edgedefault="directed">
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="username" for="node" attr.name="username" attr.type="string"/>
+<node id="2448">
+<data key="name">Physical Principles of MRI</data>
+<data key="username">Physical_Principles_of_MRI</data>
+</node>
+<node id="2611">
+<data key="name">MRI for Molecular Biology
+Repurposing Context: different pedagogy,different educational levels</data>
+<data key="username">MRI_for_Molecular_Biology</data>
+</node>
+<node id="2738">
+<data key="name">Πυρηνικός Μαγνητικός Συντονισμός: Φασματοσκοπία και Απεικόνιση
+Repurposing Context: different content type</data>
+<data key="username">Πυρηνικός_Μαγνητικός_Συντονισμός</data>
+</node>
+<node id="2738">
+<data key="name">Πυρηνικός Μαγνητικός Συντονισμός: Φασματοσκοπία και Απεικόνιση
+Repurposing Context: different content type</data>
+<data key="username">Πυρηνικός_Μαγνητικός_Συντονισμός</data>
+</node>
+<edge id="e21 " source="2448" target="2611"/>
+<edge id="e26 " source="2448" target="2738"/>
+<edge id="e22 " source="2738" target="2611"/>
+</graph>
+</graphml>

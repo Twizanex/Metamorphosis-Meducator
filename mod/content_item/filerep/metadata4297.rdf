@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#4297">
+
+	 <mdc:identifier><![CDATA[http://moodle-pld.co.cc/file.php/3/68-71.ppt]]></mdc:identifier> 
+<mdc:title><![CDATA[High Frequency Ventilation - HFV ]]></mdc:title>
+<mdc:rights><![CDATA[ ISBN 954-9806-38-3]]></mdc:rights>
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Assoc. Prof. L. Despotova-Toleva]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ MD]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ PhD]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Medical University Plovdiv]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Dora Edreva]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/doraed?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-08-13</mdc:created>
+<mdc:metadataCreated>2010-08-28</mdc:metadataCreated>
+<mdc:citation><![CDATA[Л. Деспотова-Толева Вентилаторна/оксигенационна терапия в детската възраст]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject155547743"><rdfs:label><![CDATA[Ventilation/oxygenation therapy; neonatal ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1555773150"><rdfs:label><![CDATA[ paediatric ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject457363157"><rdfs:label><![CDATA[ intensive care; medical ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject14511886"><rdfs:label><![CDATA[ monitoring and life-support equipment; non-invasive ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1915438715"><rdfs:label><![CDATA[ invasive methods ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject830231160"><rdfs:label><![CDATA[ high frequency ventilation /HFV/ ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1686715792"><rdfs:label><![CDATA[  high frequency jet ventilation /HFJV/ ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject490514503"><rdfs:label><![CDATA[ high frequency oscillatory ventilation /HFOV/ ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1633403952"><rdfs:label><![CDATA[ high frequency flow interruptors /HFFI/ ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1642269527"><rdfs:label><![CDATA[ high frequency  positive pressure ventilation /HFPPV/ ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject284274438"><rdfs:label><![CDATA[  high frequency  chest wall oscillation /HFCWO/ ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Main points: 1. Indications for HFV; 2.Advantages/disadvantages of HFJV; 3. Weaning from HFJV; 4. Advantages/disadvantages of HFOV; 5.HFV side effects and complications; 6.HFV monitoring]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Power Point Presentation]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#handbook"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1527508082"><rdfs:label><![CDATA[Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1255850662"><rdfs:label><![CDATA[Neonatology, Paediatrics, Intensive  Care ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>PhD – students, MD, anaesthesiologists, paediatricians, intensivists</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Educational material for PhD- students, MD, anaesthesiologists,paediatricians, intensivists.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[For self-preparation, lectures, practical training, seminars for postgraduates, PhD, postdoc students]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Educational process in medical study – advanced knowledge acquirement]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Expected results – acquiring theoretical knowledge and practical skills for managing ventilation/oxygenation therapy in neonates and children, decision making in NICU  and  PICU]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[Examination, tests, clinical cases]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[Anatomy, Physiology, Pathophysiology of gas exchange, Phisics of gases and fluids,Pathoanatomy, Pathophysiology of lung disturbances and diseases, morphofunctional features of neonates and children]]></mdc:educationalPrerequisites>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter5</mdc:title>
+<mdc:identifier>http://moodle-pld.co.cc/file.php/3/Ventilation_Chapter7.pdf</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>Power Point Presentation</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Languages</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Technology</mdc:fromRepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>http://moodle-pld.co.cc/file.php/3/Ventilation_Chapter6.pdf</mdc:title>
+<mdc:identifier></mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>Power Point Presentation</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Languages</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Technology</mdc:fromRepurposingContext>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

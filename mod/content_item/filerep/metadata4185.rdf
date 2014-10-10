@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#4185">
+
+	 <mdc:identifier><![CDATA[http://moodle-pld.co.cc/file.php/5/Cushing-lecture-project.pdf]]></mdc:identifier> 
+<mdc:title><![CDATA[Лекция №7. ЗАБОЛЯВАНИЯ НА НАДБЪБРЕЧНАТА КОРА. Синдром на Cushing ]]></mdc:title>
+<mdc:language>Bulgarian</mdc:language>
+<mdc:metadataLanguage>Bulgarian</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Доц. Мария Миткова Орбецова]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Началник Клиника по Ендокринология]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ УМБАЛ „Св. Георги”]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Пловдив]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Eva Mihajlova]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/Evamihajlova?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-12-20</mdc:created>
+<mdc:metadataCreated>2010-08-27</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1420069988"><rdfs:label><![CDATA[Медицина – ендокринология – студенти – надбъбречна кора – стероидегонеза – хиперкортицизъм – синдром на Cushing ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Лекцията е част от лекционен курс по ендокринология, покриващ основните ендокринологични заболявания, разпределени по отделни жлези.  Материалът е представен като системно класическо описание на нозологичните единици, отговарящо на изискванията за учебно помагало. 
+Лекцията разяснява накратко анатомо-физиологични аспекти на надбъбречните жлези, в частност надбъбречната кора и произвежданите от нея хормони с основните им физиологични действия. В детайли е представена етиопатогенетичната класификация на синдрома на Cushing – АКТХ-зависим и АКТХ-независим. Описани са отделните форми на хиперкортицизма като клиничната картина и усложненията са подробно представени със снимкови и схематични илюстрации. Разяснени са методите на диагноза, диференциална диагноза и лечение – медикаментозно и радикално (оперативно, лъчелечение).]]></mdc:description>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#lectureNotes"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:educationalLevel>Ниво: висше образование: медицина •	5 курс</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[ендокринология в рамките на обучение по вътрешни болести. За България – студенти от V медицински курс. Възраст между 23 и 25 г. Социо-културен профил – хетерогенен, предимно от семейства на интелектуалци. Български език – нативен или изучаем. Ниво на обучението – І ниво за студенти. Цели на лекционния курс – да се овладеят основни понятия (терминологично и смислово) в ендокринологията; да се добие представа за основни принципи на регулация на хормоналната синтеза, механизъм на действие на отделните хормони; да се добият познания за същност, етиология, патогенеза, класификация, клинична картина, диагноза, диференциална диагноза, лечение на основни ендокринни заболявания; да се създадат умения за разпознаване на специфични симптомокомплекси, насочващи към ендокринна патология, практически подходи към пациентите, суспектни за носителство на ендокринни заболявания. 
+•	Учебният ресурс използва формата на  Лекция / презентация: в класически университетски смисъл, но в електронна форма]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Ресурсът може да се използва чрез преглед на презентацията – еднократно или многократно, в презентация е включен и снимков материал, улесняващ описанието на клиничните симптоми, както и схеми и таблици, подходящи за структурираното обучение.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Образователни цели:
+-	преподаване на нови знания / умения
+-	усвояване и прилагане в практиката на новите знания от страна на обучаемите
+-	овладяване на умения от обучаемите за разпознаване и лечение в общ план на отделните нозологични единици, разгледани в лекционния курс. 
+-	За Лекция №7– Познания относно структурата на надбъбречната кора, стероидогенезата и нейната регулация; основни действия на надбъбречнокоровите хормони. Представени са причините на хиперкортицизъм с отелните му форми. Подробно е описан синдромът на Cushing като общо и тясно понятие.  Разяснени са методите на диагноза и диференциална диагноза на хиперкортицизма, подробна клинична картина,  усложнения, лечение. Дадено е характеристика на някои по-редки форми на синдрома на Cushing]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Очаквани резултати от обучението:
+-	усвояване на знания 
+-	овладяване на умения 
+Прицелни умения
+-	рецептивни –четене с разбиране
+-	социокултурни (самообучение)
+-	автономност на обучаемия]]></mdc:educationalOutcomes>
+<mdc:educationalPrerequisites><![CDATA[Предварително ниво на знания и умения, които обучаемите трябва да притежават, за да ползват учебния ресурс – паралелен курс практически упражнения по ендокринология]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

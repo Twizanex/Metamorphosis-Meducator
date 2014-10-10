@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2794">
+
+	 <mdc:identifier><![CDATA[http://dataserver.mediogrid.utcluj.ro/adnotare/release/resource/lectii/186/index.htm]]></mdc:identifier> 
+<mdc:title><![CDATA[Boli metabolice (guta si gigantismul) ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>Romanian</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Danut Mihon]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Teodor Stefanut]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Teodor Stefanut]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/teodor.stefanut?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-11-11</mdc:created>
+<mdc:metadataCreated>2010-05-11</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject676888764"><rdfs:label><![CDATA[metabolic diseases ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1966982064"><rdfs:label><![CDATA[ gigantism ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This resource presents the general characteristics of metabolic diseases and describes in more detail two of them.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Although it can be accessed using common browsers, this item can be properly visualized and analyzed only in eTrace environment.]]></mdc:technicalDescription>
+<mdc:resourceType> multimedia medical teaching material</mdc:resourceType>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1310917230"><rdfs:label><![CDATA[medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality2018179467"><rdfs:label><![CDATA[diseases ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>undergraduate, public</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This resource can be used as an introductory course support or can be presented to the general public for information purposes.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[It is recommended that the content of this item to be improved by the teacher/medical specialist using eTrace eLearning Application, during presentation sessions. The resource can be also recommended for individual study to the students.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[The objective of this item is to present the most common characteristics of the metabolic diseases and to discus two of them in detail.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[The learners will have basic knowledge about metabolic diseases.]]></mdc:educationalOutcomes>
+</mdc:Resource></rdf:RDF>

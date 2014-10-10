@@ -1,0 +1,212 @@
+<rdf:RDF xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:mdc="http://www.purl.org/meducator/ns/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">  <rdf:Description rdf:about="http://localhost/users/mEducator/Litsa/ARRAYtoRDF/ExportTest_rdfFinal3.php">
+    <rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"></rdf:type>
+    <mdc:identifier  xsi:type="dcterms:URL" rdf:resource="http://labyrinth.sgul.ac.uk/mnode.asp?id=40942"/>    <mdc:identifier  xsi:type="dcterms:URN" rdf:resource="http://dx/doi.org/10.1000/182"/>    <mdc:identifier  xsi:type="dcterms:URN" rdf:resource="http://labyrinth.sgul.ac.uk/mnode.asp?id=40942"/>    <mdc:identifier  xsi:type="dcterms:ISBN" rdf:value="ISBN 90-70002-34-5"/>    <mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike"></mdc:rights>
+    <mdc:language>en</mdc:language>
+    <mdc:metadataLanguage>en</mdc:metadataLanguage>
+    <mdc:creator>    <rdf:Description rdf:about="creator1">
+
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"></rdf:type>
+      <foaf:name>litsa mitsopoulou</foaf:name>
+      <foaf:mbox_sha1sum>7dc3dc9d111c4caf6ca9a6cf4cc7b8e419e8acab</foaf:mbox_sha1sum>
+      <sioc:memberOf>SGUL</sioc:memberOf>
+      <mdc:profileURI>http://www.meducator.net/?q=foaf/160</mdc:profileURI>
+    </rdf:Description>
+</mdc:creator>
+
+    <mdc:creator>    <rdf:Description rdf:about="creator2">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"></rdf:type>
+      <foaf:name>teodor stefanut</foaf:name>
+      <foaf:mbox_sha1sum>7dc3dc9d111c4caf6ca9a6cf4cc7b8e419e8acab</foaf:mbox_sha1sum>
+      <sioc:memberOf>NapocaUniversity</sioc:memberOf>
+      <mdc:profileURI>http://www.meducator.net/?q=foaf/160</mdc:profileURI>
+
+    </rdf:Description>
+</mdc:creator>
+    <mdc:metadataCreator>    <rdf:Description>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"></rdf:type>
+      <foaf:name>Leda Yazbeck</foaf:name>
+      <foaf:mbox_sha1sum>7dc3dc9d111c4caf6ca9a6cf4cc7b8e419e8acab</foaf:mbox_sha1sum>
+      <sioc:memberOf>SGUL</sioc:memberOf>
+
+      <mdc:profileURI>http://www.meducator.net/?q=foaf/160</mdc:profileURI>
+    </rdf:Description>
+</mdc:metadataCreator>
+    <mdc:created>2010-01-29</mdc:created>
+    <mdc:metadataCreated>2010-07-26</mdc:metadataCreated>
+    <mdc:citation>Under the terms of this Creative Commons license, we would like to acknowledge St Georges, University of London for providing access to this VP case: http://labyrinth.sgul.ac.uk/mnode.asp?id=40942 (accessed on 30th  March)</mdc:citation>
+    <mdc:subject>    <rdf:Description rdf:about="subject1">
+
+      <rdf:type rdf:resource="http://www.purl.org/meducator/ns/Subject"></rdf:type>
+      <rdfs:label>thrombolysis</rdfs:label>
+      <mdc:externalTerm>      <rdf:Description>
+        <rdf:type rdf:resource="http://www.purl.org/meducator/ns/ExternalTerm"></rdf:type>
+        <mdc:externalSource>SNOMED</mdc:externalSource>
+        <mdc:conceptID>12.234.5.6.56</mdc:conceptID>
+      </rdf:Description>
+
+</mdc:externalTerm>
+      <mdc:externalTerm>      <rdf:Description>
+        <rdf:type rdf:resource="http://www.purl.org/meducator/ns/ExternalTerm"></rdf:type>
+        <mdc:externalSource>GALEN</mdc:externalSource>
+      </rdf:Description>
+</mdc:externalTerm>
+      <owl:sameAs  rdf:resource="http://www.snomed.org/snomed#Thrombolysis"/>
+      <owl:sameAs  rdf:resource="http://www.co-ode.org/ontologies/galen#Thrombolysis"/>
+    </rdf:Description>
+
+</mdc:subject>
+    <mdc:subject>    <rdf:Description rdf:about="subject2">
+      <rdf:type rdf:resource="http://www.purl.org/meducator/ns/Subject"></rdf:type>
+      <rdfs:label>chestpain</rdfs:label>
+      <mdc:externalTerm>      <rdf:Description>
+        <rdf:type rdf:resource="http://www.purl.org/meducator/ns/ExternalTerm"></rdf:type>
+        <mdc:externalSource>SNOMED</mdc:externalSource>
+
+        <mdc:conceptID>12.234.5.6.57</mdc:conceptID>
+      </rdf:Description>
+</mdc:externalTerm>
+      <mdc:externalTerm>      <rdf:Description>
+        <rdf:type rdf:resource="http://www.purl.org/meducator/ns/ExternalTerm"></rdf:type>
+        <mdc:externalSource>GALEN</mdc:externalSource>
+      </rdf:Description>
+</mdc:externalTerm>
+
+      <owl:sameAs  rdf:resource="http://www.snomed.org/snomed#ChestPain"/>
+      <owl:sameAs  rdf:resource="http://www.co-ode.org/ontologies/galen#ChestPain"/>
+    </rdf:Description>
+</mdc:subject>
+    <mdc:subject>    <rdf:Description rdf:about="subject3">
+      <rdf:type rdf:resource="http://www.purl.org/meducator/ns/Subject"></rdf:type>
+      <rdfs:label>Tachycardia</rdfs:label>
+      <mdc:externalTerm>      <rdf:Description>
+
+        <rdf:type rdf:resource="http://www.purl.org/meducator/ns/ExternalTerm"></rdf:type>
+        <mdc:externalSource>SNOMED</mdc:externalSource>
+        <mdc:conceptID>44.7.4.24</mdc:conceptID>
+      </rdf:Description>
+</mdc:externalTerm>
+      <mdc:externalTerm>      <rdf:Description>
+        <rdf:type rdf:resource="http://www.purl.org/meducator/ns/ExternalTerm"></rdf:type>
+        <mdc:externalSource>GALEN</mdc:externalSource>
+
+        <mdc:conceptID>12.234.5.6.56</mdc:conceptID>
+      </rdf:Description>
+</mdc:externalTerm>
+      <owl:sameAs  rdf:resource="http://www.snomed.org/snomed#Tachycardia"/>
+      <owl:sameAs  rdf:resource="http://www.co-ode.org/ontologies/galen#Tachycardia"/>
+    </rdf:Description>
+</mdc:subject>
+    <mdc:description>This is the story about a Virtual Patient called Mr Angermeier. The case
+
+describes a 48 year old man presenting to A+E with chest pain. As the case progresses, you go through differential diagnosis as well as different
+
+management options for acute myocardial infarction. You have to decide on some initial investigations and interpret the results appropriately. The case
+
+goes through interpretation of investigations as well as indications and contraindications for each treatment modality. Prior to discharge, the patient
+
+develops shock, you will have to differentiate its type and formulate a management plan.</mdc:description>
+    <mdc:technicalDescription>This Virtual Patient (VP) is playable using any web browser. However, if
+
+you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information</mdc:technicalDescription>
+
+    <mdc:discipline>    <rdf:Description rdf:about="discipline1">
+      <rdf:type rdf:resource="http://www.purl.org/meducator/ns/Discipline"></rdf:type>
+      <rdfs:label>Medicine</rdfs:label>
+      <mdc:externalTerm>      <rdf:Description>
+        <rdf:type rdf:resource="http://www.purl.org/meducator/ns/ExternalTerm"></rdf:type>
+        <mdc:externalSource>MESH</mdc:externalSource>
+        <mdc:conceptID>12.234.5.6.56</mdc:conceptID>
+
+      </rdf:Description>
+</mdc:externalTerm>
+      <owl:sameAs  rdf:resource="http://www.snomed.org/snomed#Thrombolysis"/>
+      <owl:sameAs  rdf:resource="http://www.co-ode.org/ontologies/galen#Thrombolysis"/>
+    </rdf:Description>
+</mdc:discipline>
+    <mdc:disciplineSpeciality>    <rdf:Description rdf:about="disciplineSpeciality1">
+      <rdf:type rdf:resource="http://www.purl.org/meducator/ns/DisciplineSpeciality"></rdf:type>
+      <rdfs:label>Cardiology</rdfs:label>
+
+      <mdc:externalTerm>      <rdf:Description>
+        <rdf:type rdf:resource="http://www.purl.org/meducator/ns/ExternalTerm"></rdf:type>
+        <mdc:externalSource>MESH</mdc:externalSource>
+        <mdc:conceptID>21.568.8.9.45</mdc:conceptID>
+      </rdf:Description>
+</mdc:externalTerm>
+      <mdc:externalTerm>      <rdf:Description>
+
+        <rdf:type rdf:resource="http://www.purl.org/meducator/ns/ExternalTerm"></rdf:type>
+        <mdc:externalSource>SNOMED</mdc:externalSource>
+        <mdc:conceptID>222.5645.77</mdc:conceptID>
+      </rdf:Description>
+</mdc:externalTerm>
+      <owl:sameAs  rdf:resource="http://www.mesh.org/mesh#Cardiology"/>
+      <owl:sameAs  rdf:resource="http://www.snomed.org/snomed#Cardiology"/>
+    </rdf:Description>
+
+</mdc:disciplineSpeciality>
+    <mdc:disciplineSpeciality>    <rdf:Description rdf:about="disciplineSpeciality2">
+      <rdf:type rdf:resource="http://www.purl.org/meducator/ns/DisciplineSpeciality"></rdf:type>
+      <rdfs:label>Hematology</rdfs:label>
+      <mdc:externalTerm>      <rdf:Description>
+        <rdf:type rdf:resource="http://www.purl.org/meducator/ns/ExternalTerm"></rdf:type>
+        <mdc:externalSource>MESH</mdc:externalSource>
+
+        <mdc:conceptID>12.434.5.66</mdc:conceptID>
+      </rdf:Description>
+</mdc:externalTerm>
+      <mdc:externalTerm>      <rdf:Description>
+        <rdf:type rdf:resource="http://www.purl.org/meducator/ns/ExternalTerm"></rdf:type>
+        <mdc:externalSource>GALEN</mdc:externalSource>
+        <mdc:conceptID>123.45.77.88</mdc:conceptID>
+
+      </rdf:Description>
+</mdc:externalTerm>
+      <owl:sameAs  rdf:resource="http://www.snomed.org/mesh#Hematology"/>
+      <owl:sameAs  rdf:resource="http://www.co-ode.org/ontologies/galen#Hematology"/>
+    </rdf:Description>
+</mdc:disciplineSpeciality>
+    <mdc:resourceType  rdf:resource="http://purl.org/meducator/resourceType#virtualPatient"/>
+    <mdc:mediaType  rdf:resource="http://purl.org/meducator/mediaType#interactiveLearningEnvironment"/>
+    <mdc:educationalContext>This author of this VP intended its use to be for Self-Directed learning as a formative branched assessment VP</mdc:educationalContext>
+
+    <mdc:teachingLearningInstructions>This formative branched assessment focused VP is best used by students as a revision tool to recap particular learning objectives from a taught session. Or it could be used to supplement a Problem-Based Learning (PBL) session to cover objectives that might not have been covered during the PBL session.</mdc:teachingLearningInstructions>
+    <mdc:assessmentMethods>This is a branched formative assessment Virtual Patient which is intended to be used as a self-directed learning tool or as a supplement to PBL. This type of VP should take the student approximately 15 minutes to complete</mdc:assessmentMethods>
+    <mdc:educationalPrerequisites>In order to play this VP successfully, the student must have a basic understanding in the area of cardiology - particularly the structure and function of the heart and an understanding of Electrocardiograms (ECGs).</mdc:educationalPrerequisites>
+    <mdc:educationalObjectives>    <rdf:Bag>
+    <rdf:_1>To obtain a chest pain history</rdf:_1>
+    <rdf:_2>To formulate a differential diagnosis and investigate appropriately</rdf:_2>
+
+    <rdf:_3>Interpretation of blood tests and ECG</rdf:_3>
+    <rdf:_4>To formulate an initial management plan</rdf:_4>
+    <rdf:_5>To stabilise the patient prior to discharge</rdf:_5>
+</rdf:Bag>
+    </mdc:educationalObjectives>    <mdc:educationalOutcomes  rdf:resource="http://purl.org/meducator/educationalOutcome#takeAndRecordMedicalHistory"/>
+    <mdc:isRepurposedTo>    <rdf:Description rdf:about="isRepurposedTo1">
+      <rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"></rdf:type>
+
+      <mdc:title>Mr Angermeier Child Virtual Patient</mdc:title>
+      <mdc:identifier>http://labyrinth.sgul.ac.uk/mnode.asp?id=36981</mdc:identifier>
+      <mdc:fromRepurposingContext>http://purl.org/meducator/repurposing#Different-Pedagogy</mdc:fromRepurposingContext>
+      <mdc:repurposingDescription>Conducted as part of the eViP project in order to share this VP with the wider medical and healthcare  	education community. This particular VP was repurposed from a branched exploratory style to a more linear narrative approach. This repurposing was conducted to create an assessment VP to supplement the PBL curriculum at St Georges in the area of cardiology. See www.virtualpatients.eu for more information</mdc:repurposingDescription>
+    </rdf:Description>
+</mdc:isRepurposedTo>
+    <mdc:isRepurposedFrom>    <rdf:Description rdf:about="isRepurposedFrom1">
+
+      <rdf:type rdf:resource="http://www.purl.org/meducator/ns/Resource"></rdf:type>
+      <mdc:title>Mr Angermeier Parent Virtual Patient</mdc:title>
+      <mdc:identifier>http://labyrinth.sgul.ac.uk/mnode.asp?id=36980</mdc:identifier>
+      <mdc:toRepurposingContext>http://purl.org/meducator/repurposing#Different-Pedagogy</mdc:toRepurposingContext>
+      <mdc:repurposingDescription>Conducted as part of the eViP project in order to share this VP with the wider medical and healthcare  	education community. This particular VP was repurposed from a branched exploratory style to a more linear narrative approach. This repurposing was conducted to create an assessment VP to supplement the PBL curriculum at St Georges in the area of cardiology. See www.virtualpatients.eu for more information.</mdc:repurposingDescription>
+    </rdf:Description>
+</mdc:isRepurposedFrom>
+
+    <mdc:isAccompaniedBy>    <rdf:Description rdf:about="AccompaniedResource1">
+      <mdc:title>image</mdc:title>
+      <mdc:identifier>http://www.meducator.net/image.gif</mdc:identifier>
+      <mdc:description>this image shows how......and also what the impacts on the heart can be</mdc:description>
+    </rdf:Description>
+</mdc:isAccompaniedBy>
+  </rdf:Description>
+
+</rdf:RDF>

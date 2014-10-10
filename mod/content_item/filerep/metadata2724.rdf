@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2724">
+
+	 <mdc:identifier><![CDATA[http://www.succubus.fr/demo/VirtualKitchen.exe]]></mdc:identifier> 
+<mdc:title><![CDATA[Virtual Kitchen ]]></mdc:title>
+<mdc:language>French</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Succubus Interactive]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Laurent Auneau]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/LaurentAuneau?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2004-05-03</mdc:created>
+<mdc:metadataCreated>2010-05-10</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject528291523"><rdfs:label><![CDATA[Visually impaired ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject308621267"><rdfs:label><![CDATA[ handicap ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1438431886"><rdfs:label><![CDATA[ serious game ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Explains to good seeing people the problems ine their day to day lives of the visually impaired people]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Real time 3D application, downloadable]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#gameSeriousGame"/>
+<mdc:educationalPrerequisites><![CDATA[None]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

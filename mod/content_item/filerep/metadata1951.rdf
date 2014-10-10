@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#1951">
+
+	 <mdc:identifier><![CDATA[]]></mdc:identifier> 
+<mdc:title><![CDATA[Biomolecular Structure Function analysis practicals ]]></mdc:title>
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Pavlos Agianian]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Pavlos Agianian]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/pavlos?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-05-01</mdc:created>
+<mdc:metadataCreated>2010-05-01</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1977178173"><rdfs:label><![CDATA[practical ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1285158962"><rdfs:label><![CDATA[ protein ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2004049736"><rdfs:label><![CDATA[ 3D-structure ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject467073851"><rdfs:label><![CDATA[ rasmol ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject165699792"><rdfs:label><![CDATA[ crystallography ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1950114447"><rdfs:label><![CDATA[ modelling ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1220885922"><rdfs:label><![CDATA[ molecular graphics ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1186025747"><rdfs:label><![CDATA[ protein function ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1545786936"><rdfs:label><![CDATA[ biomolecule ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject301918283"><rdfs:label><![CDATA[ biology ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[The practical is composed of 5 modules:
+
+1.  Protein secondary structure 
+2.  Protein supersecondary structure
+3.  Protein domains and folds
+4.  3D-structures of protein-nucleic acid complexes
+5.  3D-structures of regulatory proteins in diseases]]></mdc:description>
+<mdc:technicalDescription><![CDATA[All modules require Rasmol for the display of molecular graphics using a personal computer. Each module can be run independently and contains instructions, 3D coordinate files, Rasmol scripts and a self-evaluation key. 
+A PC/Mac with a graphics screen is required.  The modules have been run on various Rasmol versions, however incompatibility was not exhaustively tested.  No computer programing skills are necessary.  Each module is a zip containing all necessary files.  The file "readme.doc" contains technical information about setting-up and running the module.]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#practical"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1064675370"><rdfs:label><![CDATA[Biosciences, Biomedicine, Chemistry, Natural Sciences ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>Undergraduate, Postgratuate</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[The practical aims to provide a hands-on understanding of protein 3D-structure and structure-function relations, using molecular graphics on a PC/Mac.  It is suited for people with a Biology/Biochemistry/Bio-medicine, Chemistry or other related Natural Science degree.  A basic understanding of biochemistry/chemistry is required.  Basic computer literacy is essential.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Each module contains file "module(1-5).doc" which is the core educational material. It is structured in educational steps of increasing difficulty.  Each step requires hands-on manipulations and ends with a question. The answer to the questions is contained in the file "key.doc" which serves as a self-evaluation tool or is used by the teacher for scoring.  
+The file "rasmol.doc" contains basic Rasmol commands and instructions for interactive molecular graphics manipulations.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[1. To understand basic principles of protein 3D-architecture.
+2. To understand how protein structure determines function, with emphasis in DNA recognition and regulation phenomena in disease.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[1. Understanding of structure-function relationship
+2. Ability to use computer graphics to study other protein systems of choice]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[Evaluation sheet with answers to questions imposed during the practical.]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[1. Bioscience or Natural Science degree or equivalent experience 
+2. Basic computer literacy]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

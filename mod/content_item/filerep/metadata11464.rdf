@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#11464">
+
+	 <mdc:identifier><![CDATA[]]></mdc:identifier> 
+<mdc:title><![CDATA[Cas pratique d'analyse critique d'article médical scientifique - Grille de notation :Ximélagatran versus warfarine dans la prévention des accidents vasculaires cérébraux chez les patients souffrant de fibrillation auriculaire non valvulaire ]]></mdc:title>
+<mdc:identifier><![CDATA[http://grincheux.unice.fr/~meducator/evidencebasedanalysis/01062010/grid.pdf ]]></mdc:identifier> 
+<mdc:identifier><![CDATA[http://www.ncbi.nlm.nih.gov/pubmed/15701910 ]]></mdc:identifier> 
+<mdc:rights rdf:resource="" />
+<mdc:quality><![CDATA[No specific quality stamp ]]></mdc:quality> 
+<mdc:language>fr</mdc:language>
+<mdc:metadataLanguage>fr</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Antoine Mistretta]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/Antomis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2011-07-13</mdc:created>
+<mdc:metadataCreated>2011-07-13</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject493795332"><rdfs:label><![CDATA[ ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Enseignement de lecture critique d'article.
+Cas pratique illustrant une situation d'analyse critique d'article médical scientifique.
+Le type d'étude concerné est un essai thérapeutique contrôlé.
+La référence de l'article analysé est :
+Albers GW, Diener HC, Frison L, Grind M, Nevinson M, Partridge S, Halperin JL, Horrow J, Olsson SB, Petersen P, Vahanian A; SPORTIF Executive Steering Committee for the SPORTIF V Investigators. Ximelagatran vs warfarin for stroke prevention in patients with nonvalvular atrial fibrillation: a randomized trial. JAMA. 2005 Feb 9;293(6):690-8.
+La référence de l'article est accessible à l'adresse suivante : http://www.ncbi.nlm.nih.gov/pubmed/15701910]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Fichier PDF]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource=""/>
+<mdc:educationalLevel>http://purl.org/meducator/educationalLevel#Undergraduate</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Enseignement de lecture critique d'article.
+Cas pratique illustrant une situation d'analyse critique d'article médical scientifique.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Le dossier dont fait partie cet objet d'apprentissage comporte plusieurs documents : l'article complet, l'article sans le résumé, la liste des questions, la grille de notation, la proposition de résumé. La séance de travaux dirigés se déroule en : distribution des questions, lecture de l'article (30 mn), réponses aux questions (60 mn) et corrections (30 mn).]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Entrainement à l'épreuve de Lecture Critique d'Article (LCA) aux Epreuves Classantes Nationales (ECN) pour l'accès au 3ème cycle des études médicales (France). Les objectifs pédagogiques sont définis dans un document accessible à l'adresse suivante : http://www.cnci.univ-paris5.fr/medecine/LectureCritiqueArticle.pdf]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[http://purl.org/meducator/educationalOutcome#applyThePrinciplesOfEvidenceBasedMedicine]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[Be able to analyze the content of a medical scientific article; be able to determine the level of evidence of a clinical study (therapeutic, prognostic, diagnostic and epidemiological studies]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[épidémiologie, statistiques descriptives et inférentielles (niveau 1), méthodologie de la recherche clinique]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

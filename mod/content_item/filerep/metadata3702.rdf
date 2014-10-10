@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#3702">
+
+	 <mdc:identifier><![CDATA[http://iris.med.duth.gr/elearning/mod/resource/view.php?id=867]]></mdc:identifier> 
+<mdc:title><![CDATA[Physics of Human Vision and Eye ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>Greek</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Eleni Kaldoudi]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Eleni Kaldoudi]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/kaldoudi?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-06-04</mdc:created>
+<mdc:metadataCreated>2010-07-29</mdc:metadataCreated>
+<mdc:citation><![CDATA[E. Kaldoudi, “Physics of Human Eye and Vision”, Lecture slides in the Undergraduate Course “Medical Physics”, School of Medicine, Democritus University of Thrace, June 2010]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject764810653"><rdfs:label><![CDATA[human vision ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject675901094"><rdfs:label><![CDATA[ eye ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject499011880"><rdfs:label><![CDATA[ physics ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1621961396"><rdfs:label><![CDATA[ optics ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject185926684"><rdfs:label><![CDATA[ photochemistry ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[The resource is a ~2 hour slide presentation on the physics of human vision and eye. It mainly focuses on geometrical optics and the model of the eye as a lense system, as well as the physics of molecular excitation and the photochemistry of the vision.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[A Winrar zip archive containing a 50 slides Microsoft powerpoint presentation (~600KB).]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1702438108"><rdfs:label><![CDATA[medicine, biology ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>undergraduate</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This is intended for a 2-hour lecture within an undergraduate course on physiology of the eye or medical physics or physics for biology and health sciences.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[The presentation contains slide animations that demonstrate the process of excitation - so it should be viewed in the slide show mode of the MS powerpoint.]]></mdc:teachingLearningInstructions>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:identifier>http://metamorphosis.med.duth.gr/pg/profile/Geometric_Optics._An_Introduction</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

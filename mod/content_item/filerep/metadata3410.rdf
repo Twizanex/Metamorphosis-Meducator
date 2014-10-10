@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#3410">
+
+	 <mdc:identifier><![CDATA[http://kedip.med.auth.gr/elearning/course/view.php?id=62]]></mdc:identifier> 
+<mdc:title><![CDATA[Chest pain session in a 3D virtual learning environment ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Eleni Dafli]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Kostantinos Vegoudakis]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Konstantinos Kostopoulos]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Eleni Dafli]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/elenidafli?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-07-20</mdc:created>
+<mdc:metadataCreated>2010-07-20</mdc:metadataCreated>
+<mdc:citation><![CDATA[Under the terms of this Creative Commons license, we would like to acknowledge the Lab of Medical Informatics of Aristotle University of Thessaloniki for providing access to this educational scenario]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject176448497"><rdfs:label><![CDATA[chest pain ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject728752336"><rdfs:label><![CDATA[ OpenSim ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1183848778"><rdfs:label><![CDATA[ 3D virtual world ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject991254312"><rdfs:label><![CDATA[ virtual learning environment ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This is an OpenSim based 3D virtual learnimg environment that was built so as to support interactive learning in medical students. It includes a learning scenario concerning chest pain, but it can be used for other learning scenarios in the fields of primary healthcare, in the era of Cardiology. The graphic environment provides to the user, not only the feeling of being physically present in this virtual world, but the opportunity that he/she can interact with it.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Users are provided with accounts and should log in to enter the 3D world.]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#simulation"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1233010901"><rdfs:label><![CDATA[medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1598954070"><rdfs:label><![CDATA[cardiology ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>undergraduate medical students</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[The appearance of virtual worlds has additional dimensions beyond traditional Web services concerning communication, research, formal and informal education and training and lifelong learning as well. Interaction and involvement of the students\participants support self directed learning and are considered to be highly motivating.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[This learning environment can be used supplementary to clinical lessons.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[The aim of this learning environment is to support students to practise in decision taking in a realistic 3D environment in basic clinical skills in primary healthcare.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[The students are expected to learn how to deal with a patient with chest pain incident in primary healthcare.]]></mdc:educationalOutcomes>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title></mdc:title>
+<mdc:identifier></mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Technology</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Content-Types</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy</mdc:fromRepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title></mdc:title>
+<mdc:identifier></mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Technology</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Content-Types</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy</mdc:fromRepurposingContext>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

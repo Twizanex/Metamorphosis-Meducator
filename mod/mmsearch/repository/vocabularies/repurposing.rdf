@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xml:base="http://purl.org/meducator/repurposing#" xmlns:mdc="http://purl.org/meducator/ns/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+	
+	<mdc:RepurposingContext rdf:about="http://purl.org/meducator/repurposing#Different-Languages">
+	<rdfs:label>Different-Languages</rdfs:label>
+	<dc:description>This is the case where an educational resource is translated to different languages</dc:description>
+	</mdc:RepurposingContext>
+	
+	<mdc:RepurposingContext rdf:about="http://purl.org/meducator/repurposing#Different-Cultures">
+	<rdfs:label>Different-Cultures</rdfs:label>
+	<dc:description> Repurposing of the resource to a different culture. It may be in the same or in a different language with the initial</dc:description>
+	</mdc:RepurposingContext>
+		
+	<mdc:RepurposingContext rdf:about="http://purl.org/meducator/repurposing#Different-Pedagogy">
+	<rdfs:label>Different-Pedagogy</rdfs:label>
+	<dc:description> </dc:description>
+	</mdc:RepurposingContext>
+	
+	<mdc:RepurposingContext rdf:about="http://purl.org/meducator/repurposing#Different-Educational-Level">
+	<rdfs:label>Different-Educational-Level</rdfs:label>
+	<dc:description>The resource is repurposed so that i can target a group with a different educatioan level</dc:description>
+	</mdc:RepurposingContext>
+	
+	<mdc:RepurposingContext rdf:about="http://purl.org/meducator/repurposing#Different-Disciplines">
+	<rdfs:label>Different-Disciplines</rdfs:label>
+	<dc:description>An educational content often needs to be adapted in order to be delivered to an audience of a different professional background i.e. from medical doctors to nurses and lab technicians, to basic life scientists and even healthcare administrators. </dc:description>
+	</mdc:RepurposingContext>
+	
+	<mdc:RepurposingContext rdf:about="http://purl.org/meducator/repurposing#Different-Content-Types">
+	<rdfs:label>Different-Content-Types</rdfs:label>
+	<dc:description>Change a learning object from one type to another. For example, a lecture presentation to a didactic problem, or course notes to presentation and so on</dc:description>
+	</mdc:RepurposingContext>
+		
+	<mdc:RepurposingContext rdf:about="http://purl.org/meducator/repurposing#Different-Technology">
+	<rdfs:label>Different-Technology</rdfs:label>
+	<dc:description> Changes to a digital learning resource that affect its technological characteristics, such as digital format, digital size and quality (e.g. for images), computer platform, etc</dc:description>
+	</mdc:RepurposingContext>
+	
+	
+	<mdc:RepurposingContext rdf:about="http://purl.org/meducator/repurposing#Changes-to-Content">
+	<rdfs:label>Changes-to-Content</rdfs:label>
+	<dc:description> Add content or mutate content of a learning object, integrate content from different learning resources, fuse different learning resources, re-organize existing content, etc. or a combination of the above.  </dc:description>
+	</mdc:RepurposingContext>
+	
+</rdf:RDF>

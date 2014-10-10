@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://purl.org/meducator/resources/8d2036ed-41f0-49dc-b4bf-db0f09592f1e">
+<rdfs:seeAlso>http://metamorphosis.med.duth.gr/uid#1227</rdfs:seeAlso>
+<mdc:title><![CDATA[Mr Angermeier Linear Virtual Patient ]]></mdc:title>
+<mdc:identifier><mdc:Identifier><rdfs:description>URI</rdfs:description><rdfs:label><![CDATA[http://labyrinth.sgul.ac.uk/mnode.asp?id=40942 ]]></rdfs:label></mdc:Identifier></mdc:identifier> 
+<mdc:identifier><mdc:Identifier><rdfs:description>URI</rdfs:description><rdfs:label><![CDATA[evip:vp:1000503 ]]></rdfs:label></mdc:Identifier></mdc:identifier> 
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:quality><![CDATA[the official accrediting body of the MedBiq standard ]]></mdc:quality> 
+<mdc:quality><![CDATA[It is compliant with ANSI ]]></mdc:quality> 
+<mdc:language>en</mdc:language> 
+<mdc:metadataLanguage>en</mdc:metadataLanguage>
+<mdc:creator><foaf:Person> 
+<foaf:name><![CDATA[Leda Yazbeck ]]></foaf:name>
+</foaf:Person></mdc:creator><mdc:creator><foaf:Person> 
+<foaf:name><![CDATA[Alex Higton ]]></foaf:name>
+</foaf:Person></mdc:creator>	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Evangelia Mitsopoulou ]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-01-29</mdc:created>
+<mdc:metadataCreated>2010-03-30</mdc:metadataCreated>
+<mdc:citation><![CDATA[Under the terms of this Creative Commons license, we would like to acknowledge St Georgeâ€™s, University of London for providing access to this VP case: http://labyrinth.sgul.ac.uk/mnode.asp?id=40942 (accessed on 30th March) ]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://purl.org/meducator/external/"><rdfs:isDefinedBy></rdfs:isDefinedBy><rdfs:label>Chest pain</rdfs:label><mdc:externalSource></mdc:externalSource></mdc:Subject></mdc:subject><mdc:subject><mdc:Subject rdf:about="http://purl.org/meducator/external/"><rdfs:isDefinedBy></rdfs:isDefinedBy><rdfs:label>shock.</rdfs:label><mdc:externalSource></mdc:externalSource></mdc:Subject></mdc:subject><mdc:subject><mdc:Subject rdf:about="http://purl.org/meducator/external/"><rdfs:isDefinedBy></rdfs:isDefinedBy><rdfs:label>angina pectoris</rdfs:label><mdc:externalSource></mdc:externalSource></mdc:Subject></mdc:subject><mdc:subject><mdc:Subject rdf:about="http://purl.org/meducator/external/"><rdfs:isDefinedBy></rdfs:isDefinedBy><rdfs:label>acute myocardial infarction</rdfs:label><mdc:externalSource></mdc:externalSource></mdc:Subject></mdc:subject><mdc:subject><mdc:Subject rdf:about="http://purl.org/meducator/external/"><rdfs:isDefinedBy></rdfs:isDefinedBy><rdfs:label>thrombolysis</rdfs:label><mdc:externalSource></mdc:externalSource></mdc:Subject></mdc:subject><mdc:description><![CDATA[This is the story about a Virtual Patient called Mr Angermeier. The case describes a 48 year old man presenting to A+E with chest pain. As the case progresses, you go through differential diagnosis as well as different management options for acute myocardial infarction. You have to decide on some initial investigations and interpret the results appropriately. The case goes through interpretation of investigations as well as indications and contraindications for each treatment modality. Prior to discharge, the patient develops shock, you will have to differentiate its type and formulate a management plan. ]]></mdc:description>
+<mdc:technicalDescription><![CDATA[This Virtual Patient (VP) is playable using any web browser. However, if you are interested in adapting or modifying this VP please contact elu@sgul.ac.uk for more information. ]]></mdc:technicalDescription>
+<mdc:mediaType rdf:resource="http://purl.org/meducator/mediaType#virtualPatient" /> 
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#virtualPatient" /> 
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#lectureNotes" /> 
+<mdc:discipline><mdc:Discipline rdf:about="http://purl.org/meducator/external/"><rdfs:isDefinedBy></rdfs:isDefinedBy><rdfs:label>Medicine</rdfs:label><mdc:externalSource></mdc:externalSource></mdc:Discipline></mdc:discipline><mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://purl.org/meducator/external/"><rdfs:isDefinedBy></rdfs:isDefinedBy><rdfs:label>cardiology</rdfs:label><mdc:externalSource></mdc:externalSource></mdc:DisciplineSpeciality></mdc:disciplineSpeciality><mdc:educationalContext><![CDATA[ This author of this VP intended its use to be for Self-Directed learning as a formative linear assessment VP ]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[ This formative linear assessment focused VP is best used by students as a revision tool to recap particular learning objectives from a taught session. ]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[ 1) To obtain a chest pain history 2) To formulate a differential diagnosis and investigate appropriately 3) Interpretation of blood tests and ECG. 4) To choose and interpret specialist investigations in order to confirm the diagnosis 5) To formulate an initial management plan 6) To stabilise the patient prior to discharge ]]></mdc:educationalObjectives>
+<mdc:assessmentMethods><![CDATA[ This is a linear formative assessment Virtual Patient which is intended to be used as a self-directed learning tool. This type of VP should take the student approximately 15 minutes to complete. ]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[ In order to play this VP successfully, the student must have a basic understanding in the area of cardiology - particularly the structure and function of the heart and an understanding of Electrocardiograms (ECG's). ]]></mdc:educationalPrerequisites>
+<mdc:hasRepurposingContext><mdc:RepurposingContext><mdc:repurposedFrom rdf:resource="http://purl.org/meducator/resources/a537b705-73f7-4af2-9931-1cb05d3d150e" /><mdc:repurposingDescription><![CDATA[Conducted as part of the eViP project in order to share this VP with the wider medical and healthcare education community. This particular VP was repurposed from a branched exploratory style to a more linear narrative approach. This repurposing was conducted to create an assessment VP to supplement the PBL curriculum at St George's in the area of cardiology. See www.virtualpatients.eu for more information.]]></mdc:repurposingDescription>
+<mdc:fromRepurposingContext rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy" />
+</mdc:RepurposingContext></mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

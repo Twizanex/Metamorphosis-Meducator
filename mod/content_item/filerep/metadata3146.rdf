@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#3146">
+
+	 <mdc:identifier><![CDATA[http://www.meducator.net/?q=content/dr-slavov-carotid-stenosis-eng]]></mdc:identifier> 
+<mdc:title><![CDATA[Carotid Stenosis ]]></mdc:title>
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Anastasov V]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Slavov P]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Ivanov E Department of Vascular Surgery and Angiology- Medical University - Plovdiv]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Dora Edreva]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/doraed?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-06-09</mdc:created>
+<mdc:metadataCreated>2010-06-09</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1884452340"><rdfs:label><![CDATA[carotid stenosis ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1329804051"><rdfs:label><![CDATA[ vascular diseases ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1816893417"><rdfs:label><![CDATA[ vascular surgery ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Atherosclerosis and stenosis at the common carotid bifurcation and origin of the internal carotid artery is the major single etiology of ischaemic stroke. The risk of stroke in patients with stenosis ≥70%, despite adequate antiplatelet treatment is significant. Various clinical manifestations exist - amaurosis fugax, transient/reversible cerebral ischaemia, established stroke, stroke in evolution, global cerebral ischaemia, asymptomic. Diagnosis is based upon various imaging techniques. Medical treatment consists of anticoagulation and management of atherosclerosis. Surgical treatment is dominated by carotid bifurcation endarterectomy. Endovascular treatment has its advantages and disadvantages.]]></mdc:description>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#text"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#teachingFile"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline2129807218"><rdfs:label><![CDATA[Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality994923839"><rdfs:label><![CDATA[surgery / vascular surgery ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>Medical students of appropriate  year of study  (4-th year in BG)</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Medical students, General Practitioners
+Educational material for self-preparation for medical students; preparation for examination in Vascular Surgery.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Formal text usage for self-preparation.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Educational process in medical study – basic knowledge acquirement]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Expected results: learning / control / evaluation of knowledge
+Target skills: comprehensive reading, student’s autonomy]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[Examination, practical classes – bed-side examination.]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[Anatomy, physiology, basics of surgery and internal medicine]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

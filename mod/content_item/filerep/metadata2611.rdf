@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2611">
+
+	 <mdc:identifier><![CDATA[http://iris.med.duth.gr/elearning/mod/resource/view.php?id=825]]></mdc:identifier> 
+<mdc:title><![CDATA[Nuclear Magnetic Resonance Physics for Molecular Biologists (lecture) ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>Greek</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Eleni Kaldoudi]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Eleni Kaldoudi]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/kaldoudi?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-01-18</mdc:created>
+<mdc:metadataCreated>2010-05-09</mdc:metadataCreated>
+<mdc:citation><![CDATA[E. Καλδούδη, «Πυρηνικός Μαγνητικός Συντονισμός», Διαφάνειες Παρουσιάσεων στα Πλαίσια του Προπτυχιακού Μαθήματος «Φυσική στις Βιολογικές Επιστήμες», Τμήμα Μοριακής Βιολογίας και Γενετικής, Δημοκρίτειο Πανεπιστήμιο Θράκης, Ιανουάριος 2010]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject482943353"><rdfs:label><![CDATA[magnetic resonance imaging ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject805053581"><rdfs:label><![CDATA[ lecture slides ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2072475646"><rdfs:label><![CDATA[ physical principles of medical imaging ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1891959685"><rdfs:label><![CDATA[ molecular biology students ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This item is a set of slides corresponding to 2 hour lecture on the basic physical principles of magnetic resonance imaging and spectroscopy. The slides cover the following topics: (1) the nuclear magnetic resonance phenomenon, a semi-classical approach, (2) NMR spectroscopy principles, (3) MR imaging principles, (4) safety issues.  .]]></mdc:description>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline614585074"><rdfs:label><![CDATA[biology, medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>undegraduate</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This presentation can be used for a 2 hour lecture on the basic physical principles of magnetic resonance imaging. It is suitable for an introduction to MRI in an undergraduate course of physics for molecular biologists and/or medical students.]]></mdc:educationalContext>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Πυρηνικός Μαγνητικός Συντονισμός: Φασματοσκοπία και Απεικόνιση (σημειώσεις)</mdc:title>
+<mdc:identifier>http://iris.med.duth.gr/elearning/mod/resource/view.php?id=826</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>Simplified and reduced considerably the content of the original resource, and added some discussion on molecular imaging.</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Educational-Level</mdc:fromRepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Physical Principles of Magnetic Resonance Imaging</mdc:title>
+<mdc:identifier>http://iris.med.duth.gr/elearning/mod/resource/view.php?id=820</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>Simplified and reduced considerably the content of the original resource, and added some discussion on molecular imaging.</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Pedagogy</mdc:fromRepurposingContext>
+<mdc:fromRepurposingContext>rdf:resource="http://purl.org/meducator/repurposing#Different-Educational-Level</mdc:fromRepurposingContext>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

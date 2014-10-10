@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<root>
+			<corporateuser>false</corporateuser>
+			<logo type="small">http://www.medgle.com/logo/medglelogoBB.png</logo>
+			<logo type="big">http://www.medgle.com/logo/medglelogoE.jpg</logo>
+			<linkback_url>http://www.medgle.com/rw/diagnoses/diabetes+mellitus+type+2</linkback_url>
+			<linkback_text>Click here for more information</linkback_text>
+			<resulttype>diagnosis</resulttype>
+			<diagnosis>
+				<diagnosis_name>diabetes mellitus type 2</diagnosis_name>
+				<diagnosis_url>http://www.medgle.com/rw/diagnoses/diabetes+mellitus+type+2</diagnosis_url>
+				<diagnosis_layman>multisystem disease due to insulin resistance and high blood sugar</diagnosis_layman>
+				<diagnosis_category>ENDOCRINE, EYE DISEASES, NEPHROLOGY, VASCULAR PROBLEMS</diagnosis_category>
+				<diagnosis_prevalence>very common</diagnosis_prevalence>
+				<diagnosis_travel></diagnosis_travel>
+				<diagnosis_definition>Diabetes mellitus type 2 (formerly called diabetes mellitus type II, non-insulin-dependent diabetes (NIDDM), obesity related diabetes, or adult-onset diabetes) is a metabolic disorder that is primarily characterized by insulin resistance, relative insulin deficiency, and hyperglycemia.</diagnosis_definition>
+				<ICD9>250.0</ICD9>
+					<ICD10>E10.0</ICD10>
+					<ICD10>E14.0</ICD10>
+					<diagnosis_symptoms type="common">increased thirst, urinating often, vision problems, weakness, abnormal blood fats, blister(s) or bump(s) on foot (feet), blister(s) or bump(s) under breasts, fatigue, has diabetes, headache worse in the morning, hyperglycemia, impaired sensations, impotence, incontinence of urine in females, incontinence of urine in males, increased appetite, increased skin pigmentation, infertility in males, lethargy, muscle wasting, obese, poor wound healing, truncal obesity, ulcer(s) on body, urinating at night or bedwetting, urinating large amounts, weight gain</diagnosis_symptoms>
+				<diagnosis_ads>
+							<diagnosis_ad>http://206.135.193.170/ads/Januvia.jpg</diagnosis_ad>
+							</diagnosis_ads>
+
+				<diagnosis_emergency>No</diagnosis_emergency>
+				<related_diagnoses>
+						<related_diagnosis star="0"  >diabetes insipidus</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >insulin dependent diabetes mellitus</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >cystitis</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >kidney stone</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >neurogenic bladder</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >overflow incontinence</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >urge incontinence</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >urinary tract obstruction</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >xanthinuria</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >uterine fibroids</related_diagnosis>
+
+
+							</related_diagnoses>
+				<procedures type="diagnostic">				
+						<procedure url="http://www.medgle.com/rw/procedures/Fasting+blood+sugar/" star="10" >Fasting blood sugar</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Glutamic+acid+decarboxylase+%28GAD%29+antibodies/" star="10" >Glutamic acid decarboxylase (GAD) antibodies</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/HBA1c+%28Hemoglobin+A1c%29/" star="10" >HBA1c (Hemoglobin A1c)</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Islet+cell+antibodies/" star="10" >Islet cell antibodies</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Serum+glutamic+acid+decarboxylase+%28GAD%29+antibodies/" star="10" >Serum glutamic acid decarboxylase (GAD) antibodies</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/serum+glucose/" star="10" >serum glucose</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/BUN/" star="9" >BUN</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Complete+metabolic+panel/" star="9" >Complete metabolic panel</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Serum+Creatinine/" star="9" >Serum Creatinine</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Urinalysis/" star="9" >Urinalysis</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/urine+microalbumin/" star="9" >urine microalbumin</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/vision+tests/" star="9" >vision tests</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Monofilament+Foot+Sensation/" star="6" >Monofilament Foot Sensation</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/serum+insulin/" star="5" >serum insulin</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/insulin+antibodies/" star="5" >insulin antibodies</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Blood+Pressure+monitoring/" star="0" >Blood Pressure monitoring</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Butanol+threshold+test/" star="0" >Butanol threshold test</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Comprehensive+eye+exam/" star="0" >Comprehensive eye exam</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Connecticut+odor+identification+test/" star="0" >Connecticut odor identification test</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Cross-Cultural+Smell+Identification+Test/" star="0" >Cross-Cultural Smell Identification Test</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Dietary+questionnaire/" star="0" >Dietary questionnaire</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Euglobulin+clot+lysis/" star="0" >Euglobulin clot lysis</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/HBA1C/" star="0" >HBA1C</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Lipoprotein+Electrophoresis/" star="0" >Lipoprotein Electrophoresis</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Lipoprotein+Phenotyping/" star="0" >Lipoprotein Phenotyping</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Olfactory-evoked+response/" star="0" >Olfactory-evoked response</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Oral+Glucose+Tolerance+Test/" star="0" >Oral Glucose Tolerance Test</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Serum+C-peptide/" star="0" >Serum C-peptide</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Serum+Cholesterol/" star="0" >Serum Cholesterol</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Serum+Low-density+lipoprotein+%28LDL%29/" star="0" >Serum Low-density lipoprotein (LDL)</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Serum+Triglyceride/" star="0" >Serum Triglyceride</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Serum+alpha+2-globulin/" star="0" >Serum alpha 2-globulin</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Serum+carotene/" star="0" >Serum carotene</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Serum+lipoproteins/" star="0" >Serum lipoproteins</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Sniffin%27+Sticks/" star="0" >Sniffin' Sticks</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/University+of+Pennsylvania+Smell+Identification+Test/" star="0" >University of Pennsylvania Smell Identification Test</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/body+mass+index/" star="0" >body mass index</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/fasting+lipid+profile/" star="0" >fasting lipid profile</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/serum+electrolytes/" star="0" >serum electrolytes</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/serum+globulin/" star="0" >serum globulin</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/urine+output/" star="0" >urine output</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/urine+reducing+substances/" star="0" >urine reducing substances</procedure>
+							</procedures>
+
+				<procedures type="therapeutic">				
+						<procedure url="http://www.medgle.com/rw/procedures/serum+insulin/" star="10" >serum insulin</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/foot+care/" star="4" >foot care</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/HBA1C/" star="3" >HBA1C</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/surgical+intervention/" star="3" >surgical intervention</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Bariatric+surgery/" star="0" >Bariatric surgery</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Nutritional+counseling/" star="0" >Nutritional counseling</procedure>
+							</procedures>
+
+				<medications>
+						<medication url="http://www.medgle.com/rw/drugs/Insulin/" star="10" >Insulin</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Metformin/" star="2" >Metformin</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Rosiglitazone/" star="0" >Rosiglitazone</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Rosiglitazone%2Fmetformin/" star="0" >Rosiglitazone/metformin</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Pioglitazone/" star="0" >Pioglitazone</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Glyburide/" star="0" >Glyburide</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Glyburide%2Fmetformin/" star="0" >Glyburide/metformin</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Glimepiride/" star="0" >Glimepiride</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Glipizide/" star="0" >Glipizide</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Glipizide%2Fmetformin/" star="0" >Glipizide/metformin</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Acarbose/" star="0" >Acarbose</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Tolbutamide/" star="0" >Tolbutamide</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Repaglinide/" star="0" >Repaglinide</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Sitagliptin/" star="0" >Sitagliptin</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Exenatide/" star="0" >Exenatide</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Nateglinide/" star="0" >Nateglinide</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Chlorpropamide/" star="0" >Chlorpropamide</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Insulin+detemir/" star="0" >Insulin detemir</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Miglitol/" star="0" >Miglitol</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Colesevelam/" star="0" >Colesevelam</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Tolazamide/" star="0" >Tolazamide</medication>
+							<medication url="http://www.medgle.com/rw/drugs/Pramlintide+acetate/" star="0" >Pramlintide acetate</medication>
+							</medications>
+					
+				<advice_options>
+
+				<otc_drugs>
+				<otc_drug url="http://www.medgle.com/rw/drugs/Aspirin/" star="1" values="" sources="diabetes mellitus type 2" labels="Bayer aspirin" >Aspirin</otc_drug>
+						<otc_drug url="http://www.medgle.com/rw/drugs/Chromium+Picolinate/" star="1" values="" sources="diabetes mellitus type 2" labels="" >Chromium Picolinate</otc_drug>
+						<otc_drug url="http://www.medgle.com/rw/drugs/Folic+acid/" star="1" values="" sources="diabetes mellitus type 2" labels="" >Folic acid</otc_drug>
+						<otc_drug url="http://www.medgle.com/rw/drugs/Ibuprofen/" star="1" values="" sources="diabetes mellitus type 2" labels="Advil" >Ibuprofen</otc_drug>
+						<otc_drug url="http://www.medgle.com/rw/drugs/Insulin+isophane/" star="1" values="" sources="diabetes mellitus type 2" labels="Humulin 50/50, Humulin 70/30, Humulin 70/30 Pen, Humulin N, Humulin N Pen, Humulin R, Novolin 70/30, Novolin 70/30 Innolet, Novolin 70/30 PenFill, Novolin N, Novolin N Innolet, Relion Novolin 70/30 Innolet, ReliOn/Novolin R" >Insulin isophane</otc_drug>
+						</otc_drugs>
+
+
+				<homecare_options>
+				<homecare  star="1" values="" sources="diabetes mellitus type 2"  >Avoid alcohol and smoking and Avoid exposure to secondary smoke</homecare>
+						<homecare  star="1" values="" sources="diabetes mellitus type 2"  >Check your blood pressure every day and Keep a log of your results.</homecare>
+						<homecare  star="1" values="" sources="diabetes mellitus type 2"  >Check your blood sugar every day and Keep a log of blood sugar results.</homecare>
+						<homecare  star="1" values="" sources="diabetes mellitus type 2"  >Follow an exercise plan as directed by your doctor.</homecare>
+						<homecare  star="1" values="" sources="diabetes mellitus type 2"  >Get regular dental checkups and practice good dental hygiene.</homecare>
+						<homecare  star="1" values="" sources="diabetes mellitus type 2"  >Get regular eye and foot examinations.</homecare>
+						<homecare  star="1" values="" sources="diabetes mellitus type 2"  >Inspect the skin of your feet and your nails every day, in order to look for injury.</homecare>
+						<homecare  star="1" values="" sources="diabetes mellitus type 2"  >Lose weight if you are overweight</homecare>
+						<homecare  star="1" values="" sources="diabetes mellitus type 2"  >Take prescribed medications as directed.</homecare>
+						<homecare  star="1" values="" sources="diabetes mellitus type 2"  >Take your diabetes medication as directed</homecare>
+						<homecare  star="1" values="" sources="diabetes mellitus type 2"  >Wear a Medic Alert bracelet at all times.</homecare>
+						</homecare_options>
+
+				<chronic_homecare_options>
+				<chronic_homecare  star="1" values="" sources="diabetes mellitus type 2"  >Eat a healthy heart diet with fat to 30% of your total calories and 10% to 15% of monounsaturated fats, such as olive oil, canola oil and peanut oil.</chronic_homecare>
+						<chronic_homecare  star="1" values="" sources="diabetes mellitus type 2"  >Eat foods rich in omega-3 fats</chronic_homecare>
+						<chronic_homecare  star="1" values="" sources="diabetes mellitus type 2"  >Follow your diabetes diet as directed.</chronic_homecare>
+						<chronic_homecare  star="1" values="" sources="diabetes mellitus type 2"  >Increase dietary fiber</chronic_homecare>
+						<chronic_homecare  star="1" values="" sources="diabetes mellitus type 2"  >Low cholesterol diet and Low salt diet.</chronic_homecare>
+						</chronic_homecare_options>
+
+			</advice_options>
+
+			</diagnosis>
+			</root>
+
+			

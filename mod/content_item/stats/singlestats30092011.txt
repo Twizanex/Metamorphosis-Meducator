@@ -1,0 +1,377 @@
+GUID|SESAME|CREATOR|AFFILIATION|TITLE|RESOURCE LANGUAGE|METADATA LANGUAGE|DATE|CITATION|EDUCATIONAL DESCRIPTION|TECHNICAL DESCRIPTION|EDUCATIONAL CONTEXT|EDUCATIONAL INSTRUCTIONS|EDUCATIONAL OBJECTIVES|ASSESSMENT METHODS|EDUCATIONAL PREREQUISITES
+838||Chara Balasubramaniam||Catherine Miller|English|English|2010-01-29|YES|YES|YES|YES|YES|YES||YES|
+973||Daniela Giordano|university of catania|The Web-Trace Platform|English|English|2009-01-01|YES|YES|YES||YES||||
+1104||Daniela Giordano|university of catania|Introduction to cephalometric analysis|English|English|2006-05-01|YES|YES|||||||
+1146||Jarkko Mylläri|university of helsinki|Using Virtual Patients in Dermatology|English||2010-02-08|YES|YES|YES|YES|||||
+1160||Jarkko Mylläri|university of helsinki|Actor Simulated Patient Interview|English|English|2010-02-15||YES|YES|YES|YES|YES|YES|YES|
+1220||Evangelia Mitsopoulou||Mr Angermeier Branched Virtual Patient|en|en|2010-01-29|YES|YES|YES|YES|YES|YES|YES|YES|
+1227||Evangelia Mitsopoulou||Mr Angermeier Linear Virtual Patient|English|English|2010-01-29|YES|YES|YES|YES|YES|YES|YES|YES|
+1234||Evangelia Mitsopoulou||Mr Maller Linear Virtual Patient|English|English|2010-01-29|YES|YES|YES|YES|YES|YES|YES|YES|
+1255||Evangelia Mitsopoulou||Mr Maller Branched Virtual Patient|English|English|2010-01-29||YES|YES|YES|YES|YES|YES|YES|
+1328||Jarkko Mylläri|university of helsinki|ECG Patient case 1004 limb and chest leads||en|2010-04-19||YES|YES|YES||YES|||
+1384||Teodor Stefanut|UTCN|The Larynx - introductory lesson|English|English|2010-04-05||YES|YES||YES|YES|||
+1403||David Panzoli||Climate Health Impact|English|English|2009-01-01|YES|YES|YES|YES|YES|YES|YES|YES|
+1410||David Panzoli||Disease quiz climate health impact|English|English|2010-03-10|YES|YES|YES|YES|YES|YES|YES|YES|
+1419||David Panzoli||Disease quiz climate health impact French|French|English|2010-04-09|YES|YES|YES|YES|YES|YES|YES|YES|
+1464||Álvaro Salvá||Fetal medicine case|Spanish||2010-04-23||YES|YES|YES|||||
+1471||Álvaro Salvá||Dicom multiframe|Spanish||2010-04-23||YES|YES|YES|||||
+1489||Dora Edreva|medical university plovdiv|Palliative care in childhood|Bulgarian||2010-04-23|||||||||
+1527||Eleni Dafli||electronic OSCE station for Intravenous cannulation|English|English|2009-04-14|YES|YES|YES|YES|YES|YES|YES|YES|
+1535||Eleni Dafli||electronic OSCE station for Recytal Examination|English|English|2009-12-08|YES|YES|YES|YES|YES|YES||YES|
+1570||Eleni Dafli||electronic OSCE station for Blood Pressure Measurement|English|English|2009-11-18|YES|YES|YES|YES|YES|YES||YES|
+1593||Eleni Dafli||OSCE θωρακικο αλγος|Greek|Greek|2008-10-23|YES|YES|YES|YES|YES|YES|YES|YES|
+1608||Panos Bamidis||Enabling Content Sharing In Contemporary Medical Education: A review of technical standards|English|||||||||||
+1615||Pascal Staccini|university of nice-sophia antipolis|Chest XRay of the Elderly : decision support for diagnosing acute or chronic dyspnea|French||2009-10-20||YES||YES|||||
+1638||Pascal Staccini|university of nice-sophia antipolis|Tumor cell|French||2000-12-31||YES|||||||
+1659||Pascal Staccini|university of nice-sophia antipolis|Breast cancers|French|English|2006-03-31||||YES||YES|||
+1666||Pascal Staccini|university of nice-sophia antipolis|Breast tumors|French||2000-10-14|||||||||
+1680||Pascal Staccini|university of nice-sophia antipolis|Myocardial infarction: managing the patient in ER|French||2007-06-29|||||||||
+1687||Pascal Staccini|university of nice-sophia antipolis|Myocardial infarction: simulation scenario|French|English|2008-04-29|||YES||YES||||
+1694||Pascal Staccini|university of nice-sophia antipolis|Evidence Based Analysis - Article title: "Interest of a sterilised anti-burning gel in radiation dermatitis: results of a comparative study"|French|English|2009-04-23|||YES|YES|YES|||YES|
+1708||Pascal Staccini|university of nice-sophia antipolis|Applying statistical process control (SPC) in healthcare|French|English|2009-12-04|||YES||||||
+1715||Pascal Staccini|university of nice-sophia antipolis|Fictive clinical cases used for knowledge assessment|French|English|||YES|YES|YES|YES||||
+1722||Pascal Staccini|university of nice-sophia antipolis|Lecture notes in medical informatics: Clinical and Hospital Information Systems|French|English||||YES||YES||||
+1761||Teodor Stefanut|UTCN|Liver anatomy - anterior view of the liver|English|English|2010-01-12||YES|YES|YES|YES|YES|||
+1768||Teodor Stefanut|UTCN|Liver anatomy - visceral surface view|English||2010-01-12||YES|||||||
+1775||Teodor Stefanut|UTCN|The liver - an introductory lesson|English||2010-03-02||YES|YES||||||
+1782||Teodor Stefanut|UTCN|Basic 3D model of the human stomach|English||2010-02-17||YES|YES||||||
+1796||Teodor Stefanut|UTCN|The human stomach - general presentation|English||2010-04-07||YES|YES||||||
+1803||Dora Edreva|medical university plovdiv|Ventilation/oxygenation therapy in  childhoodpostgraduate|Bulgarian||2010-04-27|||||||||
+1810||Dora Edreva|medical university plovdiv|Pediatrics tests|English||2010-04-27|||||||||
+1817||Teodor Stefanut|UTCN|3D stomach model with description of the main sections|en||2010-04-12||YES|YES||||||
+1824||Jarkko Mylläri|university of helsinki|ECG case 1004 limb leads||English|2010-04-19||YES|YES|YES||YES|||
+1831||Teodor Stefanut|UTCN|Gastric cancer - overview|English||2010-04-14||YES|YES||||||
+1838||Jarkko Mylläri|university of helsinki|ECG case 1004 chest leads||English|2010-04-19||YES|YES|YES||YES|||
+1845||Jarkko Mylläri|university of helsinki|ECG Patient case 1004 description|English|English|2010-04-19||YES|YES|YES|YES|YES|||
+1852||Jarkko Mylläri|university of helsinki|ECG Patient case 1001 description|English|English|2010-04-19||YES|YES|YES|YES|YES|||
+1859||Jarkko Mylläri|university of helsinki|ECG case 1001 chest leads||English|2010-04-19||YES|YES|YES||YES|||
+1866||Jarkko Mylläri|university of helsinki|ECG case 1001 limb leads||English|2010-04-19||YES|YES|YES||YES|||
+1873||Jarkko Mylläri|university of helsinki|ECG Patient case 1001 chest and limb leads||en|2010-04-19||YES|YES|YES||YES|||
+1880||Jarkko Mylläri|university of helsinki|ECG case 1002 limb and chest leads||en|2010-04-19||YES|YES|YES||YES|||
+1887||Jarkko Mylläri|university of helsinki|ECG case 1002 chest leads||English|2010-04-19||YES|YES|YES||YES|||
+1894||Jarkko Mylläri|university of helsinki|ECG case 1002 limb leads||English|2010-04-19||YES|YES|YES||YES|||
+1901||Jarkko Mylläri|university of helsinki|ECG Patient case 1002 description|English|English|2010-04-19||YES|YES|YES|YES|YES|||
+1908||Jarkko Mylläri|university of helsinki|Using Manikin Simulator in Cardiology|English|English|2010-02-15|YES|YES|YES|YES|YES||||
+1944||David Panzoli||NanoMission|English||2007-01-01|YES|YES||||YES|||
+1951||Pavlos Agianian||Biomolecular Structure Function analysis practicals|English|English|2010-05-01||YES|YES|YES|YES|YES|YES|YES|
+1958||Margy Koffa||videos on normal and abnormal cell divions|||2008-05-01||YES||YES|||||
+1969||Álvaro Salvá||Mayo Clinic Consultation: Subject D-B|English|English|||YES|||||||
+1976||Álvaro Salvá||Stroke Alert Case 9|English|English||||||||||
+1983||Álvaro Salvá||Stroke Alert Case 43|English|English||||||||||
+1990||Álvaro Salvá||Stroke Alert Case 8|English|English||||||||||
+1997||Álvaro Salvá||Stroke Alert Case 25|English|English||||||||||
+2004||Álvaro Salvá||Stroke Alert Case 46|English|English||||||||||
+2011||Álvaro Salvá||Stroke Alert Case 21|English|English||||||||||
+2018||Álvaro Salvá||Stroke Alert Case 1|English|English||||||||||
+2025||Álvaro Salvá||Stroke Alert Case 2|English|English||||||||||
+2032||Álvaro Salvá||Stroke Alert Case 3|English|English||||||||||
+2045||Álvaro Salvá||Stroke Alert Case 4|English|English||||||||||
+2052||Álvaro Salvá||Stroke Alert Case 5|English|English||||||||||
+2059||Álvaro Salvá||Stroke Alert Case 6|English|English||||||||||
+2066||Álvaro Salvá||Stroke Alert Case 7|English|English||||||||||
+2073||Álvaro Salvá||Stroke Alert Case 10|English|English||||||||||
+2101||Charalampos Bratsas||PE massive therapy Gossage|English|English|2010-05-05|||YES||YES|YES|YES|YES|
+2108||Charalampos Bratsas||Wascher based a classification of knee dislocation on the high-velocity injury to the knee ligaments|English|English|2010-05-06|||YES||YES|YES|||
+2115||Charalampos Bratsas||tetanus prophylaxis as part of wound management|English|English|2010-05-06|||YES||YES|YES|||
+2122||Charalampos Bratsas||acid base balance|English|English|2010-05-06|||YES||YES|YES|||
+2130||Athos Antoniades||Μελέτη - Ανάπτυξη και Αξιολόγηση Ολοκληρωμένου Συστήματος Ψηφιακής Ανάλυσης Ενδοσκοπικής Εικόνας Μακροβιοψίας για την Υποστήριξη διάγνωσης γυναικολογικού Καρκίνου|Greek|Greek|2009-05-01||YES|YES|YES||YES|||
+2144||Stathis Konstantinidis|aristotle university of thessaloniki|An e-learning platform for Aerospace Medicine|English|English|2008-09-24|YES|YES|YES|YES|YES|YES|YES|YES|
+2151||Stathis Konstantinidis|aristotle university of thessaloniki|Informatics-based Medical Procedure Assistance during Space Missions|English|English|2008-09-24|YES|YES|YES|YES|YES|YES|YES|YES|
+2165||Charalampos Bratsas||ECG short term risk acute myocardial infarction|English|English|2010-05-06|||YES||YES|YES|||
+2172||Charalampos Bratsas||Dynamic Prognostic Profile for Acute Myocardial Infarction|English|English|2010-05-06|||||YES||||
+2179||Athos Antoniades||E-learning System for Training Doctors the basics of Health Telematics|Greek|English|2010-02-21||YES|YES|YES|YES|YES|YES|YES|
+2186||Charalampos Bratsas||Efavirenz Dose Reduction in an HIV-1 Infected Patient Based on CYP2B6 Genotype|English|English|2010-05-06|||YES||YES||||
+2200||Charalampos Bratsas||Boston Criteria for the Diagnosis of Congestive Heart Failure|English|English|2010-05-06|||YES||||||
+2208||Athos Antoniades||M-Health, e-Emergency Systems and Services|English|English|2008-05-15||YES|YES|YES|YES|YES|||
+2217||Stathis Konstantinidis|aristotle university of thessaloniki|Η ΔΙΑΣΦΑΛΙΣΗ ΤΗΣ ΠΟΙΟΤΗΤΑΣ ΤΗΣ ΙΑΤΡΙΚΗΣ ΠΛΗΡΟΦΟΡΙΑΣ ΣΤΟ ΔΙΑΔΙΚΤΥΟ|Greek|English|2009-10-08|||YES||YES|YES|YES|YES|
+2224||Athos Antoniades||COMPUTER-AIDED DIAGNOSIS SYSTEMS: Ultrasound Image Analysis using Despeckle Filtering and Segmentation|English|English|||YES|YES|YES|YES|YES|||
+2231||Teodor Stefanut|UTCN|Tehnici de adnotare grafica in eLearning|Romanian|English|2008-08-14||YES|YES|YES|YES|YES|||
+2238||Laurent Auneau|succubus interactive|Happy Night Episode 1|English|English|2009-06-01||YES|YES|YES|YES|||YES|
+2245||Stathis Konstantinidis|aristotle university of thessaloniki|Educational Standards|Greek|English|2009-11-10||YES|YES||||||
+2252||Evangelia Mitsopoulou||Florian|English|English|2010-01-02||YES|YES|YES|||||
+2259||Evangelia Mitsopoulou||Anna-Lena Olofsson, Linear Virtual Patient|English|English|2010-01-02||YES|YES|YES|||||
+2266||Evangelia Mitsopoulou||Anna-Lena Olofsson Branched Virtual Patient|English|English|2010-01-02||YES|YES|YES|||||
+2273||Evangelia Mitsopoulou||Oga Linear Virtual Patient|English|English|2010-01-02||YES|YES|YES|||||
+2280||Evangelia Mitsopoulou||Oga Branched  Virtual Patient|English|English|2010-01-02||YES|YES|YES|||||
+2287||Evangelia Mitsopoulou||Florian Brabched Virtual Patient|English|English|2010-01-02||YES|YES|YES|||||
+2294||Evangelia Mitsopoulou||John M Linear Virtual Patient|English|English|2010-01-02||YES|YES|YES|||||
+2302||Teodor Stefanut|UTCN|Graphics Annotation Usability in eLearning Applications|English|English|2007-05-10||YES|YES|YES|YES|YES|||
+2309||Ploumis Passadakis|Array|Introduction to Hemodialysis and Peritoneal Dialysis|Greek|English|2007-04-19||YES|YES|YES|YES|YES|YES|YES|
+2316||Evangelia Mitsopoulou||John M Branched Virtual Patient|English|English|2010-01-02||YES|YES|YES|||||
+2323||Evangelia Mitsopoulou||Catherine Miller Linear Virtual Patient|English|English|2010-01-02||YES|YES|YES|||||
+2330||Evangelia Mitsopoulou||Catherine Miller Branched Virtual Patient|English|English|2010-01-02||YES|YES|YES|||||
+2337||Evangelia Mitsopoulou||Heart Anatomy|English|English|2006-04-10||YES|YES||YES||||
+2344||Evangelia Mitsopoulou||Heart Structure|English|English|2010-04-10||YES|YES||||||
+2351||Evangelia Mitsopoulou||Muscles|||2010-04-10||YES|YES||||||
+2358||Jarkko Mylläri|university of helsinki|The Elementaries of SPSS 15.0 statistical analysis software - Introduction to the interface|Finnish|English|2008-09-15||YES||YES|YES|YES||YES|
+2365||Jarkko Mylläri|university of helsinki|The Elementaries of SPSS 15.0 statistical analysis software - Basics of entering variables and data|Finnish|English|2008-09-15||YES|YES|YES|YES|YES||YES|
+2372||Jarkko Mylläri|university of helsinki|The Elementaries of SPSS 15.0 statistical analysis software - Basic analyses of frequencies and means|Finnish|English|2008-09-15||YES|YES|YES|YES|YES||YES|
+2379||Jarkko Mylläri|university of helsinki|The Elementaries of SPSS 15.0 statistical analysis software - Basic analyses with crosstabulation|Finnish|English|2008-09-15||YES|YES|YES|YES|YES||YES|
+2386||Jarkko Mylläri|university of helsinki|The Elementaries of SPSS 15.0 statistical analysis software - Basic graphics I|Finnish|English|2008-09-15||YES|YES|YES|YES|YES||YES|
+2393||Jarkko Mylläri|university of helsinki|The Elementaries of SPSS 15.0 statistical analysis software - Basic graphics II|Finnish|English|2010-09-15||YES|YES|YES|YES|YES||YES|
+2401||Teodor Stefanut|UTCN|Knowledge Assessment Based on Evaluation of 3D Graphics Annotation in Lesson Context|English|English|2008-07-16||YES|YES|YES|YES|YES||YES|
+2415||paola campione||Pleuriti e versamenti pleurici|Italian|Italian|||YES|YES||||||
+2422||Teodor Stefanut|UTCN|The pancreas - overview|English|English|2009-11-10||YES|YES|YES|YES|YES|||
+2429||Pascal Staccini|university of nice-sophia antipolis|Biostatistics for epidemiology|French|English|2010-03-05||YES|YES|YES|||||
+2436||Pascal Staccini|university of nice-sophia antipolis|Stomach cancer|French|English|2006-05-31||YES|YES|||YES|||
+2448||Eleni Kaldoudi|Democritus university of Thrace, School of Medicine|Physical Principles of Magnetic Resonance Imaging|Greek|English|2004-04-01|YES|YES|YES|YES|YES|||YES|
+2464||Daniela Giordano|university of catania|collection of 100 LL skull x-rays annotated with cephalometric tracings|English|English|2006-05-01|YES|YES|YES||||||
+2471||Daniela Giordano|university of catania|collection of 56 LL skull x-rays landmarked with cephalomteric points||English|2009-11-03|YES|YES|YES||||||
+2478||Manuela Pennisi||Linee Guida Italiane di Prevenzione e Trattamento Ictus Cerebrale|Italian|English|2007-01-26||YES|||||||
+2485||Manuela Pennisi||The Italian guidelines for stroke prevention and management|English|English||||||||||
+2492||Daniela Giordano|university of catania|Collection of 16 Postero Anterior skull x-rays landmarked with cephalometric points||English|2009-11-03|YES|YES|YES||||||
+2499||Daniela Giordano|university of catania|Diagnosis of the Long Face syndrome|English|English|2010-05-08||YES|YES||||||
+2506||Manuela Pennisi||Strategie Terapeutiche delle Cefalee Primarie|Italian|English|2007-10-25||YES||YES|||||
+2513||Manuela Pennisi||Stimolazione Magnetica Transcranica|Italian|English|2009-10-14||YES||YES|||||
+2520||Manuela Pennisi||Revised Criteria of the rhCNTF ALS Group for the Diagnosis of Amyotrophic Lateral Sclerosis|English|English|2010-05-08||YES|YES||||||
+2527||Manuela Pennisi||Criteri per la diagnosi ALS|English||2010-05-08||YES|||||||
+2534||Stathis Konstantinidis|aristotle university of thessaloniki|Distance (online) Medical Education|Greek|English|2008-10-28|YES|YES|YES|YES|YES|YES|YES|YES|
+2541||Stathis Konstantinidis|aristotle university of thessaloniki|The therapeutic Benefits of Gravity in Space and on Earth|English|English||YES|YES|YES|YES|||||
+2548||Stathis Konstantinidis|aristotle university of thessaloniki|Biomedical real-time monitoring in restricted and safety-critical environments|English|English|2009-09-24|YES|YES|YES|YES|||||
+2555||Stathis Konstantinidis|aristotle university of thessaloniki|High altitude cognitive performance and COPD interaction|English|English|2009-09-24|YES|YES|YES||||||
+2562||Eleni Dafli||Chest pain virtual patient|English|English|2010-05-08|||YES|YES|YES|YES||YES|
+2569||Manuela Pennisi||The Anamnestic and Clinical Dysfunction Indices of Helkimo for Disorders of the Temporomandibular Joint and Masticatory System|English|English|2010-05-07||YES|YES||||||
+2576||Manuela Pennisi||Indications and Contraindications of Going for Arthroscopic Management of Temporomandibular Joint Disease|English|English|2010-05-08||YES|YES||||||
+2583||Eleni Kaldoudi|Democritus university of Thrace, School of Medicine|An Introduction to DICOM Standard|English|English|2008-03-01|YES|YES|YES|YES|YES|||YES|
+2590||Eleni Kaldoudi|Democritus university of Thrace, School of Medicine|DICOM Standard: An Introduction in SCORM||||||||||||
+2597||Eleni Kaldoudi|Democritus university of Thrace, School of Medicine|Information and Communication Technologies in Surgery (~7000 words notes)|Greek|English|2007-01-09|YES|YES|YES|YES|YES||||
+2604||Eleni Kaldoudi|Democritus university of Thrace, School of Medicine|Information and Communication Technologies in Surgery (Lecture Slides)|Greek|English|2010-02-23|YES|YES|YES|YES|||||
+2611||Eleni Kaldoudi|Democritus university of Thrace, School of Medicine|Nuclear Magnetic Resonance Physics for Molecular Biologists (lecture)|Greek|English|2010-01-18|YES|YES||YES|||||
+2618||Stathis Konstantinidis|aristotle university of thessaloniki|Use of elearning environment for Greek Smoking Cessation Network|Greek|English|2009-05-21|YES|YES|YES|YES|YES|YES|YES|YES|
+2625||Stathis Konstantinidis|aristotle university of thessaloniki|Use of Greek Smoking Cessation Network EHR platform|Greek|English|2009-05-21|YES|YES|YES|YES|YES|YES|YES|YES|
+2632||Stathis Konstantinidis|aristotle university of thessaloniki|The use of Open Source and Web2.0 in developing an Integrated EHR and e-learning System for the Greek Smoking Cessation Network|English|English|2009-08-17|YES|YES|YES|YES|YES|YES|YES|YES|
+2639||Stathis Konstantinidis|aristotle university of thessaloniki|Creation of a Smoking Cessation Network|Greek|English|2009-09-23|YES|YES|YES|YES|YES|YES|YES|YES|
+2647||Stathis Konstantinidis|aristotle university of thessaloniki|Simulating human space physiology with bed rest|English|English|2008-09-24|YES|YES|YES|YES|YES|YES|YES|YES|
+2656||Stathis Konstantinidis|aristotle university of thessaloniki|Legal Background of Aviation Medicine in Europe and its future development|English|English|2008-09-24|YES|YES|YES|YES|YES|YES|YES|YES|
+2665||Stathis Konstantinidis|aristotle university of thessaloniki|Future aeromedical assessment in general aviation: a contribution to the actual discussion|English|English|2008-09-24|YES|YES|YES|YES|YES|YES||YES|
+2672||Stathis Konstantinidis|aristotle university of thessaloniki|A research facility for habitation questions to be built at the German Aerospace Center in Cologne: future challenges of Space medicine|English|English|2008-09-24|YES|YES|YES|YES|YES|YES|||
+2681||Manuela Pennisi||EEG Changes of Haider et al in Sedative Overdosage and Coma|English|English|2010-01-25||YES|YES|YES|||||
+2688||Manuela Pennisi||The OMENS (Orbit, Mandible, Ear, Nerve, Soft Tissue) Classification for Hemifacial Microsomia|English|English|2010-01-25||YES|YES||||||
+2717||Laurent Auneau|succubus interactive|Happy Night episode 2|English|English|2009-09-01||YES|YES|YES|YES|||YES|
+2724||Laurent Auneau|succubus interactive|Virtual Kitchen|French|English|2004-05-03||YES|YES|||||YES|
+2731||Laurent Auneau|succubus interactive|Massif Facial|French|English|2003-05-05|||||||||
+2738||Eleni Kaldoudi|Democritus university of Thrace, School of Medicine|Πυρηνικός Μαγνητικός Συντονισμός: Φασματοσκοπία και Απεικόνιση (σημειώσεις)|Greek|English|2009-12-01|YES|YES|YES|YES|||||
+2745||Eleni Kaldoudi|Democritus university of Thrace, School of Medicine|Molecular Imaging Techniques (presentation)|English|English|2005-04-18|YES|YES|YES|YES|YES||||
+2752||Stathis Konstantinidis|aristotle university of thessaloniki|Electronic Health Records|Greek|English|2008-02-11|YES|YES|YES|YES|YES|YES|YES|YES|
+2759||Stathis Konstantinidis|aristotle university of thessaloniki|Term diagrams for Medicine|Greek|English|2008-02-24|YES|YES|YES|YES|YES|YES|YES|YES|
+2766||Jarkko Mylläri|university of helsinki|ECG Patient case 1005a limb and chest leads||en|2010-04-19||YES|YES|YES||YES|||
+2773||Jarkko Mylläri|university of helsinki|ECG Patient case 1005a limb leads||English|2010-04-19||YES|YES|YES||YES|||
+2780||Jarkko Mylläri|university of helsinki|ECG Patient case 1005a chest leads||English|2010-04-19||YES|YES|YES|YES|YES|||
+2787||Jarkko Mylläri|university of helsinki|ECG Patient case 1005a description||English|2010-04-19||YES|YES|YES|YES|YES|||
+2794||Teodor Stefanut|UTCN|Boli metabolice (guta si gigantismul)|Romanian|English|2009-11-11||YES|YES|YES|YES|YES|||
+2801||Victor Bacu||Eye - introductory lesson|English|English|2009-01-08||YES|YES|YES|YES|YES|||
+2815||Denisa Rodila||Bolile pancreasului|Romanian|Romanian|2010-04-12||YES|YES|YES|YES|YES|||
+2822||Denisa Rodila||Human eye|English|English|2010-03-16||YES|YES|YES|YES|YES|||
+2829||Teodor Stefanut|UTCN|Tratarea cancerului mamar|Romanian|English|2010-05-03||YES|YES|YES|YES|YES|||
+2836||Teodor Stefanut|UTCN|Human bones|English|English|2010-04-07||YES|YES|YES|YES|YES|||
+2979||paola campione||Classes of Light for Parapneumonic Effusions and Empyema|English|English|||YES|||||||
+3032||George M. Spyrou|Array|Metabasis|English|English|2006-05-20|YES|YES|YES|YES|YES|YES|||
+3146||Dora Edreva|medical university plovdiv|Carotid Stenosis|English|English|2010-06-09||YES||YES|YES|YES|YES|YES|
+3153||Dora Edreva|medical university plovdiv|Raynaud’s Syndrome|English|English|2010-06-09||YES||YES|YES|YES|YES|YES|
+3160||Dora Edreva|medical university plovdiv|Visceral Aneurisms|English|English|2010-06-09||YES||YES|YES|YES|YES|YES|
+3167||Dora Edreva|medical university plovdiv|Chronic Venous Insufficiency (CVI)|English|English|2010-06-09||YES||YES|YES|YES|YES|YES|
+3176||Dora Edreva|medical university plovdiv|Abdominal Aorta Aneurysm (AAA)|English|English|2010-06-09||YES||YES|YES|YES|YES|YES|
+3183||Dora Edreva|medical university plovdiv|Paget–Schroetter syndrome (PSS)|||2010-06-09||YES||YES|YES|YES|YES|YES|
+3190||Dora Edreva|medical university plovdiv|Acute Upper Extremity Ischemia|English|English|2010-06-09||YES||YES|YES|YES|YES|YES|
+3204||Evangelia Mitsopoulou||Complete heart block Repurposed|English|English|2010-01-01||YES|YES|YES|YES|YES|YES|YES|
+3215||Evangelia Mitsopoulou||Ischaemic chest pain_Repurposed|English|English|2010-01-01||YES|YES|YES|YES|YES|YES|YES|
+3227||Evangelia Mitsopoulou||Pericarditis_Repurposed|English|English|2010-01-01||YES|YES|YES|YES|YES|YES|YES|
+3234||Evangelia Mitsopoulou||Right bundle branch block1_Repurposed|English|English|2010-01-01||YES|YES|YES|YES|YES|YES|YES|
+3241||Evangelia Mitsopoulou||Right bundle branch block2_Repurposed|English|English|2010-01-01||YES|YES|YES|YES|YES|YES|YES|
+3248||Evangelia Mitsopoulou||Complete heart block|English|English|2010-01-01||YES|YES|YES|YES|YES|YES|YES|
+3255||Evangelia Mitsopoulou||Ischaemic chest pain|English|English|2010-01-01||YES|YES|YES|YES|YES|YES|YES|
+3262||Evangelia Mitsopoulou||Pericarditis|English|English|2010-01-01||YES|YES|YES|YES|YES|YES|YES|
+3284||Timo Kuusi||Set of clinical questions in gastroenterology and nephrology 001|English|English|2010-06-15|YES|YES|YES|YES|YES|YES|YES|YES|
+3349||Álvaro Salvá||Mayo Clinic Consultation: Subject D-B|English|English|2009-09-03||YES|YES|YES|||||
+3370||Philip Davies||Dépistage du cancer du col de l’utérus|French|English|2009-09-15|YES|YES|YES|YES|YES|YES|YES|YES|
+3377||Philip Davies||Papillomavirus Humain (HPV) et le cancer du col de l’utérus|French|English|2009-09-15|YES|YES|YES|YES|YES|YES|YES|YES|
+3384||Philip Davies||Surveillance et traitement d’un frottis anormal|French|English|2009-09-15|YES|YES|YES|YES|YES|YES|YES|YES|
+3391||Philip Davies||Vaccination contre le virus HPV et le cancer du col de l’utérus|French|English|2009-09-15|YES|YES|YES|YES|YES|YES|YES|YES|
+3402||Eleni Dafli||Differential diagnosis of chest pain||||||||||||
+3410||Eleni Dafli||Chest pain session in a 3D virtual learning environment|English|English|2010-07-20|YES|YES|YES|YES|YES|YES|||
+3424||Dora Edreva|medical university plovdiv|VENTILATION/OXYGENATION THERAPY IN CHILDHOOD Chapter1|Bulgarian|English|2010-07-22||YES|YES|YES|YES|YES|YES|YES|
+3431||Dora Edreva|medical university plovdiv|Oxygenation therapy|English|English|2010-07-22|||YES||||||
+3438||Marios Neofytou||A rare  case of intestinal obstruction|English|English||||||||||
+3445||Dora Edreva|medical university plovdiv|VENTILATION/OXYGENATION THERAPY IN CHILDHOOD Chapter2|Bulgarian|English|2010-07-22|YES|YES|YES|YES|YES|YES|YES|YES|
+3452||Dora Edreva|medical university plovdiv|Itroduction in mechanical ventilation|English|English|2010-07-22|||YES||||||
+3473||Evangelia Mitsopoulou||Right bundle branch block1|English|English|2010-01-01||YES|YES|YES|YES|YES|YES|YES|
+3480||Evangelia Mitsopoulou||Right bundle branch block2|English|English|2010-01-01||YES|YES|YES|YES|YES|YES|YES|
+3487||Evangelia Mitsopoulou||Progressing myocardial infarction_Repurposed|English|English|2010-01-01||YES|YES|YES|YES|YES|YES|YES|
+3494||Evangelia Mitsopoulou||Progressing myocardial infarction||||||||||||
+3501||Philip Davies||Dépistage du cancer du col de l’utérus|French|English|2009-09-08||YES|YES|YES|YES|YES|YES|YES|
+3508||Philip Davies||Papillomavirus Humain (HPV) et le cancer du col de l’utérus|French|English|2009-09-15||YES|YES|YES|YES|YES|YES|YES|
+3515||Philip Davies||Surveillance et traitement d’un frottis anormal|French|English|2009-09-15||YES|YES|YES|YES|YES|YES|YES|
+3522||Philip Davies||Vaccination contre le virus HPV et le cancer du col de l’utérus|French|English|2009-09-15||YES|YES|YES|YES|YES|YES|YES|
+3533||Philip Davies||Prevencija raka grlića maternice|Bosnian|English|2009-08-07||YES|YES|YES|YES|YES|YES|YES|
+3540||Philip Davies||Humani papillomavirus (HPV) i rak grlića maternice|Bosnian|English|2009-08-07||YES|YES|YES|YES|YES|YES|YES|
+3547||Philip Davies||Praćenje i liječenje žena s abnormalnim Papa-nalazom|Bosnian|English|2009-08-07||YES|YES|YES|YES|YES|YES|YES|
+3554||Philip Davies||Vakcinacija protiv HPV i raka grlića|Bosnian|English|2009-08-07||YES|YES|YES|YES|YES|YES|YES|
+3565||Philip Davies||Скрининг за рак на маточната шийка|Bulgarian|English|2009-06-09||YES|YES|YES|YES|YES|YES|YES|
+3572||Philip Davies||Човешки Папиломен Вирус (HPV) и рак на маточната шийка|Bulgarian|English|2009-06-09||YES|YES|YES|YES|YES|YES|YES|
+3579||Philip Davies||какво следва, когато резултатът ОТ ЦИТОНАМАЗКА не е „нормален”?|Bulgarian|English|2009-06-09||YES|YES|YES|YES|YES|YES|YES|
+3586||Philip Davies||Ваксиниране срещу HPV и рак на маточната шийка|Bulgarian|English|2009-06-09||YES|YES|YES|YES|YES|YES|YES|
+3608||Philip Davies||Probir raka vrata maternice|Croatian|English|2009-05-22||YES|YES|YES|YES|YES|YES|YES|
+3615||Philip Davies||Humani papiloma virus (HPV) i rak|Croatian|English|2009-05-22||YES|YES|YES|YES|YES|YES|YES|
+3622||Philip Davies||Praćenje i liječenje žena s abnormalnim Papa-nalazom|Croatian|English|2009-05-22||YES|YES|YES|YES|YES|YES|YES|
+3629||Philip Davies||Cijepljenje protiv HPV-a i raka vrata|Croatian|English|2009-05-22||YES|YES|YES|YES|YES|YES|YES|
+3647||Philip Davies||Screening pro prevenci karcinomu děložnıho čipku (Cervixu)|Czech|English|2009-10-16||YES|YES|YES|YES|YES|YES|YES|
+3654||Philip Davies||Lidske papillomaviry (HPV) a karcinomu děložnıho čipku (Cervixu)|Czech|English|2009-10-16||YES|YES|YES|YES|YES|YES|YES|
+3661||Philip Davies||Sledováni a lėčba žen s bnormálnim cytologickýym nálezem na děložnim čipku|Czech|English|2009-10-16||YES|YES|YES|YES|YES|YES|YES|
+3668||Philip Davies||Očkování proti HPV a karcinomu děložního čípku|Czech|English|2009-10-16||YES|YES|YES|YES|YES|YES|YES|
+3695||Eleni Kaldoudi|Democritus university of Thrace, School of Medicine|Geometric Optics - An Introduction (presentation)|Greek|English|2009-12-03|YES|YES|YES|YES|||||
+3702||Eleni Kaldoudi|Democritus university of Thrace, School of Medicine|Physics of Human Vision and Eye|Greek|English|2010-06-04|YES|YES|YES|YES|YES||||
+3709||Eleni Kaldoudi|Democritus university of Thrace, School of Medicine|Basic Principles of Radiation Physics|Greek|English|2010-06-10|YES|YES|YES|YES|YES||||
+3716||Philip Davies||Cervical Cancer Screening|English|English|2008-12-10||YES|YES|YES|YES|YES|YES|YES|
+3723||Philip Davies||Human Papillomavirus (HPV) and Cervical Cancer|English|English|2008-12-10||YES|YES|YES|YES|YES|YES|YES|
+3730||Philip Davies||Follow-up and Treatment of an Abnormal Cervical Smear|English|English|2008-12-10||YES|YES|YES|YES|YES|YES|YES|
+3737||Philip Davies||Vaccination Against HPV and Cervical Cancer|English|English|2008-12-10||YES|YES|YES|YES|YES|YES|YES|
+3748||Philip Davies||Cervical Cancer Screening|English|English|2009-10-09|||YES|YES|YES|YES|YES|YES|
+3755||Philip Davies||Human Papillomavirus (HPV) and Cervical Cancer|English|English|2009-10-09||YES|YES|YES|YES|YES|YES|YES|
+3762||Philip Davies||Follow-up and Treatment of an Abnormal Cervical Smear|English|English|2009-10-09||YES|YES|YES|YES|YES|YES|YES|
+3769||Philip Davies||Vaccination Against HPV and Cervical Cancer|English|English|2009-10-09||YES|YES|YES|YES|YES|YES|YES|
+3804||Philip Davies||Emakakaelavähi sõeluuring|Estonian|English|2009-11-10||YES|YES|YES|YES|YES|YES|YES|
+3811||Philip Davies||Inimese papilloomviirus (HPV) ja emakakaelavähk|Estonian|English|2009-11-10||YES|YES|YES|YES|YES|YES|YES|
+3818||Philip Davies||Jälgimine ja ravi, kui Pap-testi vastus|Estonian|English|2009-11-10||YES|YES|YES|YES|YES|YES|YES|
+3825||Philip Davies||HPV ja emakakaelavähi vastu|Estonian|English|2009-11-10||YES|YES|YES|YES|YES|YES|YES|
+3836||Philip Davies||Screening del cancro della cervice uterina|Italian|English|2010-01-19||YES|YES|YES|YES|YES|YES|YES|
+3843||Philip Davies||Papilloma virus umano (HPV) e cancro della cervice uterina|Italian|English|2010-07-19||YES|YES|YES|YES|YES|YES|YES|
+3850||Philip Davies||Follow-up e trattamento di un Pap-test anormale|Italian|English|2010-01-19||YES|YES|YES|YES|YES|YES|YES|
+3857||Philip Davies||Vaccino contro l’HPV e il cancro cervicale|Italian|English|2010-01-19||YES|YES|YES|YES|YES|YES|YES|
+3868||Philip Davies||Преглед (скрининг) за рак на грлото на матката|Other|English|2010-02-08||YES|YES|YES|YES|YES|YES|YES|
+3875||Philip Davies||Хуман папилома вирус (ХПВ )|Other|English|2010-02-08||YES|YES|YES|YES|YES|YES|YES|
+3882||Philip Davies||Следење и лекување на жени|Other|English|2010-02-08||YES|YES|YES|YES|YES|YES|YES|
+3889||Philip Davies||Вакцинирање против ХПВ и рак на грлото на матката|Other|English|2010-02-08||YES|YES|YES|YES|YES|YES|YES|
+3934||Philip Davies||Rastreio do Cancro do Colo do Útero|Portuguese|English|2009-12-08||YES|YES|YES|YES|YES|YES|YES|
+3941||Philip Davies||O Vírus do Papiloma Humano (HPV) e o cancro do colo do útero|Portuguese|English|2009-12-08||YES|YES|YES|YES|YES|YES|YES|
+3948||Philip Davies||Seguimento e tratamento de um exame de Papanicolaou anormal|Portuguese|English|2009-12-08||YES|YES|YES|YES|YES|YES|YES|
+3955||Philip Davies||Vacinação contra o HPV e cancro do colo do útero|Portuguese|English|2009-12-08||YES|YES|YES|YES|YES|YES|YES|
+3966||Philip Davies||Skryning raka szyjki macicy|Polish|English|2010-03-10||YES|YES|YES|YES|YES|YES|YES|
+3973||Philip Davies||Wirus brodawczaka ludzkiego a rak szyjki macicy|Polish|English|2010-03-10||YES|YES|YES|YES|YES|YES|YES|
+3980||Philip Davies||Kontrola i leczenie pacjentek z nieprawidłowym wynikiem badania cytologicznego|Polish|English|2010-03-10||YES|YES|YES|YES|YES|YES|YES|
+3990||Philip Davies||Screening-ul cancerului de col uterin|Romanian|English|2009-11-20||YES|YES|YES|YES|YES|YES|YES|
+3997||Philip Davies||Virusul Papilloma si cancerul de col uterin|Romanian|English|2009-11-20||YES|YES|YES|YES|YES|YES|YES|
+4004||Philip Davies||Urmarirea si tratamentul dupa un test Papanicolau anormal|Romanian|English|2009-11-20||YES|YES|YES|YES|YES|YES|YES|
+4011||Philip Davies||Vaccinarea impotriva HPV si a cancerului de col uterin|Romanian|English|2009-11-20||YES|YES|YES|YES|YES|YES|YES|
+4022||Philip Davies||Скрининг на рак шейки матки|Russian|English|2010-03-19||YES|YES|YES|YES|YES|YES|YES|
+4029||Philip Davies||Вирус папилломы человека (ВПЧ ) и рак шейки матки|Russian|English|2010-03-19||YES|YES|YES|YES|YES|YES|YES|
+4036||Philip Davies||Тактика при аномалиях в Пап тесте : наблюдение или лечение?|Russian|English|2010-03-19||YES|YES|YES|YES|YES|YES|YES|
+4043||Philip Davies||Вакцинация против ВПЧ и рака шейки|Russian|English|2010-03-19||YES|YES|YES|YES|YES|YES|YES|
+4150||Eva Mihajlova||Лекция №1. БОЛЕСТИ НА АДЕНОХИПОФИЗАТА. Аденоми. Пролактином. Акромегалия|||2009-12-20||YES||YES|YES|YES||YES|
+4157||Eva Mihajlova||Лекция №2. ХИПОПИТУИТАРИЗЪМ. ЗАБОЛЯВАНИЯ НА НЕВРОХИПОФИЗАТА Инсипиден диабет. SIADH|Bulgarian|Bulgarian|2009-12-20||YES||YES||YES||YES|
+4164||Eva Mihajlova||Лекция №3. ЗАБОЛЯВАНИЯ НА ЩИТОВИДНАТА ЖЛЕЗА Гуша. Хипотиреоидизъм. Тиреоидити|Bulgarian|Bulgarian|2009-12-20||YES||YES||YES|||
+4171||Eva Mihajlova||Лекция №4. ЗАБОЛЯВАНИЯ НА ЩИТОВИДНАТА ЖЛЕЗА Хипертиреоидизъм и тиреотоксикоза. Тиреоидни карциноми|Bulgarian|Bulgarian|2009-12-20||YES||YES||YES||YES|
+4178||Eva Mihajlova||Лекция №5. ЗАБОЛЯВАНИЯ  НА  ПАРАЩИТОВИДНИТЕ ЖЛЕЗИ – регулация на калциево-фосфорната обмяна, хипопаратиреоидизъм; хиперпаратиреоидизъм.|Bulgarian|Bulgarian|2009-12-20||YES||YES||YES||YES|
+4185||Eva Mihajlova||Лекция №7. ЗАБОЛЯВАНИЯ НА НАДБЪБРЕЧНАТА КОРА. Синдром на Cushing|Bulgarian|Bulgarian|2009-12-20||YES||YES|YES|YES||YES|
+4192||Eva Mihajlova||Лекция №8. ЗАБОЛЯВАНИЯ НА НАДБЪБРЕЧНАТА КОРА. хипералдостеронизъм|Bulgarian|Bulgarian|2009-12-20||YES||YES||YES||YES|
+4199||Eva Mihajlova||Лекция №9. ЗАБОЛЯВАНИЯ НА НАДБЪБРЕЧНАТА  МЕДУЛА. Феохромоцитом. МЕН.|Bulgarian|Bulgarian|2009-12-20||YES||YES||YES||YES|
+4206||Eva Mihajlova|||Bulgarian|Bulgarian|2009-12-20||YES||YES||YES|||
+4213||Eva Mihajlova||Лекция №6. ЗАБОЛЯВАНИЯ НА НАДБЪБРЕЧНАТА КОРА. Първична надбъбречнокорова недостатъчност. Вродена надбъбречнокорова хиперплазия|Bulgarian|Bulgarian|2009-12-20||YES||YES||YES||YES|
+4220||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter4|Bulgarian|English||||||||||
+4227||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter5|Bulgarian|English||||||||||
+4234||Dora Edreva|medical university plovdiv|http://moodle-pld.co.cc/file.php/3/Ventilation_Chapter6.pdf|Bulgarian|English||||||||||
+4241||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter5|Bulgarian|English||||||||||
+4248||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter8|Bulgarian|||||||||||
+4255||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter9|Bulgarian|Bulgarian||||||||||
+4262||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter10|Bulgarian|||||||||||
+4269||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 11 12|Bulgarian|||||||||||
+4276||Dora Edreva|medical university plovdiv|Continuous Positive Airway Pressure - СРАР|English|English|2010-08-23||YES|YES|YES|||||
+4283||Dora Edreva|medical university plovdiv|CONVENTIONAL VENTILATION - CV|English|English|2010-08-05|||||YES||||
+4290||Dora Edreva|medical university plovdiv|Patient Triggered Ventilation -PTV|English|English|2010-08-11|YES|YES|YES|YES|YES|YES|YES|YES|
+4297||Dora Edreva|medical university plovdiv|High Frequency Ventilation - HFV|English|English|2010-08-13|YES|YES|YES|YES|YES|YES|YES|YES|
+4304||Dora Edreva|medical university plovdiv|ЕxtraCorporeal Membrane Oxygenation - ЕСМО|English|English|2010-08-25|YES|YES|YES|YES|YES|YES|YES|YES|
+4311||Dora Edreva|medical university plovdiv|Perfluorocarbon Ventilation, Liquid Ventilation – LV|English|English|2010-08-23|YES|YES|YES|YES|YES|YES|YES|YES|
+4318||Dora Edreva|medical university plovdiv|VENTILATION/OXYGENATON THERAPY AND SURFACTANT|English|English|2010-08-23|YES|YES|YES|YES|YES|YES|YES|YES|
+4325||Dora Edreva|medical university plovdiv|VOT COMPLICATIONS|English|English|2010-08-23|YES|YES|YES|YES|YES|YES|YES|YES|
+4332||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 13 14|Bulgarian|English||YES||||||||
+4339||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 15 16|Bulgarian|English||YES||||||||
+4346||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 18 19|Bulgarian|English||YES||||||||
+4353||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 20|Bulgarian|English||YES||||||||
+4360||Dora Edreva|medical university plovdiv|CARE FOR VENTILATED PAIENT|English|English|2010-08-23|YES|YES|YES|YES|YES|YES|YES|YES|
+4367||Dora Edreva|medical university plovdiv|PRINCIPLES OF MONITORING VOT|English|English|2010-08-23|YES|YES|YES|YES|YES|YES|YES|YES|
+4374||Dora Edreva|medical university plovdiv|VOT NEUROLOGICAL  MONITORING|English|English|2010-08-23|YES|YES|YES|YES|YES|YES|YES|YES|
+4381||Dora Edreva|medical university plovdiv|VOT and nutrition|English|English|2010-08-23|YES|YES|YES|YES|YES|YES|YES|YES|
+4388||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter3|Bulgarian|English||YES||||||||
+4395||Dora Edreva|medical university plovdiv|CONTROLLED VARIABLES, DETERMINANTES OF THE OXYGENATION AND CALCULATED INDICES|English|English|2010-08-25|YES|YES|YES|YES|YES|YES|YES|YES|
+4402||Dora Edreva|medical university plovdiv|CONTROLLED VARIABLES, DETERMINANTES OF THE OXYGENATION AND CALCULATED INDICES part2] CONTROLLED VARIABLES, DETERMINANTES OF THE OXYGENATION AND CALCULATED INDICES part2|English|English|2010-08-25|YES|YES|YES|YES|YES|YES|YES|YES|
+4409||Dora Edreva|medical university plovdiv|CONTROLLED VARIABLES, DETERMINANTES OF THE OXYGENATION AND CALCULATED INDICES part3|English|English|2010-08-25|YES|YES|YES|YES|YES|YES|YES|YES|
+4416||Dora Edreva|medical university plovdiv|VOT and drug therapy|English|English|2010-08-22|YES|YES|YES|YES|YES|YES|YES|YES|
+4423||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 21|Bulgarian|English|2010-08-22|YES||||||||
+4430||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 22|Bulgarian|English|2010-08-22|YES||||||||
+4437||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 23|Bulgarian|English|2010-08-22|YES||||||||
+4444||Dora Edreva|medical university plovdiv|VOT and thermal comfort|English|English|2010-08-22|YES|YES|YES|YES|YES|YES|YES|YES|
+4451||Dora Edreva|medical university plovdiv|VOT and diagnostic/therapeutic procedures|English|English|2010-08-22|YES|YES|YES|YES|YES|YES|YES|YES|
+4458||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 24|Bulgarian|English||YES||||||||
+4465||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 25|Bulgarian|English||YES||||||||
+4472||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD Chapter 26|Bulgarian|English||YES||||||||
+4479||Dora Edreva|medical university plovdiv|VENTILATION OXYGENATION THERAPY IN CHILDHOOD  Abbrevitations|Bulgarian|English||YES||||||||
+4486||Dora Edreva|medical university plovdiv|VOT and transport|English|English|2010-08-22|YES|YES|YES|YES|YES|YES|YES|YES|
+4493||Dora Edreva|medical university plovdiv|VOT - Home care|English|English|2010-08-22|YES|YES|YES|YES|YES|YES|YES|YES|
+4500||Dora Edreva|medical university plovdiv|INFORMATIONAL TECHNOLOGIES AND VOT|English|English|2010-08-22|YES|YES|YES|YES|YES|YES|YES|YES|
+4507||Dora Edreva|medical university plovdiv|VOT Abbreviations|English|English|2010-08-22|YES|YES|YES|YES|YES|YES|YES|YES|
+4568||Marios Neofytou||E-learning System for Training Doctors the basics of Health Telematics|English|English||||||||||
+4575||Marios Neofytou||Endoscopy/Hysteroscopy|Greek|Greek||||||||||
+4582||Marios Neofytou||M-Health, e-Emergency Systems and Services|English|English||||||||||
+4589||Marios Neofytou||Medical Learning Course|English|English||||||||||
+4596||Marios Neofytou||HYPERTENSION AND CORONARY HEART DISEASE|English|English||||||||||
+4603||Marios Neofytou||ARTIAL SEPTAL DEFECT|English|English||||||||||
+4610||Marios Neofytou||Ultrasound Image Analysis using Despeckle Filtering and Segmentation|English|English||||||||||
+4633||Aristidis Protopsaltis|serious games institute - coventry university|Climate Health Impact French version|French|English|2010-08-23|YES|YES|YES|YES|YES|YES|YES|YES|
+4640||Aristidis Protopsaltis|serious games institute - coventry university|Climate Health Impact Greek version|Greek|English|2010-08-27|YES|YES|YES|YES|YES|YES|YES|YES|
+4799||Dora Edreva|medical university plovdiv|Lecture of  emergency medicine Chapter 2 - Urethral catheterisation and Suprapubic Cystostomy.|Bulgarian|English|2010-10-23||YES||YES|YES|YES||YES|
+4813||Dora Edreva|medical university plovdiv|Lecture of  emergency medicine  Chapter 1. Naso-gastric intubation.|Bulgarian|English|2010-10-20||YES||YES|YES|YES||YES|
+4820||Dora Edreva|medical university plovdiv|Lecture on Emergency Medicine and General Surgery – Bulgarian language Chapter 3. Thoracentesis and Pleural Aspiration|Bulgarian|English|2010-10-25||YES||YES|YES|YES||YES|
+4827||Dora Edreva|medical university plovdiv|Lecture on Emergency Medicine and General Surgery – Bulgarian language Chapter 4. Pleural Drainage|Bulgarian|English|2010-10-26||YES||YES|YES|YES||YES|
+4865||Dora Edreva|medical university plovdiv|Lecture on Emergency Medicine, Family Medicine and Neurology – Bulgarian language Chapter 5. Lumbar Puncture|Bulgarian|English|2010-11-28||YES||YES|YES|YES||YES|
+4873||Dora Edreva|medical university plovdiv|Lecture on Emergency Medicine, Family Medicine, General Surgery and Gastroenterology  – Bulgarian language Chapter 6. Abdominal paracentesis|Bulgarian|English|2010-11-28||YES||YES|YES|YES||YES|
+5476||Eva Mihajlova||Test - Questions and Answers on Emergency Surgery, Emergency Medicine, Intensive Care, General Surgery  – Bulgarian language  Part One|Bulgarian|Bulgarian|2011-01-03|YES|YES|YES|YES|YES|YES|YES|YES|
+5483||Eva Mihajlova||Questions and Answers on Emergency Surgery, Emergency Medicine, Intensive Care, General Surgery  – Bulgarian language  Part II|Bulgarian|Bulgarian|2011-01-03|YES|YES|YES|YES|YES|YES|YES|YES|
+5490||Eva Mihajlova||Questions and Answers on Emergency Surgery, Emergency Medicine, Intensive Care, General Surgery  – Bulgarian language  Part III|Bulgarian|Bulgarian|2011-01-07|YES|YES|YES|YES|YES|YES|YES|YES|
+5497||Eva Mihajlova||Questions and Answers on Emergency Surgery, Emergency Medicine, Intensive Care, General Surgery  – Bulgarian language  Part IV|Bulgarian|Bulgarian|2011-01-10|YES|YES|YES|YES|YES|YES|YES|YES|
+5504||Eva Mihajlova||Questions and Answers on Emergency Surgery, Emergency Medicine, Intensive Care, General Surgery  – Bulgarian language  Part V|Bulgarian|Bulgarian|2011-01-10|YES|YES|YES|YES|YES|YES|YES|YES|
+5511||Eva Mihajlova||Questions and Answers on Emergency Surgery, Emergency Medicine, Intensive Care, General Surgery  – Bulgarian language  Part VI|Bulgarian|Bulgarian|2011-01-10|YES|YES|YES|YES|YES|YES|YES|YES|
+5518||Eva Mihajlova||Questions and Answers on Emergency Surgery, Emergency Medicine, Intensive Care, General Surgery  – Bulgarian language  Part VII|Bulgarian|Bulgarian|2011-01-10|YES|YES|YES|YES|YES|YES|YES|YES|
+5539||Dora Edreva|medical university plovdiv|Case myasthenia gravis|Bulgarian|English|2011-01-20|YES|YES|YES|YES|YES|YES|YES|YES|
+5554||Dora Edreva|medical university plovdiv|Case myasthenia gravis|Bulgarian|English|2011-01-25|YES|YES|YES|YES|YES|YES|YES|YES|
+5561||Dora Edreva|medical university plovdiv|Case myasthenia gravis II|Bulgarian|English|2011-01-20|YES|YES|YES|YES|YES|YES|YES|YES|
+5568||Dora Edreva|medical university plovdiv|Case myasthenia gravis II|Bulgarian|English|2011-01-25|YES|YES|YES|YES|YES|YES|YES|YES|
+5575||Dora Edreva|medical university plovdiv|Case hypertensive disease|Bulgarian|English|2011-01-20|YES|YES|YES|YES|YES|YES|YES|YES|
+5582||Dora Edreva|medical university plovdiv|Case hypertensive disease|Bulgarian|English|2011-01-25|YES|YES|YES|YES|YES|YES|YES|YES|
+5589||Dora Edreva|medical university plovdiv|Case skin disease|Bulgarian|English|2011-01-20|YES|YES|YES|YES|YES|YES|YES|YES|
+5596||Dora Edreva|medical university plovdiv|Case skin disease|Bulgarian|English|2011-01-25|YES|YES|YES|YES|YES|YES|YES|YES|
+5603||Dora Edreva|medical university plovdiv|Case pneumonia|Bulgarian|English|2011-01-20|YES|YES|YES|YES|YES|YES|YES|YES|
+5610||Dora Edreva|medical university plovdiv|Case pneumonia|Bulgarian|English|2011-01-25|YES|YES|YES|YES|YES|YES|YES|YES|
+5617||Dora Edreva|medical university plovdiv|Case trichinosis|bg|en|2011-01-20|YES|YES|YES|YES|YES|YES|YES|YES|
+5624||Dora Edreva|medical university plovdiv|Case trichinosis|Bulgarian|English|2011-01-25|YES|YES|YES|YES|YES|YES|YES|YES|
+5631||Dora Edreva|medical university plovdiv|Case haematology|Bulgarian|English|2011-01-20|YES|YES|YES|YES|YES|YES|YES|YES|
+5638||Dora Edreva|medical university plovdiv|Case haematology|Bulgarian|English|2011-01-26|YES|YES|YES|YES|YES|YES|YES|YES|
+5645||Dora Edreva|medical university plovdiv|Case heart disease|Bulgarian|English|2011-01-20|YES|YES|YES|YES|YES|YES|YES|YES|
+5652||Dora Edreva|medical university plovdiv|Case heart disease|Bulgarian|English|2011-01-25|YES|YES|YES|YES|YES|YES|YES|YES|
+8163||Antoine Mistretta||Cas pratique d'analyse critique d'article médical scientifique : Etude comparative dans le traitement de la fibromyalgie : ultrasons et kinésithérapie versus sertraline|fr|fr|2011-04-13|YES|YES|YES|YES|YES|YES|YES|YES|
+11464||Antoine Mistretta||Cas pratique d'analyse critique d'article médical scientifique - Grille de notation :Ximélagatran versus warfarine dans la prévention des accidents vasculaires cérébraux chez les patients souffrant de fibrillation auriculaire non valvulaire|fr|fr|2011-07-13||YES|YES|YES|YES|YES|YES|YES|
+12246||Giacomo Fazio||testresource4|en|en|2011-07-16||YES|||YES||||
+12253||Teodor Stefanut|UTCN|Test form check resource|||1970-01-01|||||||||
+12715||Endrianus Gohan||Mathematics|||1970-01-01|||||||||
+12736||Endrianus Gohan||Information Technology|||1970-01-01|||||||||
+15209||Álvaro Salvá||test from medting|fi|et|2011-08-10||YES|||||||
+15608||Antoine Mistretta||Cette ressource n'est pas "repurposed" mais intérêt à tester.||||||||||||
+15615||Dora Edreva|medical university plovdiv|http://metamorphosis.med.duth.gr/pg/profile/VENTILATION_OXYGENATION_THERAPY_IN_CHILDHOOD_Chapter4||||||||||||
+15622||Eleni Kaldoudi|Democritus university of Thrace, School of Medicine|http://iris.med.duth.gr/elearning/course/view.php?id=104||||||||||||
+15629||Eleni Kaldoudi|Democritus university of Thrace, School of Medicine|http://metamorphosis.med.duth.gr/pg/profile/Geometric_Optics._An_Introduction||||||||||||
+15636||Álvaro Salvá||http://metamorphosis.med.duth.gr/pg/profile/GS_case_subjectDB||||||||||||
+15643||Evangelia Mitsopoulou||http://metamorphosis.med.duth.gr/pg/file/litsa/read/3225/ecg_img4||||||||||||
+15650||Evangelia Mitsopoulou||http://metamorphosis.med.duth.gr/pg/file/litsa/read/3224/ecg_img3||||||||||||
+15657||Evangelia Mitsopoulou||http://metamorphosis.med.duth.gr/pg/file/litsa/read/3223/ecg_img2||||||||||||
+15664||Evangelia Mitsopoulou||http://metamorphosis.med.duth.gr/pg/file/litsa/read/3222/ecg_img1||||||||||||
+15671||Athos Antoniades||http://www.jisjournal.org/issue/Volume 8 Abstracts/j815.html||||||||||||
+15678||Athos Antoniades||http://www.ivpcl.org/2007_m-Health.pdf||||||||||||
+15685||Charalampos Bratsas||http://www.journals.uchicago.edu/doi/pdf/10.1086/429327||||||||||||
+15692||Athos Antoniades||http://ieeexplore.ieee.org/Xplore/login.jsp?url=http://ieeexplore.ieee.org/iel5/74/21666/01003651.pdf?arnumber=1003651||||||||||||
+15699||Charalampos Bratsas||http://chestjournal.chestpubs.org/content/76/6/663.full.pdf||||||||||||
+15706||Charalampos Bratsas||http://jama.ama-assn.org/cgi/content/full/279/5/387||||||||||||
+15713||Athos Antoniades||http://www.ncbi.nlm.nih.gov/pubmed/19162887||||||||||||
+15720||Chara Balasubramaniam||katrin miller (from university of heidelberg) evip:vp:1000263||||||||||||
+21804||sofia||The human heart and it's function - test - to be deleted|en|en|2011-09-04||YES|||||||
+42370||Daniela Giordano|university of catania|Test from Unict|it|en|2011-09-20||YES|||||||
+42377||Daniela Giordano|university of catania|Test2 from Unict|it|en|2011-09-20||YES|||||||
+42384||Daniela Giordano|university of catania|Test3 from Unict|it|en|2011-09-20||YES|||||||
+42391||Daniela Giordano|university of catania|Test4 from Unict|it|en|2011-09-20||YES|||||||

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2604">
+
+	 <mdc:identifier><![CDATA[http://iris.med.duth.gr/elearning/mod/resource/view.php?id=824]]></mdc:identifier> 
+<mdc:title><![CDATA[Information and Communication Technologies in Surgery (Lecture Slides) ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>Greek</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Eleni Kaldoudi]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Eleni Kaldoudi]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/kaldoudi?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-02-23</mdc:created>
+<mdc:metadataCreated>2010-05-08</mdc:metadataCreated>
+<mdc:citation><![CDATA[Î•. ÎšÎ±Î»Î´Î¿ÏÎ´Î·, Â«Î¤ÎµÏ‡Î½Î¿Î»Î¿Î³Î¯ÎµÏ‚ Î Î»Î·ÏÎ¿Ï†Î¿ÏÎ¹ÎºÎ®Ï‚ ÎºÎ±Î¹ Î¤Î·Î»ÎµÎ¼Î±Ï„Î¹ÎºÎ®Ï‚ ÏƒÏ„Î·Î½ Î§ÎµÎ¹ÏÎ¿Ï…ÏÎ³Î¹ÎºÎ®Â», Î”Î¹Î±Ï†Î¬Î½ÎµÎ¹ÎµÏ‚ Î Î±ÏÎ¿Ï…ÏƒÎ¯Î±ÏƒÎ·Ï‚ ÏƒÏ„Î± Î Î»Î±Î¯ÏƒÎ¹Î± Ï„Î¿Ï… ÎœÎµÏ„Î±Ï€Ï„Ï…Ï‡Î¹Î±ÎºÎ¿Ï Î ÏÎ¿Î³ÏÎ¬Î¼Î¼Î±Ï„Î¿Ï‚ Â«Î§ÎµÎ¹ÏÎ¿Ï…ÏÎ³Î¹ÎºÎ® Î‰Ï€Î±Ï„Î¿Ï‚-Î§Î¿Î»Î·Ï†ÏŒÏÏ‰Î½-Î Î±Î³ÎºÏÎ­Î±Ï„Î¿Ï‚Â», Î¤Î¼Î®Î¼Î± Î™Î±Ï„ÏÎ¹ÎºÎ®Ï‚, Î”Î·Î¼Î¿ÎºÏÎ¯Ï„ÎµÎ¹Î¿ Î Î±Î½ÎµÏ€Î¹ÏƒÏ„Î®Î¼Î¹Î¿ Î˜ÏÎ¬ÎºÎ·Ï‚, 2010]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1670599529"><rdfs:label><![CDATA[surgery ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1879809272"><rdfs:label><![CDATA[ telematics ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1854107837"><rdfs:label><![CDATA[ informatics ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1498902630"><rdfs:label><![CDATA[ lecture ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This resource is a 60 slide presentation that gives an overview of how information and telecommunication technologies have been employed to support surgery. The document contains the following sections: 1) Introduction, 2) Integrated Telemedicine Services for Surgery, 3) Information and Telecommunication Applications to Support Surgery. Some figures have been removed due to copyright issues, however, links to their source are provided.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[A winrar zipped Powerpoint(R) file. The file requires Microsoft PowerPoint version 97-2003 player. The zipped file is ~2.5 MB, while the original PowerPoint file is ~4.5 MB.]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline442153894"><rdfs:label><![CDATA[medicine, informatics ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>postgraduate, continuing education</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This lecture can be used for an introduction and an overview of surgery telematics for residents in surgery and/or students of medical informatics.]]></mdc:educationalContext>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Information and Communication Technologies in Surgery (~7000 words notes)</mdc:title>
+<mdc:identifier>http://iris.med.duth.gr/elearning/mod/resource/view.php?id=823</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>The initial text has been repurposed to a series of slides in order to provide the material for a lecture. Content updating was performed to account for new developments from 2007 (year of the original resource) to 2010 (year of the repurposed resource).</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>http://purl.org/meducator/repurposing#Different-Content-Types</mdc:fromRepurposingContext>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

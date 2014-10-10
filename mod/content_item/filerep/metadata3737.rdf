@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#3737">
+
+	 <mdc:identifier><![CDATA[http://www.ecca.info/wa/ecca-publications/brochures.html]]></mdc:identifier> 
+<mdc:title><![CDATA[Vaccination Against HPV and Cervical Cancer ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-No-Derivatives" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[European Cervical Cancer Association]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Philip Davies]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/podavies?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2008-12-10</mdc:created>
+<mdc:metadataCreated>2010-07-29</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1346479695"><rdfs:label><![CDATA[Human papillomavirus ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject589558152"><rdfs:label><![CDATA[ vaccination ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1747466119"><rdfs:label><![CDATA[ HPV ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[his resource contains text and illustrations presenting a summary of a) the risk of cervical cancer, b) the role of the HPV in cervical carcinogenesis, c) the mechanism of action of the HPV vaccines, d) the role of the HPV vaccines in reducing the risk of cervical cancer and e) the recommendations for the use of the HPV vaccines in England. It is intended to support healthcare providers in the region to educate their patients about cervical cancer screening.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[PDF/print]]></mdc:technicalDescription>
+<mdc:resourceType> Text with illustrations</mdc:resourceType>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline526519874"><rdfs:label><![CDATA[Primary healthcare providers ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>General public</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Primary healthcare provider consultation with patient]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[The resource is intended to support primary healthcare providers to verbally communicate information about the protection afforded by the HPV vaccines and the recommendations for their use to patients by structuring the discussion, ensuring all pertinent facts are covered and providing a ready source of review for the patient. The healthcare provider should verbally present a summary of the information contained in the brochure in the order it is presented while using the illustrations in the brochure to emphasise the important points and answering any questions the patient may have. The healthcare provider should draw the patient's attention to the ECCA website address that is listed in the brochure and give the patient with a copy of the brochure to take home so that later review of the information is possible. The resource should not be used to replace the verbal discussion of cervical cancer prevention.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[After the educational session with the healthcare provider, the patient should know:
+1. What causes cervical cancer
+2. How HPV vaccination works to prevent cervical cancer
+3. The benefits and limitations of HPV vaccination
+4. Who should be vaccinated
+5. How long vaccination protect lasts
+6. If boys or men be vaccinated
+7. Vaccination safety]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[1. Better understanding of the benefits and drawbacks of HPV vaccination
+2. Better understanding of the appropriate target populations for HPV vaccination
+3. Better understanding of the regional recommendations for HPV vaccination]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[1. Physician feedback
+2. Uptake of adolescent HPV vaccination among the clinic’s patients]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[None]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

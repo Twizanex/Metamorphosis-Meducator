@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2836">
+
+	 <mdc:identifier><![CDATA[http://dataserver.mediogrid.utcluj.ro/adnotare/release/resource/lectii/179/index.htm]]></mdc:identifier> 
+<mdc:title><![CDATA[Human bones ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Danut Mihon]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Danut Mihon]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Teodor Stefanut]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/teodor.stefanut?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-04-07</mdc:created>
+<mdc:metadataCreated>2010-05-11</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1274532118"><rdfs:label><![CDATA[bones ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject897177945"><rdfs:label><![CDATA[ human bones ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2114373696"><rdfs:label><![CDATA[ bones structure ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1795061404"><rdfs:label><![CDATA[ bones functions ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1438870263"><rdfs:label><![CDATA[ bones disorders ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This content item presents an overview of the human bones: their structure, functions and most common diseases.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[This resource can be properly visualized only in eTrace eLearning Application (http://dataserver.mediogrid.utcluj.ro/adnotare/)]]></mdc:technicalDescription>
+<mdc:resourceType> multimedia medical teaching material</mdc:resourceType>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline787828495"><rdfs:label><![CDATA[medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality567202306"><rdfs:label><![CDATA[anatomy ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>undergraduate</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This resource can be used in classes presentations or in individual study.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[The teacher can use this resource as a support for a course presentation. He can improve the information presented using eTrace Application and interacting with the multimedia elements (images and 3D objects) through graphical annotations.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Presents to the students the basic information about human bones.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[The students will be able to visualize and identify the most important bones in human body. Furthermore, they will be able to analyze the bones structure.]]></mdc:educationalOutcomes>
+</mdc:Resource></rdf:RDF>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="http://www.meducator.net/mdc/lcms/instancesa1b7e8a8-ce87-4079-81a6-44a81265cb46">
+	<rdf:type rdf:resource="http://purl.org/meducator/ns/Resource"/>
+	<title xmlns="http://purl.org/meducator/ns/">HXeCCH in Ar and Kr matrices</title>
+	<metadataCreated xmlns="http://purl.org/meducator/ns/">2006-08-21</metadataCreated>
+	<created xmlns="http://purl.org/meducator/ns/">2010-09-29T21:00:19Z</created>
+	<rights xmlns="http://purl.org/meducator/ns/">Copyright (2006) American Institute of Physics. This article may be downloaded for personal use only. Any other use requires prior permission of the author and the American Institute of Physics.</rights>
+
+	<resourceType xmlns="http://purl.org/meducator/ns/">Article</resourceType>
+	<identifier xmlns="http://purl.org/meducator/ns/">http://link.aip.org/link/?JCP/125/074501http://hdl.handle.net/10138/1079</identifier>
+	<language xmlns="http://purl.org/meducator/ns/">en</language>
+	<resourceComeFrom xmlns="http://meducator.open.ac.uk/">oai:helda.helsinki.fi:10138/1079</resourceComeFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.meducator.net/mdc/lcms/instances005d1059-aa25-433c-9543-642ba4cf7cdb">
+	<rdf:type rdf:resource="http://purl.org/meducator/ns/Resource"/>
+
+	<title xmlns="http://purl.org/meducator/ns/">Neutral rare-gas containing charge-transfer molecules in solid matrices. I. HXeCl, HXeBr, HXeI, and HKrCl in Kr and Xe</title>
+	<metadataCreated xmlns="http://purl.org/meducator/ns/">1995-04-22</metadataCreated>
+	<created xmlns="http://purl.org/meducator/ns/">2010-09-29T21:00:17Z</created>
+	<rights xmlns="http://purl.org/meducator/ns/">Copyright (1995) American Institute of Physics. This article may be downloaded for personal use only. Any other use requires prior permission of the author and the American Institute of Physics.</rights>
+	<resourceType xmlns="http://purl.org/meducator/ns/">Article</resourceType>
+	<identifier xmlns="http://purl.org/meducator/ns/">0021-9606http://link.aip.org/link/?JCP/102/6423/1http://hdl.handle.net/10138/1108</identifier>
+
+	<language xmlns="http://purl.org/meducator/ns/">en</language>
+	<resourceComeFrom xmlns="http://meducator.open.ac.uk/">oai:helda.helsinki.fi:10138/1108</resourceComeFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.meducator.net/mdc/lcms/instancesf42b7ec5-77c3-4ed3-9182-fa1bb890f69c">
+	<rdf:type rdf:resource="http://purl.org/meducator/ns/Resource"/>
+	<title xmlns="http://purl.org/meducator/ns/">Neutral rare-gas containing charge-transfer molecules in solid matrices. III. HXeCN, HXeNC, and HKrCN in Kr and Xe</title>
+	<metadataCreated xmlns="http://purl.org/meducator/ns/">1998-07-08</metadataCreated>
+
+	<created xmlns="http://purl.org/meducator/ns/">2010-09-29T21:00:18Z</created>
+	<rights xmlns="http://purl.org/meducator/ns/"></rights>
+	<resourceType xmlns="http://purl.org/meducator/ns/">Article</resourceType>
+	<identifier xmlns="http://purl.org/meducator/ns/">0021-9606http://link.aip.org/link/?JCP/109/618/1http://hdl.handle.net/10138/1105</identifier>
+	<language xmlns="http://purl.org/meducator/ns/">en</language>
+	<resourceComeFrom xmlns="http://meducator.open.ac.uk/">oai:helda.helsinki.fi:10138/1105</resourceComeFrom>
+
+	<description xmlns="http://purl.org/meducator/ns/">Copyright (1998) American Institute of Physics. This article may be downloaded for personal use only. Any other use requires prior permission of the author and the American Institute of Physics.The synthesis of novel rare-gas compounds HXeCN, HXeNC, and HKrCN is reported. HKrCN represents the first stable compound with a Kr–C bond. The novel molecules are formed in solid Xe and Kr by first photolyzing monomeric HCN with a 193 nm ArF laser at 7.5 K. The photolysis produces isolated hydrogen atoms and CN radicals as evidenced by IR spectroscopy and laser induced fluorescence. Annealing of the Kr matrix at ~ 30 K and Xe matrix at ~ 50 K activates the hydrogen atoms, and they react with rare-gas atoms surrounding the CN radicals producing the rare-gas compounds, which are characterized in this work by means of IR spectroscopy and ab initio calculations. Other products observed are HNC and H2CN. Infrared induced photochemical conversion of HXeNC to HXeCN is accomplished by exciting the Xe–H and C–N stretching fundamentals of HXeNC. The existence of low barrier between these two distinct isomers is confirmed by the ab initio calculations.</description>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.meducator.net/mdc/lcms/instances640df3e0-4eea-46e4-881f-c6b524aef973">
+	<rdf:type rdf:resource="http://purl.org/meducator/ns/Resource"/>
+	<title xmlns="http://purl.org/meducator/ns/">Selective and reversible control of a chemical reaction with narrow-band infrared radiation: HXeCC radical in solid xenon</title>
+	<metadataCreated xmlns="http://purl.org/meducator/ns/">2006-05-14</metadataCreated>
+	<created xmlns="http://purl.org/meducator/ns/">2010-09-29T21:00:20Z</created>
+
+	<rights xmlns="http://purl.org/meducator/ns/">Copyright (2006) American Institute of Physics. This article may be downloaded for personal use only. Any other use requires prior permission of the author and the American Institute of Physics.</rights>
+	<resourceType xmlns="http://purl.org/meducator/ns/">Article</resourceType>
+	<identifier xmlns="http://purl.org/meducator/ns/">http://link.aip.org/link/?JCP/124/181101/1http://hdl.handle.net/10138/1075</identifier>
+	<language xmlns="http://purl.org/meducator/ns/">en</language>
+	<resourceComeFrom xmlns="http://meducator.open.ac.uk/">oai:helda.helsinki.fi:10138/1075</resourceComeFrom>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.meducator.net/mdc/lcms/instances9f381cb0-7032-47fe-86cf-ef01fd2f726e">
+	<rdf:type rdf:resource="http://purl.org/meducator/ns/Resource"/>
+	<title xmlns="http://purl.org/meducator/ns/">Organo-noble-gas hydride compounds HKrCCH, HXeCCH, HXeCC, and HXeCCXeH: Formation mechanisms and effect of 13C isotope substitution on the vibrational properties</title>
+	<metadataCreated xmlns="http://purl.org/meducator/ns/">2004-11-01</metadataCreated>
+	<created xmlns="http://purl.org/meducator/ns/">2010-09-29T21:00:20Z</created>
+	<rights xmlns="http://purl.org/meducator/ns/"></rights>
+	<resourceType xmlns="http://purl.org/meducator/ns/">Article</resourceType>
+
+	<identifier xmlns="http://purl.org/meducator/ns/">http://link.aip.org/link/?JCP/121/8291/1http://hdl.handle.net/10138/1080</identifier>
+	<language xmlns="http://purl.org/meducator/ns/">en</language>
+	<resourceComeFrom xmlns="http://meducator.open.ac.uk/">oai:helda.helsinki.fi:10138/1080</resourceComeFrom>
+</rdf:Description>
+
+</rdf:RDF>

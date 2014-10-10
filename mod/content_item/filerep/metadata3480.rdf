@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#3480">
+
+	 <mdc:identifier><![CDATA[http://metamorphosis.med.duth.gr/pg/file/litsa/read/3466/ecg_img5]]></mdc:identifier> 
+<mdc:title><![CDATA[Right bundle branch block2 ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-No-Derivatives" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Alan Rice]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Evangelia Mitsopoulou]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/litsa?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-01-01</mdc:created>
+<mdc:metadataCreated>2010-07-23</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1960500987"><rdfs:label><![CDATA[Right bundle branch block ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[12 lead ECG showing right bundle branch block]]></mdc:description>
+<mdc:technicalDescription><![CDATA[It is a digital ECG, imported into Web Trace platform. a pen-based learning tool developed at the University of Catania.]]></mdc:technicalDescription>
+<mdc:resourceType> It is a paper-based ECG that was scanned and thus it was transformed into a digital image</mdc:resourceType>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline162861390"><rdfs:label><![CDATA[Cardiac Care ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality2101089877"><rdfs:label><![CDATA[Paramedic Practice ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>Level 4, 5 &amp; 6</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Within Foundation Degree Paramedic Science]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Consolidation tool to follow ECG and cardiac care training]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[To allow the students to practice ECG interpretation]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Student should be able to identify normal and abnormal findings from 12 lead electrocardiography]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[ECG interpretation within assignment and OSPE assessment]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[Appropriate knowledge of underpinning anatomy and physiology, clinical presentation of numerous diseases and mechanics of electrocardiography]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

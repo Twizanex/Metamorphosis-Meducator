@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#1104">
+
+	 <mdc:identifier><![CDATA[http://web-trace.ing.unict.it/tutorial/index.htm]]></mdc:identifier> 
+<mdc:title><![CDATA[Introduction to cephalometric analysis ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Rosalia Leonardi]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Daniela Giordano]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/dani?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2006-05-01</mdc:created>
+<mdc:metadataCreated>2010-03-20</mdc:metadataCreated>
+<mdc:citation><![CDATA[R. Leonardi, Introduction to cephalometric analysis, online tutorial (http://web-trace.ing.unict.it/tutorial/index.htm)]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1946119127"><rdfs:label><![CDATA[teleradiographic anatomy ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1041694185"><rdfs:label><![CDATA[ skull ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject759152048"><rdfs:label><![CDATA[ cephalometry ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This tutorial provides a detailed description of the skull bones and of their teleradiographic appearance on a latero-lateral X ray projection. it provides the prerequisite anatomical knowledge so that the students can perform a caphalometric tracing on a LL x-ray.]]></mdc:description>
+<mdc:resourceType> online tutorial</mdc:resourceType>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1997055757"><rdfs:label><![CDATA[medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1647672746"><rdfs:label><![CDATA[orthodontics ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+</mdc:Resource></rdf:RDF>

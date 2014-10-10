@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2179">
+
+	 <mdc:identifier><![CDATA[http://moodle.cs.ucy.ac.cy/course/view.php?id=23]]></mdc:identifier> 
+<mdc:title><![CDATA[E-learning System for Training Doctors the basics of Health Telematics ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Share-Alike" />
+<mdc:language>Greek</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Loukas Hadjipetrou]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Marios Neophytou]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Zenonas Theodosiou]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Athos Antoniades]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/athos?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-02-21</mdc:created>
+<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject510616903"><rdfs:label><![CDATA[Health Telematics ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This educational resource is intended to be used by doctors who want to learn the basics about health telematics. It provides a complete introduction to telematics begining with introduction to computers and the internet all the way to, telematics used in healthcare, Mobile health systems and medical imaging.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[PowerPoint Presentations,
+Static and Dynamic Web based content, 
+Quizes
+Forum
+Flash animations 
+Video]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#lectureNotes"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#multimediaSlidePresentation"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#image"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#video"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#figureDiagramPicture"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#sketchGraphicalAnnotation"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#indexes"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#examinationQuestions"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#examinationQuestions"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#diagnosticAlgorithm"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#image"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1994814399"><rdfs:label><![CDATA[Healthcare Professionals, medical doctors ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality281993517"><rdfs:label><![CDATA[telemedicine ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>healthcare worker ( doctor, nurse etc) interested in telemedicine</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Anyone under training or already in the healthcare industry looking to acquire a deeper knowledge on telemedicine.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Can be applied in the context of a classroom where the teacher can go through the material utilizing the video and flash animations in class to provide examples of telemedicine applications. 
+
+This learning module can also be used independently by learners at their own pace while utilizing the forum and other web2.0 tools available to address any questions they may have.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Understand the basics about telemedicine.
+Learn the basic computer science concepts needed by doctors to understand telemedicine. 
+Apply scenarios of telemedicine as examples of how the technology can be used.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Familiarization of "student" doctors to telemedicine. Demystifying the technology involved.]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[Quizes provided]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[Healthcare professional, academic or student.]]></mdc:educationalPrerequisites>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:identifier>http://ieeexplore.ieee.org/Xplore/login.jsp?url=http://ieeexplore.ieee.org/iel5/74/21666/01003651.pdf%3Farnumber%3D1003651&amp;authDecision=-203</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

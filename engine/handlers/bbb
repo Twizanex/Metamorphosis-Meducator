@@ -1,0 +1,225 @@
+MeducatorParser Object
+(
+    [results] => Array
+        (
+        )
+
+    [uri_list] => Array
+        (
+            [http://www.purl.org/meducator/ns/title] => title
+            [http://www.purl.org/meducator/ns/identifier] => identifier
+            [http://www.purl.org/meducator/ns/rights] => rights
+            [http://www.purl.org/meducator/ns/language] => language
+            [http://www.purl.org/meducator/ns/metadataLanguage] => metadataLanguage
+            [http://www.purl.org/meducator/ns/creator] => creator
+            [http://www.purl.org/meducator/ns/metadataCreator] => metadataCreator
+            [http://www.purl.org/meducator/ns/created] => created
+            [http://www.purl.org/meducator/ns/metadataCreated] => metadataCreated
+            [http://www.purl.org/meducator/ns/citation] => citation
+            [http://www.purl.org/meducator/ns/subject] => subject
+            [http://www.purl.org/meducator/ns/description] => description
+            [http://www.purl.org/meducator/ns/technicalDescription] => technicalDescription
+            [http://www.purl.org/meducator/ns/resourceType] => resourceType
+            [http://www.purl.org/meducator/ns/quality] => quality
+            [http://www.purl.org/meducator/ns/discipline] => discipline
+            [http://www.purl.org/meducator/ns/disciplineSpeciality] => disciplineSpeciality
+            [http://www.purl.org/meducator/ns/educationalLevel] => educationalLevel
+            [http://www.purl.org/meducator/ns/educationalContext] => educationalContext
+            [http://www.purl.org/meducator/ns/teachingLearningInstructions] => teachingLearningInstructions
+            [http://www.purl.org/meducator/ns/assessmentMethods] => assessmentMethods
+            [http://www.purl.org/meducator/ns/educationalPrerequisites] => educationalPrerequisites
+            [http://www.purl.org/meducator/ns/educationalObjectives] => educationalObjectives
+            [http://www.purl.org/meducator/ns/educationalOutcomes] => educationalOutcomes
+            [http://www.purl.org/meducator/ns/isRepurposedFrom] => isRepurposedFrom
+            [http://www.purl.org/meducator/ns/isRepurposedTo] => isRepurposedTo
+            [http://www.purl.org/meducator/ns/toRepurposingContext] => toRepurposingContext
+            [http://www.purl.org/meducator/ns/fromRepurposingContext] => fromRepurposingContext
+            [http://www.purl.org/meducator/ns/repurposingDescription] => repurposingDescription
+            [http://www.purl.org/meducator/ns/isAccompaniedBy] => isAccompaniedBy
+            [http://www.purl.org/meducator/ns/hasRepurposingContext] => hasRepurposingContext
+            [http://www.purl.org/meducator/ns/repurposedFrom] => repurposedFrom
+            [http://xmlns.com/foaf/0.1/name] => name
+            [http://xmlns.com/foaf/0.1/mbox_sha1sum] => mbox_sha1sum
+            [http://rdfs.org/sioc/ns#memberOf] => memberOf
+            [http://www.purl.org/meducator/ns/profileURI] => profileURI
+            [http://www.purl.org/meducator/ns/externalTerm] => externalTerm
+            [http://www.purl.org/meducator/ns/externalSource] => externalSource
+            [http://www.purl.org/meducator/ns/externalURI] => externalURI
+            [http://www.purl.org/meducator/ns/conceptID] => conceptID
+            [http://www.w3.org/2002/07/owl#sameAs] => sameAs
+            [http://www.w3.org/1999/02/22-rdf-syntax-ns#type] => type
+            [http://www.w3.org/2000/01/rdf-schema#label] => label
+            [http://www.purl.org/meducator/ns/mediaType] => mediaType
+            [http://www.w3.org/2001/XMLSchema-instancetype] => instanceType
+            [http://www.w3.org/1999/02/22-rdf-syntax-ns#value] => instanceValue
+            [http://www.w3.org/2000/01/rdf-schema#seeAlso] => seeAlso
+            [http://www.w3.org/2000/01/rdf-schema#description] => identifierDescription
+            [http://www.w3.org/2000/01/rdf-schema#isDefinedBy] => isDefinedBy
+        )
+
+    [replace_uri] => 1
+    [vocabs] => Array
+        (
+            [mdc:mediaType] => Array
+                (
+                    [http://purl.org/meducator/mediaType#text] => Text
+                    [http://purl.org/meducator/mediaType#image] => Image
+                    [http://purl.org/meducator/mediaType#sketchGraphicalAnnotation] => Sketch/graphical annotation
+                    [http://purl.org/meducator/mediaType#animation] => Animation
+                    [http://purl.org/meducator/mediaType#audio] => Audio
+                    [http://purl.org/meducator/mediaType#video] => Video
+                    [http://purl.org/meducator/mediaType#3DModel] => 3DModel
+                    [http://purl.org/meducator/mediaType#multimediaSlidePresentation] => Multimedia slide/presentation
+                    [http://purl.org/meducator/mediaType#eBook] => e-Book
+                    [http://purl.org/meducator/mediaType#virtualPatient] => Virtual Patient
+                    [http://purl.org/meducator/mediaType#interactiveLearningEnvironment] => Interactive LearningEnvironment
+                    [http://purl.org/meducator/mediaType#immersiveEnvironment] => Immersive environment
+                    [http://purl.org/meducator/mediaType#SCORMPackage] => SCORM package
+                    [http://purl.org/meducator/mediaType#IMSPackage] => IMS Package
+                    [http://purl.org/meducator/mediaType#DICOM] => DICOM
+                    [http://purl.org/meducator/mediaType#website] => Website
+                    [http://purl.org/meducator/mediaType#blog] => Blog
+                    [http://purl.org/meducator/mediaType#discussionForum] => Discussion Forum
+                    [http://purl.org/meducator/mediaType#post] => Post
+                    [http://purl.org/meducator/mediaType#podcast] => Podcast
+                    [http://purl.org/meducator/mediaType#webinar] => Webinar
+                    [http://purl.org/meducator/mediaType#wiki] => Wiki
+                )
+
+            [mdc:resourceType] => Array
+                (
+                    [http://purl.org/meducator/resourceType#readingList] => Reading List
+                    [http://purl.org/meducator/resourceType#activityFieldWorkProject] => Activity/Fieldwork/Project
+                    [http://purl.org/meducator/resourceType#assessmentItemWithAnswersFeedback] => Assessment Item With Answers/Feedback
+                    [http://purl.org/meducator/resourceType#studyGuide] => Study Guide
+                    [http://purl.org/meducator/resourceType#educationalPolicy] => Educational Policy
+                    [http://purl.org/meducator/resourceType#curriculumSyllabusProgramme] => Curriculum/Syllabus/Programme
+                    [http://purl.org/meducator/resourceType#figureDiagramPicture] => Figure/Diagram/Picture
+                    [http://purl.org/meducator/resourceType#assessmentItem] => Assessment Item
+                    [http://purl.org/meducator/resourceType#workedExample] => Worked Example
+                    [http://purl.org/meducator/resourceType#demonstration] => Demonstration
+                    [http://purl.org/meducator/resourceType#courseModuleUnit] => Course/Module/Unit
+                    [http://purl.org/meducator/resourceType#lecture] => Lecture
+                    [http://purl.org/meducator/resourceType#tutorialHandout] => Tutorial/Handout
+                    [http://purl.org/meducator/resourceType#problemsAndExercises] => Problems and Exercises
+                    [http://purl.org/meducator/resourceType#problemsAndExercisesWithFeedback] => Problems and exercises with feedback
+                    [http://purl.org/meducator/resourceType#textbookChapter] => Textbook/Chapter
+                    [http://purl.org/meducator/resourceType#caseStudy] => Case study
+                    [http://purl.org/meducator/resourceType#simulation] => Simulation
+                    [http://purl.org/meducator/resourceType#OSCE] => Objective Structured Clinical Examination (OSCE)
+                    [http://purl.org/meducator/resourceType#gameSeriousGame] => Game, serious game
+                    [http://purl.org/meducator/resourceType#virtualPatient] => Virtual patient
+                    [http://purl.org/meducator/resourceType#teachingFile] => Teaching File
+                    [http://purl.org/meducator/resourceType#lectureNotes] => Lecture Notes
+                    [http://purl.org/meducator/resourceType#practical] => Practical
+                    [http://purl.org/meducator/resourceType#atlas] => Atlas
+                    [http://purl.org/meducator/resourceType#bibliography] => Bibliography
+                    [http://purl.org/meducator/resourceType#dictionary] => Dictionary
+                    [http://purl.org/meducator/resourceType#encyclopedia] => Encyclopedia
+                    [http://purl.org/meducator/resourceType#handbook] => Handbook
+                    [http://purl.org/meducator/resourceType#indexes] => Indexes
+                    [http://purl.org/meducator/resourceType#laboratoryManuals] => Laboratory manuals
+                    [http://purl.org/meducator/resourceType#pharmacopoeias] => Pharmacopoeias
+                    [http://purl.org/meducator/resourceType#legislation] => Legislation
+                    [http://purl.org/meducator/resourceType#terminology] => Terminology
+                    [http://purl.org/meducator/resourceType#software] => Software
+                    [http://purl.org/meducator/resourceType#forms] => Forms
+                    [http://purl.org/meducator/resourceType#guideline] => Guideline
+                    [http://purl.org/meducator/resourceType#scientificJournalArticle] => Scientific Journal article
+                    [http://purl.org/meducator/resourceType#table] => Table
+                    [http://purl.org/meducator/resourceType#bioSignalDataset] => Bio-signal dataset
+                    [http://purl.org/meducator/resourceType#clinicalCase] => Clinical case
+                    [http://purl.org/meducator/resourceType#clinicalRecord] => Clinical record
+                    [http://purl.org/meducator/resourceType#clinicalRecordWithAnnotations] => Clinical record with annotations
+                    [http://purl.org/meducator/resourceType#diagnosticExam] => Diagnostic exam
+                    [http://purl.org/meducator/resourceType#diagnosticExamWithAnnotations] => Diagnostic exam with annotations
+                    [http://purl.org/meducator/resourceType#experiment] => Experiment
+                    [http://purl.org/meducator/resourceType#evidenceBasedMedicineForm] => Evidence based medicine form
+                    [http://purl.org/meducator/resourceType#diagnosticAlgorithm] => Diagnostic algorithm
+                    [http://purl.org/meducator/resourceType#clinicalPracticeGuideline] => Clinical Practice Guideline
+                    [http://purl.org/meducator/resourceType#database] => Database
+                )
+
+            [mdc:rights] => Array
+                (
+                    [http://purl.org/meducator/licenses#Attribution] => Attribution
+                    [http://purl.org/meducator/licenses#Attribution-Share-Alike] => Attribution-Share-Alike
+                    [http://purl.org/meducator/licenses#Attribution-No-Derivatives] => Attribution-No-Derivatives
+                    [http://purl.org/meducator/licenses#Attribution-Non-Commercial] => Attribution-Non-Commercial
+                    [http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike] => Attribution-Non-Commercial-Share-Alike
+                    [http://purl.org/meducator/licenses#Attribution-Non-Commercial-No-Derivatives] => Attribution-Non-Commercial-No-Derivatives
+                )
+
+            [mdc:repurposingContexts] => Array
+                (
+                    [http://purl.org/meducator/repurposing#Different-Languages] => Different-Languages
+                    [http://purl.org/meducator/repurposing#Different-Cultures] => Different-Cultures
+                    [http://purl.org/meducator/repurposing#Different-Pedagogy] => Different-Pedagogy
+                    [http://purl.org/meducator/repurposing#Different-Educational-Level] => Different-Educational-Level
+                    [http://purl.org/meducator/repurposing#Different-Disciplines] => Different-Disciplines
+                    [http://purl.org/meducator/repurposing#Different-Content-Types] => Different-Content-Types
+                    [http://purl.org/meducator/repurposing#Different-Technology] => Different-Technology
+                    [http://purl.org/meducator/repurposing#Changes-to-Content] => Changes-to-Content
+                )
+
+            [mdc:educationalOutcomes] => Array
+                (
+                    [http://purl.org/meducator/educationalOutcome#explainNormalHumanStructureAndFunction] => Explain normal human structure and function
+                    [http://purl.org/meducator/educationalOutcome#explainBioChemicalPhysicalProcessesFromFirstPrinciples] => Explain bio-chemical-physical processes from first principles
+                    [http://purl.org/meducator/educationalOutcome#explainTheScientificBasisForDiseasePresentation] => Explain the scientific basis for disease presentation
+                    [http://purl.org/meducator/educationalOutcome#applyThePrinciplesOfEvidenceBasedMedicine] => Apply the principles of evidence-based medicine
+                    [http://purl.org/meducator/educationalOutcome#carryOutScientificResearch] => Carry out scientific research
+                    [http://purl.org/meducator/educationalOutcome#explainNormalBehaviourAtIndividualLevel] => Explain normal behaviour at individual level
+                    [http://purl.org/meducator/educationalOutcome#explainVariedResponsesOfIndividualsGroupsAndSocietyToDisease] => Explain varied responses of individuals, groups and society to disease
+                    [http://purl.org/meducator/educationalOutcome#assessPsychologicalFactorsThatContributeToIllnessTheCourseOfTheDiseaseAndTheSuccessOfTheTreatment] => Assess psychological factors that contribute to illness, the course of the disease and the success of the treatment
+                    [http://purl.org/meducator/educationalOutcome#managePatientsWithDependenceOrSelfHarmIssues] => Manage patients with dependence or self-harm issues
+                    [http://purl.org/meducator/educationalOutcome#recogniseStressOrAbuseSituations] => Recognise stress or abuse situations
+                    [http://purl.org/meducator/educationalOutcome#appreciateDiversityAndMultiCulturality] => Appreciate diversity and multi-culturality
+                    [http://purl.org/meducator/educationalOutcome#takeAndRecordMedicalHistory] => Take and record medical history
+                    [http://purl.org/meducator/educationalOutcome#performFullPhysicalExamination] => Perform a full physical examination
+                    [http://purl.org/meducator/educationalOutcome#performMentalStateExamination] => Perform a mental state examination
+                    [http://purl.org/meducator/educationalOutcome#assessTheSeverityOfClinicalPresentations] => Assess the severity of clinical presentations
+                    [http://purl.org/meducator/educationalOutcome#provideExplanationAdviceAndSupport] => Provide explanation, advice and support
+                    [http://purl.org/meducator/educationalOutcome#explainThePhysiopathologyUnderlyingClinicalAndParaClinicalSigns] => Explain the physio-pathology underlying clinical and para-clinical signs
+                    [http://purl.org/meducator/educationalOutcome#makeDifferentialDiagnosis] => Make a differential diagnosis
+                    [http://purl.org/meducator/educationalOutcome#discussTheEtiologicalAndDifferentialDiagnosisEpidemiologicalDataAndMorbidity] => Discuss the etiological and differential diagnosis w.r.t. epidemiological data and morbidity
+                    [http://purl.org/meducator/educationalOutcome#justifyTheDiagnosticProcedureAndTheStrategyOfInvestigation] => Justify the diagnostic procedure and the strategy of investigation
+                    [http://purl.org/meducator/educationalOutcome#orderInvestigationsAccordingToProtocolsAndGuidelines] => Order investigations according to protocols and guidelines
+                    [http://purl.org/meducator/educationalOutcome#interpretTheResultsOfLaboratoryTest] => Interpret the results of laboratory test
+                    [http://purl.org/meducator/educationalOutcome#interpretTheResultsOfBioimagingInvestigation] => Interpret the results of bio-imaging investigation
+                    [http://purl.org/meducator/educationalOutcome#interpretTheResultsOfBiosignalInvestigation] => Interpret the results of biosignal investigation
+                    [http://purl.org/meducator/educationalOutcome#defineTheLikelyDiagnosisOrDiagnosesAssessingItsUncertaintyDegree] => Define the likely diagnosis or diagnoses assessing its uncertainty degree
+                    [http://purl.org/meducator/educationalOutcome#explainDrugsTherapeuticsPharmacokineticsSideEffectsAndInteraction] => Explain drugs therapeutics, pharmacokinetics, side effects and interaction
+                    [http://purl.org/meducator/educationalOutcome#evaluateDrugPotentialBenefitsAndRisks] => Evaluate drug’s potential benefits and risks
+                    [http://purl.org/meducator/educationalOutcome#prescribeDrugsClearlyAndAccurately] => Prescribe drugs clearly and accurately
+                    [http://purl.org/meducator/educationalOutcome#detectAndReportAdverseDrugReaction] => Detect and report adverse drug reaction
+                    [http://purl.org/meducator/educationalOutcome#justifyTheChoiceOfTherapeuticStrategyAndExplainToPatient] => Justify the choice of therapeutic strategy and explain to patient
+                    [http://purl.org/meducator/educationalOutcome#describeTheModesOfMonitoringDiseaseAndItsTreatment] => Describe the modes of monitoring a disease and its treatment
+                    [http://purl.org/meducator/educationalOutcome#explainTheProceduresOfIndividualAndCollectivePrevention] => Explain the procedures of individual and collective prevention
+                    [http://purl.org/meducator/educationalOutcome#provideImmediateCareOfMedicalEmergencies] => Provide immediate care of medical emergencies
+                    [http://purl.org/meducator/educationalOutcome#performMeasurementAndRecordingProcedure] => Perform a measurement and recording procedure
+                    [http://purl.org/meducator/educationalOutcome#performTherapeuticProcedure] => Perform a therapeutic procedure
+                    [http://purl.org/meducator/educationalOutcome#performProceduresForClinicalInvestigations] => Perform a procedures for clinical investigations
+                    [http://purl.org/meducator/educationalOutcome#performBiosamplingProcedure] => Perform a bio-sampling procedure
+                    [http://purl.org/meducator/educationalOutcome#performGesturesAndPhysicalManipulation] => Perform gestures and physical manipulation
+                    [http://purl.org/meducator/educationalOutcome#performSurgicalProcedure] => Perform a surgical procedure
+                    [http://purl.org/meducator/educationalOutcome#communicateEffectivelyWithPatientsAndColleagues] => Communicate effectively with patients and colleagues
+                    [http://purl.org/meducator/educationalOutcome#applyEthicalAndLegalPrinciplesInProfessionalPractice] => Apply ethical and legal principles in professional practice
+                    [http://purl.org/meducator/educationalOutcome#conformToProfessionalRegulations] => Conform to professional regulations
+                    [http://purl.org/meducator/educationalOutcome#promoteHealth] => Promote health
+                    [http://purl.org/meducator/educationalOutcome#useInformationTechnology] => Use Information Technology
+                    [http://purl.org/meducator/educationalOutcome#workEffectivelyInTeamAndInCollaborativeSetting] => Work effectively in a team and in a collaborative setting
+                    [http://purl.org/meducator/educationalOutcome#other] => Other
+                )
+
+            [mdc:educationalLevel] => Array
+                (
+                    [http://purl.org/meducator/educationalLevel#Undergraduate] =>  Undergraduate
+                    [http://purl.org/meducator/educationalLevel#Post-graduate] => Post-graduate
+                    [http://purl.org/meducator/educationalLevel#Continuing Education] => Continuing Education
+                    [http://purl.org/meducator/educationalLevel#Patient-General Public Education] => Patient-General Public Education
+                )
+
+        )
+
+)

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#1146">
+
+	 <mdc:identifier><![CDATA[http://metamorphosis.med.duth.gr/pg/file/Jarkko/read/1156/using-virtual-patients-in-dermatology]]></mdc:identifier> 
+<mdc:title><![CDATA[Using Virtual Patients in Dermatology ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-Share-Alike" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage></mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Remitz Anita]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Mylläri Jarkko]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Jarkko Mylläri]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/Jarkko?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-02-08</mdc:created>
+<mdc:metadataCreated>2010-03-22</mdc:metadataCreated>
+<mdc:citation><![CDATA[Virtual Patients in Dermatology Self-Directed Learning - Best pedagogical Practice (Remitz, A. &amp; MyllÃ¤ri, J., 2010)]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject996498590"><rdfs:label><![CDATA[dermatology ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject263399438"><rdfs:label><![CDATA[ virtual patient ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject793672497"><rdfs:label><![CDATA[ self-directed learning ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject477604877"><rdfs:label><![CDATA[ complementing material ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject80749619"><rdfs:label><![CDATA[ skin deceases ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[This document describes the pedagogical context and practices of using a virtual patient for self-directed studying of dermatology. Document is structured around the framework of Constructive Alignment (Biggs et al, 2007).]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Pdf]]></mdc:technicalDescription>
+<mdc:resourceType> pedagogical guideline, best practice</mdc:resourceType>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline2010978573"><rdfs:label><![CDATA[medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalContext><![CDATA[The virtual patients are used for voluntary, self-directed learning on a 5th year course for advanced students. The course takes place after basic introduction lectures on skin deceases and dermatology patients first course week.]]></mdc:educationalContext>
+</mdc:Resource></rdf:RDF>

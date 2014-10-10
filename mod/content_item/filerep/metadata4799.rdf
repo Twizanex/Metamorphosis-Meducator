@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#4799">
+
+	 <mdc:identifier><![CDATA[http://moodle-pld.co.cc/file.php/8/Chapter2.pdf]]></mdc:identifier> 
+<mdc:title><![CDATA[Lecture of  emergency medicine Chapter 2 - Urethral catheterisation and Suprapubic Cystostomy. ]]></mdc:title>
+<mdc:language>Bulgarian</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[D-r Ivan Novakov – PhD. Department of Thoraco-abdominal Surgery – Medical University Plovdiv.]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Dora Edreva]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/doraed?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-10-23</mdc:created>
+<mdc:metadataCreated>2010-10-25</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1958490562"><rdfs:label><![CDATA[medicine; medical students; clical procedures; urethral catheterization; suprapubic cystostomy. . ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[The Lecture is a part of practical course about basic clinical procedures. The text briefly and step by step explains how to perform two of the clinical procedures – urethral catheterization and suprapubic cystostomy. 
+The grafics has shown how to perform the procedure.
+The lecture corresponds to demands as a medical student’s practical book.]]></mdc:description>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#lectureNotes"/>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/mediaType#image"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1464123880"><rdfs:label><![CDATA[Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1595939494"><rdfs:label><![CDATA[Surgery; Emergency Medicine ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>Level: High school; medicine  •	4th course medical students</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[•	Target group – medical students (4th year of their education), as a part of their education of general surgery and emergency medicine. 
+•	The aim of the lecture – Theoretical and practical education and training how to perform two of the basic clinical procedures - urethral catheterization and suprapubic cystostomy.
+•	Educational resource has been presented as a Lecture/Presentation as well as in electronical form.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[The resource my used by review of the lecture – many times. The grafics, including into the lecture facilitate training about these clinical procedures – urethral catheterization and suprapubic cystostomy.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[-	Teaching new knowledge / skill
+-	Assimilate and apply in clinical practice the new skill by medical students 
+-	About Chapter 2 - knowledge and skill how to perform urethral catheterization and suprapubic cystostomy.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Expected learning outcomes:
+-	theoretical education 
+-	practical training]]></mdc:educationalOutcomes>
+<mdc:educationalPrerequisites><![CDATA[Mandatory preliminary level of knowledge and skills  - The students must have  knowledge of general surgery]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2238">
+
+	 <mdc:identifier><![CDATA[http://www.succubus.fr/shn/Episode01_en/]]></mdc:identifier> 
+<mdc:title><![CDATA[Happy Night Episode 1 ]]></mdc:title>
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Succubus Interactive]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Laurent Auneau]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/LaurentAuneau?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2009-06-01</mdc:created>
+<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject500981509"><rdfs:label><![CDATA[Serious game ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1684330763"><rdfs:label><![CDATA[ binge drinking ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject838994535"><rdfs:label><![CDATA[ prevention ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject117089526"><rdfs:label><![CDATA[ alcoholism ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Binge drinking prevention]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Browser based serious game using flash]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#gameSeriousGame"/>
+<mdc:educationalContext><![CDATA[Sensiblization of the youngs to the dangers of binge drinking]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[15 to 45 minutes session, alone with the computer]]></mdc:teachingLearningInstructions>
+<mdc:educationalPrerequisites><![CDATA[None]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

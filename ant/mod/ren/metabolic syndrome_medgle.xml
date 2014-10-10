@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?> 
+<root>
+			<corporateuser>false</corporateuser>
+			<logo type="small">http://www.medgle.com/logo/medglelogoBB.png</logo>
+			<logo type="big">http://www.medgle.com/logo/medglelogoE.jpg</logo>
+			<linkback_url>http://www.medgle.com/rw/diagnoses/metabolic+syndrome</linkback_url>
+			<linkback_text>Click here for more information</linkback_text>
+			<resulttype>diagnosis</resulttype>
+			<diagnosis>
+				<diagnosis_name>metabolic syndrome</diagnosis_name>
+				<diagnosis_url>http://www.medgle.com/rw/diagnoses/metabolic+syndrome</diagnosis_url>
+				<diagnosis_layman>constellation of symptoms and signes as a consequence of obesity</diagnosis_layman>
+				<diagnosis_category>CARDIAC, ENDOCRINE, LIVER GALLBLADDER AND BILE DUCTS, METABOLIC, NUTRITION, VASCULAR PROBLEMS</diagnosis_category>
+				<diagnosis_prevalence>very common</diagnosis_prevalence>
+				<diagnosis_travel></diagnosis_travel>
+				<diagnosis_definition></diagnosis_definition>
+				<ICD9>277.7</ICD9>
+					<ICD10>E88.81</ICD10>
+					<diagnosis_symptoms type="common">abnormal blood fats, fatigue, high blood pressure, obese, high cholesterol, truncal obesity</diagnosis_symptoms>
+				<diagnosis_ads>
+							</diagnosis_ads>
+
+				<diagnosis_emergency>No</diagnosis_emergency>
+				<related_diagnoses>
+						<related_diagnosis star="1"  >diabetes mellitus type 2</related_diagnosis>
+
+
+							<related_diagnosis star="1"  >nonalcoholic fatty liver disease</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >hypertension</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >hypertensive heart disease</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >Hyperlipoproteinemia Type III</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >diabetic nephropathy</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >obesity</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >polycystic ovarian syndrome</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >Cushing's disease or syndrome</related_diagnosis>
+
+
+							<related_diagnosis star="0"  >Pickwickian Syndrome</related_diagnosis>
+
+
+							</related_diagnoses>
+				<procedures type="diagnostic">				
+						<procedure url="http://www.medgle.com/rw/procedures/body+mass+index/" star="10" >body mass index</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/fasting+lipid+profile/" star="10" >fasting lipid profile</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/serum+glucose/" star="10" >serum glucose</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/ECHOcardiogram/" star="9" >ECHOcardiogram</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/EKG/" star="9" >EKG</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/Oral+Glucose+Tolerance+Test/" star="0" >Oral Glucose Tolerance Test</procedure>
+							<procedure url="http://www.medgle.com/rw/procedures/urine+uric+acid+crystals/" star="0" >urine uric acid crystals</procedure>
+							</procedures>
+
+				<procedures type="therapeutic">				
+						<procedure url="http://www.medgle.com/rw/procedures/Exercise+programs/" star="10" >Exercise programs</procedure>
+							</procedures>
+
+				<advice_options>
+
+				<otc_drugs>
+				</otc_drugs>
+
+
+				<homecare_options>
+				<homecare  star="1" values="" sources="metabolic syndrome"  >Avoid smoking.</homecare>
+						<homecare  star="1" values="" sources="metabolic syndrome"  >Do regular medications</homecare>
+						<homecare  star="1" values="" sources="metabolic syndrome"  >Increase in exercise regimen</homecare>
+						<homecare  star="1" values="" sources="metabolic syndrome"  >Make some changes in life style</homecare>
+						<homecare  star="1" values="" sources="metabolic syndrome"  >Take a low-fat diet, a low cholesterol diet, weight loss,</homecare>
+						</homecare_options>
+
+				<chronic_homecare_options>
+				</chronic_homecare_options>
+
+			</advice_options>
+
+			</diagnosis>
+			</root>
+
+			

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#5582">
+
+	 <mdc:identifier><![CDATA[http://moodle-pld.co.cc/file.php/6/3_r.doc]]></mdc:identifier> 
+<mdc:title><![CDATA[Case hypertensive disease ]]></mdc:title>
+<mdc:language>Bulgarian</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Gergana Foreva]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Radost Asenova]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Medical University]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Dora Edreva]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/doraed?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2011-01-25</mdc:created>
+<mdc:metadataCreated>2011-01-26</mdc:metadataCreated>
+<mdc:citation><![CDATA[Gergana Foreva, Radost Asenova, case study]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject942922393"><rdfs:label><![CDATA[General Practice ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1705986113"><rdfs:label><![CDATA[ hypertensive disease ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Decision making, differential diagnosis]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Word document]]></mdc:technicalDescription>
+<mdc:resourceType> Case study</mdc:resourceType>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline527971693"><rdfs:label><![CDATA[Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1182648480"><rdfs:label><![CDATA[General Practice, Internal medicine ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>Postgraduate students, MD, PhD</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[Postgraduates, MD, PhD]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[For self preparation, practical training, seminars for Undergraduates, Postgraduates, MD, PhD]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Acquiring knowledge and skills in General Practice]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Acquiring theoretical knowledge and practical skills]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[tests, examination]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[General Practice, Internal medicine]]></mdc:educationalPrerequisites>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Case hypertensive disease</mdc:title>
+<mdc:identifier>http://moodle-pld.co.cc/file.php/6/3_f.doc</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>additional information, complication, visualization - ECG</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>http://purl.org/meducator/repurposing#Different-Educational-Level</mdc:fromRepurposingContext>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>

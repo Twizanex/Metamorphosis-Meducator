@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2656">
+
+	 <mdc:identifier><![CDATA[http://www.hippokratia.gr/index.php/hippo/article/view/646/334]]></mdc:identifier> 
+<mdc:title><![CDATA[Legal Background of Aviation Medicine in Europe and its future development ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-No-Derivatives" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Siedenburg J]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/stathis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2008-09-24</mdc:created>
+<mdc:metadataCreated>2010-05-09</mdc:metadataCreated>
+<mdc:citation><![CDATA[Siedenburg J. Legal Background of Aviation Medicine in Europe and its future development. Hippokratia 2008; 12 (Suppl 1): 64-73]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1605431369"><rdfs:label><![CDATA[JAA (Joint Aviation Authorities) ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject897236500"><rdfs:label><![CDATA[ JARs (Joint Aviation Requirements) ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2120156820"><rdfs:label><![CDATA[ JAR-FCL 3 (Medical) ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1487343728"><rdfs:label><![CDATA[ aeromedical requirements ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1588297040"><rdfs:label><![CDATA[ rulemaking ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2108911575"><rdfs:label><![CDATA[ standardisation ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1084523092"><rdfs:label><![CDATA[ harmonisation ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1262417536"><rdfs:label><![CDATA[ EASA (European Aviation Safety Agency) ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject356578722"><rdfs:label><![CDATA[ transition ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[European aviation is moving into an exciting phase now, the administrative structure is changing. Aviation rules and aviation medicine will get a new structure as well. The nature of air traffic required an international scope in rulemaking â€“ especially in such a confined continent as Europe with 41 countries, about 380 Million inhabitants and 317 billion person kilometres flown each year. For economic reasons it became necessary to develop common standards for certification of aircraft in the beginning of the 1970ies, maintenance followed later on. The Cyprus arrangement of 01 July 1990 created the JAA (Joint Aviation Authorities). Joint Aviation Requirements were drafted to replace existing national provisions and have been implemented from the end of the 1990ies. The areas of air operations and pilot licensing have been covered as well. The latter comprises of aviation medicine as well. The implementation of JAR-FCL 3, which covers the medical requirements for pilots, started from 1999 on in the several JAA member states. A detailed verview about development and structure of JAA, tools for harmonisation, rulemaking and amendment of requirements, medical standards, review procedures for contentious or marginal cases is described.
+Shortcomings were the fact that implementation was left to the discretion of the member states and that JAA had no executive power. This resulted in differences in safety and the EU commission concluded that aviation safety had to be regulated by the EU commission. After adoption of EU regulation 1592/2002 in 2002 common and binding requirements were to be drafted and a European aviation agency to be founded. EASA (European Aviation Safety Agency) started its work in September 2003. Finally it will take over the role of JAA completely. Whereas Certification and Maintenance were in the focus first, Flight Operations and Licensing are going to be covered as well in the near future. Essential Requirements have been drafted, outlining â€“ inter alia - the scope of Licensing and of aeromedical aspects. However, the legislative process will most probably last at least until the end of 2007. Implementing Rules - being based on existing JAR-FCLs will be drafted soon and are going to be implemented as soon as EASA is operative for Licensing. JAR-FCL 3 will be the basis for the Implementing Rules concerning aeromedical fitness. An overview about the structure of the Agency, rulemaking procedures, philosophy of medical provisions and the transition from JAA to EASA is described.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[PDF]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#gameSeriousGame"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline1527142394"><rdfs:label><![CDATA[Aerospace Medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1695372031"><rdfs:label><![CDATA[all specialties ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>CME</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[In an aerospace medicine seminar information regarding legal background of aviation medicine in Europe and its future development can be given through this educational resource]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[self-learning]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[To be familiar with development and structure of JAA, tools for harmonisation, rulemaking and amendment of requirements, medical standards, review procedures for contentious or marginal cases is described.
+To identify the development of common European aviation provisions]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[To be able to use medical standards of JAR-FCL 3
+To distinguish EASA from JAA in terms of existance and resposibilities]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[multiple choice questions]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[no]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

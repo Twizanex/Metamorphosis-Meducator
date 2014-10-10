@@ -1,0 +1,7 @@
+Simply enable it to install.
+
+The 'User avatars' link will appear in the administration menu. There you can add a new avatars that users can use, and delete ones that already exist.
+
+User can chose the avatar from the public avatars on the 'edit profile icon' page, below the profile's icon. Once the pubilc avatar is chosen, it overrides the avatar uploaded by the user. If the user uploads the avatar for his profile again, the public avatar settings will be reset, and user will use the avatar he uploaded.
+
+Only the main site admin - the one who created the site - can upload new avatars.

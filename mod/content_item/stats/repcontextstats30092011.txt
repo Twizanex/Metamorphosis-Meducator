@@ -1,0 +1,389 @@
+GUID|GUIDP|REPD|REPC1|REPC2|REPC3|REPC4|REPC5|REPC6|REPC7|REPC8|REPC9|REPC10 
+838|15720|YES|Different Languages|Different Technology|Different Pedagogy|Different Cultures||||||
+973||||||||||||
+1104||||||||||||
+1146||||||||||||
+1160||||||||||||
+1220||||||||||||
+1227|1220|YES|Different Pedagogy|||||||||
+1234|1255|YES|Different Pedagogy|||||||||
+1255||||||||||||
+1328||||||||||||
+1384||||||||||||
+1403||||||||||||
+1410|1403|YES|Different Pedagogy|Different Content Types||||||||
+1419|1410|YES|Different Languages|||||||||
+1464||||||||||||
+1471|||Different Languages|Different Educational Level|Different Technology|Different Disciplines|Different Pedagogy|Different Content Types|Different Cultures|Different Abilities||
+1489||||||||||||
+1527||||||||||||
+1535||||||||||||
+1570||||||||||||
+1593|3402|||||||||||
+1608||||||||||||
+1615||||||||||||
+1638||||||||||||
+1659||||||||||||
+1666||||||||||||
+1680||||||||||||
+1687||||||||||||
+1694||||||||||||
+1708||||||||||||
+1715||||||||||||
+1722||||||||||||
+1761||||||||||||
+1768||||||||||||
+1775|1768||Different Educational Level|Different Technology|Different Pedagogy|Different Content Types||||||
+1775|1761||Different Educational Level|Different Technology|Different Pedagogy|Different Content Types||||||
+1782||||||||||||
+1796|1782|||||||||||
+1803||||||||||||
+1810||||||||||||
+1817||||||||||||
+1824||||||||||||
+1831|1817|||||||||||
+1838||||||||||||
+1845||||||||||||
+1852||||||||||||
+1859||||||||||||
+1866||||||||||||
+1873||||||||||||
+1880||||||||||||
+1887||||||||||||
+1894||||||||||||
+1901||||||||||||
+1908||||||||||||
+1944||||||||||||
+1951||||||||||||
+1958||||||||||||
+1969||||||||||||
+1976||||||||||||
+1983||||||||||||
+1990||||||||||||
+1997||||||||||||
+2004||||||||||||
+2011||||||||||||
+2018||||||||||||
+2025||||||||||||
+2032||||||||||||
+2045||||||||||||
+2052||||||||||||
+2059||||||||||||
+2066||||||||||||
+2073||||||||||||
+2101||||||||||||
+2108||||||||||||
+2115||||||||||||
+2122||||||||||||
+2130|15713|YES||||||||||
+2144||||||||||||
+2151||||||||||||
+2165|15706||Different Technology|Different Content Types|Different Abilities|||||||
+2172|15699||Different Technology|Different Content Types|Different Abilities|||||||
+2179|15692|YES||||||||||
+2186|15685||Different Technology|Different Content Types|Different Abilities|||||||
+2200||||||||||||
+2208|15678|YES|Different Educational Level|Different Disciplines|Different Pedagogy|Different Content Types|Different Abilities|||||
+2217||||||||||||
+2224|15671|YES|Different Educational Level|Different Disciplines|Different Pedagogy|Different Content Types||||||
+2231||||||||||||
+2238||||||||||||
+2245|1608|YES|Different Languages|Different Educational Level||||||||
+2252||||||||||||
+2259||||||||||||
+2266||||||||||||
+2273||||||||||||
+2280||||||||||||
+2287||||||||||||
+2294||||||||||||
+2302||||||||||||
+2309||||||||||||
+2316||||||||||||
+2323||||||||||||
+2330||||||||||||
+2337||||||||||||
+2344||||||||||||
+2351||||||||||||
+2358||||||||||||
+2365||||||||||||
+2372||||||||||||
+2379||||||||||||
+2386||||||||||||
+2393||||||||||||
+2401||||||||||||
+2415||YES|Different Languages|Different Pedagogy|Different Content Types|||||||
+2415|2979|YES|Different Languages|Different Pedagogy|Different Content Types|||||||
+2422||||||||||||
+2429|2379|||||||||||
+2436||||||||||||
+2448||||||||||||
+2464||||||||||||
+2471|2464|YES|Different Educational Level|Different Pedagogy||||||||
+2478||||||||||||
+2485|2478|YES|Different Languages|||||||||
+2492||||||||||||
+2499||||||||||||
+2506||||||||||||
+2513||||||||||||
+2520||||||||||||
+2527|2520|YES|Different Languages|Different Educational Level||||||||
+2534||||||||||||
+2541||||||||||||
+2548||||||||||||
+2555||||||||||||
+2562|1593|YES|Different Languages|Different Cultures||||||||
+2569||||||||||||
+2576||||||||||||
+2583||||||||||||
+2590|2583|YES|Different Technology|Different Content Types||||||||
+2597||||||||||||
+2604|2597|YES|Different Content Types|||||||||
+2611|2448|YES|Different Educational Level|Different Pedagogy||||||||
+2611|2738|YES|Different Educational Level|Different Pedagogy||||||||
+2618||||||||||||
+2625||||||||||||
+2632|2625|YES|Different Languages|Different Technology|Different Disciplines|Different Pedagogy|Different Content Types|||||
+2632|2618|YES|Different Languages|Different Technology|Different Disciplines|Different Pedagogy|Different Content Types|||||
+2639|2632|YES|Different Languages|Different Disciplines||||||||
+2647||||||||||||
+2656||||||||||||
+2665||||||||||||
+2672||||||||||||
+2681||||||||||||
+2688||||||||||||
+2717||||||||||||
+2724||||||||||||
+2731||||||||||||
+2738|2448|YES|Different Content Types|||||||||
+2745||||||||||||
+2752||||||||||||
+2759||||||||||||
+2766||||||||||||
+2773||||||||||||
+2780||||||||||||
+2787||||||||||||
+2794||||||||||||
+2801||||||||||||
+2815|2422|YES|Different Languages|Different Pedagogy|Different Cultures|||||||
+2822||||||||||||
+2829|1666|YES|Different Languages|Different Educational Level|Different Technology|Different Pedagogy|Different Cultures|||||
+2829|1659|YES|Different Languages|Different Educational Level|Different Technology|Different Pedagogy|Different Cultures|||||
+2836||||||||||||
+2979||||||||||||
+3032||||||||||||
+3146||||||||||||
+3153||||||||||||
+3160||||||||||||
+3167||||||||||||
+3176||||||||||||
+3183||||||||||||
+3190||||||||||||
+3204|15664|YES|http://purl.org/meducator/instances/|Different Educational Level|Different Technology|||||||
+3204|3248|YES|http://purl.org/meducator/instances/|Different Educational Level|Different Technology|||||||
+3215|15657|YES|http://purl.org/meducator/instances/|Different Educational Level|Different Technology|||||||
+3227|15650|YES|http://purl.org/meducator/instances/|Different Educational Level|Different Technology|||||||
+3227|3262|YES|http://purl.org/meducator/instances/|Different Educational Level|Different Technology|||||||
+3234|3473|YES|http://purl.org/meducator/instances/|Different Educational Level|Different Technology|||||||
+3234|15643|YES|http://purl.org/meducator/instances/|Different Educational Level|Different Technology|||||||
+3241||||||||||||
+3248||||||||||||
+3255||||||||||||
+3262||||||||||||
+3284||||||||||||
+3349|1969|YES|Different Pedagogy|||||||||
+3349|15636|YES|Different Pedagogy|||||||||
+3370|3716|YES|Different Languages|Different Cultures||||||||
+3377|3723|YES|Different Languages|Different Cultures||||||||
+3384|3730|YES|Different Languages|Different Cultures||||||||
+3391|3737|YES|Different Languages|Different Cultures||||||||
+3402||||||||||||
+3410|2562||Different Technology|Different Pedagogy|Different Content Types|||||||
+3410|1593||Different Technology|Different Pedagogy|Different Content Types|||||||
+3424||||||||||||
+3431|3424||Different Technology|||||||||
+3438||||||||||||
+3445||||||||||||
+3452|3445|||||||||||
+3473||||||||||||
+3480||||||||||||
+3487|3494|YES|http://purl.org/meducator/instances/|Different Educational Level|Different Technology|||||||
+3494||||||||||||
+3501|3716|||||||||||
+3508||||||||||||
+3515||||||||||||
+3522||||||||||||
+3533||||||||||||
+3540||||||||||||
+3547||||||||||||
+3554||||||||||||
+3565||||||||||||
+3572||||||||||||
+3579||||||||||||
+3586||||||||||||
+3608||||||||||||
+3615||||||||||||
+3622||||||||||||
+3629||||||||||||
+3647||||||||||||
+3654||||||||||||
+3661||||||||||||
+3668||||||||||||
+3695|3702|||||||||||
+3702|15629|YES|Different Disciplines|||||||||
+3709|15622|YES|http://purl.org/meducator/instances/|||||||||
+3716||||||||||||
+3723||||||||||||
+3730||||||||||||
+3737||||||||||||
+3748||||||||||||
+3755||||||||||||
+3762||||||||||||
+3769||||||||||||
+3804||||||||||||
+3811||||||||||||
+3818||||||||||||
+3825||||||||||||
+3836||||||||||||
+3843||||||||||||
+3850||||||||||||
+3857||||||||||||
+3868||||||||||||
+3875||||||||||||
+3882||||||||||||
+3889||||||||||||
+3934||||||||||||
+3941||||||||||||
+3948||||||||||||
+3955||||||||||||
+3966||||||||||||
+3973||||||||||||
+3980||||||||||||
+3990||||||||||||
+3997||||||||||||
+4004||||||||||||
+4011||||||||||||
+4022||||||||||||
+4029||||||||||||
+4036||||||||||||
+4043||||||||||||
+4150||||||||||||
+4157||||||||||||
+4164||||||||||||
+4171||||||||||||
+4178||||||||||||
+4185||||||||||||
+4192||||||||||||
+4199||||||||||||
+4206||||||||||||
+4213||||||||||||
+4220||||||||||||
+4227||||||||||||
+4234||||||||||||
+4241||||||||||||
+4248||||||||||||
+4255||||||||||||
+4262||||||||||||
+4269||||||||||||
+4276|15615||Different Languages|Different Technology||||||||
+4276|4220||Different Languages|Different Technology||||||||
+4283|4227||Different Languages|Different Technology||||||||
+4290||||||||||||
+4297|4241|YES|Different Languages|Different Technology||||||||
+4297|4234|YES|Different Languages|Different Technology||||||||
+4304|4248|YES|Different Languages|Different Technology||||||||
+4311|4255|YES|Different Languages|Different Technology||||||||
+4318|4262|YES|Different Languages|Different Technology||||||||
+4325|4269|YES|Different Languages|Different Technology||||||||
+4332||||||||||||
+4339||||||||||||
+4346||||||||||||
+4353||||||||||||
+4360|4332|YES|Different Languages|Different Technology||||||||
+4367|4339|YES|Different Languages|Different Technology||||||||
+4374|4346|YES|Different Languages|Different Technology||||||||
+4381|4353|YES|Different Languages|Different Technology||||||||
+4388||||||||||||
+4395|4388|YES|Different Languages|Different Technology||||||||
+4402|4388|YES|Different Languages|Different Technology||||||||
+4409|4388|YES|Different Languages|Different Technology||||||||
+4416|4423|YES|Different Languages|Different Technology||||||||
+4423||||||||||||
+4430||||||||||||
+4437||||||||||||
+4444|4430|YES|Different Languages|Different Technology||||||||
+4451|4437|YES|Different Languages|Different Technology||||||||
+4458||||||||||||
+4465||||||||||||
+4472||||||||||||
+4479||||||||||||
+4486|4458|YES|Different Languages|Different Technology||||||||
+4493|4465|YES|Different Languages|Different Technology||||||||
+4500|4472|YES|Different Languages|Different Technology||||||||
+4507|4479|YES|Different Languages|Different Technology||||||||
+4568||||||||||||
+4575||||||||||||
+4582||||||||||||
+4589||||||||||||
+4596||||||||||||
+4603||||||||||||
+4610||||||||||||
+4633|1403|YES|Different Languages|||||||||
+4640|1403|YES|Different Languages|||||||||
+4799||||||||||||
+4813||||||||||||
+4820||||||||||||
+4827||||||||||||
+4865||||||||||||
+4873||||||||||||
+5476||||||||||||
+5483||||||||||||
+5490||||||||||||
+5497||||||||||||
+5504||||||||||||
+5511||||||||||||
+5518||||||||||||
+5539||||||||||||
+5554|5539|YES|Different Educational Level|||||||||
+5561||||||||||||
+5568|5561|YES|Different Educational Level|||||||||
+5575||||||||||||
+5582|5575|YES|Different Educational Level|||||||||
+5589||||||||||||
+5596|5589|YES|Different Educational Level|||||||||
+5603||||||||||||
+5610|5603|YES|Different Educational Level|||||||||
+5617||||||||||||
+5624|5617|YES|Different Educational Level|||||||||
+5631||||||||||||
+5638|5631|YES|Different Educational Level|||||||||
+5645||||||||||||
+5652|5645|YES|Different Educational Level|||||||||
+8163||||||||||||
+11464||||||||||||
+12246||||||||||||
+12253||||||||||||
+12715||||||||||||
+12736||||||||||||
+15209||||||||||||
+15608||||||||||||
+15615||||||||||||
+15622||||||||||||
+15629||||||||||||
+15636||||||||||||
+15643||||||||||||
+15650||||||||||||
+15657||||||||||||
+15664||||||||||||
+15671||||||||||||
+15678||||||||||||
+15685||||||||||||
+15692||||||||||||
+15699||||||||||||
+15706||||||||||||
+15713||||||||||||
+15720||||||||||||
+21804||||||||||||
+42370||||||||||||
+42377||||||||||||
+42384||||||||||||
+42391||||||||||||

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2151">
+
+	 <mdc:identifier><![CDATA[http://www.hippokratia.gr/index.php/hippo/article/view/638/326]]></mdc:identifier> 
+<mdc:title><![CDATA[Informatics-based Medical Procedure Assistance during Space Missions ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-No-Derivatives" />
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Iyengar MS]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Carruth TN.]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ Florez-Arango J.]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[ AND Dunn K.]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Stathis Konstantinidis]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/stathis?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2008-09-24</mdc:created>
+<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+<mdc:citation><![CDATA[Iyengar MS, Carruth TN., Florez-Arango J., AND Dunn K.. Informatics-based Medical Procedure Assistance during Space Missions. Hippokratia 2008: 12 (Suppl 1): 23-27]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1550690308"><rdfs:label><![CDATA[Space ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject486530139"><rdfs:label><![CDATA[ Decompression Sickness ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject20934080"><rdfs:label><![CDATA[ Clinical guidelines ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1887049150"><rdfs:label><![CDATA[ multimodal ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1694999545"><rdfs:label><![CDATA[ GuideView ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Currently, paper-based and/or electronic together with telecommunications links to Earth-based physicians are used to assist astronaut crews perform diagnosis and treatment of medical conditions during space travel. However, these have limitations, especially during long duration missions in which telecommunications to earth-based physicians can be delayed. In this content item described an experimental technology called GuideView in which clinical guidelines are presented in a structured, interactive, multi-modal format and, in each step, clinical instructions are provided simultaneously in voice, text, pictures video or animations. An example application of the system to diagnosis and treatment of space Decompression Sickness is presented. Astronauts performing space walks from the International Space Station are at risk for decompression sickness because the atmospheric pressure of the Extra-vehicular Activity space- suit is significantly less that of the interior of the Station.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[PDF reader is required]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#scientificJournalArticle"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline234879508"><rdfs:label><![CDATA[Aerospace medicine ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:disciplineSpeciality><mdc:DisciplineSpeciality rdf:about="http://meducator.open.ac.uk/metamorphosis#speciality1795454862"><rdfs:label><![CDATA[all specialties ]]></rdfs:label></mdc:DisciplineSpeciality></mdc:disciplineSpeciality> 
+<mdc:educationalLevel>Medical students</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[This content item can enable Medical Students in case-based learning by the use of an informatics-based technology, so called GuideView.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[Reading of the paper and arguing in some key points of the paper. Necessity of internet based medical system. Analysis of medical cases, and creation of a case, that can be used from a non physician.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[To identify the needs of an informatics-based technology designed to aid CMOs and other non-physician astronauts to perform medical tasks.
+Arguing the web-based system
+To identify emergency situations and planning their care within GuideView]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[To use the GuideView in order to learn new medical information.(Medical Students)
+To be able to create GuideView compatible multi-modal structured guidelines (called â€˜guideviewsâ€™). (Medical Teachers)
+To understand a patient problem and to be able to explain and chat in simple words about a medical case.]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[Creation of a case with GuideView and testing the created scenarios between trainee.]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[Basic knowledge of PC use and advanced level in a particular specialty]]></mdc:educationalPrerequisites>
+</mdc:Resource></rdf:RDF>

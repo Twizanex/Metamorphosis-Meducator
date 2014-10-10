@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#2108">
+
+	 <mdc:identifier><![CDATA[http://www.medal.org/visitor/www%5CFiles%5CSheets%5Cch29%5Cknee%20dislocation%20KD%20Wascher%5Cknee%20dislocation%20KD%20Wascher.aspx]]></mdc:identifier> 
+<mdc:title><![CDATA[Wascher based a classification of knee dislocation on the high-velocity injury to the knee ligaments ]]></mdc:title>
+<mdc:rights><![CDATA[ written permission to mEducator from the Institute of Algorithmic Medicine]]></mdc:rights>
+<mdc:language>English</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Institute of Algorithmic Medicine]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Charalampos Bratsas]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/Bratsas?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-05-06</mdc:created>
+<mdc:metadataCreated>2010-05-06</mdc:metadataCreated>
+<mdc:citation><![CDATA[]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1631539716"><rdfs:label><![CDATA[knee dislocation ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject683623083"><rdfs:label><![CDATA[ classification ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1778569757"><rdfs:label><![CDATA[ high-velocity injury ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1971581292"><rdfs:label><![CDATA[ knee ligaments ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[]]></mdc:description>
+<mdc:technicalDescription><![CDATA[in order to access the URL of the algorithm you need to register (free) in the following URL http://www.medal.org]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#diagnosticAlgorithm"/>
+<mdc:educationalLevel>post graduate</mdc:educationalLevel>
+<mdc:teachingLearningInstructions><![CDATA[This algorithm can be implemented in patient cases with high velocity injury to their knee to demonstrate the severity level of their injury and help the decision of appropriate therapeutic  options]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[To classify a high-velocity knee dislocation using the anatomic classification scheme of Wascher.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[management of knee injuries in an advanced orthopaedic setting.]]></mdc:educationalOutcomes>
+</mdc:Resource></rdf:RDF>

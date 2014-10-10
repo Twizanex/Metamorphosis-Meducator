@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rdf:RDF xml:base="http://purl.org/meducator/instances/" 
+ xmlns:mdc="http://www.purl.org/meducator/ns/" 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:dcterms="http://purl.org/dc/terms/" 
+ xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+ xmlns:owl="http://www.w3.org/2002/07/owl#" 
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+ xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+ xmlns:sioc="http://rdfs.org/sioc/ns#" 
+ xmlns:skos="http://www.w3.org/2009/08/skos-reference/skos.rdf" 
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <mdc:Resource rdf:about="http://metamorphosis.med.duth.gr/uid#4633">
+
+	 <mdc:identifier><![CDATA[http://sgi-proj-001.cueltd.net/CHI/chi.html#data=dataFR.xml]]></mdc:identifier> 
+<mdc:title><![CDATA[Climate Health Impact French version ]]></mdc:title>
+<mdc:rights rdf:resource="http://purl.org/meducator/licenses#Attribution-Non-Commercial-No-Derivatives" />
+<mdc:language>French</mdc:language>
+<mdc:metadataLanguage>English</mdc:metadataLanguage>
+<mdc:creator> 
+ <foaf:Person> 
+ <foaf:name><![CDATA[Serious Games Institute]]></foaf:name> 
+ </foaf:Person> 
+  </mdc:creator> 
+	<mdc:metadataCreator> <foaf:Person>
+			 <foaf:name><![CDATA[Aristidis Protopsaltis]]></foaf:name>
+			 <mdc:profileURI>http://metamorphosis.med.duth.gr/pg/profile/Aristos?view=foaf </mdc:profileURI>
+		   </foaf:Person>
+		</mdc:metadataCreator><mdc:created>2010-08-23</mdc:created>
+<mdc:metadataCreated>2010-09-23</mdc:metadataCreated>
+<mdc:citation><![CDATA[SGI (2010). Climate Health Impact French version. URL, date of access]]></mdc:citation>
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1446287415"><rdfs:label><![CDATA[serious game ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject594851090"><rdfs:label><![CDATA[ climate change ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2098874474"><rdfs:label><![CDATA[ diseases ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1865505245"><rdfs:label><![CDATA[ A-levels ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject665681868"><rdfs:label><![CDATA[ biology ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject581868362"><rdfs:label><![CDATA[ Malaria ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1886619051"><rdfs:label><![CDATA[ Dengue fever ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject197076683"><rdfs:label><![CDATA[ Plague ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject2010057623"><rdfs:label><![CDATA[ Lyme Disease ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject952340158"><rdfs:label><![CDATA[ Trypanosomiasis ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1989925894"><rdfs:label><![CDATA[ Bluetongue ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject575013561"><rdfs:label><![CDATA[ Leishmaniasis ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1048179102"><rdfs:label><![CDATA[ Cholera ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject376227695"><rdfs:label><![CDATA[ Meningitis ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject386357645"><rdfs:label><![CDATA[ Tuberculosis ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1627419932"><rdfs:label><![CDATA[ Depression/Stress ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject609885198"><rdfs:label><![CDATA[ Heatstroke ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject957742661"><rdfs:label><![CDATA[ Skin Cancer ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:subject><mdc:Subject rdf:about="http://meducator.open.ac.uk/metamorphosis#subject1992338513"><rdfs:label><![CDATA[ Malnutrition ]]></rdfs:label></mdc:Subject></mdc:subject> 
+<mdc:description><![CDATA[Game objectives:
+- Develop understanding of the need to consider and research the interactions between global warming and human health
+- To realise the importance of researching diseases to reduce human suffering
+- To understand that countries have to implement changes in order to adapt to the effects of global warming in relation to human health and disease
+- To raise awareness of the present and future social impacts of biomedical research and development in the context of global warming.]]></mdc:description>
+<mdc:technicalDescription><![CDATA[Materials and equipment required
+- Access to a computer
+- Web browser + Adobe Flash plugin
+- Access to the game via the internet (no login or download necessary).]]></mdc:technicalDescription>
+<mdc:resourceType rdf:resource="http://purl.org/meducator/resourceType#gameSeriousGame"/>
+<mdc:discipline><mdc:Discipline rdf:about="http://meducator.open.ac.uk/metamorphosis#discipline906334485"><rdfs:label><![CDATA[Biology ]]></rdfs:label></mdc:Discipline></mdc:discipline> 
+<mdc:educationalLevel>A levels</mdc:educationalLevel>
+<mdc:educationalContext><![CDATA[School classroom or home.]]></mdc:educationalContext>
+<mdc:teachingLearningInstructions><![CDATA[(10 minutes)
+Introduce the activity. Within the simulation the student is in charge of all medical and research decisions throughout the time span in relation to the effects of climate change as the game progresses. This happens over a number of years and the final result is based on the studentâ€™s ability to prevent global climate crisis (casualties, disease outbreaks etc). Students will do this by researching various diseases that may be spread as the result of global warming. They will make decisions on how to improve medical facilities and set policies for adapting to better cope with the changing climate and the devastating effects it could bring. There are options to research specific diseases and learn their causes and effects, and learn how they can be dealt with or prevented.
+
+(40 minutes)
+The student would be able to repeat the process several times as the effects of the game are different on each turn. This way they will be able to analyse and understand the difficulty of disease prevention within a rapidly changing climate.
+
+(10 minutes)
+After students have completed the game, organise them into small groups to discuss what they have learned and what they think needs to be done to combat the health impacts of climate change. This will link into the homework activity.]]></mdc:teachingLearningInstructions>
+<mdc:educationalObjectives><![CDATA[Aims
+- To raise awareness of the present and future social impacts of biomedical research and development in the context of global warming
+- To develop understanding of the need to consider and research the interactions between global warming and human health.
+
+Lesson objectives
+- To look at how the health of the world population may change over time due to global warming
+- To research a range of diseases and learn a little bit about them
+- To understand that countries have to implement changes in order to adapt to the effects of global warming in relation to human health and disease
+- To realise the importance of researching diseases to reduce human suffering.]]></mdc:educationalObjectives>
+<mdc:educationalOutcomes><![CDATA[Learning outcomes:
+- All pupils will be able to play the simulation and comment on how their choices affected the health of the world's population
+- Most pupils will be able to understand that diseases are not necessarily restricted by geographical boundaries
+- Pupils will learn about the implication and the needs for advances in biomedicine to minimise human suffering.]]></mdc:educationalOutcomes>
+<mdc:assessmentMethods><![CDATA[- Feedback from the game
+- Discussion (if in classroom)
+- Multiple choice questions about the diseases
+- Short-essay questions]]></mdc:assessmentMethods>
+<mdc:educationalPrerequisites><![CDATA[GCSE Biology]]></mdc:educationalPrerequisites>
+<mdc:hasRepurposingContext>
+<mdc:RepurposingContext>
+<mdc:repurposedFrom>
+<mdc:RepurposingParent>
+<mdc:title>Climate Health Impact</mdc:title>
+<mdc:identifier>http://playgen.com/climate-health-impact/</mdc:identifier>
+</mdc:RepurposingParent>
+</mdc:repurposedFrom>
+<mdc:repurposingDescription>Repurposing the CHI game to the French language</mdc:repurposingDescription>
+<mdc:fromRepurposingContext>http://purl.org/meducator/repurposing#Different-Languages</mdc:fromRepurposingContext>
+</mdc:RepurposingContext>
+</mdc:hasRepurposingContext>
+</mdc:Resource></rdf:RDF>
